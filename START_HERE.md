@@ -1,7 +1,7 @@
 # ICDO32 Full-Catalog Execution — Fresh Session Kickoff
 
 **This directory is a self-contained handoff.** Start a NEW Perplexity Computer
-session, attach this folder (or the `icdo32_execution.zip`), and follow the steps
+session, attach this folder (or the `archive/icdo32_execution.zip`), and follow the steps
 below. The digestive/GI wave is already done and pre-loaded — you do **not**
 re-research it.
 
