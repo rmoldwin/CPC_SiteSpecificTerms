@@ -1,0 +1,550 @@
+[
+ {
+  "code": "9080/3",
+  "term": "Teratoma, postpubertal-type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic germ-cell/teratoma/mixed germ-cell or multi-site sarcoma descriptor with no literature evidence restricting it to a proper subset of the code's validated sites; entity occurs across essentially all sites in the ceiling (gonadal and extragonadal midline germ-cell sites, or multi-site soft tissue/bone/visceral for EHE and osteosarcoma).",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9084/3",
+  "term": "Dermoid cyst with malignant transformation",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic germ-cell/teratoma/mixed germ-cell or multi-site sarcoma descriptor with no literature evidence restricting it to a proper subset of the code's validated sites; entity occurs across essentially all sites in the ceiling (gonadal and extragonadal midline germ-cell sites, or multi-site soft tissue/bone/visceral for EHE and osteosarcoma).",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9084/3",
+  "term": "Dermoid cyst with secondary tumor",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic germ-cell/teratoma/mixed germ-cell or multi-site sarcoma descriptor with no literature evidence restricting it to a proper subset of the code's validated sites; entity occurs across essentially all sites in the ceiling (gonadal and extragonadal midline germ-cell sites, or multi-site soft tissue/bone/visceral for EHE and osteosarcoma).",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9084/3",
+  "term": "Germ cell tumor with somatic-type solid malignancy",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic germ-cell/teratoma/mixed germ-cell or multi-site sarcoma descriptor with no literature evidence restricting it to a proper subset of the code's validated sites; entity occurs across essentially all sites in the ceiling (gonadal and extragonadal midline germ-cell sites, or multi-site soft tissue/bone/visceral for EHE and osteosarcoma).",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9084/3",
+  "term": "Immature teratoma with somatic type malignancy",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic germ-cell/teratoma/mixed germ-cell or multi-site sarcoma descriptor with no literature evidence restricting it to a proper subset of the code's validated sites; entity occurs across essentially all sites in the ceiling (gonadal and extragonadal midline germ-cell sites, or multi-site soft tissue/bone/visceral for EHE and osteosarcoma).",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9084/3",
+  "term": "Mature teratoma with somatic type malignancy",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic germ-cell/teratoma/mixed germ-cell or multi-site sarcoma descriptor with no literature evidence restricting it to a proper subset of the code's validated sites; entity occurs across essentially all sites in the ceiling (gonadal and extragonadal midline germ-cell sites, or multi-site soft tissue/bone/visceral for EHE and osteosarcoma).",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9084/3",
+  "term": "Neuroectodermal-type tumors",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic germ-cell/teratoma/mixed germ-cell or multi-site sarcoma descriptor with no literature evidence restricting it to a proper subset of the code's validated sites; entity occurs across essentially all sites in the ceiling (gonadal and extragonadal midline germ-cell sites, or multi-site soft tissue/bone/visceral for EHE and osteosarcoma).",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9084/3",
+  "term": "Somatic neoplasm arising from teratoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic germ-cell/teratoma/mixed germ-cell or multi-site sarcoma descriptor with no literature evidence restricting it to a proper subset of the code's validated sites; entity occurs across essentially all sites in the ceiling (gonadal and extragonadal midline germ-cell sites, or multi-site soft tissue/bone/visceral for EHE and osteosarcoma).",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9084/3",
+  "term": "Somatic neoplasms arising from teratomas",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic germ-cell/teratoma/mixed germ-cell or multi-site sarcoma descriptor with no literature evidence restricting it to a proper subset of the code's validated sites; entity occurs across essentially all sites in the ceiling (gonadal and extragonadal midline germ-cell sites, or multi-site soft tissue/bone/visceral for EHE and osteosarcoma).",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9084/3",
+  "term": "Somatic-type tumor derived from teratoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic germ-cell/teratoma/mixed germ-cell or multi-site sarcoma descriptor with no literature evidence restricting it to a proper subset of the code's validated sites; entity occurs across essentially all sites in the ceiling (gonadal and extragonadal midline germ-cell sites, or multi-site soft tissue/bone/visceral for EHE and osteosarcoma).",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9084/3",
+  "term": "Teratoma with carcinoid (neuroendocrine tumor)",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic germ-cell/teratoma/mixed germ-cell or multi-site sarcoma descriptor with no literature evidence restricting it to a proper subset of the code's validated sites; entity occurs across essentially all sites in the ceiling (gonadal and extragonadal midline germ-cell sites, or multi-site soft tissue/bone/visceral for EHE and osteosarcoma).",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9084/3",
+  "term": "Teratoma with malignant transformation",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic germ-cell/teratoma/mixed germ-cell or multi-site sarcoma descriptor with no literature evidence restricting it to a proper subset of the code's validated sites; entity occurs across essentially all sites in the ceiling (gonadal and extragonadal midline germ-cell sites, or multi-site soft tissue/bone/visceral for EHE and osteosarcoma).",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9084/3",
+  "term": "Teratoma with secondary malignant component",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic germ-cell/teratoma/mixed germ-cell or multi-site sarcoma descriptor with no literature evidence restricting it to a proper subset of the code's validated sites; entity occurs across essentially all sites in the ceiling (gonadal and extragonadal midline germ-cell sites, or multi-site soft tissue/bone/visceral for EHE and osteosarcoma).",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9084/3",
+  "term": "Teratoma with somatic-type malignancy",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic germ-cell/teratoma/mixed germ-cell or multi-site sarcoma descriptor with no literature evidence restricting it to a proper subset of the code's validated sites; entity occurs across essentially all sites in the ceiling (gonadal and extragonadal midline germ-cell sites, or multi-site soft tissue/bone/visceral for EHE and osteosarcoma).",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9084/3",
+  "term": "Testicular neuroendocrine tumor, prepubertal-type",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C620",
+   "C621",
+   "C629"
+  ],
+  "site_subset_labels": [
+   "Undescended testis",
+   "Descended testis",
+   "Testis NOS"
+  ],
+  "rationale": "WHO 5th ed classifies 'prepubertal-type testicular neuroendocrine tumour' as a testis-specific germ-cell-derived entity (a specialized form of prepubertal-type teratoma arising in the testis); it is a named testicular tumour, restricting it to testis within the broad germ-cell ceiling.",
+  "source": "https://onlinelibrary.wiley.com/doi/10.1111/his.14675",
+  "source_name": "WHO 5th ed testicular tumours (Histopathology, Wiley) \u2014 'prepubertal type testicular neuroendocrine tumour'"
+ },
+ {
+  "code": "9084/3",
+  "term": "Well-differentiated neuroendocrine tumor (monodermal teratoma)",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C569",
+   "C620",
+   "C621",
+   "C629"
+  ],
+  "site_subset_labels": [
+   "Ovary",
+   "Undescended testis",
+   "Descended testis",
+   "Testis NOS"
+  ],
+  "rationale": "Well-differentiated neuroendocrine tumour arising as a monodermal teratoma (carcinoid) is a gonadal germ-cell entity: most commonly ovarian (struma/strumal carcinoid) and testicular (prepubertal-type). It is restricted to the gonads within the broad germ-cell ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11238806/",
+  "source_name": "Monodermal teratoma review (World J Clin Cases) \u2014 most common in ovaries, followed by testes"
+ },
+ {
+  "code": "9085/3",
+  "term": "Diffuse embryoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic germ-cell/teratoma/mixed germ-cell or multi-site sarcoma descriptor with no literature evidence restricting it to a proper subset of the code's validated sites; entity occurs across essentially all sites in the ceiling (gonadal and extragonadal midline germ-cell sites, or multi-site soft tissue/bone/visceral for EHE and osteosarcoma).",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9085/3",
+  "term": "Malignant mixed germ cell tumors",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic germ-cell/teratoma/mixed germ-cell or multi-site sarcoma descriptor with no literature evidence restricting it to a proper subset of the code's validated sites; entity occurs across essentially all sites in the ceiling (gonadal and extragonadal midline germ-cell sites, or multi-site soft tissue/bone/visceral for EHE and osteosarcoma).",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9085/3",
+  "term": "Mixed germ cell tumor",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic germ-cell/teratoma/mixed germ-cell or multi-site sarcoma descriptor with no literature evidence restricting it to a proper subset of the code's validated sites; entity occurs across essentially all sites in the ceiling (gonadal and extragonadal midline germ-cell sites, or multi-site soft tissue/bone/visceral for EHE and osteosarcoma).",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9085/3",
+  "term": "Mixed germ cell tumor consisting of germinoma or teratoma with a small portion of malignant element",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic germ-cell/teratoma/mixed germ-cell or multi-site sarcoma descriptor with no literature evidence restricting it to a proper subset of the code's validated sites; entity occurs across essentially all sites in the ceiling (gonadal and extragonadal midline germ-cell sites, or multi-site soft tissue/bone/visceral for EHE and osteosarcoma).",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9085/3",
+  "term": "Mixed germ cell tumors",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic germ-cell/teratoma/mixed germ-cell or multi-site sarcoma descriptor with no literature evidence restricting it to a proper subset of the code's validated sites; entity occurs across essentially all sites in the ceiling (gonadal and extragonadal midline germ-cell sites, or multi-site soft tissue/bone/visceral for EHE and osteosarcoma).",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9085/3",
+  "term": "Mixed germinoma and teratoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic germ-cell/teratoma/mixed germ-cell or multi-site sarcoma descriptor with no literature evidence restricting it to a proper subset of the code's validated sites; entity occurs across essentially all sites in the ceiling (gonadal and extragonadal midline germ-cell sites, or multi-site soft tissue/bone/visceral for EHE and osteosarcoma).",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9085/3",
+  "term": "Mixed teratoma and seminoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic germ-cell/teratoma/mixed germ-cell or multi-site sarcoma descriptor with no literature evidence restricting it to a proper subset of the code's validated sites; entity occurs across essentially all sites in the ceiling (gonadal and extragonadal midline germ-cell sites, or multi-site soft tissue/bone/visceral for EHE and osteosarcoma).",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9085/3",
+  "term": "Mixed teratoma and yolk sac tumor, prepubertal-type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic germ-cell/teratoma/mixed germ-cell or multi-site sarcoma descriptor with no literature evidence restricting it to a proper subset of the code's validated sites; entity occurs across essentially all sites in the ceiling (gonadal and extragonadal midline germ-cell sites, or multi-site soft tissue/bone/visceral for EHE and osteosarcoma).",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9085/3",
+  "term": "Mixed teratoma and yolk-sac tumor",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic germ-cell/teratoma/mixed germ-cell or multi-site sarcoma descriptor with no literature evidence restricting it to a proper subset of the code's validated sites; entity occurs across essentially all sites in the ceiling (gonadal and extragonadal midline germ-cell sites, or multi-site soft tissue/bone/visceral for EHE and osteosarcoma).",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9085/3",
+  "term": "Mixed teratoma-yolk sac tumor, prepubertal-type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic germ-cell/teratoma/mixed germ-cell or multi-site sarcoma descriptor with no literature evidence restricting it to a proper subset of the code's validated sites; entity occurs across essentially all sites in the ceiling (gonadal and extragonadal midline germ-cell sites, or multi-site soft tissue/bone/visceral for EHE and osteosarcoma).",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9085/3",
+  "term": "Mixed teratoma\u2013yolk sac tumor",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic germ-cell/teratoma/mixed germ-cell or multi-site sarcoma descriptor with no literature evidence restricting it to a proper subset of the code's validated sites; entity occurs across essentially all sites in the ceiling (gonadal and extragonadal midline germ-cell sites, or multi-site soft tissue/bone/visceral for EHE and osteosarcoma).",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9085/3",
+  "term": "Mixed tumor consisting mainly of choriocarcinoma, embryonal carcinoma, or yolk sac tumor",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic germ-cell/teratoma/mixed germ-cell or multi-site sarcoma descriptor with no literature evidence restricting it to a proper subset of the code's validated sites; entity occurs across essentially all sites in the ceiling (gonadal and extragonadal midline germ-cell sites, or multi-site soft tissue/bone/visceral for EHE and osteosarcoma).",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9133/3",
+  "term": "Epithelioid hemangioendothelioma with WWTR1-CAMTA1 fusion",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Epithelioid hemangioendothelioma (all molecular subtypes and NOS/malignant) arises across many anatomic sites \u2014 liver, lung, bone, and soft tissue of head/neck, trunk and extremities, plus skin and heart \u2014 spanning essentially the entire code ceiling; not restricted to a proper subset.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/24986479/",
+  "source_name": "Sardaro/Errani-type series; PMID 24986479 \u2014 EHE occurs at various anatomic sites (soft tissue, bone, lung, liver)"
+ },
+ {
+  "code": "9133/3",
+  "term": "Epithelioid hemangioendothelioma with WWTR1::CAMTA1 fusion",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Epithelioid hemangioendothelioma (all molecular subtypes and NOS/malignant) arises across many anatomic sites \u2014 liver, lung, bone, and soft tissue of head/neck, trunk and extremities, plus skin and heart \u2014 spanning essentially the entire code ceiling; not restricted to a proper subset.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/24986479/",
+  "source_name": "Sardaro/Errani-type series; PMID 24986479 \u2014 EHE occurs at various anatomic sites (soft tissue, bone, lung, liver)"
+ },
+ {
+  "code": "9133/3",
+  "term": "Epithelioid hemangioendothelioma with YAP1-TFE3 fusion",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Epithelioid hemangioendothelioma (all molecular subtypes and NOS/malignant) arises across many anatomic sites \u2014 liver, lung, bone, and soft tissue of head/neck, trunk and extremities, plus skin and heart \u2014 spanning essentially the entire code ceiling; not restricted to a proper subset.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/24986479/",
+  "source_name": "Sardaro/Errani-type series; PMID 24986479 \u2014 EHE occurs at various anatomic sites (soft tissue, bone, lung, liver)"
+ },
+ {
+  "code": "9133/3",
+  "term": "Epithelioid hemangioendothelioma with YAP1::TFE3 fusion",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Epithelioid hemangioendothelioma (all molecular subtypes and NOS/malignant) arises across many anatomic sites \u2014 liver, lung, bone, and soft tissue of head/neck, trunk and extremities, plus skin and heart \u2014 spanning essentially the entire code ceiling; not restricted to a proper subset.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/24986479/",
+  "source_name": "Sardaro/Errani-type series; PMID 24986479 \u2014 EHE occurs at various anatomic sites (soft tissue, bone, lung, liver)"
+ },
+ {
+  "code": "9133/3",
+  "term": "Epithelioid hemangioendothelioma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Epithelioid hemangioendothelioma (all molecular subtypes and NOS/malignant) arises across many anatomic sites \u2014 liver, lung, bone, and soft tissue of head/neck, trunk and extremities, plus skin and heart \u2014 spanning essentially the entire code ceiling; not restricted to a proper subset.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/24986479/",
+  "source_name": "Sardaro/Errani-type series; PMID 24986479 \u2014 EHE occurs at various anatomic sites (soft tissue, bone, lung, liver)"
+ },
+ {
+  "code": "9133/3",
+  "term": "Epithelioid hemangioendothelioma, malignant",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Epithelioid hemangioendothelioma (all molecular subtypes and NOS/malignant) arises across many anatomic sites \u2014 liver, lung, bone, and soft tissue of head/neck, trunk and extremities, plus skin and heart \u2014 spanning essentially the entire code ceiling; not restricted to a proper subset.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/24986479/",
+  "source_name": "Sardaro/Errani-type series; PMID 24986479 \u2014 EHE occurs at various anatomic sites (soft tissue, bone, lung, liver)"
+ },
+ {
+  "code": "9133/3",
+  "term": "Intravascular bronchial alveolar tumor",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349"
+  ],
+  "site_subset_labels": [
+   "Main bronchus",
+   "Upper lobe lung",
+   "Middle lobe lung",
+   "Lower lobe lung",
+   "Overlapping lung",
+   "Lung NOS"
+  ],
+  "rationale": "Intravascular bronchioloalveolar tumor (IVBAT) is the historical name for pulmonary epithelioid hemangioendothelioma \u2014 a tumour defined specifically in the lung. The term restricts the entity to lung within the multi-site EHE ceiling.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/6282146/",
+  "source_name": "Bhagavan et al., IVBAT: low-grade sclerosing angiosarcoma of lung (PubMed PMID 6282146)"
+ },
+ {
+  "code": "9133/3",
+  "term": "Intravascular bronchioloalveolar tumor",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349"
+  ],
+  "site_subset_labels": [
+   "Main bronchus",
+   "Upper lobe lung",
+   "Middle lobe lung",
+   "Lower lobe lung",
+   "Overlapping lung",
+   "Lung NOS"
+  ],
+  "rationale": "Intravascular bronchioloalveolar tumor (IVBAT) is the historical name for pulmonary epithelioid hemangioendothelioma \u2014 a tumour defined specifically in the lung. The term restricts the entity to lung within the multi-site EHE ceiling.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/6282146/",
+  "source_name": "Bhagavan et al., IVBAT: low-grade sclerosing angiosarcoma of lung (PubMed PMID 6282146)"
+ },
+ {
+  "code": "9137/3",
+  "term": "Intimal sarcoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C380",
+   "C493",
+   "C494"
+  ],
+  "site_subset_labels": [
+   "Heart",
+   "Connective/soft tissue thorax",
+   "Connective/soft tissue abdomen"
+  ],
+  "rationale": "Intimal sarcoma is defined as arising within the lumen of large vessels of the pulmonary (pulmonary artery -> thorax C493) or systemic circulation (thoracic aorta C493 / abdominal aorta C494) or within the heart cavities (C380). It is restricted to great-vessel/cardiac sites, not the general limb/pelvic soft tissue in the ceiling.",
+  "source": "https://curesarcoma.org/sarcoma-subtypes/intimal-sarcoma/",
+  "source_name": "Sarcoma Foundation of America / WHO \u2014 intimal sarcoma essential criteria (large vessels of pulmonary/systemic circulation or heart)"
+ },
+ {
+  "code": "9137/3",
+  "term": "Pulmonary artery intimal sarcoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C380",
+   "C493"
+  ],
+  "site_subset_labels": [
+   "Heart",
+   "Connective/soft tissue thorax"
+  ],
+  "rationale": "Pulmonary artery intimal sarcoma is restricted to the pulmonary artery/pulmonary trunk (coded to thorax connective tissue C493 per SEER) and may involve cardiac structures/right ventricular outflow (C380). It does not occur at the limb/pelvic/abdominal soft-tissue sites in the code ceiling.",
+  "source": "https://seer.cancer.gov/seer-inquiry/inquiry-detail/20150052/",
+  "source_name": "SEER Inquiry 20150052 \u2014 code pulmonary artery intimal sarcoma to pulmonary artery C493"
+ },
+ {
+  "code": "9150/3",
+  "term": "GL1-altered soft tissue tumor",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "GLI1-altered mesenchymal tumours, while first codified in head & neck, occur broadly including the GI tract (stomach), soft tissue and genitourinary sites, covering the GI/soft-tissue/skin/eye sites present in this code's ceiling; not restricted to a proper subset within the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9018467/",
+  "source_name": "GLI1 gene alterations in GU/GI neoplasms (Am J Surg Pathol, PMC9018467)"
+ },
+ {
+  "code": "9150/3",
+  "term": "GLI1-altered soft tissue tumor",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "GLI1-altered mesenchymal tumours, while first codified in head & neck, occur broadly including the GI tract (stomach), soft tissue and genitourinary sites, covering the GI/soft-tissue/skin/eye sites present in this code's ceiling; not restricted to a proper subset within the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9018467/",
+  "source_name": "GLI1 gene alterations in GU/GI neoplasms (Am J Surg Pathol, PMC9018467)"
+ },
+ {
+  "code": "9180/3",
+  "term": "Osteoblastic sarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic osteosarcoma/osteogenic sarcoma descriptor. Osteosarcoma arises predominantly in bone but also as extraskeletal osteosarcoma in soft tissue and sinonasal sites; the term is not anatomically restricted to a proper subset of this code's bone+soft-tissue ceiling.",
+  "source": "https://www.cancer.gov/types/bone/hp/osteosarcoma-treatment-pdq",
+  "source_name": "NCI PDQ Osteosarcoma treatment \u2014 conventional and extraskeletal osteosarcoma sites"
+ },
+ {
+  "code": "9180/3",
+  "term": "Osteochondrosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic osteosarcoma/osteogenic sarcoma descriptor. Osteosarcoma arises predominantly in bone but also as extraskeletal osteosarcoma in soft tissue and sinonasal sites; the term is not anatomically restricted to a proper subset of this code's bone+soft-tissue ceiling.",
+  "source": "https://www.cancer.gov/types/bone/hp/osteosarcoma-treatment-pdq",
+  "source_name": "NCI PDQ Osteosarcoma treatment \u2014 conventional and extraskeletal osteosarcoma sites"
+ },
+ {
+  "code": "9180/3",
+  "term": "Osteogenic sarcoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic osteosarcoma/osteogenic sarcoma descriptor. Osteosarcoma arises predominantly in bone but also as extraskeletal osteosarcoma in soft tissue and sinonasal sites; the term is not anatomically restricted to a proper subset of this code's bone+soft-tissue ceiling.",
+  "source": "https://www.cancer.gov/types/bone/hp/osteosarcoma-treatment-pdq",
+  "source_name": "NCI PDQ Osteosarcoma treatment \u2014 conventional and extraskeletal osteosarcoma sites"
+ },
+ {
+  "code": "9180/3",
+  "term": "Osteosarcoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic osteosarcoma/osteogenic sarcoma descriptor. Osteosarcoma arises predominantly in bone but also as extraskeletal osteosarcoma in soft tissue and sinonasal sites; the term is not anatomically restricted to a proper subset of this code's bone+soft-tissue ceiling.",
+  "source": "https://www.cancer.gov/types/bone/hp/osteosarcoma-treatment-pdq",
+  "source_name": "NCI PDQ Osteosarcoma treatment \u2014 conventional and extraskeletal osteosarcoma sites"
+ },
+ {
+  "code": "9180/3",
+  "term": "Osteosarcoma, extraosseus",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319",
+   "C480",
+   "C488",
+   "C490",
+   "C491",
+   "C492",
+   "C493",
+   "C494",
+   "C495",
+   "C496",
+   "C498",
+   "C499"
+  ],
+  "site_subset_labels": [
+   "Nasal cavity",
+   "Maxillary sinus",
+   "Ethmoid sinus",
+   "Frontal sinus",
+   "Sphenoid sinus",
+   "Overlapping accessory sinus",
+   "Accessory sinus NOS",
+   "Retroperitoneum",
+   "Overlapping retroperitoneum/peritoneum",
+   "Connective/soft tissue head & neck",
+   "Connective/soft tissue upper limb",
+   "Connective/soft tissue lower limb",
+   "Connective/soft tissue thorax",
+   "Connective/soft tissue abdomen",
+   "Connective/soft tissue pelvis",
+   "Connective/soft tissue trunk NOS",
+   "Overlapping connective/soft tissue",
+   "Connective/soft tissue NOS"
+  ],
+  "rationale": "Extraskeletal (extraosseous) osteosarcoma is by definition a soft-tissue tumour arising WITHOUT attachment to bone/periosteum (thigh, extremities, retroperitoneum, trunk, rarely sinonasal). It therefore excludes the bone topography codes (C400-C419) that are part of the code ceiling.",
+  "source": "https://curesarcoma.org/sarcoma-subtypes/extraskeletal-osteosarcoma/",
+  "source_name": "Sarcoma Foundation of America \u2014 extraskeletal osteosarcoma forms bone in soft tissues without bone involvement"
+ }
+]

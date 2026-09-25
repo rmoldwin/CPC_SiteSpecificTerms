@@ -1,0 +1,678 @@
+[
+  {
+    "code": "9050/3",
+    "term": "Mesothelioma, diffuse",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic/histologic descriptor of mesothelioma arising across all serosal-lined sites in the code ceiling (pleura, peritoneum, tunica vaginalis, ovarian/genital serosa); not restricted to a proper subset.",
+    "source": "https://www.who.int/",
+    "source_name": "WHO"
+  },
+  {
+    "code": "9050/3",
+    "term": "Mesothelioma, malignant",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic/histologic descriptor of mesothelioma arising across all serosal-lined sites in the code ceiling (pleura, peritoneum, tunica vaginalis, ovarian/genital serosa); not restricted to a proper subset.",
+    "source": "https://www.who.int/",
+    "source_name": "WHO"
+  },
+  {
+    "code": "9052/3",
+    "term": "Epithelioid mesothelioma, NOS",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic/histologic descriptor of mesothelioma arising across all serosal-lined sites in the code ceiling (pleura, peritoneum, tunica vaginalis, ovarian/genital serosa); not restricted to a proper subset.",
+    "source": "https://www.who.int/",
+    "source_name": "WHO"
+  },
+  {
+    "code": "9052/3",
+    "term": "Epithelioid mesothelioma, malignant",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic/histologic descriptor of mesothelioma arising across all serosal-lined sites in the code ceiling (pleura, peritoneum, tunica vaginalis, ovarian/genital serosa); not restricted to a proper subset.",
+    "source": "https://www.who.int/",
+    "source_name": "WHO"
+  },
+  {
+    "code": "9053/3",
+    "term": "Biphasic mesothelioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic/histologic descriptor of mesothelioma arising across all serosal-lined sites in the code ceiling (pleura, peritoneum, tunica vaginalis, ovarian/genital serosa); not restricted to a proper subset.",
+    "source": "https://www.who.int/",
+    "source_name": "WHO"
+  },
+  {
+    "code": "9053/3",
+    "term": "Mesothelioma, biphasic, NOS",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic/histologic descriptor of mesothelioma arising across all serosal-lined sites in the code ceiling (pleura, peritoneum, tunica vaginalis, ovarian/genital serosa); not restricted to a proper subset.",
+    "source": "https://www.who.int/",
+    "source_name": "WHO"
+  },
+  {
+    "code": "9053/3",
+    "term": "Mesothelioma, biphasic, malignant",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic/histologic descriptor of mesothelioma arising across all serosal-lined sites in the code ceiling (pleura, peritoneum, tunica vaginalis, ovarian/genital serosa); not restricted to a proper subset.",
+    "source": "https://www.who.int/",
+    "source_name": "WHO"
+  },
+  {
+    "code": "9071/3",
+    "term": "Embryonal carcinoma, infantile",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C620",
+      "C621",
+      "C629"
+    ],
+    "site_subset_labels": [
+      "Undescended testis",
+      "Descended testis",
+      "Testis NOS"
+    ],
+    "rationale": "'Infantile embryonal carcinoma' is a historical synonym specifically for testicular yolk sac tumour of young children (under age 3), restricting it to the testis within the broad code ceiling.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK563163/",
+    "source_name": "StatPearls (NCBI Bookshelf)"
+  },
+  {
+    "code": "9071/3",
+    "term": "Endodermal sinus tumor",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Synonym for yolk sac tumour, a germ cell tumour occurring in gonads (ovary, testis) and extragonadal midline sites; not restricted to a proper subset.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK563163/",
+    "source_name": "StatPearls"
+  },
+  {
+    "code": "9071/3",
+    "term": "Hepatoid yolk sac tumor",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Hepatoid pattern of yolk sac tumour reported in ovary and testis and other sites; a histologic variant, not site-restricted within the ceiling.",
+    "source": "https://pubmed.ncbi.nlm.nih.gov/7139531/",
+    "source_name": "PubMed PMID7139531"
+  },
+  {
+    "code": "9071/3",
+    "term": "Orchioblastoma",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C620",
+      "C621",
+      "C629"
+    ],
+    "site_subset_labels": [
+      "Undescended testis",
+      "Descended testis",
+      "Testis NOS"
+    ],
+    "rationale": "'Orchioblastoma' (orchi- = testis) is an established synonym exclusively for testicular yolk sac tumour, restricting it to the testis within the broad ceiling.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK13608/",
+    "source_name": "BC Decker / Holland-Frei (NCBI)"
+  },
+  {
+    "code": "9071/3",
+    "term": "Polyvesicular vitelline tumor",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Polyvesicular vitelline is a histologic pattern of yolk sac tumour reported in both ovary and testis; not restricted to a proper subset.",
+    "source": "https://gsconlinepress.com/journals/gscarr/content/yolk-sac-tumor-ovary-polyvesicular-vitelline-pattern-case-report-uncommon-tumor-and-brief",
+    "source_name": "PubMed/GSC"
+  },
+  {
+    "code": "9071/3",
+    "term": "Postpubertal (type II) yolk sac tumor",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Yolk sac tumour subtype descriptor; YST (including pre/post-pubertal types) occurs in ovary, testis and extragonadal sites, so the named entity is not restricted to a proper subset of the ceiling.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK563163/",
+    "source_name": "StatPearls"
+  },
+  {
+    "code": "9071/3",
+    "term": "Prepubertal (type I) yolk sac tumor",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Yolk sac tumour subtype descriptor; YST (including pre/post-pubertal types) occurs in ovary, testis and extragonadal sites, so the named entity is not restricted to a proper subset of the ceiling.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK563163/",
+    "source_name": "StatPearls"
+  },
+  {
+    "code": "9071/3",
+    "term": "Yolk sac tumor, NOS",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Yolk sac tumour subtype descriptor; YST (including pre/post-pubertal types) occurs in ovary, testis and extragonadal sites, so the named entity is not restricted to a proper subset of the ceiling.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK563163/",
+    "source_name": "StatPearls"
+  },
+  {
+    "code": "9071/3",
+    "term": "Yolk sac tumor, postpubertal (type II)",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Yolk sac tumour subtype descriptor; YST (including pre/post-pubertal types) occurs in ovary, testis and extragonadal sites, so the named entity is not restricted to a proper subset of the ceiling.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK563163/",
+    "source_name": "StatPearls"
+  },
+  {
+    "code": "9071/3",
+    "term": "Yolk sac tumor, postpubertal-type",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Yolk sac tumour subtype descriptor; YST (including pre/post-pubertal types) occurs in ovary, testis and extragonadal sites, so the named entity is not restricted to a proper subset of the ceiling.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK563163/",
+    "source_name": "StatPearls"
+  },
+  {
+    "code": "9071/3",
+    "term": "Yolk sac tumor, pre-pubertal type",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Yolk sac tumour subtype descriptor; YST (including pre/post-pubertal types) occurs in ovary, testis and extragonadal sites, so the named entity is not restricted to a proper subset of the ceiling.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK563163/",
+    "source_name": "StatPearls"
+  },
+  {
+    "code": "9071/3",
+    "term": "Yolk sac tumor, prepubertal (type I)",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Yolk sac tumour subtype descriptor; YST (including pre/post-pubertal types) occurs in ovary, testis and extragonadal sites, so the named entity is not restricted to a proper subset of the ceiling.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK563163/",
+    "source_name": "StatPearls"
+  },
+  {
+    "code": "9071/3",
+    "term": "Yolk sac tumor, prepubertal-type",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Yolk sac tumour subtype descriptor; YST (including pre/post-pubertal types) occurs in ovary, testis and extragonadal sites, so the named entity is not restricted to a proper subset of the ceiling.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK563163/",
+    "source_name": "StatPearls"
+  },
+  {
+    "code": "9100/3",
+    "term": "Choriocarcinoma (non-gestational)",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Non-gestational choriocarcinoma is a germ cell tumour arising in gonads (ovary/testis) and extragonadal midline sites (mediastinum, pineal, retroperitoneum); multi-site, not a proper subset.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK470267/",
+    "source_name": "StatPearls"
+  },
+  {
+    "code": "9100/3",
+    "term": "Choriocarcinoma, NOS",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic term encompassing both gestational and non-gestational choriocarcinoma across gonadal, genital and extragonadal midline sites; not site-restricted.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK470267/",
+    "source_name": "StatPearls"
+  },
+  {
+    "code": "9100/3",
+    "term": "Chorioepithelioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Obsolete generic synonym for choriocarcinoma; applies to gestational and germ-cell forms across multiple sites, not a proper subset.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK470267/",
+    "source_name": "StatPearls"
+  },
+  {
+    "code": "9100/3",
+    "term": "Chorionepithelioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Obsolete generic synonym for choriocarcinoma; applies across gestational and germ-cell forms and multiple sites, not a proper subset.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK470267/",
+    "source_name": "StatPearls"
+  },
+  {
+    "code": "9100/3",
+    "term": "Gestational choriocarcinoma",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C510",
+      "C511",
+      "C512",
+      "C518",
+      "C519",
+      "C529",
+      "C541",
+      "C549",
+      "C559",
+      "C569",
+      "C570",
+      "C571",
+      "C572",
+      "C573",
+      "C574",
+      "C577",
+      "C589"
+    ],
+    "site_subset_labels": [
+      "Labium majus",
+      "Labium minus",
+      "Clitoris",
+      "Overlapping vulva",
+      "Vulva NOS",
+      "Vagina",
+      "Endometrium",
+      "Corpus uteri NOS",
+      "Uterus NOS",
+      "Ovary",
+      "Fallopian tube",
+      "Broad ligament",
+      "Round ligament",
+      "Parametrium",
+      "Uterine adnexa",
+      "Overlapping female genital",
+      "Placenta"
+    ],
+    "rationale": "Gestational choriocarcinoma arises from placental/trophoblastic tissue of the female genital tract (uterus predominantly, also ovary/tube/vagina from ovarian pregnancy or metastasis); it does not arise in testis, mediastinum or CNS, restricting it to the female genital/placental subset.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK470267/",
+    "source_name": "StatPearls (GTD)"
+  },
+  {
+    "code": "9100/3",
+    "term": "Non-gestational choriocarcinoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Non-gestational choriocarcinoma is a germ cell tumour of gonads and extragonadal midline structures in both sexes; multi-site, not a proper subset.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK470267/",
+    "source_name": "StatPearls"
+  },
+  {
+    "code": "9101/3",
+    "term": "Choriocarcinoma combined with embryonal carcinoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Choriocarcinoma admixed with other germ cell elements denotes a mixed germ cell tumour, which occurs in gonads (testis/ovary) and extragonadal midline sites; not restricted to a proper subset.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK470267/",
+    "source_name": "StatPearls"
+  },
+  {
+    "code": "9101/3",
+    "term": "Choriocarcinoma combined with other germ cell elements",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Choriocarcinoma admixed with other germ cell elements denotes a mixed germ cell tumour, which occurs in gonads (testis/ovary) and extragonadal midline sites; not restricted to a proper subset.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK470267/",
+    "source_name": "StatPearls"
+  },
+  {
+    "code": "9101/3",
+    "term": "Choriocarcinoma combined with teratoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Choriocarcinoma admixed with other germ cell elements denotes a mixed germ cell tumour, which occurs in gonads (testis/ovary) and extragonadal midline sites; not restricted to a proper subset.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK470267/",
+    "source_name": "StatPearls"
+  },
+  {
+    "code": "9101/3",
+    "term": "Mixed trophoblastic tumor",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Choriocarcinoma admixed with other germ cell elements denotes a mixed germ cell tumour, which occurs in gonads (testis/ovary) and extragonadal midline sites; not restricted to a proper subset.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK470267/",
+    "source_name": "StatPearls"
+  },
+  {
+    "code": "9104/3",
+    "term": "Placental site trophoblastic tumor of testis",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C620",
+      "C621",
+      "C629"
+    ],
+    "site_subset_labels": [
+      "Undescended testis",
+      "Descended testis",
+      "Testis NOS"
+    ],
+    "rationale": "The term explicitly designates the testicular form of PSTT; primary testicular PSTT is confined to the testis within the ceiling.",
+    "source": "https://www.mjpath.org.my/2015/v37n2/testicular-tumour.pdf",
+    "source_name": "Malaysian J Pathology (testicular PSTT)"
+  },
+  {
+    "code": "9104/3",
+    "term": "Placental site trophoblastic tumor, malignant",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C540",
+      "C541",
+      "C542",
+      "C543",
+      "C548",
+      "C549",
+      "C559",
+      "C569",
+      "C578",
+      "C579",
+      "C589"
+    ],
+    "site_subset_labels": [
+      "Isthmus uteri",
+      "Endometrium",
+      "Myometrium",
+      "Fundus uteri",
+      "Overlapping corpus uteri",
+      "Corpus uteri NOS",
+      "Uterus NOS",
+      "Ovary",
+      "Overlapping female genital organs",
+      "Female genital tract NOS",
+      "Placenta"
+    ],
+    "rationale": "PSTT is a gestational trophoblastic neoplasm arising from the placental implantation site, nearly always in the uterine corpus/fundus (rarely other female genital sites); it does not arise in the testis, restricting it to the female genital/uterine subset.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6893905/",
+    "source_name": "PMC (PSTT review)"
+  },
+  {
+    "code": "9105/3",
+    "term": "Cystic trophoblastic tumor",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C620",
+      "C621",
+      "C629",
+      "C710",
+      "C711",
+      "C712",
+      "C713",
+      "C714",
+      "C716"
+    ],
+    "site_subset_labels": [
+      "Undescended testis",
+      "Descended testis",
+      "Testis NOS",
+      "Cerebrum",
+      "Frontal lobe",
+      "Temporal lobe",
+      "Parietal lobe",
+      "Occipital lobe",
+      "Cerebellum"
+    ],
+    "rationale": "Cystic trophoblastic tumour is described almost exclusively in testicular germ cell tumours (post-chemotherapy/retroperitoneal) and rarely in primary CNS germ cell tumours; it is a germ-cell-derived lesion not occurring at gynaecologic sites, restricting it to testis and CNS within the ceiling.",
+    "source": "https://pubmed.ncbi.nlm.nih.gov/15316321/",
+    "source_name": "PubMed PMID15316321"
+  },
+  {
+    "code": "9105/3",
+    "term": "Epithelioid trophoblastic tumor",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Epithelioid trophoblastic tumour is a trophoblastic neoplasm reported both as gestational disease of the uterus/cervix and, by analogy, in the testis; spanning female genital and testicular sites it is not confined to a single clean proper subset (marked conservatively).",
+    "source": "https://pure.johnshopkins.edu/en/publications/nonchoriocarcinomatous-trophoblastic-tumors-of-the-testis-the-wid-3",
+    "source_name": "PubMed/Johns Hopkins"
+  },
+  {
+    "code": "9105/3",
+    "term": "Trophoblastic tumor, epithelioid",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Synonym of epithelioid trophoblastic tumour; reported in both uterine/cervical (gestational) and testicular settings, so not confined to a single clean proper subset (marked conservatively).",
+    "source": "https://pure.johnshopkins.edu/en/publications/nonchoriocarcinomatous-trophoblastic-tumors-of-the-testis-the-wid-3",
+    "source_name": "PubMed/Johns Hopkins"
+  },
+  {
+    "code": "9110/3",
+    "term": "Adenocarcinoma of rete ovarii",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C569"
+    ],
+    "site_subset_labels": [
+      "Ovary"
+    ],
+    "rationale": "Adenocarcinoma of the rete ovarii arises from the rete ovarii in the ovarian hilus, i.e. the ovary only, a strict subset of the broad code ceiling.",
+    "source": "https://www.medsci.cn/article/show_article.do?id=4cf1856930f4",
+    "source_name": "WHO Female Genital Tumours (summary)"
+  },
+  {
+    "code": "9110/3",
+    "term": "Adenocarcinoma, HPV-independent, mesonephric type",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C529",
+      "C530",
+      "C531",
+      "C538",
+      "C539",
+      "C540",
+      "C541",
+      "C542",
+      "C543",
+      "C548",
+      "C549",
+      "C559",
+      "C569",
+      "C571",
+      "C572",
+      "C573",
+      "C574",
+      "C577"
+    ],
+    "site_subset_labels": [
+      "Vagina",
+      "Endocervix",
+      "Exocervix",
+      "Overlapping cervix",
+      "Cervix uteri NOS",
+      "Isthmus uteri",
+      "Endometrium",
+      "Myometrium",
+      "Fundus uteri",
+      "Overlapping corpus uteri",
+      "Corpus uteri NOS",
+      "Uterus NOS",
+      "Ovary",
+      "Broad ligament",
+      "Round ligament",
+      "Parametrium",
+      "Uterine adnexa",
+      "Overlapping female genital"
+    ],
+    "rationale": "Mesonephric adenocarcinoma (HPV-independent) arises from Wolffian/mesonephric remnants of the female genital tract (cervix predominant, also vagina, uterine corpus, ovary, broad ligament, tube); it does not occur in the urinary tract sites of the ceiling.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8416001/",
+    "source_name": "PMC (MNAC in FGT)"
+  },
+  {
+    "code": "9110/3",
+    "term": "Mesonephric adenocarcinoma",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C529",
+      "C530",
+      "C531",
+      "C538",
+      "C539",
+      "C540",
+      "C541",
+      "C542",
+      "C543",
+      "C548",
+      "C549",
+      "C559",
+      "C569",
+      "C571",
+      "C572",
+      "C573",
+      "C574",
+      "C577"
+    ],
+    "site_subset_labels": [
+      "Vagina",
+      "Endocervix",
+      "Exocervix",
+      "Overlapping cervix",
+      "Cervix uteri NOS",
+      "Isthmus uteri",
+      "Endometrium",
+      "Myometrium",
+      "Fundus uteri",
+      "Overlapping corpus uteri",
+      "Corpus uteri NOS",
+      "Uterus NOS",
+      "Ovary",
+      "Broad ligament",
+      "Round ligament",
+      "Parametrium",
+      "Uterine adnexa",
+      "Overlapping female genital"
+    ],
+    "rationale": "Mesonephric adenocarcinoma arises from mesonephric (Wolffian) remnants confined to the female genital tract (cervix, vagina, uterine corpus, ovary, broad ligament, tube); not the urinary sites in the ceiling.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8416001/",
+    "source_name": "PMC (MNAC in FGT)"
+  },
+  {
+    "code": "9110/3",
+    "term": "Mesonephroma, NOS",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "'Mesonephroma' is a historical/generic term applied broadly (including clear cell tumours of the kidney/urinary tract and female genital tract); not restricted to a proper subset.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8416001/",
+    "source_name": "PMC"
+  },
+  {
+    "code": "9110/3",
+    "term": "Mesonephroma, malignant",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "'Malignant mesonephroma' is a historical/generic designation applied across female genital and urinary tract sites; not restricted to a proper subset.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8416001/",
+    "source_name": "PMC"
+  },
+  {
+    "code": "9110/3",
+    "term": "Wolffian duct carcinoma",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C529",
+      "C530",
+      "C531",
+      "C538",
+      "C539",
+      "C540",
+      "C541",
+      "C542",
+      "C543",
+      "C548",
+      "C549",
+      "C559",
+      "C569",
+      "C571",
+      "C572",
+      "C573",
+      "C574",
+      "C577"
+    ],
+    "site_subset_labels": [
+      "Vagina",
+      "Endocervix",
+      "Exocervix",
+      "Overlapping cervix",
+      "Cervix uteri NOS",
+      "Isthmus uteri",
+      "Endometrium",
+      "Myometrium",
+      "Fundus uteri",
+      "Overlapping corpus uteri",
+      "Corpus uteri NOS",
+      "Uterus NOS",
+      "Ovary",
+      "Broad ligament",
+      "Round ligament",
+      "Parametrium",
+      "Uterine adnexa",
+      "Overlapping female genital"
+    ],
+    "rationale": "Wolffian (mesonephric) duct carcinoma arises from Wolffian duct remnants of the female genital tract (cervix, vagina, uterine corpus, ovary, broad ligament, tube); not the urinary tract sites in the ceiling.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8416001/",
+    "source_name": "PMC (MNAC in FGT)"
+  },
+  {
+    "code": "9111/3",
+    "term": "Mesonephric-like adenocarcinoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "WHO 2020 mesonephric-like adenocarcinoma arises in the uterine corpus (endometrium) and ovary (rarely fallopian tube) - essentially the entire narrow code ceiling of corpus/uterus/ovary/tube; not a proper subset.",
+    "source": "https://pubmed.ncbi.nlm.nih.gov/35384888/",
+    "source_name": "PubMed PMID35384888 / WHO 2020"
+  },
+  {
+    "code": "9111/3",
+    "term": "Mesonephric-like carcinoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "WHO 2020 mesonephric-like adenocarcinoma arises in the uterine corpus (endometrium) and ovary (rarely fallopian tube) - essentially the entire narrow code ceiling of corpus/uterus/ovary/tube; not a proper subset.",
+    "source": "https://pubmed.ncbi.nlm.nih.gov/35384888/",
+    "source_name": "PubMed PMID35384888 / WHO 2020"
+  },
+  {
+    "code": "9364/3",
+    "term": "Adamantinoma-like Ewing sarcoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Adamantinoma-like Ewing sarcoma has a head-and-neck predilection but is also reported in long bones, extremities and thorax; it spans multiple bone/soft-tissue regions and is not confined to a single clean proper subset (marked conservatively).",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9424385/",
+    "source_name": "PMC (ALES head & neck)"
+  },
+  {
+    "code": "9364/3",
+    "term": "Askin tumor",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C493"
+    ],
+    "site_subset_labels": [
+      "Connective tissue thorax"
+    ],
+    "rationale": "Askin tumour is by definition the Ewing/PNET of the thoracopulmonary region, arising from the soft tissues of the chest wall; it is restricted to the thorax (connective/soft tissue of thorax) within the broad ceiling.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3266582/",
+    "source_name": "PMC (Askin tumour, thoracopulmonary)"
+  }
+]

@@ -1,0 +1,202 @@
+[
+ {
+  "code": "8121/3",
+  "term": "Cylindrical cell carcinoma",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Cylindrical cell (oncocytic Schneiderian) carcinoma is a sinonasal-tract entity arising from Schneiderian respiratory epithelium of the nasal cavity/paranasal sinuses. Its documented anatomic home (sinonasal, C30/C31) is not represented among this code's ceiling codes (scrotum + eye subsites), so a valid proper subset within the ceiling cannot be assigned.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/6370825/",
+  "source_name": "PubMed PMID 6370825 (Oncocytic Schneiderian papilloma: reappraisal of cylindrical cell papilloma of the sinonasal tract)"
+ },
+ {
+  "code": "8121/3",
+  "term": "Schneiderian carcinoma",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Schneiderian carcinoma is defined as a sinonasal carcinoma derived from Schneiderian (respiratory) mucosa of the nasal cavity and paranasal sinuses. That anatomic home (C30/C31) is not among this code's ceiling codes (scrotum + eye), so the known restriction cannot be mapped onto any proper subset of the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8633211/",
+  "source_name": "Head and Neck Pathology PMC8633211 (Low Grade Papillary Sinonasal/Schneiderian Carcinoma)"
+ },
+ {
+  "code": "8124/3",
+  "term": "Cloacogenic carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C210", "C211", "C212", "C218"],
+  "site_subset_labels": ["Anus, NOS", "Anal canal", "Cloacogenic zone", "Overlapping lesion of rectum, anus and anal canal"],
+  "rationale": "Cloacogenic (basaloid/transitional) carcinoma is defined as an anorectal tumor arising from the transitional cloacogenic zone of the anal canal near the dentate line; it is a squamous cell carcinoma variant of the anus. This restricts it to the anal codes within its ceiling, a proper subset excluding the vulvar and eye sites.",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2780104/",
+  "source_name": "PMC2780104 (Epidermoid Carcinoma of the Anal Canal - basaloid/cloacogenic carcinoma)"
+ },
+ {
+  "code": "8773/3",
+  "term": "Spindle cell melanoma, type A",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C693", "C694"],
+  "site_subset_labels": ["Choroid", "Ciliary body"],
+  "rationale": "The spindle cell type A designation derives from the Callender cytologic classification, which is specific to uveal (choroidal and ciliary body) melanoma and is not applied to conjunctival, corneal, lacrimal, or orbital melanomas. This restricts the term to the uveal codes present in its ceiling.",
+  "source": "https://entokey.com/intraocular-tumors-in-adults-2/",
+  "source_name": "Ento Key - Intraocular Tumors in Adults (Callender classification of uveal melanoma)"
+ },
+ {
+  "code": "8773/3",
+  "term": "Spindle cell uveal melanoma, type\u00a0A",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C693", "C694"],
+  "site_subset_labels": ["Choroid", "Ciliary body"],
+  "rationale": "This term explicitly names uveal melanoma with Callender spindle A cytology; uveal melanoma arises in the choroid, ciliary body, and iris, of which only choroid and ciliary body are among the ceiling codes. This is a proper subset excluding conjunctiva, cornea, lacrimal gland, orbit, and overlapping eye.",
+  "source": "https://entokey.com/intraocular-tumors-in-adults-2/",
+  "source_name": "Ento Key - Intraocular Tumors in Adults (uveal melanoma cell type)"
+ },
+ {
+  "code": "8774/3",
+  "term": "Spindle cell melanoma, type B",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C693", "C694"],
+  "site_subset_labels": ["Choroid", "Ciliary body"],
+  "rationale": "Spindle cell type B is a Callender cytologic category applied specifically to uveal (choroidal/ciliary body) melanoma and not to non-uveal ocular melanomas. This restricts the term to the uveal codes present in its ceiling, a proper subset.",
+  "source": "https://entokey.com/intraocular-tumors-in-adults-2/",
+  "source_name": "Ento Key - Intraocular Tumors in Adults (Callender classification of uveal melanoma)"
+ },
+ {
+  "code": "8774/3",
+  "term": "Spindle cell uveal melanoma, type\u00a0B",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C693", "C694"],
+  "site_subset_labels": ["Choroid", "Ciliary body"],
+  "rationale": "This term explicitly designates uveal melanoma of Callender spindle B cytology; uveal melanoma is confined to the iris, ciliary body, and choroid, of which only choroid and ciliary body appear in the ceiling. This is a proper subset excluding conjunctiva, cornea, lacrimal gland, orbit, and overlapping eye.",
+  "source": "https://entokey.com/intraocular-tumors-in-adults-2/",
+  "source_name": "Ento Key - Intraocular Tumors in Adults (uveal melanoma cell type)"
+ },
+ {
+  "code": "8902/3",
+  "term": "Mixed embryonal rhabdomyosarcoma and alveolar rhabdomyosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mixed embryonal/alveolar rhabdomyosarcoma is a histologic-pattern designation, not an anatomically defined entity; rhabdomyosarcoma occurs across the orbit, retroperitoneum, peritoneum, and other soft-tissue sites in the ceiling. No published evidence restricts this term to a proper subset of its ceiling sites.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK545276/",
+  "source_name": "StatPearls (general soft-tissue tumor context) / no restriction found"
+ },
+ {
+  "code": "8902/3",
+  "term": "Mixed type rhabdomyosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mixed type rhabdomyosarcoma denotes a combined histologic subtype rather than a site-restricted entity; rhabdomyosarcoma broadly involves multiple ceiling sites (orbit, retroperitoneum, peritoneum). No literature supports restriction to a proper subset of the ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK545276/",
+  "source_name": "StatPearls (general context) / no restriction found"
+ },
+ {
+  "code": "8991/3",
+  "term": "Embryonal sarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The generic term 'embryonal sarcoma' (without an organ qualifier) is a morphologic descriptor and is not by itself restricted to a single ceiling site. Absent an explicit organ name, there is no substantive literature limiting this bare term to a proper subset of its ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7642548/",
+  "source_name": "World Journal of Clinical Cases PMC7642548 (UESL overview)"
+ },
+ {
+  "code": "8991/3",
+  "term": "Embryonal sarcoma of the liver",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C220"],
+  "site_subset_labels": ["Liver"],
+  "rationale": "Undifferentiated (embryonal) sarcoma of the liver is a defined hepatic mesenchymal malignancy arising in the liver (predominantly the right lobe). The explicit 'of the liver' designation restricts it to C220, a proper subset of the ceiling excluding retroperitoneum, peritoneum, scrotum, and eye sites.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7642548/",
+  "source_name": "World Journal of Clinical Cases PMC7642548 (Undifferentiated embryonal sarcoma of the liver)"
+ },
+ {
+  "code": "8991/3",
+  "term": "Embryonal sarcoma, undifferentiated",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Without an organ qualifier this term is a generic morphologic descriptor; while the classic WHO entity is hepatic, the bare 'undifferentiated embryonal sarcoma' phrasing does not itself name a site and is not clearly restricted to a proper subset of the ceiling in the literature.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4703922/",
+  "source_name": "Rare Tumors PMC4703922 (Undifferentiated Embryonal Sarcoma of Liver)"
+ },
+ {
+  "code": "8991/3",
+  "term": "Undifferentiated sarcoma of liver",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C220"],
+  "site_subset_labels": ["Liver"],
+  "rationale": "Undifferentiated sarcoma of the liver (UESL) is a defined primary hepatic malignancy of mesenchymal origin; the 'of liver' designation restricts it to C220, a proper subset of the ceiling excluding the retroperitoneal, peritoneal, scrotal, and ocular sites.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4313983/",
+  "source_name": "Int J Clin Exp Pathol PMC4313983 (Undifferentiated embryonal sarcoma of liver, 9 cases)"
+ },
+ {
+  "code": "9510/3",
+  "term": "Bilateral retinoblastoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "'Bilateral' describes laterality (both eyes affected), not an anatomic subsite; the tumor is still retinal and codeable under both ceiling codes (retina C692 and eye NOS C699). Laterality does not create a proper site subset within this two-code ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1586012/",
+  "source_name": "Orphanet Journal of Rare Diseases PMC1586012 (Retinoblastoma)"
+ },
+ {
+  "code": "9510/3",
+  "term": "Retinoblastoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Retinoblastoma arises in the retina, and its ceiling comprises only retina (C692) and eye NOS (C699); both codes are appropriate for reporting this entity (C699 when the intraocular subsite is unspecified). The term is used across all of its ceiling sites, so it is not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1586012/",
+  "source_name": "Orphanet Journal of Rare Diseases PMC1586012 (Retinoblastoma arises in the retina)"
+ },
+ {
+  "code": "9510/3",
+  "term": "Trilateral retinoblastoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "'Trilateral' denotes a syndrome of ocular retinoblastoma plus an ectopic intracranial (pineal/suprasellar) neuroblastic tumor; the ocular component remains retinal and is coded under the same ceiling codes (C692/C699). It does not restrict the ocular primary to a proper subset of the ceiling.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/25126964/",
+  "source_name": "PubMed PMID 25126964 (Trilateral retinoblastoma systematic review)"
+ },
+ {
+  "code": "9510/3",
+  "term": "Unilateral retinoblastoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "'Unilateral' describes involvement of one eye (laterality), not an anatomic subsite; the tumor remains retinal and codeable under both ceiling codes. Laterality does not define a proper site subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1586012/",
+  "source_name": "Orphanet Journal of Rare Diseases PMC1586012 (Retinoblastoma laterality)"
+ },
+ {
+  "code": "9511/3",
+  "term": "Retinoblastoma, differentiated",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "'Differentiated' refers to the degree of cellular differentiation (histologic grade), not to anatomic location; the tumor is retinal and applies across the two ceiling codes (retina and eye NOS). Grading does not create a proper site subset.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK545276/",
+  "source_name": "StatPearls (Retinoblastoma histology/differentiation)"
+ },
+ {
+  "code": "9512/3",
+  "term": "Retinoblastoma, undifferentiated",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "'Undifferentiated' denotes histologic grade rather than anatomic site; the entity remains retinal and codeable under both ceiling codes. Differentiation status does not restrict the term to a proper site subset.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK545276/",
+  "source_name": "StatPearls (Retinoblastoma histology/differentiation)"
+ },
+ {
+  "code": "9513/3",
+  "term": "Retinoblastoma, diffuse",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "'Diffuse' describes an infiltrating growth pattern (diffuse infiltrating retinoblastoma), not an anatomic subsite; the tumor remains retinal and applies across both ceiling codes. Growth pattern does not define a proper site subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5744255/",
+  "source_name": "Nature Reviews Disease Primers PMC5744255 (Retinoblastoma)"
+ }
+]

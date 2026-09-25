@@ -1,0 +1,722 @@
+[
+ {
+  "code": "9509/0",
+  "term": "Multinodular and vacuolating neuronal tumor",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9509/1",
+  "term": "Myxoid glioneuronal tumor",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9509/1",
+  "term": "Papillary glioneuronal tumor",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9530/0",
+  "term": "Calvarial meningioma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9560/0",
+  "term": "Acoustic neuroma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9560/0",
+  "term": "Vestibular schwannoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8000/3",
+  "term": "Hepatoblastoma, hepatocellular neoplasm NOS subtype",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8000/3",
+  "term": "Hepatocellular neoplasm, NOS",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9695/3",
+  "term": "Duodenal-type follicular lymphoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9695/3",
+  "term": "Follicular lymphoma, duodenal type",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9695/3",
+  "term": "Follicular lymphoma, duodenal-type",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9695/3",
+  "term": "Primary intestinal follicular lymphoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8020/3",
+  "term": "Undifferentiated primary liver carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8140/3",
+  "term": "Acinar adenocarcinoma of prostate",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8140/3",
+  "term": "Adenocarcinoma, non-intestinal-type",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8140/3",
+  "term": "Adenocarcinoma, pleomorphic giant cell acinar",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8140/3",
+  "term": "Ampullary adenocarcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8140/3",
+  "term": "Atrophic acinar adenocarcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8140/3",
+  "term": "Carcinoma of the gallbladder",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8140/3",
+  "term": "Foamy gland acinar adenocarcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8140/3",
+  "term": "Gastric adenocarcinoma of fundic gland type",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8140/3",
+  "term": "Microcystic acinar adenocarcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8140/3",
+  "term": "Non-ampullary adenocarcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8140/3",
+  "term": "Non\u2013intestinal-type sinonasal adenocarcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8140/3",
+  "term": "Paneth cell carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8140/3",
+  "term": "Pleomorphic giant cell acinar adenocarcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8140/3",
+  "term": "Pseudohyperplastic acinar adenocarcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8480/3",
+  "term": "Acinar adenocarcinoma, mucinous variant",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8480/3",
+  "term": "Appendiceal mucinous neoplasm with extra-appendiceal spread",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8480/3",
+  "term": "Mucinous (colloid) acinar adenocarcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9120/3",
+  "term": "Hepatic angiosarcoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8140/2",
+  "term": "Oxyntic gland adenoma, high-grade",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8140/2",
+  "term": "Oxyntic gland polyp, high-grade",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8140/2",
+  "term": "Pyloric gland adenoma, high-grade",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8140/2",
+  "term": "Pyloric gland intracystic papillary neoplasm, high-grade",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8140/2",
+  "term": "Pyloric gland tubular adenoma, high-grade",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8140/2",
+  "term": "Pyloric gland-type adenoma, high-grade",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8490/3",
+  "term": "Acinar adenocarcinoma, signet-ring-like",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8490/3",
+  "term": "Poorly cohesive carcinoma with signet-ring cells",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8490/3",
+  "term": "Poorly cohesive carcinoma/signet-ring carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8490/3",
+  "term": "Poorly cohesive carcinoma/signet-ring cell carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8490/3",
+  "term": "Signet-ring cell\u2013like acinar adenocarcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8144/3",
+  "term": "Adenocarcinoma of intestinal type",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8144/3",
+  "term": "Adenocarcinoma, intestinal type",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8144/3",
+  "term": "Adenocarcinoma, intestinal-type",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8144/3",
+  "term": "Carcinoma, intestinal type",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8144/3",
+  "term": "Carcinoma, intestinal-type",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8144/3",
+  "term": "Endometrial gastric (gastrointestinal)-type carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8144/3",
+  "term": "Endometrial gastric-type adenocarcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8144/3",
+  "term": "Intestinal type adenocarcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8144/3",
+  "term": "Intestinal-type adenocarcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8144/3",
+  "term": "Intestinal-type sinonasal adenocarcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8144/3",
+  "term": "Mucinous carcinoma, gastric (gastrointestinal)\u2013type",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8144/3",
+  "term": "Mucinous carcinoma, intestinal type",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8144/3",
+  "term": "Mucinous carcinoma, intestinal-type",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8144/3",
+  "term": "Tubular adenocarcinoma, intestinal type",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8154/3",
+  "term": "Carcinoma, mixed acinar-neuroendocrine-ductal",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8154/3",
+  "term": "Mixed acinar carcinoma-neuroendocrine carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8154/3",
+  "term": "mixed acinar-ductal neuroendocrine carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8154/3",
+  "term": "Mixed acinar-endocrine carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8154/3",
+  "term": "Mixed acinar-endocrine-ductal carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8154/3",
+  "term": "Mixed acinar-neuroendocrine carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8154/3",
+  "term": "Mixed pancreatic endocrine and exocrine tumor, malignant",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8550/3",
+  "term": "Pancreatic acinar cell carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8077/2",
+  "term": "Anal intraepithelial neoplasia, grade 2",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8077/2",
+  "term": "Anal intraepithelial neoplasia, grade III",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8077/2",
+  "term": "Anal intraepithelial neoplasia, high-grade",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8077/2",
+  "term": "esophageal squamous dysplasia, high-grade",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8077/2",
+  "term": "esophageal squamous intraepithelial neoplasia, high-grade",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8244/3",
+  "term": "Mixed acinar carcinoma-neuroendocrine tumor",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8576/3",
+  "term": "Paneth cell carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8936/3",
+  "term": "Extragastrointestinal stromal tumor",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8936/3",
+  "term": "Succinate dehydrogenase\u2013deficient gastrointestinal stromal tumor",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8210/2",
+  "term": "Ampullary adenoma, high-grade",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8210/2",
+  "term": "Non-ampullary adenoma, high-grade",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8148/2",
+  "term": "Barrett dysplasia, high-grade",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8148/2",
+  "term": "High-grade Barrett dysplasia",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8148/2",
+  "term": "Biliary intraepithelial neoplasia, grade 3 (BilIN-3)",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8148/2",
+  "term": "Biliary intraepithelial neoplasia, high-grade",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8148/2",
+  "term": "esophageal glandular dysplasia (intraepithelial neoplasia), high-grade",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8148/2",
+  "term": "Foveolar-type (gastric-type) dysplasia, high-grade",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8148/2",
+  "term": "Gastric dysplasia, high-grade",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8148/2",
+  "term": "Gastric pit dysplasia, high-grade",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8148/2",
+  "term": "Gastric pit/crypt dysplasia, high-grade",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8148/2",
+  "term": "Pancreatic intraepithelial neoplasia, high-grade",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9717/3",
+  "term": "Enteropathy type intestinal T-cell lymphoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9717/3",
+  "term": "Enteropathy-type intestinal T-cell lymphoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9717/3",
+  "term": "Intestinal T-cell lymphoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9717/3",
+  "term": "Monomorphic epitheliotropic intestinal T-cell lymphoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8144/2",
+  "term": "Adenoma, ampullary-duodenal, high-grade",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ }
+]

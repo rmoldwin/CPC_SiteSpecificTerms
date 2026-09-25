@@ -1,0 +1,10 @@
+{
+  "exclude_prefixes": [
+    "C76",
+    "C80"
+  ],
+  "candidates_multi_site": 3256,
+  "auto_no_single_site": 571,
+  "excluded_only_excluded_systems": 10,
+  "terms_skipped_no_ceiling": 1779
+}

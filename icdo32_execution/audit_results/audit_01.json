@@ -1,0 +1,722 @@
+[
+ {
+  "code": "8682/3",
+  "term": "Head and neck paraganglioma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8682/3",
+  "term": "Parasympathetic paraganglioma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8682/3",
+  "term": "Parasympathetic paraganglioma (head and neck paraganglioma)",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8690/3",
+  "term": "Glomus jugulare tumor, NOS",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8690/3",
+  "term": "Jugular paraganglioma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8690/3",
+  "term": "Jugulotympanic paraganglioma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8690/3",
+  "term": "Middle ear paraganglioma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8691/3",
+  "term": "Aortic body paraganglioma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8691/3",
+  "term": "Aortic body tumor",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8691/3",
+  "term": "Aorticopulmonary paraganglioma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8692/3",
+  "term": "Carotid body paraganglioma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8692/3",
+  "term": "Carotid body tumor",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8802/3",
+  "term": "Pleomorphic dermal sarcoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8806/3",
+  "term": "Desmoplastic small round cell tumor",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8806/3",
+  "term": "Intra-abdominal desmoplastic round cell tumor",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8806/3",
+  "term": "Polyphenotypic small round cell tumor",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8830/3",
+  "term": "Undifferentiated high grade pleomorphic sarcoma of bone",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8963/3",
+  "term": "Atypical teratoid/rhabdoid tumor of kidney",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8963/3",
+  "term": "Extrarenal rhabdoid tumor",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8963/3",
+  "term": "Malignant rhabdoid tumor of the kidney",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8963/3",
+  "term": "Rhabdoid tumor of soft tissue",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9084/3",
+  "term": "Testicular neuroendocrine tumor, prepubertal-type",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9084/3",
+  "term": "Well-differentiated neuroendocrine tumor (monodermal teratoma)",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9133/3",
+  "term": "Intravascular bronchial alveolar tumor",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9133/3",
+  "term": "Intravascular bronchioloalveolar tumor",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9137/3",
+  "term": "Intimal sarcoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9137/3",
+  "term": "Pulmonary artery intimal sarcoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9180/3",
+  "term": "Osteosarcoma, extraosseus",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9180/3",
+  "term": "Osteosarcoma, extraskeletal",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9222/3",
+  "term": "Central chondrosarcoma, grade 1",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9222/3",
+  "term": "Chondrosarcoma, low-grade central",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9222/3",
+  "term": "Chondrosarcoma, low-grade peripheral",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9222/3",
+  "term": "Secondary peripheral chondrosarcoma, grade 1",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9250/3",
+  "term": "Giant cell sarcoma of bone",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9250/3",
+  "term": "Giant cell tumor of bone, dedifferentiated",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9250/3",
+  "term": "Giant cell tumor of bone, malignant",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9250/3",
+  "term": "Osteoclastoma, malignant",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9261/3",
+  "term": "Adamantinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9261/3",
+  "term": "Adamantinoma of long bones",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9261/3",
+  "term": "Classic adamantinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9261/3",
+  "term": "Classic adamantinoma (malignant)",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9261/3",
+  "term": "Dedifferentiated adamantinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9261/3",
+  "term": "Tibial adamantinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9367/3",
+  "term": "CNS Ewing family tumor with CIC alteration",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9368/3",
+  "term": "BCOR-rearranged sarcoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9368/3",
+  "term": "BCOR::CCNB3 sarcoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9368/3",
+  "term": "Primitive myxoid mesenchymal tumor of infancy",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9368/3",
+  "term": "Round cell sarcoma, infantile undifferentiated",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9368/3",
+  "term": "Sarcoma with BCOR genetic alterations",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9370/3",
+  "term": "Chordoma, NOS",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9370/3",
+  "term": "Conventional chordoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9370/3",
+  "term": "Poorly differentiated chordoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9371/3",
+  "term": "Chondroid chordoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9372/3",
+  "term": "Dedifferentiated chordoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9490/3",
+  "term": "CNS ganglioneuroblastoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9490/3",
+  "term": "Ganglioneuroblastoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9490/3",
+  "term": "Ganglioneuroblastoma, intermixed",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9490/3",
+  "term": "Ganglioneuroblastoma, nodular",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9490/3",
+  "term": "Schwannian stroma-rich intermixed tumor",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9500/3",
+  "term": "CNS neuroblastoma, FOXR2-activated",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9500/3",
+  "term": "CNS neuroblastoma, NOS",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9500/3",
+  "term": "CNS tumor with BCCR internal tandem duplication",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9500/3",
+  "term": "CNS tumor with BCOR internal tandem duplication",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9500/3",
+  "term": "Central neuroblastoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9500/3",
+  "term": "Differentiating neuroblastoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9500/3",
+  "term": "Neuroblastoma, NOS",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9500/3",
+  "term": "Neuroblastoma, differentiating",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9500/3",
+  "term": "Neuroblastoma, poorly differentiated",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9500/3",
+  "term": "Neuroblastoma, undifferentiated",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9500/3",
+  "term": "Poorly differentiated neuroblastoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9500/3",
+  "term": "Sympathicoblastoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9500/3",
+  "term": "Undifferentiated neuroblastoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8500/2",
+  "term": "Carcinoma in situ of male breast",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8500/2",
+  "term": "Cystic hypersecretory carcinoma, intraductal",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8500/2",
+  "term": "DCIS of high nuclear grade",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8500/2",
+  "term": "DCIS of intermediate nuclear grade",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8500/2",
+  "term": "DCIS of low nuclear grade",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8500/2",
+  "term": "DIN 3",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8500/2",
+  "term": "Ductal intraepithelial neoplasia 3",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8500/2",
+  "term": "Intercalated duct carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8500/2",
+  "term": "Intercalated duct intraductal carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8500/2",
+  "term": "Intraductal carcinoma, intercalated duct",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8500/2",
+  "term": "Intraductal carcinoma, oncocytic",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8500/2",
+  "term": "Low grade cribriform cystadenocarcinoma (LGCCC)",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8500/2",
+  "term": "Mammary carcinoma, in situ",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8500/2",
+  "term": "Non-invasive mammary carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8500/2",
+  "term": "Oncocytic intraductal carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8500/3",
+  "term": "Adenocarcinoma of anogenital mammary-like glands",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8500/3",
+  "term": "Adenocarcinoma of mammary gland type",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8500/3",
+  "term": "Basal-like salivary duct carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ }
+]

@@ -1,0 +1,598 @@
+[
+  {
+    "code": "8403/3",
+    "term": "Malignant neoplasm arising from pre-existing spiradenocylindroma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Spiradenocarcinoma/malignant spiradenoma is a skin adnexal sweat-gland tumour that can arise at essentially any cutaneous site (head/neck/scalp, trunk, extremities), spanning the code's skin ceiling; not restricted to a proper subset.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8151110/",
+    "source_name": "Cutaneous Adnexal Neoplasms review, Int J Mol Sci 2021 (PMC8151110)"
+  },
+  {
+    "code": "8403/3",
+    "term": "Malignant neoplasm arising from pre-existing spiradenoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Spiradenocarcinoma/malignant spiradenoma is a skin adnexal sweat-gland tumour that can arise at essentially any cutaneous site (head/neck/scalp, trunk, extremities), spanning the code's skin ceiling; not restricted to a proper subset.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8151110/",
+    "source_name": "Cutaneous Adnexal Neoplasms review, Int J Mol Sci 2021 (PMC8151110)"
+  },
+  {
+    "code": "8403/3",
+    "term": "Malignant neoplasm arising from spiradenocylindroma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Spiradenocarcinoma/malignant spiradenoma is a skin adnexal sweat-gland tumour that can arise at essentially any cutaneous site (head/neck/scalp, trunk, extremities), spanning the code's skin ceiling; not restricted to a proper subset.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8151110/",
+    "source_name": "Cutaneous Adnexal Neoplasms review, Int J Mol Sci 2021 (PMC8151110)"
+  },
+  {
+    "code": "8403/3",
+    "term": "Malignant neoplasm arising from spiradenoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Spiradenocarcinoma/malignant spiradenoma is a skin adnexal sweat-gland tumour that can arise at essentially any cutaneous site (head/neck/scalp, trunk, extremities), spanning the code's skin ceiling; not restricted to a proper subset.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8151110/",
+    "source_name": "Cutaneous Adnexal Neoplasms review, Int J Mol Sci 2021 (PMC8151110)"
+  },
+  {
+    "code": "8403/3",
+    "term": "Spiradenocarcinoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Spiradenocarcinoma/malignant spiradenoma is a skin adnexal sweat-gland tumour that can arise at essentially any cutaneous site (head/neck/scalp, trunk, extremities), spanning the code's skin ceiling; not restricted to a proper subset.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8151110/",
+    "source_name": "Cutaneous Adnexal Neoplasms review, Int J Mol Sci 2021 (PMC8151110)"
+  },
+  {
+    "code": "8403/3",
+    "term": "Spiradenocylindrocarcinoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Spiradenocarcinoma/malignant spiradenoma is a skin adnexal sweat-gland tumour that can arise at essentially any cutaneous site (head/neck/scalp, trunk, extremities), spanning the code's skin ceiling; not restricted to a proper subset.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8151110/",
+    "source_name": "Cutaneous Adnexal Neoplasms review, Int J Mol Sci 2021 (PMC8151110)"
+  },
+  {
+    "code": "8408/3",
+    "term": "Aggressive digital papillary adenoma",
+    "site_specific": "Uncertain",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Classically defined as an acral (fingers/toes) eccrine tumour, but documented non-acral cases and published expert dispute over whether it is truly digit-restricted preclude a confident proper-subset assignment.",
+    "source": "https://www.nature.com/articles/s41379-022-01094-8",
+    "source_name": "HPV42 and digital papillary adenocarcinoma incl. non-acral sites, Mod Pathol 2022"
+  },
+  {
+    "code": "8408/3",
+    "term": "Digital papillary adenocarcinoma",
+    "site_specific": "Uncertain",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Classically defined as an acral (fingers/toes) eccrine tumour, but documented non-acral cases and published expert dispute over whether it is truly digit-restricted preclude a confident proper-subset assignment.",
+    "source": "https://www.nature.com/articles/s41379-022-01094-8",
+    "source_name": "HPV42 and digital papillary adenocarcinoma incl. non-acral sites, Mod Pathol 2022"
+  },
+  {
+    "code": "8408/3",
+    "term": "Digital papillary carcinoma",
+    "site_specific": "Uncertain",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Classically defined as an acral (fingers/toes) eccrine tumour, but documented non-acral cases and published expert dispute over whether it is truly digit-restricted preclude a confident proper-subset assignment.",
+    "source": "https://www.nature.com/articles/s41379-022-01094-8",
+    "source_name": "HPV42 and digital papillary adenocarcinoma incl. non-acral sites, Mod Pathol 2022"
+  },
+  {
+    "code": "8408/3",
+    "term": "Eccrine papillary adenocarcinoma",
+    "site_specific": "Uncertain",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Classically defined as an acral (fingers/toes) eccrine tumour, but documented non-acral cases and published expert dispute over whether it is truly digit-restricted preclude a confident proper-subset assignment.",
+    "source": "https://www.nature.com/articles/s41379-022-01094-8",
+    "source_name": "HPV42 and digital papillary adenocarcinoma incl. non-acral sites, Mod Pathol 2022"
+  },
+  {
+    "code": "8409/3",
+    "term": "Eccrine poroma, malignant",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Eccrine porocarcinoma arises from eccrine sweat-gland ducts distributed over essentially all skin (lower/upper limbs, trunk, head & neck, and vulva), covering the code ceiling; not a proper subset.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10137440/",
+    "source_name": "Eccrine Porocarcinoma review, Diagnostics 2023 (PMC10137440)"
+  },
+  {
+    "code": "8409/3",
+    "term": "Porocarcinoma, NOS",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Eccrine porocarcinoma arises from eccrine sweat-gland ducts distributed over essentially all skin (lower/upper limbs, trunk, head & neck, and vulva), covering the code ceiling; not a proper subset.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10137440/",
+    "source_name": "Eccrine Porocarcinoma review, Diagnostics 2023 (PMC10137440)"
+  },
+  {
+    "code": "8413/3",
+    "term": "Eccrine adenocarcinoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Eccrine adenocarcinoma derives from eccrine sweat glands, which are present throughout the skin and genital skin; the term is not anatomically restricted to a proper subset of the ceiling.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3633551/",
+    "source_name": "Sweat-gland carcinomas review, OncoTargets Ther 2013 (PMC3633551)"
+  },
+  {
+    "code": "8420/3",
+    "term": "Ceruminous adenocarcinoma",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C301"
+    ],
+    "site_subset_labels": [
+      "External auditory canal"
+    ],
+    "rationale": "Ceruminous carcinomas arise from ceruminous glands, which exist only in the outer external auditory canal; the tumour by definition affects only that site (diagnosis is questioned if the EAC is uninvolved), a proper subset of the ceiling (EAC + skin).",
+    "source": "https://en.wikipedia.org/wiki/Ceruminous_adenocarcinoma",
+    "source_name": "Ceruminous adenocarcinoma (external auditory canal only); corroborated by Head & Neck Pathol 2018 PMC6081286"
+  },
+  {
+    "code": "8420/3",
+    "term": "Ceruminous adenoid cystic carcinoma",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C301"
+    ],
+    "site_subset_labels": [
+      "External auditory canal"
+    ],
+    "rationale": "Ceruminous carcinomas arise from ceruminous glands, which exist only in the outer external auditory canal; the tumour by definition affects only that site (diagnosis is questioned if the EAC is uninvolved), a proper subset of the ceiling (EAC + skin).",
+    "source": "https://en.wikipedia.org/wiki/Ceruminous_adenocarcinoma",
+    "source_name": "Ceruminous adenocarcinoma (external auditory canal only); corroborated by Head & Neck Pathol 2018 PMC6081286"
+  },
+  {
+    "code": "8420/3",
+    "term": "Ceruminous carcinoma",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C301"
+    ],
+    "site_subset_labels": [
+      "External auditory canal"
+    ],
+    "rationale": "Ceruminous carcinomas arise from ceruminous glands, which exist only in the outer external auditory canal; the tumour by definition affects only that site (diagnosis is questioned if the EAC is uninvolved), a proper subset of the ceiling (EAC + skin).",
+    "source": "https://en.wikipedia.org/wiki/Ceruminous_adenocarcinoma",
+    "source_name": "Ceruminous adenocarcinoma (external auditory canal only); corroborated by Head & Neck Pathol 2018 PMC6081286"
+  },
+  {
+    "code": "8420/3",
+    "term": "Ceruminous mucoepidermoid carcinoma",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C301"
+    ],
+    "site_subset_labels": [
+      "External auditory canal"
+    ],
+    "rationale": "Ceruminous carcinomas arise from ceruminous glands, which exist only in the outer external auditory canal; the tumour by definition affects only that site (diagnosis is questioned if the EAC is uninvolved), a proper subset of the ceiling (EAC + skin).",
+    "source": "https://en.wikipedia.org/wiki/Ceruminous_adenocarcinoma",
+    "source_name": "Ceruminous adenocarcinoma (external auditory canal only); corroborated by Head & Neck Pathol 2018 PMC6081286"
+  },
+  {
+    "code": "8440/3",
+    "term": "Cystadenocarcinoma, NOS",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Cystadenocarcinoma, NOS is a generic morphologic descriptor applied across many organs (salivary glands, pancreas, skin, etc.); not restricted to a proper subset.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK493224/",
+    "source_name": "General pathology reference (generic descriptor)"
+  },
+  {
+    "code": "8542/3",
+    "term": "Extramammary Paget disease",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Extramammary Paget disease occurs on apocrine-bearing anogenital/perianal skin (vulva, perianal, scrotum, penis) plus rare ectopic cutaneous sites; the code ceiling already encompasses exactly this extramammary distribution (breast is excluded), so no further proper-subset restriction applies.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK493224/",
+    "source_name": "Extramammary Paget Disease, StatPearls (NBK493224)"
+  },
+  {
+    "code": "8542/3",
+    "term": "Paget disease",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Extramammary Paget disease occurs on apocrine-bearing anogenital/perianal skin (vulva, perianal, scrotum, penis) plus rare ectopic cutaneous sites; the code ceiling already encompasses exactly this extramammary distribution (breast is excluded), so no further proper-subset restriction applies.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK493224/",
+    "source_name": "Extramammary Paget Disease, StatPearls (NBK493224)"
+  },
+  {
+    "code": "8542/3",
+    "term": "Paget disease with dermal/stromal invasion, extramammary",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Extramammary Paget disease occurs on apocrine-bearing anogenital/perianal skin (vulva, perianal, scrotum, penis) plus rare ectopic cutaneous sites; the code ceiling already encompasses exactly this extramammary distribution (breast is excluded), so no further proper-subset restriction applies.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK493224/",
+    "source_name": "Extramammary Paget Disease, StatPearls (NBK493224)"
+  },
+  {
+    "code": "8542/3",
+    "term": "Paget disease, extramammary",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Extramammary Paget disease occurs on apocrine-bearing anogenital/perianal skin (vulva, perianal, scrotum, penis) plus rare ectopic cutaneous sites; the code ceiling already encompasses exactly this extramammary distribution (breast is excluded), so no further proper-subset restriction applies.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK493224/",
+    "source_name": "Extramammary Paget Disease, StatPearls (NBK493224)"
+  },
+  {
+    "code": "8572/3",
+    "term": "Acinar adenocarcinoma, sarcomatoid variant",
+    "site_specific": "Uncertain",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Sarcomatoid/spindle-cell metaplastic acinar adenocarcinoma variants are strongly associated with breast but analogous metaplastic/sarcomatoid change is described in other organs of the ceiling; evidence is insufficient to fix a single proper subset.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7640663/",
+    "source_name": "Metaplastic breast cancer overview, Breast Cancer Res 2020 (PMC7640663)"
+  },
+  {
+    "code": "8572/3",
+    "term": "Adenocarcinoma with spindle cell metaplasia",
+    "site_specific": "Uncertain",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Sarcomatoid/spindle-cell metaplastic acinar adenocarcinoma variants are strongly associated with breast but analogous metaplastic/sarcomatoid change is described in other organs of the ceiling; evidence is insufficient to fix a single proper subset.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7640663/",
+    "source_name": "Metaplastic breast cancer overview, Breast Cancer Res 2020 (PMC7640663)"
+  },
+  {
+    "code": "8572/3",
+    "term": "Fibromatosis-like metaplastic carcinoma",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C500",
+      "C501",
+      "C502",
+      "C503",
+      "C504",
+      "C505",
+      "C506",
+      "C508",
+      "C509"
+    ],
+    "site_subset_labels": [
+      "Nipple",
+      "Central breast",
+      "Upper-inner breast",
+      "Lower-inner breast",
+      "Upper-outer breast",
+      "Lower-outer breast",
+      "Axillary tail breast",
+      "Overlapping breast",
+      "Breast NOS"
+    ],
+    "rationale": "Fibromatosis-like metaplastic carcinoma is a WHO Classification of Breast Tumours (5th ed) entity defined exclusively in the breast; it is restricted to the breast, a proper subset of the code ceiling.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10336999/",
+    "source_name": "Fibromatosis-like metaplastic carcinoma of the breast, WHO 5th ed (World J Clin Cases 2023, PMC10336999)"
+  },
+  {
+    "code": "8572/3",
+    "term": "Sarcomatoid acinar adenocarcinoma",
+    "site_specific": "Uncertain",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Sarcomatoid/spindle-cell metaplastic acinar adenocarcinoma variants are strongly associated with breast but analogous metaplastic/sarcomatoid change is described in other organs of the ceiling; evidence is insufficient to fix a single proper subset.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7640663/",
+    "source_name": "Metaplastic breast cancer overview, Breast Cancer Res 2020 (PMC7640663)"
+  },
+  {
+    "code": "8573/3",
+    "term": "Adenocarcinoma with apocrine metaplasia",
+    "site_specific": "Uncertain",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Carcinoma/adenocarcinoma with apocrine metaplasia is classically a breast entity but apocrine differentiation also occurs in apocrine-bearing skin/genital sites within the ceiling; a single proper subset cannot be firmly established.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7640663/",
+    "source_name": "Metaplastic/apocrine breast carcinoma overview (PMC7640663)"
+  },
+  {
+    "code": "8573/3",
+    "term": "Carcinoma with apocrine metaplasia",
+    "site_specific": "Uncertain",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Carcinoma/adenocarcinoma with apocrine metaplasia is classically a breast entity but apocrine differentiation also occurs in apocrine-bearing skin/genital sites within the ceiling; a single proper subset cannot be firmly established.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7640663/",
+    "source_name": "Metaplastic/apocrine breast carcinoma overview (PMC7640663)"
+  },
+  {
+    "code": "8575/3",
+    "term": "Carcinoma with other types mesenchymal differentiation",
+    "site_specific": "Uncertain",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Metaplastic carcinoma (NST/NOS, or with mesenchymal differentiation) is predominantly a WHO breast entity but the same terminology is applied to metaplastic carcinomas of skin and other ceiling sites; evidence is insufficient to confine it to a single proper subset.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7640663/",
+    "source_name": "Metaplastic breast cancer overview, Breast Cancer Res 2020 (PMC7640663)"
+  },
+  {
+    "code": "8575/3",
+    "term": "Metaplastic carcinoma of no special type",
+    "site_specific": "Uncertain",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Metaplastic carcinoma (NST/NOS, or with mesenchymal differentiation) is predominantly a WHO breast entity but the same terminology is applied to metaplastic carcinomas of skin and other ceiling sites; evidence is insufficient to confine it to a single proper subset.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7640663/",
+    "source_name": "Metaplastic breast cancer overview, Breast Cancer Res 2020 (PMC7640663)"
+  },
+  {
+    "code": "8575/3",
+    "term": "Metaplastic carcinoma with other types mesenchymal differentiation",
+    "site_specific": "Uncertain",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Metaplastic carcinoma (NST/NOS, or with mesenchymal differentiation) is predominantly a WHO breast entity but the same terminology is applied to metaplastic carcinomas of skin and other ceiling sites; evidence is insufficient to confine it to a single proper subset.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7640663/",
+    "source_name": "Metaplastic breast cancer overview, Breast Cancer Res 2020 (PMC7640663)"
+  },
+  {
+    "code": "8575/3",
+    "term": "Metaplastic carcinoma, NOS",
+    "site_specific": "Uncertain",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Metaplastic carcinoma (NST/NOS, or with mesenchymal differentiation) is predominantly a WHO breast entity but the same terminology is applied to metaplastic carcinomas of skin and other ceiling sites; evidence is insufficient to confine it to a single proper subset.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7640663/",
+    "source_name": "Metaplastic breast cancer overview, Breast Cancer Res 2020 (PMC7640663)"
+  },
+  {
+    "code": "8722/3",
+    "term": "Balloon cell melanoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Balloon cell melanoma is a histologic variant that arises across cutaneous, mucosal (anus, genital) and ocular/choroidal sites, spanning the code ceiling; not a proper subset.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9036264/",
+    "source_name": "Balloon Cell Melanoma case series/review, Dermatopathology 2022 (PMC9036264)"
+  },
+  {
+    "code": "8723/3",
+    "term": "Malignant melanoma, regressing",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "\"Regressing melanoma\" is a generic descriptor of tumour regression applicable to melanomas at any site in the ceiling; not anatomically restricted.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK470409/",
+    "source_name": "Malignant Melanoma, StatPearls (NBK470409)"
+  },
+  {
+    "code": "8723/3",
+    "term": "Melanoma, regressing",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "\"Regressing melanoma\" is a generic descriptor of tumour regression applicable to melanomas at any site in the ceiling; not anatomically restricted.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK470409/",
+    "source_name": "Malignant Melanoma, StatPearls (NBK470409)"
+  },
+  {
+    "code": "8740/3",
+    "term": "Malignant melanoma in junctional nevus",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Melanoma arising in a junctional nevus is a generic descriptor; junctional nevi and melanomas occur across cutaneous and mucosal/genital sites of the ceiling, so no proper-subset restriction is established.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK470409/",
+    "source_name": "Malignant Melanoma, StatPearls (NBK470409)"
+  },
+  {
+    "code": "8740/3",
+    "term": "Melanoma in junctional nevus",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Melanoma arising in a junctional nevus is a generic descriptor; junctional nevi and melanomas occur across cutaneous and mucosal/genital sites of the ceiling, so no proper-subset restriction is established.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK470409/",
+    "source_name": "Malignant Melanoma, StatPearls (NBK470409)"
+  },
+  {
+    "code": "8741/2",
+    "term": "Precancerous melanosis, NOS",
+    "site_specific": "Uncertain",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "\"Precancerous melanosis\" (Dubreuilh) is an archaic synonym historically overlapping lentigo maligna (facial sun-damaged skin), but the term is ambiguous and the code ceiling includes non-cutaneous (meningeal) sites, so a reliable proper-subset cannot be assigned.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK482163/",
+    "source_name": "Lentigo Maligna Melanoma / precancerous melanosis, StatPearls (NBK482163)"
+  },
+  {
+    "code": "8741/3",
+    "term": "Malignant melanoma in precancerous melanosis",
+    "site_specific": "Uncertain",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "\"Precancerous melanosis\" (Dubreuilh) is an archaic synonym historically overlapping lentigo maligna (facial sun-damaged skin), but the term is ambiguous and the code ceiling includes non-cutaneous (meningeal) sites, so a reliable proper-subset cannot be assigned.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK482163/",
+    "source_name": "Lentigo Maligna Melanoma / precancerous melanosis, StatPearls (NBK482163)"
+  },
+  {
+    "code": "8741/3",
+    "term": "Melanoma in precancerous melanosis",
+    "site_specific": "Uncertain",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "\"Precancerous melanosis\" (Dubreuilh) is an archaic synonym historically overlapping lentigo maligna (facial sun-damaged skin), but the term is ambiguous and the code ceiling includes non-cutaneous (meningeal) sites, so a reliable proper-subset cannot be assigned.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK482163/",
+    "source_name": "Lentigo Maligna Melanoma / precancerous melanosis, StatPearls (NBK482163)"
+  },
+  {
+    "code": "8742/2",
+    "term": "Hutchinson melanotic freckle, NOS",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C440",
+      "C441",
+      "C442",
+      "C443",
+      "C444",
+      "C445",
+      "C446",
+      "C447",
+      "C448",
+      "C449"
+    ],
+    "site_subset_labels": [
+      "Skin of lip",
+      "Eyelid",
+      "External ear (skin)",
+      "Skin of other/face",
+      "Skin of scalp and neck",
+      "Skin of trunk",
+      "Skin of upper limb/shoulder",
+      "Skin of lower limb/hip",
+      "Overlapping skin",
+      "Skin NOS"
+    ],
+    "rationale": "Lentigo maligna / Hutchinson melanotic freckle is by definition melanoma in situ on chronically sun-damaged skin (86% head & neck, predilection for face); it is confined to cutaneous sites and does not arise on the lip mucosa, vulva, penis or scrotum included in the ceiling, so it is restricted to the skin subset.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK482163/",
+    "source_name": "Lentigo Maligna Melanoma, StatPearls (NBK482163)"
+  },
+  {
+    "code": "8742/2",
+    "term": "Lentigo maligna",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C440",
+      "C441",
+      "C442",
+      "C443",
+      "C444",
+      "C445",
+      "C446",
+      "C447",
+      "C448",
+      "C449"
+    ],
+    "site_subset_labels": [
+      "Skin of lip",
+      "Eyelid",
+      "External ear (skin)",
+      "Skin of other/face",
+      "Skin of scalp and neck",
+      "Skin of trunk",
+      "Skin of upper limb/shoulder",
+      "Skin of lower limb/hip",
+      "Overlapping skin",
+      "Skin NOS"
+    ],
+    "rationale": "Lentigo maligna / Hutchinson melanotic freckle is by definition melanoma in situ on chronically sun-damaged skin (86% head & neck, predilection for face); it is confined to cutaneous sites and does not arise on the lip mucosa, vulva, penis or scrotum included in the ceiling, so it is restricted to the skin subset.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK482163/",
+    "source_name": "Lentigo Maligna Melanoma, StatPearls (NBK482163)"
+  },
+  {
+    "code": "8742/2",
+    "term": "Lentigo maligna melanoma in situ",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C440",
+      "C441",
+      "C442",
+      "C443",
+      "C444",
+      "C445",
+      "C446",
+      "C447",
+      "C448",
+      "C449"
+    ],
+    "site_subset_labels": [
+      "Skin of lip",
+      "Eyelid",
+      "External ear (skin)",
+      "Skin of other/face",
+      "Skin of scalp and neck",
+      "Skin of trunk",
+      "Skin of upper limb/shoulder",
+      "Skin of lower limb/hip",
+      "Overlapping skin",
+      "Skin NOS"
+    ],
+    "rationale": "Lentigo maligna / Hutchinson melanotic freckle is by definition melanoma in situ on chronically sun-damaged skin (86% head & neck, predilection for face); it is confined to cutaneous sites and does not arise on the lip mucosa, vulva, penis or scrotum included in the ceiling, so it is restricted to the skin subset.",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK482163/",
+    "source_name": "Lentigo Maligna Melanoma, StatPearls (NBK482163)"
+  },
+  {
+    "code": "8742/3",
+    "term": "High cumulative sun damage melanoma",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C440",
+      "C441",
+      "C442",
+      "C443",
+      "C444",
+      "C445",
+      "C446",
+      "C447",
+      "C448",
+      "C449"
+    ],
+    "site_subset_labels": [
+      "Skin of lip",
+      "Eyelid",
+      "External ear (skin)",
+      "Skin of other/face",
+      "Skin of scalp and neck",
+      "Skin of trunk",
+      "Skin of upper limb/shoulder",
+      "Skin of lower limb/hip",
+      "Overlapping skin",
+      "Skin NOS"
+    ],
+    "rationale": "High cumulative sun damage (high-CSD) melanoma is the WHO 5th-ed pathway defined on chronically sun-exposed skin (head/neck and dorsal extremities); it is a cutaneous entity and does not arise on the lip mucosa, vulva, penis or scrotum in the ceiling, so it is restricted to the skin subset.",
+    "source": "https://pubmed.ncbi.nlm.nih.gov/32057276/",
+    "source_name": "WHO 2018 Classification of Melanoma (high-CSD), PMID 32057276"
+  },
+  {
+    "code": "8742/3",
+    "term": "High-CSD melanoma",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C440",
+      "C441",
+      "C442",
+      "C443",
+      "C444",
+      "C445",
+      "C446",
+      "C447",
+      "C448",
+      "C449"
+    ],
+    "site_subset_labels": [
+      "Skin of lip",
+      "Eyelid",
+      "External ear (skin)",
+      "Skin of other/face",
+      "Skin of scalp and neck",
+      "Skin of trunk",
+      "Skin of upper limb/shoulder",
+      "Skin of lower limb/hip",
+      "Overlapping skin",
+      "Skin NOS"
+    ],
+    "rationale": "High cumulative sun damage (high-CSD) melanoma is the WHO 5th-ed pathway defined on chronically sun-exposed skin (head/neck and dorsal extremities); it is a cutaneous entity and does not arise on the lip mucosa, vulva, penis or scrotum in the ceiling, so it is restricted to the skin subset.",
+    "source": "https://pubmed.ncbi.nlm.nih.gov/32057276/",
+    "source_name": "WHO 2018 Classification of Melanoma (high-CSD), PMID 32057276"
+  }
+]

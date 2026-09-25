@@ -1,0 +1,732 @@
+[
+ {
+  "code": "8082/3",
+  "term": "Sinonasal lymphoepithelial carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8085/3",
+  "term": "Ciliated adenosquamous carcinoma, HPV-associated",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8085/3",
+  "term": "Transitional cell carcinoma of head and neck, HPV-associated",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8086/3",
+  "term": "Pseudohyperplastic carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8147/3",
+  "term": "Adenoid basal cell carcinoma of prostate",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8147/3",
+  "term": "Adenoid cystic (basal cell) carcinoma of prosate",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8147/3",
+  "term": "Adenoid cystic carcinoma of prostate",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8147/3",
+  "term": "Adenoid cystic carcinoma of prostate, solid pattern",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8147/3",
+  "term": "Basal cell carcinoma of prostate",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8200/3",
+  "term": "Bronchial adenoma, cylindroid",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8200/3",
+  "term": "Thymic carcinoma with adenoid cystic carcinoma-like features",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8410/3",
+  "term": "Meibomian gland carcinoma, periocular",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8502/3",
+  "term": "Juvenile carcinoma of breast",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8502/3",
+  "term": "Mammary analogue secretory carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8502/3",
+  "term": "Microsecretory adenocarcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8502/3",
+  "term": "Secretory carcinoma of breast",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8525/3",
+  "term": "Cribriform adenocarcinoma of salivary gland",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8525/3",
+  "term": "Cribriform polymorphous adenocarcinoma (cribriform adenocarcinoma of the salivary glands)",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8525/3",
+  "term": "Polymorphous adenocarcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8525/3",
+  "term": "Polymorphous adenocarcinoma, conventional subtype",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8525/3",
+  "term": "Polymorphous adenocarcinoma, cribriform subtype",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8525/3",
+  "term": "Polymorphous adenocarcinoma, cribriform subtype/cribriform adenocarcinoma of salivary glands",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8525/3",
+  "term": "Polymorphous carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8525/3",
+  "term": "Polymorphous low grade adenocarcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8525/3",
+  "term": "Terminal duct adenocarcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8550/3",
+  "term": "Pancreatic acinar cell carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8560/3",
+  "term": "Prostatic carcinoma with adenosquamous differentiation",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8560/3",
+  "term": "Squamoid eccrine ductal carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8562/3",
+  "term": "Adenomyoepithelial carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8720/2",
+  "term": "High-grade conjunctival melanocytic intraepithelial lesion",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8720/3",
+  "term": "Choroidal melanoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8720/3",
+  "term": "Ciliary body melanoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8720/3",
+  "term": "Conjunctival melanoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8720/3",
+  "term": "Iris melanoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8720/3",
+  "term": "Melanoma, meningeal",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8720/3",
+  "term": "Meningeal melanoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8720/3",
+  "term": "Mucosal melanoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8720/3",
+  "term": "Retinoinvasive melanoma",
+  "audit": "WRONG_SITE",
+  "corrected_codes": [
+   "C693",
+   "C694"
+  ],
+  "correction_reason": "Retinoinvasive melanoma is a variant of uveal melanoma that ARISES in the iris/ciliary body (and choroid) and secondarily INVADES the neurosensory retina at a distant site; the retina (C692) is a site of invasion, not origin, and the sensory retina has no melanocytes, so the site of origin is the uvea (ciliary body C694 / choroid C693).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5757583/"
+ },
+ {
+  "code": "8720/3",
+  "term": "Ring melanoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8720/3",
+  "term": "Uveal melanoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8721/3",
+  "term": "Nodular mucosal melanoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8746/3",
+  "term": "Mucosal lentiginous melanoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8804/3",
+  "term": "Classic epithelioid sarcoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8804/3",
+  "term": "Epithelioid sarcoma, classic",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8804/3",
+  "term": "Epithelioid sarcoma, conventional",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8804/3",
+  "term": "Epithelioid sarcoma, distal",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8805/3",
+  "term": "Undifferentiated uterine sarcoma",
+  "audit": "WRONG_SITE",
+  "corrected_codes": [
+   "C540",
+   "C541",
+   "C542",
+   "C543",
+   "C548",
+   "C549"
+  ],
+  "correction_reason": "Undifferentiated uterine sarcoma (WHO endometrial stromal tumour category) arises in the endometrium/myometrium of the uterine CORPUS, not the cervix; the four assigned cervix codes (C530/C531/C538/C539) are the wrong organ subsite, and the correct site is corpus uteri (C540-C549).",
+  "source": "https://my.clevelandclinic.org/health/diseases/16408-uterine-sarcoma"
+ },
+ {
+  "code": "8900/3",
+  "term": "Rhabdomyosarcoma with TFCP2 rearrangement",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8900/3",
+  "term": "Rhabdosarcoma with TFCP2 rearrangement",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8910/3",
+  "term": "Botryoid rhabdomyosarcoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8910/3",
+  "term": "Botryoid sarcoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8910/3",
+  "term": "Sarcoma botryoides",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8912/3",
+  "term": "Intraosseous spindle cell rhabdomyosarcoma (with TFCP2/NCOA2 rearrangements)",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8912/3",
+  "term": "Intraosseous spindle cell rhabdomyosarcoma with TFCP2/NCOA2 rearrangements",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8980/3",
+  "term": "Carcinosarcoma of salivary gland",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9270/3",
+  "term": "Central intraosseous mucoepidermoid carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9270/3",
+  "term": "Central intraosseous mucoepidermoid tumor",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9270/3",
+  "term": "Primary intraosseous carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9270/3",
+  "term": "Primary intraosseous squamous cell carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9270/3",
+  "term": "Sclerosing odontogenic carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9302/3",
+  "term": "Ghost cell odontogenic carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9341/3",
+  "term": "Clear cell odontogenic carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9341/3",
+  "term": "Clear cell odontogenic tumor",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9591/3",
+  "term": "Splenic B-cell lymphoma/Leukemia with prominent nucleoli",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9591/3",
+  "term": "Splenic B-cell lymphoma/leukemia with prominent nuclei",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9591/3",
+  "term": "Splenic B-cell lymphoma/leukemia, unclassifiable",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9591/3",
+  "term": "Splenic diffuse red pulp small B-cell lymphoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9596/3",
+  "term": "Mediastinal gray zone lymphoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9673/3",
+  "term": "Leukemic non-nodal mantle cell lymphoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9673/3",
+  "term": "Malignant lymphomatous polyposis",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9695/3",
+  "term": "Duodenal-type follicular lymphoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9695/3",
+  "term": "Follicular lymphoma, duodenal type",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9695/3",
+  "term": "Follicular lymphoma, duodenal-type",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9695/3",
+  "term": "Primary intestinal follicular lymphoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9698/3",
+  "term": "Large B-cell lymphoma with IRF4 rearrangement",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9699/3",
+  "term": "Heavy chain class-switched subtype of primary cutaneous marginal zone lymphoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9699/3",
+  "term": "IgM-positive non\u2013class-switched subtype of primary cutaneous marginal zone lymphoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9699/3",
+  "term": "MALT lymphoma of the dura",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9699/3",
+  "term": "Nodal marginal zone lymphoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9699/3",
+  "term": "Primary choroidal lymphoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9699/3",
+  "term": "Primary cutaneous marginal zone lymphoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9699/3",
+  "term": "Primary cutaneous marginal zone lymphoma (PCMZL)",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9699/3",
+  "term": "Primary cutaneous marginal zone lymphoma, IgM-positive non-class-switched subtype",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9699/3",
+  "term": "Primary cutaneous marginal zone lymphoma, heavy chain class-switched form",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9699/3",
+  "term": "Primary cutaneous marginal zone lymphoma, heavy chain class-switched form (IgG+, IgA+, or IgE+)",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9699/3",
+  "term": "Primary cutaneous marginal zone lymphoma, heavy chain class-switched subtype",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9699/3",
+  "term": "Primary cutaneous marginal zone lymphoma, non-class-switched form",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9699/3",
+  "term": "Primary cutaneous marginal zone lymphoma, non-class-switched form (IgM+)",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9699/3",
+  "term": "Primary cutaneous marginal zone lymphoproliferative disorder",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9699/3",
+  "term": "SALT lymphoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ }
+]

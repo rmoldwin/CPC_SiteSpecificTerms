@@ -1,0 +1,192 @@
+[
+ {
+  "code": "9734/3",
+  "term": "Extraosseous plasmacytoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Extraosseous/extramedullary plasmacytoma is a plasma-cell neoplasm arising in soft tissue outside bone; although ~80% occur in the upper aerodigestive (head/neck) mucosa, authoritative sources document occurrence throughout the body (GI tract, lymph nodes, bladder, breast, thyroid, testis, parotid, skin, CNS), spanning essentially the entire ceiling. The head/neck predilection is a frequency observation, not an anatomic restriction, so the term is not confined to a proper subset.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf59e3e27c3994bd548c/",
+  "source_name": "NCI SEER Hematopoietic Database (ICD-O-3.2) \u2014 Plasmacytoma, extramedullary"
+ },
+ {
+  "code": "9734/3",
+  "term": "Plasmacytoma, extramedullary",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Extraosseous/extramedullary plasmacytoma is a plasma-cell neoplasm arising in soft tissue outside bone; although ~80% occur in the upper aerodigestive (head/neck) mucosa, authoritative sources document occurrence throughout the body (GI tract, lymph nodes, bladder, breast, thyroid, testis, parotid, skin, CNS), spanning essentially the entire ceiling. The head/neck predilection is a frequency observation, not an anatomic restriction, so the term is not confined to a proper subset.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf59e3e27c3994bd548c/",
+  "source_name": "NCI SEER Hematopoietic Database (ICD-O-3.2) \u2014 Plasmacytoma, extramedullary"
+ },
+ {
+  "code": "9823/3",
+  "term": "B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "CLL/SLL (and all its synonyms) is a systemic mature B-cell neoplasm involving blood, marrow, lymph nodes, spleen and virtually any nodal/extranodal tissue (skin, GI tract, CNS, liver, lung, etc.); it is not anatomically restricted to a proper subset of its ceiling. These are broad, multi-site lymphoid morphologic entities, so not site-specific.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11358350/",
+  "source_name": "Annals of Hematology \u2014 Extramedullary and extranodal manifestations in CLL/SLL (PMC11358350)"
+ },
+ {
+  "code": "9823/3",
+  "term": "Chronic lymphatic leukemia",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "CLL/SLL (and all its synonyms) is a systemic mature B-cell neoplasm involving blood, marrow, lymph nodes, spleen and virtually any nodal/extranodal tissue (skin, GI tract, CNS, liver, lung, etc.); it is not anatomically restricted to a proper subset of its ceiling. These are broad, multi-site lymphoid morphologic entities, so not site-specific.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11358350/",
+  "source_name": "Annals of Hematology \u2014 Extramedullary and extranodal manifestations in CLL/SLL (PMC11358350)"
+ },
+ {
+  "code": "9823/3",
+  "term": "Chronic lymphocytic leukemia",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "CLL/SLL (and all its synonyms) is a systemic mature B-cell neoplasm involving blood, marrow, lymph nodes, spleen and virtually any nodal/extranodal tissue (skin, GI tract, CNS, liver, lung, etc.); it is not anatomically restricted to a proper subset of its ceiling. These are broad, multi-site lymphoid morphologic entities, so not site-specific.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11358350/",
+  "source_name": "Annals of Hematology \u2014 Extramedullary and extranodal manifestations in CLL/SLL (PMC11358350)"
+ },
+ {
+  "code": "9823/3",
+  "term": "Chronic lymphocytic leukemia, B-cell type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "CLL/SLL (and all its synonyms) is a systemic mature B-cell neoplasm involving blood, marrow, lymph nodes, spleen and virtually any nodal/extranodal tissue (skin, GI tract, CNS, liver, lung, etc.); it is not anatomically restricted to a proper subset of its ceiling. These are broad, multi-site lymphoid morphologic entities, so not site-specific.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11358350/",
+  "source_name": "Annals of Hematology \u2014 Extramedullary and extranodal manifestations in CLL/SLL (PMC11358350)"
+ },
+ {
+  "code": "9823/3",
+  "term": "Chronic lymphoid leukemia",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "CLL/SLL (and all its synonyms) is a systemic mature B-cell neoplasm involving blood, marrow, lymph nodes, spleen and virtually any nodal/extranodal tissue (skin, GI tract, CNS, liver, lung, etc.); it is not anatomically restricted to a proper subset of its ceiling. These are broad, multi-site lymphoid morphologic entities, so not site-specific.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11358350/",
+  "source_name": "Annals of Hematology \u2014 Extramedullary and extranodal manifestations in CLL/SLL (PMC11358350)"
+ },
+ {
+  "code": "9823/3",
+  "term": "Chronic\u00a0lymphocytic\u00a0leukemia/small\u00a0lymphocytic\u00a0lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "CLL/SLL (and all its synonyms) is a systemic mature B-cell neoplasm involving blood, marrow, lymph nodes, spleen and virtually any nodal/extranodal tissue (skin, GI tract, CNS, liver, lung, etc.); it is not anatomically restricted to a proper subset of its ceiling. These are broad, multi-site lymphoid morphologic entities, so not site-specific.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11358350/",
+  "source_name": "Annals of Hematology \u2014 Extramedullary and extranodal manifestations in CLL/SLL (PMC11358350)"
+ },
+ {
+  "code": "9823/3",
+  "term": "Malignant lymphoma, lymphocytic, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "CLL/SLL (and all its synonyms) is a systemic mature B-cell neoplasm involving blood, marrow, lymph nodes, spleen and virtually any nodal/extranodal tissue (skin, GI tract, CNS, liver, lung, etc.); it is not anatomically restricted to a proper subset of its ceiling. These are broad, multi-site lymphoid morphologic entities, so not site-specific.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11358350/",
+  "source_name": "Annals of Hematology \u2014 Extramedullary and extranodal manifestations in CLL/SLL (PMC11358350)"
+ },
+ {
+  "code": "9823/3",
+  "term": "Malignant lymphoma, lymphocytic, diffuse, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "CLL/SLL (and all its synonyms) is a systemic mature B-cell neoplasm involving blood, marrow, lymph nodes, spleen and virtually any nodal/extranodal tissue (skin, GI tract, CNS, liver, lung, etc.); it is not anatomically restricted to a proper subset of its ceiling. These are broad, multi-site lymphoid morphologic entities, so not site-specific.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11358350/",
+  "source_name": "Annals of Hematology \u2014 Extramedullary and extranodal manifestations in CLL/SLL (PMC11358350)"
+ },
+ {
+  "code": "9823/3",
+  "term": "Malignant lymphoma, lymphocytic, well-differentiated, diffuse",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "CLL/SLL (and all its synonyms) is a systemic mature B-cell neoplasm involving blood, marrow, lymph nodes, spleen and virtually any nodal/extranodal tissue (skin, GI tract, CNS, liver, lung, etc.); it is not anatomically restricted to a proper subset of its ceiling. These are broad, multi-site lymphoid morphologic entities, so not site-specific.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11358350/",
+  "source_name": "Annals of Hematology \u2014 Extramedullary and extranodal manifestations in CLL/SLL (PMC11358350)"
+ },
+ {
+  "code": "9823/3",
+  "term": "Malignant lymphoma, small B lymphocytic, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "CLL/SLL (and all its synonyms) is a systemic mature B-cell neoplasm involving blood, marrow, lymph nodes, spleen and virtually any nodal/extranodal tissue (skin, GI tract, CNS, liver, lung, etc.); it is not anatomically restricted to a proper subset of its ceiling. These are broad, multi-site lymphoid morphologic entities, so not site-specific.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11358350/",
+  "source_name": "Annals of Hematology \u2014 Extramedullary and extranodal manifestations in CLL/SLL (PMC11358350)"
+ },
+ {
+  "code": "9823/3",
+  "term": "Malignant lymphoma, small cell diffuse",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "CLL/SLL (and all its synonyms) is a systemic mature B-cell neoplasm involving blood, marrow, lymph nodes, spleen and virtually any nodal/extranodal tissue (skin, GI tract, CNS, liver, lung, etc.); it is not anatomically restricted to a proper subset of its ceiling. These are broad, multi-site lymphoid morphologic entities, so not site-specific.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11358350/",
+  "source_name": "Annals of Hematology \u2014 Extramedullary and extranodal manifestations in CLL/SLL (PMC11358350)"
+ },
+ {
+  "code": "9823/3",
+  "term": "Malignant lymphoma, small cell, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "CLL/SLL (and all its synonyms) is a systemic mature B-cell neoplasm involving blood, marrow, lymph nodes, spleen and virtually any nodal/extranodal tissue (skin, GI tract, CNS, liver, lung, etc.); it is not anatomically restricted to a proper subset of its ceiling. These are broad, multi-site lymphoid morphologic entities, so not site-specific.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11358350/",
+  "source_name": "Annals of Hematology \u2014 Extramedullary and extranodal manifestations in CLL/SLL (PMC11358350)"
+ },
+ {
+  "code": "9823/3",
+  "term": "Malignant lymphoma, small lymphocytic, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "CLL/SLL (and all its synonyms) is a systemic mature B-cell neoplasm involving blood, marrow, lymph nodes, spleen and virtually any nodal/extranodal tissue (skin, GI tract, CNS, liver, lung, etc.); it is not anatomically restricted to a proper subset of its ceiling. These are broad, multi-site lymphoid morphologic entities, so not site-specific.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11358350/",
+  "source_name": "Annals of Hematology \u2014 Extramedullary and extranodal manifestations in CLL/SLL (PMC11358350)"
+ },
+ {
+  "code": "9823/3",
+  "term": "Malignant lymphoma, small lymphocytic, diffuse",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "CLL/SLL (and all its synonyms) is a systemic mature B-cell neoplasm involving blood, marrow, lymph nodes, spleen and virtually any nodal/extranodal tissue (skin, GI tract, CNS, liver, lung, etc.); it is not anatomically restricted to a proper subset of its ceiling. These are broad, multi-site lymphoid morphologic entities, so not site-specific.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11358350/",
+  "source_name": "Annals of Hematology \u2014 Extramedullary and extranodal manifestations in CLL/SLL (PMC11358350)"
+ },
+ {
+  "code": "9930/3",
+  "term": "Chloroma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Myeloid sarcoma (chloroma / granulocytic sarcoma) is an extramedullary myeloid-blast tumor that can occur at almost any anatomic site of the body except bone marrow (skin, lymph nodes, GI tract, bone, soft tissue, testis, head/neck, brain, lungs, reproductive organs, etc.), spanning the full ceiling. It is therefore not restricted to a proper subset.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd53a2/",
+  "source_name": "NCI SEER Hematopoietic Database (ICD-O-3.2) \u2014 Myeloid sarcoma"
+ },
+ {
+  "code": "9930/3",
+  "term": "Granulocytic sarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Myeloid sarcoma (chloroma / granulocytic sarcoma) is an extramedullary myeloid-blast tumor that can occur at almost any anatomic site of the body except bone marrow (skin, lymph nodes, GI tract, bone, soft tissue, testis, head/neck, brain, lungs, reproductive organs, etc.), spanning the full ceiling. It is therefore not restricted to a proper subset.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd53a2/",
+  "source_name": "NCI SEER Hematopoietic Database (ICD-O-3.2) \u2014 Myeloid sarcoma"
+ },
+ {
+  "code": "9930/3",
+  "term": "Myeloid sarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Myeloid sarcoma (chloroma / granulocytic sarcoma) is an extramedullary myeloid-blast tumor that can occur at almost any anatomic site of the body except bone marrow (skin, lymph nodes, GI tract, bone, soft tissue, testis, head/neck, brain, lungs, reproductive organs, etc.), spanning the full ceiling. It is therefore not restricted to a proper subset.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd53a2/",
+  "source_name": "NCI SEER Hematopoietic Database (ICD-O-3.2) \u2014 Myeloid sarcoma"
+ }
+]

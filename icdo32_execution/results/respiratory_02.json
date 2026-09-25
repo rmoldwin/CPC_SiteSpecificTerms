@@ -1,0 +1,580 @@
+[
+ {
+  "code": "8580/3",
+  "term": "Metaplastic thymoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Thymic epithelial tumor variant; all thymoma/thymic carcinoma subtypes arise from the thymus and share the same anatomic home. This term is not restricted to a proper subset of its code's 2-code ceiling relative to the other terms sharing that code.",
+  "source": "https://training.seer.cancer.gov/arc_neoplasms/codes.html",
+  "source_name": "SEER ICD-O topography codes (C37.9 Thymus)"
+ },
+ {
+  "code": "8580/3",
+  "term": "Sclerosing thymoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Thymic epithelial tumor variant; all thymoma/thymic carcinoma subtypes arise from the thymus and share the same anatomic home. This term is not restricted to a proper subset of its code's 2-code ceiling relative to the other terms sharing that code.",
+  "source": "https://training.seer.cancer.gov/arc_neoplasms/codes.html",
+  "source_name": "SEER ICD-O topography codes (C37.9 Thymus)"
+ },
+ {
+  "code": "8580/3",
+  "term": "Thymoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Thymic epithelial tumor variant; all thymoma/thymic carcinoma subtypes arise from the thymus and share the same anatomic home. This term is not restricted to a proper subset of its code's 2-code ceiling relative to the other terms sharing that code.",
+  "source": "https://training.seer.cancer.gov/arc_neoplasms/codes.html",
+  "source_name": "SEER ICD-O topography codes (C37.9 Thymus)"
+ },
+ {
+  "code": "8581/3",
+  "term": "Atypical type A thymoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Thymic epithelial tumor variant; all thymoma/thymic carcinoma subtypes arise from the thymus and share the same anatomic home. This term is not restricted to a proper subset of its code's 2-code ceiling relative to the other terms sharing that code.",
+  "source": "https://training.seer.cancer.gov/arc_neoplasms/codes.html",
+  "source_name": "SEER ICD-O topography codes (C37.9 Thymus)"
+ },
+ {
+  "code": "8581/3",
+  "term": "Thymoma, medullary",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Thymic epithelial tumor variant; all thymoma/thymic carcinoma subtypes arise from the thymus and share the same anatomic home. This term is not restricted to a proper subset of its code's 2-code ceiling relative to the other terms sharing that code.",
+  "source": "https://training.seer.cancer.gov/arc_neoplasms/codes.html",
+  "source_name": "SEER ICD-O topography codes (C37.9 Thymus)"
+ },
+ {
+  "code": "8581/3",
+  "term": "Thymoma, spindle cell",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Thymic epithelial tumor variant; all thymoma/thymic carcinoma subtypes arise from the thymus and share the same anatomic home. This term is not restricted to a proper subset of its code's 2-code ceiling relative to the other terms sharing that code.",
+  "source": "https://training.seer.cancer.gov/arc_neoplasms/codes.html",
+  "source_name": "SEER ICD-O topography codes (C37.9 Thymus)"
+ },
+ {
+  "code": "8581/3",
+  "term": "Thymoma, type A",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Thymic epithelial tumor variant; all thymoma/thymic carcinoma subtypes arise from the thymus and share the same anatomic home. This term is not restricted to a proper subset of its code's 2-code ceiling relative to the other terms sharing that code.",
+  "source": "https://training.seer.cancer.gov/arc_neoplasms/codes.html",
+  "source_name": "SEER ICD-O topography codes (C37.9 Thymus)"
+ },
+ {
+  "code": "8581/3",
+  "term": "Thymoma, type A, malignant",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Thymic epithelial tumor variant; all thymoma/thymic carcinoma subtypes arise from the thymus and share the same anatomic home. This term is not restricted to a proper subset of its code's 2-code ceiling relative to the other terms sharing that code.",
+  "source": "https://training.seer.cancer.gov/arc_neoplasms/codes.html",
+  "source_name": "SEER ICD-O topography codes (C37.9 Thymus)"
+ },
+ {
+  "code": "8582/3",
+  "term": "Thymoma, mixed type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Thymic epithelial tumor variant; all thymoma/thymic carcinoma subtypes arise from the thymus and share the same anatomic home. This term is not restricted to a proper subset of its code's 2-code ceiling relative to the other terms sharing that code.",
+  "source": "https://training.seer.cancer.gov/arc_neoplasms/codes.html",
+  "source_name": "SEER ICD-O topography codes (C37.9 Thymus)"
+ },
+ {
+  "code": "8582/3",
+  "term": "Thymoma, type AB",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Thymic epithelial tumor variant; all thymoma/thymic carcinoma subtypes arise from the thymus and share the same anatomic home. This term is not restricted to a proper subset of its code's 2-code ceiling relative to the other terms sharing that code.",
+  "source": "https://training.seer.cancer.gov/arc_neoplasms/codes.html",
+  "source_name": "SEER ICD-O topography codes (C37.9 Thymus)"
+ },
+ {
+  "code": "8582/3",
+  "term": "Thymoma, type AB, malignant",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Thymic epithelial tumor variant; all thymoma/thymic carcinoma subtypes arise from the thymus and share the same anatomic home. This term is not restricted to a proper subset of its code's 2-code ceiling relative to the other terms sharing that code.",
+  "source": "https://training.seer.cancer.gov/arc_neoplasms/codes.html",
+  "source_name": "SEER ICD-O topography codes (C37.9 Thymus)"
+ },
+ {
+  "code": "8583/3",
+  "term": "Thymoma, lymphocyte-rich",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Thymic epithelial tumor variant; all thymoma/thymic carcinoma subtypes arise from the thymus and share the same anatomic home. This term is not restricted to a proper subset of its code's 2-code ceiling relative to the other terms sharing that code.",
+  "source": "https://training.seer.cancer.gov/arc_neoplasms/codes.html",
+  "source_name": "SEER ICD-O topography codes (C37.9 Thymus)"
+ },
+ {
+  "code": "8583/3",
+  "term": "Thymoma, lymphocytic",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Thymic epithelial tumor variant; all thymoma/thymic carcinoma subtypes arise from the thymus and share the same anatomic home. This term is not restricted to a proper subset of its code's 2-code ceiling relative to the other terms sharing that code.",
+  "source": "https://training.seer.cancer.gov/arc_neoplasms/codes.html",
+  "source_name": "SEER ICD-O topography codes (C37.9 Thymus)"
+ },
+ {
+  "code": "8583/3",
+  "term": "Thymoma, organoid",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Thymic epithelial tumor variant; all thymoma/thymic carcinoma subtypes arise from the thymus and share the same anatomic home. This term is not restricted to a proper subset of its code's 2-code ceiling relative to the other terms sharing that code.",
+  "source": "https://training.seer.cancer.gov/arc_neoplasms/codes.html",
+  "source_name": "SEER ICD-O topography codes (C37.9 Thymus)"
+ },
+ {
+  "code": "8583/3",
+  "term": "Thymoma, predominantly cortical",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Thymic epithelial tumor variant; all thymoma/thymic carcinoma subtypes arise from the thymus and share the same anatomic home. This term is not restricted to a proper subset of its code's 2-code ceiling relative to the other terms sharing that code.",
+  "source": "https://training.seer.cancer.gov/arc_neoplasms/codes.html",
+  "source_name": "SEER ICD-O topography codes (C37.9 Thymus)"
+ },
+ {
+  "code": "8583/3",
+  "term": "Thymoma, type B1",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Thymic epithelial tumor variant; all thymoma/thymic carcinoma subtypes arise from the thymus and share the same anatomic home. This term is not restricted to a proper subset of its code's 2-code ceiling relative to the other terms sharing that code.",
+  "source": "https://training.seer.cancer.gov/arc_neoplasms/codes.html",
+  "source_name": "SEER ICD-O topography codes (C37.9 Thymus)"
+ },
+ {
+  "code": "8583/3",
+  "term": "Thymoma, type B1, malignant",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Thymic epithelial tumor variant; all thymoma/thymic carcinoma subtypes arise from the thymus and share the same anatomic home. This term is not restricted to a proper subset of its code's 2-code ceiling relative to the other terms sharing that code.",
+  "source": "https://training.seer.cancer.gov/arc_neoplasms/codes.html",
+  "source_name": "SEER ICD-O topography codes (C37.9 Thymus)"
+ },
+ {
+  "code": "8584/3",
+  "term": "Thymoma, cortical",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Thymic epithelial tumor variant; all thymoma/thymic carcinoma subtypes arise from the thymus and share the same anatomic home. This term is not restricted to a proper subset of its code's 2-code ceiling relative to the other terms sharing that code.",
+  "source": "https://training.seer.cancer.gov/arc_neoplasms/codes.html",
+  "source_name": "SEER ICD-O topography codes (C37.9 Thymus)"
+ },
+ {
+  "code": "8584/3",
+  "term": "Thymoma, type B2",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Thymic epithelial tumor variant; all thymoma/thymic carcinoma subtypes arise from the thymus and share the same anatomic home. This term is not restricted to a proper subset of its code's 2-code ceiling relative to the other terms sharing that code.",
+  "source": "https://training.seer.cancer.gov/arc_neoplasms/codes.html",
+  "source_name": "SEER ICD-O topography codes (C37.9 Thymus)"
+ },
+ {
+  "code": "8584/3",
+  "term": "Thymoma, type B2, malignant",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Thymic epithelial tumor variant; all thymoma/thymic carcinoma subtypes arise from the thymus and share the same anatomic home. This term is not restricted to a proper subset of its code's 2-code ceiling relative to the other terms sharing that code.",
+  "source": "https://training.seer.cancer.gov/arc_neoplasms/codes.html",
+  "source_name": "SEER ICD-O topography codes (C37.9 Thymus)"
+ },
+ {
+  "code": "8585/3",
+  "term": "Thymoma, atypical",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Thymic epithelial tumor variant; all thymoma/thymic carcinoma subtypes arise from the thymus and share the same anatomic home. This term is not restricted to a proper subset of its code's 2-code ceiling relative to the other terms sharing that code.",
+  "source": "https://training.seer.cancer.gov/arc_neoplasms/codes.html",
+  "source_name": "SEER ICD-O topography codes (C37.9 Thymus)"
+ },
+ {
+  "code": "8585/3",
+  "term": "Thymoma, epithelial",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Thymic epithelial tumor variant; all thymoma/thymic carcinoma subtypes arise from the thymus and share the same anatomic home. This term is not restricted to a proper subset of its code's 2-code ceiling relative to the other terms sharing that code.",
+  "source": "https://training.seer.cancer.gov/arc_neoplasms/codes.html",
+  "source_name": "SEER ICD-O topography codes (C37.9 Thymus)"
+ },
+ {
+  "code": "8585/3",
+  "term": "Thymoma, type B3",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Thymic epithelial tumor variant; all thymoma/thymic carcinoma subtypes arise from the thymus and share the same anatomic home. This term is not restricted to a proper subset of its code's 2-code ceiling relative to the other terms sharing that code.",
+  "source": "https://training.seer.cancer.gov/arc_neoplasms/codes.html",
+  "source_name": "SEER ICD-O topography codes (C37.9 Thymus)"
+ },
+ {
+  "code": "8585/3",
+  "term": "Thymoma, type B3, malignant",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Thymic epithelial tumor variant; all thymoma/thymic carcinoma subtypes arise from the thymus and share the same anatomic home. This term is not restricted to a proper subset of its code's 2-code ceiling relative to the other terms sharing that code.",
+  "source": "https://training.seer.cancer.gov/arc_neoplasms/codes.html",
+  "source_name": "SEER ICD-O topography codes (C37.9 Thymus)"
+ },
+ {
+  "code": "8585/3",
+  "term": "Well differentiated thymic carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Thymic epithelial tumor variant; all thymoma/thymic carcinoma subtypes arise from the thymus and share the same anatomic home. This term is not restricted to a proper subset of its code's 2-code ceiling relative to the other terms sharing that code.",
+  "source": "https://training.seer.cancer.gov/arc_neoplasms/codes.html",
+  "source_name": "SEER ICD-O topography codes (C37.9 Thymus)"
+ },
+ {
+  "code": "8586/3",
+  "term": "Thymic carcinoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Thymic epithelial tumor variant; all thymoma/thymic carcinoma subtypes arise from the thymus and share the same anatomic home. This term is not restricted to a proper subset of its code's 2-code ceiling relative to the other terms sharing that code.",
+  "source": "https://training.seer.cancer.gov/arc_neoplasms/codes.html",
+  "source_name": "SEER ICD-O topography codes (C37.9 Thymus)"
+ },
+ {
+  "code": "8586/3",
+  "term": "Thymoma, type C",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Thymic epithelial tumor variant; all thymoma/thymic carcinoma subtypes arise from the thymus and share the same anatomic home. This term is not restricted to a proper subset of its code's 2-code ceiling relative to the other terms sharing that code.",
+  "source": "https://training.seer.cancer.gov/arc_neoplasms/codes.html",
+  "source_name": "SEER ICD-O topography codes (C37.9 Thymus)"
+ },
+ {
+  "code": "8700/3",
+  "term": "Adrenal composite paraganglion tumor",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "site_subset_labels": [
+   "Adrenal cortex",
+   "Adrenal medulla",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7403630/",
+  "source_name": "Guilmette & Sadow, WHO 2017 Endocrine classification review (PMC7403630)"
+ },
+ {
+  "code": "8700/3",
+  "term": "Adrenal composite pheochromocytoma-paraganglioma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "site_subset_labels": [
+   "Adrenal cortex",
+   "Adrenal medulla",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/18684026/",
+  "source_name": "Tischler, WHO definition: pheochromocytoma = intra-adrenal sympathetic paraganglioma (PubMed 18684026)"
+ },
+ {
+  "code": "8700/3",
+  "term": "Adrenal medullary paraganglioma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "site_subset_labels": [
+   "Adrenal cortex",
+   "Adrenal medulla",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7403630/",
+  "source_name": "Guilmette & Sadow, WHO 2017 Endocrine classification review (PMC7403630)"
+ },
+ {
+  "code": "8700/3",
+  "term": "Chromaffin paraganglioma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "site_subset_labels": [
+   "Adrenal cortex",
+   "Adrenal medulla",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source": "https://en.wikipedia.org/wiki/Pheochromocytoma",
+  "source_name": "Pheochromocytoma (Wikipedia) - adrenal medullary/chromaffin cell tumor synonyms"
+ },
+ {
+  "code": "8700/3",
+  "term": "Chromaffin tumor",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "site_subset_labels": [
+   "Adrenal cortex",
+   "Adrenal medulla",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source": "https://en.wikipedia.org/wiki/Pheochromocytoma",
+  "source_name": "Pheochromocytoma (Wikipedia) - adrenal medullary/chromaffin cell tumor synonyms"
+ },
+ {
+  "code": "8700/3",
+  "term": "Chromaffinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "site_subset_labels": [
+   "Adrenal cortex",
+   "Adrenal medulla",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source": "https://en.wikipedia.org/wiki/Pheochromocytoma",
+  "source_name": "Pheochromocytoma (Wikipedia) - adrenal medullary/chromaffin cell tumor synonyms"
+ },
+ {
+  "code": "8700/3",
+  "term": "Composite paraganglion tumor, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic (para)ganglion tumor descriptor not restricted to the adrenal gland; composite paraganglion tumors occur at both adrenal and extra-adrenal/mediastinal sympathetic sites, so the term spans essentially the full code ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7403630/",
+  "source_name": "Guilmette & Sadow, WHO 2017 Endocrine classification review (PMC7403630)"
+ },
+ {
+  "code": "8700/3",
+  "term": "Composite paraganglion tumors",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic (para)ganglion tumor descriptor not restricted to the adrenal gland; composite paraganglion tumors occur at both adrenal and extra-adrenal/mediastinal sympathetic sites, so the term spans essentially the full code ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7403630/",
+  "source_name": "Guilmette & Sadow, WHO 2017 Endocrine classification review (PMC7403630)"
+ },
+ {
+  "code": "8700/3",
+  "term": "Composite pheochromocytoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "site_subset_labels": [
+   "Adrenal cortex",
+   "Adrenal medulla",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/18684026/",
+  "source_name": "Tischler, WHO definition: pheochromocytoma = intra-adrenal sympathetic paraganglioma (PubMed 18684026)"
+ },
+ {
+  "code": "8700/3",
+  "term": "Composite pheochromocytoma-ganglioneuroblastoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "site_subset_labels": [
+   "Adrenal cortex",
+   "Adrenal medulla",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/18684026/",
+  "source_name": "Tischler, WHO definition: pheochromocytoma = intra-adrenal sympathetic paraganglioma (PubMed 18684026)"
+ },
+ {
+  "code": "8700/3",
+  "term": "Composite pheochromocytoma-ganglioneuroma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "site_subset_labels": [
+   "Adrenal cortex",
+   "Adrenal medulla",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/18684026/",
+  "source_name": "Tischler, WHO definition: pheochromocytoma = intra-adrenal sympathetic paraganglioma (PubMed 18684026)"
+ },
+ {
+  "code": "8700/3",
+  "term": "Composite pheochromocytoma-neuroblastoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "site_subset_labels": [
+   "Adrenal cortex",
+   "Adrenal medulla",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/18684026/",
+  "source_name": "Tischler, WHO definition: pheochromocytoma = intra-adrenal sympathetic paraganglioma (PubMed 18684026)"
+ },
+ {
+  "code": "8700/3",
+  "term": "Composite pheochromocytoma–malignant peripheral nerve sheath tumor",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "site_subset_labels": [
+   "Adrenal cortex",
+   "Adrenal medulla",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/18684026/",
+  "source_name": "Tischler, WHO definition: pheochromocytoma = intra-adrenal sympathetic paraganglioma (PubMed 18684026)"
+ },
+ {
+  "code": "8700/3",
+  "term": "Composite pheochromocytoma–peripheral nerve sheath tumor",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "site_subset_labels": [
+   "Adrenal cortex",
+   "Adrenal medulla",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/18684026/",
+  "source_name": "Tischler, WHO definition: pheochromocytoma = intra-adrenal sympathetic paraganglioma (PubMed 18684026)"
+ },
+ {
+  "code": "8700/3",
+  "term": "Paraganglioma, adrenal sympathetic",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "site_subset_labels": [
+   "Adrenal cortex",
+   "Adrenal medulla",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7403630/",
+  "source_name": "Guilmette & Sadow, WHO 2017 Endocrine classification review (PMC7403630)"
+ },
+ {
+  "code": "8700/3",
+  "term": "Paraganglioma, adrenal, NOS",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "site_subset_labels": [
+   "Adrenal cortex",
+   "Adrenal medulla",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7403630/",
+  "source_name": "Guilmette & Sadow, WHO 2017 Endocrine classification review (PMC7403630)"
+ },
+ {
+  "code": "8700/3",
+  "term": "Paraganglioma, intra-adrenal",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "site_subset_labels": [
+   "Adrenal cortex",
+   "Adrenal medulla",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7403630/",
+  "source_name": "Guilmette & Sadow, WHO 2017 Endocrine classification review (PMC7403630)"
+ },
+ {
+  "code": "8700/3",
+  "term": "Pheochromoblastoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "site_subset_labels": [
+   "Adrenal cortex",
+   "Adrenal medulla",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/18684026/",
+  "source_name": "Tischler, WHO definition: pheochromocytoma = intra-adrenal sympathetic paraganglioma (PubMed 18684026)"
+ }
+]

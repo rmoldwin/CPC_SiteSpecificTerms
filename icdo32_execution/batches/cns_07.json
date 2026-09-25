@@ -1,0 +1,785 @@
+[
+ {
+  "code": "9424/3",
+  "term": "Anaplastic pleomorphic xanthoastrocytoma",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721",
+   "C728"
+  ]
+ },
+ {
+  "code": "9424/3",
+  "term": "Pleomorphic xanthoastrocytoma, NOS",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721",
+   "C728"
+  ]
+ },
+ {
+  "code": "9424/3",
+  "term": "Pleomorphic xanthoastrocytoma, grade 2",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721",
+   "C728"
+  ]
+ },
+ {
+  "code": "9424/3",
+  "term": "Pleomorphic xanthoastrocytoma, grade 3",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721",
+   "C728"
+  ]
+ },
+ {
+  "code": "9425/3",
+  "term": "Pilomyxoid astrocytoma",
+  "ceiling_count": 14,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C716",
+   "C717",
+   "C719",
+   "C720",
+   "C721",
+   "C722",
+   "C723",
+   "C724",
+   "C725"
+  ]
+ },
+ {
+  "code": "9430/3",
+  "term": "Astroblastoma",
+  "ceiling_count": 10,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C716",
+   "C717",
+   "C718",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9430/3",
+  "term": "Astroblastoma, MN1-altered",
+  "ceiling_count": 10,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C716",
+   "C717",
+   "C718",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9431/1",
+  "term": "Angiocentric glioma",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C716",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9440/3",
+  "term": "Epithelioid glioblastoma",
+  "ceiling_count": 18,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721",
+   "C722",
+   "C723",
+   "C724",
+   "C725",
+   "C728",
+   "C729"
+  ]
+ },
+ {
+  "code": "9440/3",
+  "term": "Glioblastoma multiforme",
+  "ceiling_count": 18,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721",
+   "C722",
+   "C723",
+   "C724",
+   "C725",
+   "C728",
+   "C729"
+  ]
+ },
+ {
+  "code": "9440/3",
+  "term": "Glioblastoma, IDH-wildtype",
+  "ceiling_count": 18,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721",
+   "C722",
+   "C723",
+   "C724",
+   "C725",
+   "C728",
+   "C729"
+  ]
+ },
+ {
+  "code": "9440/3",
+  "term": "Glioblastoma, NOS",
+  "ceiling_count": 18,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721",
+   "C722",
+   "C723",
+   "C724",
+   "C725",
+   "C728",
+   "C729"
+  ]
+ },
+ {
+  "code": "9440/3",
+  "term": "Glioblastoma, primary, NOS",
+  "ceiling_count": 18,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721",
+   "C722",
+   "C723",
+   "C724",
+   "C725",
+   "C728",
+   "C729"
+  ]
+ },
+ {
+  "code": "9440/3",
+  "term": "Spongioblastoma multiforme",
+  "ceiling_count": 18,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721",
+   "C722",
+   "C723",
+   "C724",
+   "C725",
+   "C728",
+   "C729"
+  ]
+ },
+ {
+  "code": "9441/3",
+  "term": "Giant cell glioblastoma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C716",
+   "C717",
+   "C718",
+   "C719"
+  ]
+ },
+ {
+  "code": "9441/3",
+  "term": "Monstrocellular sarcoma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C716",
+   "C717",
+   "C718",
+   "C719"
+  ]
+ },
+ {
+  "code": "9442/1",
+  "term": "Gliofibroma",
+  "ceiling_count": 5,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714"
+  ]
+ },
+ {
+  "code": "9442/3",
+  "term": "Glioblastoma with sarcomatous component",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9442/3",
+  "term": "Gliosarcoma",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9444/1",
+  "term": "Chordoid glioma",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9444/1",
+  "term": "Chordoid glioma of third ventricle",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9445/3",
+  "term": "Astrocytoma, IDH-mutant, grade 4",
+  "ceiling_count": 14,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721",
+   "C728",
+   "C729"
+  ]
+ },
+ {
+  "code": "9445/3",
+  "term": "Glioblastoma, IDH-mutant",
+  "ceiling_count": 14,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721",
+   "C728",
+   "C729"
+  ]
+ },
+ {
+  "code": "9445/3",
+  "term": "Glioblastoma, primary, IDH-mutant",
+  "ceiling_count": 14,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721",
+   "C728",
+   "C729"
+  ]
+ },
+ {
+  "code": "9445/3",
+  "term": "Glioblastoma, secondary, IDH-mutant",
+  "ceiling_count": 14,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721",
+   "C728",
+   "C729"
+  ]
+ },
+ {
+  "code": "9445/3",
+  "term": "Glioblastoma, secondary, NOS",
+  "ceiling_count": 14,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721",
+   "C728",
+   "C729"
+  ]
+ },
+ {
+  "code": "9450/3",
+  "term": "Oligodendroglioma, IDH-mutant and 1p/19q-codeleted",
+  "ceiling_count": 15,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721",
+   "C722",
+   "C723",
+   "C724",
+   "C725"
+  ]
+ },
+ {
+  "code": "9450/3",
+  "term": "Oligodendroglioma, IDH-mutant and 1p/19q-codeleted, grade 2",
+  "ceiling_count": 15,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721",
+   "C722",
+   "C723",
+   "C724",
+   "C725"
+  ]
+ },
+ {
+  "code": "9450/3",
+  "term": "Oligodendroglioma, IDH-mutant and 1p/19q-codeleted, low-grade",
+  "ceiling_count": 15,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721",
+   "C722",
+   "C723",
+   "C724",
+   "C725"
+  ]
+ },
+ {
+  "code": "9450/3",
+  "term": "Oligodendroglioma, NOS",
+  "ceiling_count": 15,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721",
+   "C722",
+   "C723",
+   "C724",
+   "C725"
+  ]
+ },
+ {
+  "code": "9451/3",
+  "term": "Oligodendroglioma, IDH-mutant and 1p/19q-codeleted, grade 3",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9451/3",
+  "term": "Oligodendroglioma, anaplastic, IDH-mutant and 1p/19q codeleted",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9451/3",
+  "term": "Oligodendroglioma, anaplastic, NOS",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9451/3",
+  "term": "Oligodendroglioma, high-grade, IDH-mutant and 1p/19q codeleted",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9451/3",
+  "term": "Oligodendroglioma, high-grade/grade 3, NOS",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9470/3",
+  "term": "Classic medulloblastoma",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C716",
+   "C717",
+   "C719"
+  ]
+ },
+ {
+  "code": "9470/3",
+  "term": "Medulloblastoma, NOS",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C716",
+   "C717",
+   "C719"
+  ]
+ },
+ {
+  "code": "9470/3",
+  "term": "Medulloblastoma, histologically defined",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C716",
+   "C717",
+   "C719"
+  ]
+ },
+ {
+  "code": "9470/3",
+  "term": "Melanotic medulloblastoma",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C716",
+   "C717",
+   "C719"
+  ]
+ },
+ {
+  "code": "9471/3",
+  "term": "Circumscribed arachnoidal cerebellar sarcoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C716",
+   "C717"
+  ]
+ },
+ {
+  "code": "9471/3",
+  "term": "Desmoplastic medulloblastoma, NOS",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C716",
+   "C717"
+  ]
+ },
+ {
+  "code": "9471/3",
+  "term": "Desmoplastic nodular medulloblastoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C716",
+   "C717"
+  ]
+ },
+ {
+  "code": "9471/3",
+  "term": "Medulloblastoma with extensive nodularity",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C716",
+   "C717"
+  ]
+ },
+ {
+  "code": "9471/3",
+  "term": "Medulloblastoma, SHH activated, NOS",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C716",
+   "C717"
+  ]
+ },
+ {
+  "code": "9471/3",
+  "term": "Medulloblastoma, SHH-activated and TP53-wildtype",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C716",
+   "C717"
+  ]
+ }
+]

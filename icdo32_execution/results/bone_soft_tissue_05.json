@@ -1,0 +1,490 @@
+[
+ {
+  "code": "9180/3",
+  "term": "Osteosarcoma, extraskeletal",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319",
+   "C480",
+   "C488",
+   "C490",
+   "C491",
+   "C492",
+   "C493",
+   "C494",
+   "C495",
+   "C496",
+   "C498",
+   "C499"
+  ],
+  "site_subset_labels": [
+   "Nasal cavity",
+   "Maxillary sinus",
+   "Ethmoid sinus",
+   "Frontal sinus",
+   "Sphenoid sinus",
+   "Overlapping lesion of accessory sinuses",
+   "Accessory sinus, NOS",
+   "Retroperitoneum",
+   "Overlapping lesion of retroperitoneum and peritoneum",
+   "Conn/subcut/soft tissue head/face/neck",
+   "Conn/soft tissue upper limb/shoulder",
+   "Conn/soft tissue lower limb/hip",
+   "Conn/soft tissue thorax",
+   "Conn/soft tissue abdomen",
+   "Conn/soft tissue pelvis",
+   "Conn/soft tissue trunk NOS",
+   "Overlapping lesion conn/soft tissue",
+   "Conn/soft tissue NOS"
+  ],
+  "rationale": "Extraskeletal (extraosseous) osteosarcoma is by definition a soft-tissue osteosarcoma that arises in soft tissue/organs WITHOUT attachment to bone or periosteum (thigh, extremities, retroperitoneum, trunk, and head/neck soft-tissue sites such as ethmoid sinus/orbit); it therefore excludes the bone C-codes (C40x/C41x) and is restricted to the non-osseous subset of the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4892767/",
+  "source_name": "Extraskeletal Osteosarcoma: An International Rare Cancer Network Study (Am J Clin Oncol, PMC4892767)"
+ },
+ {
+  "code": "9181/3",
+  "term": "Chondroblastic osteosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Histologic subtype of conventional osteosarcoma that arises within bone; in the literature it occurs across long bones and craniofacial/jaw bones, i.e. essentially all of the code's validated bone (and craniofacial) sites, so it is not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9182/3",
+  "term": "Fibroblastic osteosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Histologic subtype of conventional osteosarcoma that arises within bone; in the literature it occurs across long bones and craniofacial/jaw bones, i.e. essentially all of the code's validated bone (and craniofacial) sites, so it is not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9182/3",
+  "term": "Osteofibrosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Histologic subtype of conventional osteosarcoma that arises within bone; in the literature it occurs across long bones and craniofacial/jaw bones, i.e. essentially all of the code's validated bone (and craniofacial) sites, so it is not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9183/3",
+  "term": "Telangiectatic osteosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Histologic subtype of conventional osteosarcoma that arises within bone; in the literature it occurs across long bones and craniofacial/jaw bones, i.e. essentially all of the code's validated bone (and craniofacial) sites, so it is not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9184/3",
+  "term": "Implant-related osteosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Secondary/etiology-defined osteosarcoma of bone; the ceiling is already bone-only and these lesions occur in bones affected by the predisposing condition across the skeleton, not a documented proper subset of the bone C-codes.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9184/3",
+  "term": "Infarct-related osteosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Secondary/etiology-defined osteosarcoma of bone; the ceiling is already bone-only and these lesions occur in bones affected by the predisposing condition across the skeleton, not a documented proper subset of the bone C-codes.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9184/3",
+  "term": "Osteosarcoma due to chronic osteomyelitis",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Secondary/etiology-defined osteosarcoma of bone; the ceiling is already bone-only and these lesions occur in bones affected by the predisposing condition across the skeleton, not a documented proper subset of the bone C-codes.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9184/3",
+  "term": "Osteosarcoma in Paget disease of bone",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Secondary/etiology-defined osteosarcoma of bone; the ceiling is already bone-only and these lesions occur in bones affected by the predisposing condition across the skeleton, not a documented proper subset of the bone C-codes.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9184/3",
+  "term": "Osteosarcoma secondary to early postzygotic disorders such as fibrous dysplasia",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Secondary/etiology-defined osteosarcoma of bone; the ceiling is already bone-only and these lesions occur in bones affected by the predisposing condition across the skeleton, not a documented proper subset of the bone C-codes.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9184/3",
+  "term": "Osteosarcoma, implant-related",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Secondary/etiology-defined osteosarcoma of bone; the ceiling is already bone-only and these lesions occur in bones affected by the predisposing condition across the skeleton, not a documented proper subset of the bone C-codes.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9184/3",
+  "term": "Osteosarcoma, infarct-related",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Secondary/etiology-defined osteosarcoma of bone; the ceiling is already bone-only and these lesions occur in bones affected by the predisposing condition across the skeleton, not a documented proper subset of the bone C-codes.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9184/3",
+  "term": "Paget sarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Secondary/etiology-defined osteosarcoma of bone; the ceiling is already bone-only and these lesions occur in bones affected by the predisposing condition across the skeleton, not a documented proper subset of the bone C-codes.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9184/3",
+  "term": "Radiation-associated osteosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Secondary/etiology-defined osteosarcoma of bone; the ceiling is already bone-only and these lesions occur in bones affected by the predisposing condition across the skeleton, not a documented proper subset of the bone C-codes.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9184/3",
+  "term": "Radiation-associated sarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Secondary/etiology-defined osteosarcoma of bone; the ceiling is already bone-only and these lesions occur in bones affected by the predisposing condition across the skeleton, not a documented proper subset of the bone C-codes.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9184/3",
+  "term": "Radiation-induced osteosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Secondary/etiology-defined osteosarcoma of bone; the ceiling is already bone-only and these lesions occur in bones affected by the predisposing condition across the skeleton, not a documented proper subset of the bone C-codes.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9184/3",
+  "term": "Secondary osteosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Secondary/etiology-defined osteosarcoma of bone; the ceiling is already bone-only and these lesions occur in bones affected by the predisposing condition across the skeleton, not a documented proper subset of the bone C-codes.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9185/3",
+  "term": "Round cell osteosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's ceiling is already limited to bone sites (C40x/C41x) and this term is a bone osteosarcoma/chondrosarcoma variant occurring across the skeleton; no published evidence restricts it to a documented proper subset of those bone C-codes.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9185/3",
+  "term": "Small cell osteosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's ceiling is already limited to bone sites (C40x/C41x) and this term is a bone osteosarcoma/chondrosarcoma variant occurring across the skeleton; no published evidence restricts it to a documented proper subset of those bone C-codes.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9186/3",
+  "term": "Central osteosarcoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's ceiling is already limited to bone sites (C40x/C41x) and this term is a bone osteosarcoma/chondrosarcoma variant occurring across the skeleton; no published evidence restricts it to a documented proper subset of those bone C-codes.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9186/3",
+  "term": "Conventional central osteosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's ceiling is already limited to bone sites (C40x/C41x) and this term is a bone osteosarcoma/chondrosarcoma variant occurring across the skeleton; no published evidence restricts it to a documented proper subset of those bone C-codes.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9186/3",
+  "term": "Conventional osteosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's ceiling is already limited to bone sites (C40x/C41x) and this term is a bone osteosarcoma/chondrosarcoma variant occurring across the skeleton; no published evidence restricts it to a documented proper subset of those bone C-codes.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9186/3",
+  "term": "Intramedullary osteosarcoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's ceiling is already limited to bone sites (C40x/C41x) and this term is a bone osteosarcoma/chondrosarcoma variant occurring across the skeleton; no published evidence restricts it to a documented proper subset of those bone C-codes.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9186/3",
+  "term": "Medullary osteosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's ceiling is already limited to bone sites (C40x/C41x) and this term is a bone osteosarcoma/chondrosarcoma variant occurring across the skeleton; no published evidence restricts it to a documented proper subset of those bone C-codes.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9186/3",
+  "term": "Osteosarcoma, conventional",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's ceiling is already limited to bone sites (C40x/C41x) and this term is a bone osteosarcoma/chondrosarcoma variant occurring across the skeleton; no published evidence restricts it to a documented proper subset of those bone C-codes.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9187/3",
+  "term": "Intraosseous low grade osteosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's ceiling is already limited to bone sites (C40x/C41x) and this term is a bone osteosarcoma/chondrosarcoma variant occurring across the skeleton; no published evidence restricts it to a documented proper subset of those bone C-codes.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9187/3",
+  "term": "Intraosseous well differentiated osteosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's ceiling is already limited to bone sites (C40x/C41x) and this term is a bone osteosarcoma/chondrosarcoma variant occurring across the skeleton; no published evidence restricts it to a documented proper subset of those bone C-codes.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9187/3",
+  "term": "Low grade central osteosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's ceiling is already limited to bone sites (C40x/C41x) and this term is a bone osteosarcoma/chondrosarcoma variant occurring across the skeleton; no published evidence restricts it to a documented proper subset of those bone C-codes.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9187/3",
+  "term": "Low grade intramedullary osteosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's ceiling is already limited to bone sites (C40x/C41x) and this term is a bone osteosarcoma/chondrosarcoma variant occurring across the skeleton; no published evidence restricts it to a documented proper subset of those bone C-codes.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9187/3",
+  "term": "Well-differentiated intramedullary osteosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's ceiling is already limited to bone sites (C40x/C41x) and this term is a bone osteosarcoma/chondrosarcoma variant occurring across the skeleton; no published evidence restricts it to a documented proper subset of those bone C-codes.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9192/3",
+  "term": "Juxtacortical osteosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's ceiling is already limited to bone sites (C40x/C41x) and this term is a bone osteosarcoma/chondrosarcoma variant occurring across the skeleton; no published evidence restricts it to a documented proper subset of those bone C-codes.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9192/3",
+  "term": "Parosteal osteosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's ceiling is already limited to bone sites (C40x/C41x) and this term is a bone osteosarcoma/chondrosarcoma variant occurring across the skeleton; no published evidence restricts it to a documented proper subset of those bone C-codes.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9193/3",
+  "term": "Periosteal osteosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's ceiling is already limited to bone sites (C40x/C41x) and this term is a bone osteosarcoma/chondrosarcoma variant occurring across the skeleton; no published evidence restricts it to a documented proper subset of those bone C-codes.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9194/3",
+  "term": "High grade surface osteosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's ceiling is already limited to bone sites (C40x/C41x) and this term is a bone osteosarcoma/chondrosarcoma variant occurring across the skeleton; no published evidence restricts it to a documented proper subset of those bone C-codes.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9195/3",
+  "term": "Intracortical osteosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's ceiling is already limited to bone sites (C40x/C41x) and this term is a bone osteosarcoma/chondrosarcoma variant occurring across the skeleton; no published evidence restricts it to a documented proper subset of those bone C-codes.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9220/3",
+  "term": "Central chondrosarcoma, grade 2",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Chondrosarcoma variant occurring in both the axial/appendicular skeleton and the craniofacial region (sinonasal, skull base); it spans essentially all of the code's validated sites and is not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9220/3",
+  "term": "Central chondrosarcoma, grade 3",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Chondrosarcoma variant occurring in both the axial/appendicular skeleton and the craniofacial region (sinonasal, skull base); it spans essentially all of the code's validated sites and is not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9220/3",
+  "term": "Chondrosarcoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Chondrosarcoma variant occurring in both the axial/appendicular skeleton and the craniofacial region (sinonasal, skull base); it spans essentially all of the code's validated sites and is not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9220/3",
+  "term": "Chondrosarcoma, grade 2",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Chondrosarcoma variant occurring in both the axial/appendicular skeleton and the craniofacial region (sinonasal, skull base); it spans essentially all of the code's validated sites and is not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9220/3",
+  "term": "Chondrosarcoma, grade 3",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Chondrosarcoma variant occurring in both the axial/appendicular skeleton and the craniofacial region (sinonasal, skull base); it spans essentially all of the code's validated sites and is not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9220/3",
+  "term": "Fibrochondrosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Chondrosarcoma variant occurring in both the axial/appendicular skeleton and the craniofacial region (sinonasal, skull base); it spans essentially all of the code's validated sites and is not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9220/3",
+  "term": "Secondary peripheral chondrosarcoma, grade 2",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Chondrosarcoma variant occurring in both the axial/appendicular skeleton and the craniofacial region (sinonasal, skull base); it spans essentially all of the code's validated sites and is not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9220/3",
+  "term": "Secondary peripheral chondrosarcoma, grade 3",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Chondrosarcoma variant occurring in both the axial/appendicular skeleton and the craniofacial region (sinonasal, skull base); it spans essentially all of the code's validated sites and is not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9221/3",
+  "term": "Juxtacortical chondrosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's ceiling is already limited to bone sites (C40x/C41x) and this term is a bone osteosarcoma/chondrosarcoma variant occurring across the skeleton; no published evidence restricts it to a documented proper subset of those bone C-codes.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9221/3",
+  "term": "Periosteal chondrosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's ceiling is already limited to bone sites (C40x/C41x) and this term is a bone osteosarcoma/chondrosarcoma variant occurring across the skeleton; no published evidence restricts it to a documented proper subset of those bone C-codes.",
+  "source": "",
+  "source_name": ""
+ }
+]

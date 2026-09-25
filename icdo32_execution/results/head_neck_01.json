@@ -1,0 +1,558 @@
+[
+ {
+  "code": "8000/3",
+  "term": "Blastoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-specific malignant/neoplasm descriptor (NOS, cell-type, or unclassified) applied broadly across essentially all anatomic sites in the code's ceiling; not anatomically restricted.",
+  "source": "https://www.who.int/publications/i/item/9789283245063",
+  "source_name": "WHO Classification of Tumours 5th ed (general morphology NOS descriptor)"
+ },
+ {
+  "code": "8000/3",
+  "term": "Cancer",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-specific malignant/neoplasm descriptor (NOS, cell-type, or unclassified) applied broadly across essentially all anatomic sites in the code's ceiling; not anatomically restricted.",
+  "source": "https://www.who.int/publications/i/item/9789283245063",
+  "source_name": "WHO Classification of Tumours 5th ed (general morphology NOS descriptor)"
+ },
+ {
+  "code": "8000/3",
+  "term": "Hepatoblastoma, hepatocellular neoplasm NOS subtype",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C220",
+   "C221"
+  ],
+  "site_subset_labels": [
+   "Liver",
+   "Intrahepatic bile duct"
+  ],
+  "rationale": "Hepatoblastoma and hepatocellular neoplasms are defined by WHO as primary tumors of the liver (hepatic parenchyma/intrahepatic biliary tree); they do not arise across the broad NOS ceiling of sites.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10035708/",
+  "source_name": "J Liver Cancer 2022 / WHO Classification of Digestive System Tumours 5th ed"
+ },
+ {
+  "code": "8000/3",
+  "term": "Hepatocellular neoplasm, NOS",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C220",
+   "C221"
+  ],
+  "site_subset_labels": [
+   "Liver",
+   "Intrahepatic bile duct"
+  ],
+  "rationale": "Hepatoblastoma and hepatocellular neoplasms are defined by WHO as primary tumors of the liver (hepatic parenchyma/intrahepatic biliary tree); they do not arise across the broad NOS ceiling of sites.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10035708/",
+  "source_name": "J Liver Cancer 2022 / WHO Classification of Digestive System Tumours 5th ed"
+ },
+ {
+  "code": "8000/3",
+  "term": "Malignancy",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-specific malignant/neoplasm descriptor (NOS, cell-type, or unclassified) applied broadly across essentially all anatomic sites in the code's ceiling; not anatomically restricted.",
+  "source": "https://www.who.int/publications/i/item/9789283245063",
+  "source_name": "WHO Classification of Tumours 5th ed (general morphology NOS descriptor)"
+ },
+ {
+  "code": "8000/3",
+  "term": "Neoplasm, malignant",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-specific malignant/neoplasm descriptor (NOS, cell-type, or unclassified) applied broadly across essentially all anatomic sites in the code's ceiling; not anatomically restricted.",
+  "source": "https://www.who.int/publications/i/item/9789283245063",
+  "source_name": "WHO Classification of Tumours 5th ed (general morphology NOS descriptor)"
+ },
+ {
+  "code": "8000/3",
+  "term": "Tumor, malignant, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-specific malignant/neoplasm descriptor (NOS, cell-type, or unclassified) applied broadly across essentially all anatomic sites in the code's ceiling; not anatomically restricted.",
+  "source": "https://www.who.int/publications/i/item/9789283245063",
+  "source_name": "WHO Classification of Tumours 5th ed (general morphology NOS descriptor)"
+ },
+ {
+  "code": "8000/3",
+  "term": "Unclassified tumor, malignant",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-specific malignant/neoplasm descriptor (NOS, cell-type, or unclassified) applied broadly across essentially all anatomic sites in the code's ceiling; not anatomically restricted.",
+  "source": "https://www.who.int/publications/i/item/9789283245063",
+  "source_name": "WHO Classification of Tumours 5th ed (general morphology NOS descriptor)"
+ },
+ {
+  "code": "8001/3",
+  "term": "Tumor cells, malignant",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-specific malignant/neoplasm descriptor (NOS, cell-type, or unclassified) applied broadly across essentially all anatomic sites in the code's ceiling; not anatomically restricted.",
+  "source": "https://www.who.int/publications/i/item/9789283245063",
+  "source_name": "WHO Classification of Tumours 5th ed (general morphology NOS descriptor)"
+ },
+ {
+  "code": "8002/3",
+  "term": "Malignant tumor, small cell type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-specific malignant/neoplasm descriptor (NOS, cell-type, or unclassified) applied broadly across essentially all anatomic sites in the code's ceiling; not anatomically restricted.",
+  "source": "https://www.who.int/publications/i/item/9789283245063",
+  "source_name": "WHO Classification of Tumours 5th ed (general morphology NOS descriptor)"
+ },
+ {
+  "code": "8003/3",
+  "term": "Malignant tumor, giant cell type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-specific malignant/neoplasm descriptor (NOS, cell-type, or unclassified) applied broadly across essentially all anatomic sites in the code's ceiling; not anatomically restricted.",
+  "source": "https://www.who.int/publications/i/item/9789283245063",
+  "source_name": "WHO Classification of Tumours 5th ed (general morphology NOS descriptor)"
+ },
+ {
+  "code": "8004/3",
+  "term": "Malignant tumor, fusiform cell type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-specific malignant/neoplasm descriptor (NOS, cell-type, or unclassified) applied broadly across essentially all anatomic sites in the code's ceiling; not anatomically restricted.",
+  "source": "https://www.who.int/publications/i/item/9789283245063",
+  "source_name": "WHO Classification of Tumours 5th ed (general morphology NOS descriptor)"
+ },
+ {
+  "code": "8004/3",
+  "term": "Malignant tumor, spindle cell type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-specific malignant/neoplasm descriptor (NOS, cell-type, or unclassified) applied broadly across essentially all anatomic sites in the code's ceiling; not anatomically restricted.",
+  "source": "https://www.who.int/publications/i/item/9789283245063",
+  "source_name": "WHO Classification of Tumours 5th ed (general morphology NOS descriptor)"
+ },
+ {
+  "code": "8005/3",
+  "term": "Malignant tumor, clear cell type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-specific malignant/neoplasm descriptor (NOS, cell-type, or unclassified) applied broadly across essentially all anatomic sites in the code's ceiling; not anatomically restricted.",
+  "source": "https://www.who.int/publications/i/item/9789283245063",
+  "source_name": "WHO Classification of Tumours 5th ed (general morphology NOS descriptor)"
+ },
+ {
+  "code": "8013/3",
+  "term": "Combined large cell neuroendocrine carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Large cell neuroendocrine carcinoma is a high-grade neuroendocrine carcinoma that arises at many anatomic sites (lung, GI tract, GU tract, head and neck, etc.); the term is not restricted to a proper subset of its ceiling.",
+  "source": "https://iris.unito.it/retrieve/e27ce426-f4bc-2581-e053-d805fe0acbaa/Volante%20et%20al%20HP%202013.pdf",
+  "source_name": "Volante et al., Histopathology 2013 (extrapulmonary neuroendocrine carcinomas)"
+ },
+ {
+  "code": "8013/3",
+  "term": "Large cell neuroendocrine carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Large cell neuroendocrine carcinoma is a high-grade neuroendocrine carcinoma that arises at many anatomic sites (lung, GI tract, GU tract, head and neck, etc.); the term is not restricted to a proper subset of its ceiling.",
+  "source": "https://iris.unito.it/retrieve/e27ce426-f4bc-2581-e053-d805fe0acbaa/Volante%20et%20al%20HP%202013.pdf",
+  "source_name": "Volante et al., Histopathology 2013 (extrapulmonary neuroendocrine carcinomas)"
+ },
+ {
+  "code": "8013/3",
+  "term": "Neuroendocrine carcinoma, large cell",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Large cell neuroendocrine carcinoma is a high-grade neuroendocrine carcinoma that arises at many anatomic sites (lung, GI tract, GU tract, head and neck, etc.); the term is not restricted to a proper subset of its ceiling.",
+  "source": "https://iris.unito.it/retrieve/e27ce426-f4bc-2581-e053-d805fe0acbaa/Volante%20et%20al%20HP%202013.pdf",
+  "source_name": "Volante et al., Histopathology 2013 (extrapulmonary neuroendocrine carcinomas)"
+ },
+ {
+  "code": "8013/3",
+  "term": "Poorly differentiated neuroendocrine carcinoma, large cell type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Large cell neuroendocrine carcinoma is a high-grade neuroendocrine carcinoma that arises at many anatomic sites (lung, GI tract, GU tract, head and neck, etc.); the term is not restricted to a proper subset of its ceiling.",
+  "source": "https://iris.unito.it/retrieve/e27ce426-f4bc-2581-e053-d805fe0acbaa/Volante%20et%20al%20HP%202013.pdf",
+  "source_name": "Volante et al., Histopathology 2013 (extrapulmonary neuroendocrine carcinomas)"
+ },
+ {
+  "code": "8020/3",
+  "term": "Anaplastic thyroid carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C739"
+  ],
+  "site_subset_labels": [
+   "Thyroid gland"
+  ],
+  "rationale": "Anaplastic (undifferentiated) thyroid carcinoma is defined by WHO as an undifferentiated carcinoma of the thyroid gland; the named entity is restricted to the thyroid, a proper subset of the code's ceiling.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/33170501/",
+  "source_name": "Abe & Lam, PubMed PMID 33170501 / WHO Classification of Thyroid Tumours 5th ed"
+ },
+ {
+  "code": "8020/3",
+  "term": "Anaplastic undifferentiated carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic undifferentiated/poorly differentiated/dedifferentiated/unclassifiable carcinoma descriptor that occurs across many organs; not anatomically restricted.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4158294/",
+  "source_name": "Int J Endocrinol 2014 (undifferentiated carcinoma, general descriptor)"
+ },
+ {
+  "code": "8020/3",
+  "term": "Carcinoma, poorly differentiated, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic undifferentiated/poorly differentiated/dedifferentiated/unclassifiable carcinoma descriptor that occurs across many organs; not anatomically restricted.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4158294/",
+  "source_name": "Int J Endocrinol 2014 (undifferentiated carcinoma, general descriptor)"
+ },
+ {
+  "code": "8020/3",
+  "term": "Carcinoma, unclassifiable",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic undifferentiated/poorly differentiated/dedifferentiated/unclassifiable carcinoma descriptor that occurs across many organs; not anatomically restricted.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4158294/",
+  "source_name": "Int J Endocrinol 2014 (undifferentiated carcinoma, general descriptor)"
+ },
+ {
+  "code": "8020/3",
+  "term": "Carcinoma, undifferentiated, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic undifferentiated/poorly differentiated/dedifferentiated/unclassifiable carcinoma descriptor that occurs across many organs; not anatomically restricted.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4158294/",
+  "source_name": "Int J Endocrinol 2014 (undifferentiated carcinoma, general descriptor)"
+ },
+ {
+  "code": "8020/3",
+  "term": "Dedifferentiated carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic undifferentiated/poorly differentiated/dedifferentiated/unclassifiable carcinoma descriptor that occurs across many organs; not anatomically restricted.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4158294/",
+  "source_name": "Int J Endocrinol 2014 (undifferentiated carcinoma, general descriptor)"
+ },
+ {
+  "code": "8020/3",
+  "term": "Poorly differentiated urothelial carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C659",
+   "C669",
+   "C670",
+   "C671",
+   "C672",
+   "C673",
+   "C674",
+   "C675",
+   "C676",
+   "C677",
+   "C678",
+   "C679",
+   "C680"
+  ],
+  "site_subset_labels": [
+   "Renal pelvis",
+   "Ureter",
+   "Trigone of bladder",
+   "Dome of bladder",
+   "Lateral wall of bladder",
+   "Anterior wall of bladder",
+   "Posterior wall of bladder",
+   "Bladder neck",
+   "Ureteric orifice",
+   "Urachus",
+   "Overlapping lesion of bladder",
+   "Bladder NOS",
+   "Urethra"
+  ],
+  "rationale": "Urothelial carcinoma arises from urothelium lining the urinary tract (renal pelvis, ureter, bladder, urethra); the named entity is restricted to urinary-tract sites, a proper subset of the ceiling.",
+  "source": "https://seer.cancer.gov/tools/solidtumor/Urinary_STM.pdf",
+  "source_name": "SEER Urinary Solid Tumor Rules / CAP Ureter-Renal Pelvis Protocol"
+ },
+ {
+  "code": "8020/3",
+  "term": "Sinonasal undifferentiated carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319"
+  ],
+  "site_subset_labels": [
+   "Nasal cavity",
+   "Maxillary sinus",
+   "Ethmoid sinus",
+   "Frontal sinus",
+   "Sphenoid sinus",
+   "Overlapping lesion of accessory sinuses",
+   "Accessory sinus NOS"
+  ],
+  "rationale": "Per WHO, sinonasal undifferentiated carcinoma is defined as arising in the nasal cavity and/or paranasal sinuses; the entity is restricted to the sinonasal tract, a proper subset of the ceiling.",
+  "source": "https://eyewiki.org/Sinonasal_Undifferentiated_Carcinoma",
+  "source_name": "WHO Classification of Head and Neck Tumours 5th ed (SNUC), summarized"
+ },
+ {
+  "code": "8020/3",
+  "term": "Undifferentiated carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic undifferentiated/poorly differentiated/dedifferentiated/unclassifiable carcinoma descriptor that occurs across many organs; not anatomically restricted.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4158294/",
+  "source_name": "Int J Endocrinol 2014 (undifferentiated carcinoma, general descriptor)"
+ },
+ {
+  "code": "8020/3",
+  "term": "Undifferentiated primary liver carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C220",
+   "C221"
+  ],
+  "site_subset_labels": [
+   "Liver",
+   "Intrahepatic bile duct"
+  ],
+  "rationale": "The term explicitly designates an undifferentiated carcinoma primary to the liver; it is restricted to hepatic sites, a proper subset of the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10035708/",
+  "source_name": "WHO Classification of Digestive System Tumours 5th ed (primary liver carcinoma)"
+ },
+ {
+  "code": "8020/3",
+  "term": "Undifferentiated thyroid carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C739"
+  ],
+  "site_subset_labels": [
+   "Thyroid gland"
+  ],
+  "rationale": "Anaplastic (undifferentiated) thyroid carcinoma is defined by WHO as an undifferentiated carcinoma of the thyroid gland; the named entity is restricted to the thyroid, a proper subset of the code's ceiling.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/33170501/",
+  "source_name": "Abe & Lam, PubMed PMID 33170501 / WHO Classification of Thyroid Tumours 5th ed"
+ },
+ {
+  "code": "8023/3",
+  "term": "Carcinoma, NUT adnexal",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "NUT-associated adnexal carcinoma implies a cutaneous adnexal origin, but the code's ceiling contains no skin (C44) sites, so a supportable proper subset within the ceiling cannot be established; evidence for restriction within the ceiling is ambiguous.",
+  "source": "https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2022.860830/full",
+  "source_name": "Frontiers in Oncology 2022 (NUT carcinoma review)"
+ },
+ {
+  "code": "8023/3",
+  "term": "NUT carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "WHO renamed NUT midline carcinoma to NUT carcinoma precisely because this NUTM1-rearranged tumor arises at many sites (thorax, head and neck, and non-midline organs); the term is not restricted to a proper subset of its ceiling.",
+  "source": "https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2022.860830/full",
+  "source_name": "Frontiers in Oncology 2022 (NUT carcinoma clinicopathologic review)"
+ },
+ {
+  "code": "8023/3",
+  "term": "NUT midline carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "WHO renamed NUT midline carcinoma to NUT carcinoma precisely because this NUTM1-rearranged tumor arises at many sites (thorax, head and neck, and non-midline organs); the term is not restricted to a proper subset of its ceiling.",
+  "source": "https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2022.860830/full",
+  "source_name": "Frontiers in Oncology 2022 (NUT carcinoma clinicopathologic review)"
+ },
+ {
+  "code": "8023/3",
+  "term": "Nuclear protein in testis (NUT)-associated carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "WHO renamed NUT midline carcinoma to NUT carcinoma precisely because this NUTM1-rearranged tumor arises at many sites (thorax, head and neck, and non-midline organs); the term is not restricted to a proper subset of its ceiling.",
+  "source": "https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2022.860830/full",
+  "source_name": "Frontiers in Oncology 2022 (NUT carcinoma clinicopathologic review)"
+ },
+ {
+  "code": "8032/3",
+  "term": "Spindle cell carcinoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Spindle cell carcinoma NOS is a broad morphologic descriptor occurring at many sites (aerodigestive tract, skin, lung, etc.); not anatomically restricted.",
+  "source": "https://www.who.int/publications/i/item/9789283245148",
+  "source_name": "WHO Classification of Tumours 5th ed (spindle cell/sarcomatoid carcinoma, general)"
+ },
+ {
+  "code": "8041/3",
+  "term": "High-grade neuroendocrine carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic small cell carcinoma / high-grade neuroendocrine carcinoma descriptor; small cell carcinoma arises in lung and many extrapulmonary sites (GI, GU, head and neck, cervix), so the term is not restricted to a proper subset of the ceiling.",
+  "source": "https://pubs.rsna.org/doi/full/10.1148/rg.351140050",
+  "source_name": "RadioGraphics 2015 (extrapulmonary small cell carcinoma)"
+ },
+ {
+  "code": "8041/3",
+  "term": "Neuroendocrine carcinoma, small cell",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic small cell carcinoma / high-grade neuroendocrine carcinoma descriptor; small cell carcinoma arises in lung and many extrapulmonary sites (GI, GU, head and neck, cervix), so the term is not restricted to a proper subset of the ceiling.",
+  "source": "https://pubs.rsna.org/doi/full/10.1148/rg.351140050",
+  "source_name": "RadioGraphics 2015 (extrapulmonary small cell carcinoma)"
+ },
+ {
+  "code": "8041/3",
+  "term": "Oat cell carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C349"
+  ],
+  "site_subset_labels": [
+   "Main bronchus",
+   "Upper lobe lung",
+   "Middle lobe lung",
+   "Lower lobe lung",
+   "Lung NOS"
+  ],
+  "rationale": "'Oat cell carcinoma' is the classic synonym for small cell carcinoma of the lung; the term is used for the pulmonary form, a proper subset of the ceiling.",
+  "source": "https://en.wikipedia.org/wiki/Small-cell_carcinoma",
+  "source_name": "Wikipedia / WHO Classification of Thoracic Tumours 5th ed (SCLC = oat cell)"
+ },
+ {
+  "code": "8041/3",
+  "term": "Poorly differentiated neuroendocrine carcinoma, small cell type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic small cell carcinoma / high-grade neuroendocrine carcinoma descriptor; small cell carcinoma arises in lung and many extrapulmonary sites (GI, GU, head and neck, cervix), so the term is not restricted to a proper subset of the ceiling.",
+  "source": "https://pubs.rsna.org/doi/full/10.1148/rg.351140050",
+  "source_name": "RadioGraphics 2015 (extrapulmonary small cell carcinoma)"
+ },
+ {
+  "code": "8041/3",
+  "term": "Reserve cell carcinoma",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "'Reserve cell carcinoma' is an archaic term historically linked to reserve cells of the uterine cervix (and bronchial reserve cells), but its anatomic reference is ambiguous and not consistently defined in current WHO literature; a supportable proper subset cannot be established.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/17885499/",
+  "source_name": "PubMed PMID 17885499 (cervical reserve cells) - ambiguous historical term"
+ },
+ {
+  "code": "8041/3",
+  "term": "Round cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic small cell carcinoma / high-grade neuroendocrine carcinoma descriptor; small cell carcinoma arises in lung and many extrapulmonary sites (GI, GU, head and neck, cervix), so the term is not restricted to a proper subset of the ceiling.",
+  "source": "https://pubs.rsna.org/doi/full/10.1148/rg.351140050",
+  "source_name": "RadioGraphics 2015 (extrapulmonary small cell carcinoma)"
+ },
+ {
+  "code": "8041/3",
+  "term": "Small cell carcinoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic small cell carcinoma / high-grade neuroendocrine carcinoma descriptor; small cell carcinoma arises in lung and many extrapulmonary sites (GI, GU, head and neck, cervix), so the term is not restricted to a proper subset of the ceiling.",
+  "source": "https://pubs.rsna.org/doi/full/10.1148/rg.351140050",
+  "source_name": "RadioGraphics 2015 (extrapulmonary small cell carcinoma)"
+ },
+ {
+  "code": "8041/3",
+  "term": "Small cell carcinoma, fusiform cell",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic small cell carcinoma / high-grade neuroendocrine carcinoma descriptor; small cell carcinoma arises in lung and many extrapulmonary sites (GI, GU, head and neck, cervix), so the term is not restricted to a proper subset of the ceiling.",
+  "source": "https://pubs.rsna.org/doi/full/10.1148/rg.351140050",
+  "source_name": "RadioGraphics 2015 (extrapulmonary small cell carcinoma)"
+ },
+ {
+  "code": "8041/3",
+  "term": "Small cell carcinoma, intermediate cell",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic small cell carcinoma / high-grade neuroendocrine carcinoma descriptor; small cell carcinoma arises in lung and many extrapulmonary sites (GI, GU, head and neck, cervix), so the term is not restricted to a proper subset of the ceiling.",
+  "source": "https://pubs.rsna.org/doi/full/10.1148/rg.351140050",
+  "source_name": "RadioGraphics 2015 (extrapulmonary small cell carcinoma)"
+ },
+ {
+  "code": "8041/3",
+  "term": "Small cell carcinoma, pulmonary type",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C349"
+  ],
+  "site_subset_labels": [
+   "Main bronchus",
+   "Upper lobe lung",
+   "Middle lobe lung",
+   "Lower lobe lung",
+   "Lung NOS"
+  ],
+  "rationale": "The 'pulmonary type' qualifier explicitly designates the lung form of small cell carcinoma; the term is restricted to pulmonary sites, a proper subset of the ceiling.",
+  "source": "https://en.wikipedia.org/wiki/Small-cell_carcinoma",
+  "source_name": "WHO Classification of Thoracic Tumours 5th ed (SCLC), summarized"
+ },
+ {
+  "code": "8041/3",
+  "term": "Small cell lung carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C349"
+  ],
+  "site_subset_labels": [
+   "Main bronchus",
+   "Upper lobe lung",
+   "Middle lobe lung",
+   "Lower lobe lung",
+   "Lung NOS"
+  ],
+  "rationale": "By definition this term designates small cell carcinoma of the lung; it is restricted to pulmonary sites, a proper subset of the ceiling.",
+  "source": "https://en.wikipedia.org/wiki/Small-cell_carcinoma",
+  "source_name": "WHO Classification of Thoracic Tumours 5th ed (SCLC), summarized"
+ }
+]

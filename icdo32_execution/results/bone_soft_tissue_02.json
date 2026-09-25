@@ -1,0 +1,512 @@
+[
+  {
+    "code": "8825/3",
+    "term": "Myofibroblastic sarcoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8825/3",
+    "term": "Myofibroblastic sarcoma, low-grade",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8825/3",
+    "term": "Myofibrosarcoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8830/3",
+    "term": "Fibrous histiocytoma, malignant",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8830/3",
+    "term": "Fibroxanthoma, malignant",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8830/3",
+    "term": "Malignant fibrous histiocytoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8830/3",
+    "term": "Undifferentiated high grade pleomorphic sarcoma of bone",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C400",
+      "C401",
+      "C402",
+      "C403",
+      "C408",
+      "C409",
+      "C410",
+      "C411",
+      "C412",
+      "C413",
+      "C414",
+      "C418",
+      "C419"
+    ],
+    "site_subset_labels": [
+      "Long bones of upper limb",
+      "Short bones of upper limb",
+      "Long bones of lower limb",
+      "Short bones of lower limb",
+      "Overlapping bones/joints of limbs",
+      "Bone of limb, NOS",
+      "Bones of skull and face",
+      "Mandible",
+      "Vertebral column",
+      "Rib/sternum/clavicle",
+      "Pelvic bones/sacrum/coccyx",
+      "Overlapping bones/joints",
+      "Bone, NOS"
+    ],
+    "rationale": "'Undifferentiated high-grade pleomorphic sarcoma of bone' is the renamed 'malignant fibrous histiocytoma of bone' and is classified specifically among mesenchymal tumours of bone in the WHO 5th ed bone volume; the term is defined as a primary bone entity, a proper subset of the code's ceiling (which also spans skin and soft tissue).",
+    "source": "https://radiopaedia.org/articles/who-classification-of-tumours-of-bone",
+    "source_name": "WHO Classification of Tumours of Bone 5th ed (Radiopaedia summary); JSTAGE J Oral Dis Maxillofac review"
+  },
+  {
+    "code": "8840/3",
+    "term": "Low grade fibromyxoid sarcoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8840/3",
+    "term": "Myxosarcoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8840/3",
+    "term": "Sclerosing epithelioid fibrosarcoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8842/3",
+    "term": "Ossifying fibromyxoid tumor, malignant",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8842/3",
+    "term": "Primary pulmonary myxoid sarcoma",
+    "site_specific": "Uncertain",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Primary pulmonary myxoid sarcoma is a lung-specific mesenchymal neoplasm (WHO 2021 Thoracic Tumours), but the code's SMVL ceiling contains only connective/soft-tissue sites (C49*) and no lung code, so the literature-supported lung restriction cannot be expressed as a subset of this ceiling.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12885817/",
+    "source_name": "AME Case Reports 2026 (PPMS, WHO 2021 lung-specific mesenchymal neoplasm)"
+  },
+  {
+    "code": "8842/3",
+    "term": "Pulmonary myxoid sarcoma with EWSR1-CREB1 fusion",
+    "site_specific": "Uncertain",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Primary pulmonary myxoid sarcoma is a lung-specific mesenchymal neoplasm (WHO 2021 Thoracic Tumours), but the code's SMVL ceiling contains only connective/soft-tissue sites (C49*) and no lung code, so the literature-supported lung restriction cannot be expressed as a subset of this ceiling.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12885817/",
+    "source_name": "AME Case Reports 2026 (PPMS, WHO 2021 lung-specific mesenchymal neoplasm)"
+  },
+  {
+    "code": "8842/3",
+    "term": "Pulmonary myxoid sarcoma with EWSR1-CREB1 translocation",
+    "site_specific": "Uncertain",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Primary pulmonary myxoid sarcoma is a lung-specific mesenchymal neoplasm (WHO 2021 Thoracic Tumours), but the code's SMVL ceiling contains only connective/soft-tissue sites (C49*) and no lung code, so the literature-supported lung restriction cannot be expressed as a subset of this ceiling.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12885817/",
+    "source_name": "AME Case Reports 2026 (PPMS, WHO 2021 lung-specific mesenchymal neoplasm)"
+  },
+  {
+    "code": "8842/3",
+    "term": "Pulmonary myxoid sarcoma with EWSR1::CREB1 fusion",
+    "site_specific": "Uncertain",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Primary pulmonary myxoid sarcoma is a lung-specific mesenchymal neoplasm (WHO 2021 Thoracic Tumours), but the code's SMVL ceiling contains only connective/soft-tissue sites (C49*) and no lung code, so the literature-supported lung restriction cannot be expressed as a subset of this ceiling.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12885817/",
+    "source_name": "AME Case Reports 2026 (PPMS, WHO 2021 lung-specific mesenchymal neoplasm)"
+  },
+  {
+    "code": "8842/3",
+    "term": "Pulmonary myxoid sarcoma with EWSR1::CREB1 translocation",
+    "site_specific": "Uncertain",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Primary pulmonary myxoid sarcoma is a lung-specific mesenchymal neoplasm (WHO 2021 Thoracic Tumours), but the code's SMVL ceiling contains only connective/soft-tissue sites (C49*) and no lung code, so the literature-supported lung restriction cannot be expressed as a subset of this ceiling.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12885817/",
+    "source_name": "AME Case Reports 2026 (PPMS, WHO 2021 lung-specific mesenchymal neoplasm)"
+  },
+  {
+    "code": "8850/3",
+    "term": "Fibroliposarcoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8850/3",
+    "term": "Liposarcoma, NOS",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8851/3",
+    "term": "Inflammatory liposarcoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8851/3",
+    "term": "Lipoma-like liposarcoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8851/3",
+    "term": "Liposarcoma, differentiated",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8851/3",
+    "term": "Liposarcoma, well differentiated, NOS",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8851/3",
+    "term": "Sclerosing liposarcoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8851/3",
+    "term": "Well-differentiated liposarcoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8852/3",
+    "term": "Myxoid liposarcoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8852/3",
+    "term": "Myxoliposarcoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8852/3",
+    "term": "Round cell liposarcoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8854/3",
+    "term": "Epithelioid liposarcoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8854/3",
+    "term": "Epithelioid pleomorphic liposarcoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8854/3",
+    "term": "Pleomorphic liposarcoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8854/3",
+    "term": "Pleomorphic liposarcoma, epithelioid",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8858/3",
+    "term": "Dedifferentiated liposarcoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8859/3",
+    "term": "Myxoid pleomorphic liposarcoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8859/3",
+    "term": "Pleomorphic myxoid liposarcoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8891/3",
+    "term": "Epithelioid leiomyosarcoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8901/3",
+    "term": "Pleomorphic rhabdomyosarcoma, NOS",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8901/3",
+    "term": "Pleomorphic rhabdomyosarcoma, adult type",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8901/3",
+    "term": "Rhabdomyosarcoma, pleomorphic-type",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8921/3",
+    "term": "Ectomesenchymoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8921/3",
+    "term": "Rhabdomyosarcoma with ganglionic differentiation",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8963/3",
+    "term": "Atypical teratoid/rhabdoid tumor of kidney",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C649"
+    ],
+    "site_subset_labels": [
+      "Kidney, NOS"
+    ],
+    "rationale": "Term is explicitly the kidney rhabdoid entity (rhabdoid tumour of the kidney, RTK); restricted to kidney (C649), a proper subset of the ceiling which also includes retroperitoneum/peritoneum and soft tissue.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6087667/",
+    "source_name": "Geller et al., Biology and Treatment of Rhabdoid Tumor, PMC6087667"
+  },
+  {
+    "code": "8963/3",
+    "term": "Extrarenal rhabdoid tumor",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C480",
+      "C488",
+      "C490",
+      "C491",
+      "C492",
+      "C493",
+      "C494",
+      "C495",
+      "C496",
+      "C498",
+      "C499"
+    ],
+    "site_subset_labels": [
+      "Retroperitoneum",
+      "Overlapping peritoneum/retroperitoneum",
+      "Connective tissue head/neck",
+      "Connective tissue upper limb",
+      "Connective tissue lower limb",
+      "Connective tissue thorax",
+      "Connective tissue abdomen",
+      "Connective tissue pelvis",
+      "Connective tissue trunk",
+      "Overlapping connective tissue",
+      "Connective tissue, NOS"
+    ],
+    "rationale": "By definition 'extrarenal' rhabdoid tumour arises outside the kidney, in soft tissue/retroperitoneum/peritoneum; excludes the kidney (C649), i.e. a proper subset of the ceiling.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6087667/",
+    "source_name": "Geller et al., Biology and Treatment of Rhabdoid Tumor, PMC6087667"
+  },
+  {
+    "code": "8963/3",
+    "term": "Malignant rhabdoid tumor",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic malignant rhabdoid tumour occurs across renal, retroperitoneal, peritoneal and soft-tissue sites; not restricted to a proper subset of the ceiling.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6087667/",
+    "source_name": "Geller et al., Biology and Treatment of Rhabdoid Tumor, PMC6087667"
+  },
+  {
+    "code": "8963/3",
+    "term": "Malignant rhabdoid tumor of the kidney",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C649"
+    ],
+    "site_subset_labels": [
+      "Kidney, NOS"
+    ],
+    "rationale": "Term is explicitly the kidney form (rhabdoid tumour of the kidney); restricted to kidney (C649), a proper subset of the ceiling which also spans retroperitoneum/peritoneum and soft tissue.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6087667/",
+    "source_name": "Geller et al., Biology and Treatment of Rhabdoid Tumor, PMC6087667"
+  },
+  {
+    "code": "8963/3",
+    "term": "Rhabdoid sarcoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic soft tissue/bone sarcoma morphology used across all anatomic sites in the code's ceiling; no literature-supported restriction to a proper subset.",
+    "source": "",
+    "source_name": ""
+  }
+]

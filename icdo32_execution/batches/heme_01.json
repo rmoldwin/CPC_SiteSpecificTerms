@@ -1,0 +1,682 @@
+[
+ {
+  "code": "9650/3",
+  "term": "Classic Hodgkin lymphoma",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9650/3",
+  "term": "Classical Hodgkin lymphoma post-transplant lymphoproliferative disease",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9650/3",
+  "term": "Hodgkin disease, NOS",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9650/3",
+  "term": "Hodgkin lymphoma, NOS",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9650/3",
+  "term": "Malignant lymphoma, Hodgkin",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9651/3",
+  "term": "Classic Hodgkin lymphoma, lymphocyte-rich",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9651/3",
+  "term": "Classical Hodgkin lymphoma, lymphocyte-rich",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9651/3",
+  "term": "Hodgkin disease, lymphocyte predominance, NOS",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9651/3",
+  "term": "Hodgkin disease, lymphocyte predominance, diffuse",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9651/3",
+  "term": "Hodgkin disease, lymphocytic-histiocytic predominance",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9651/3",
+  "term": "Hodgkin lymphoma, lymphocyte-rich",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9651/3",
+  "term": "Lymphocyte-rich CHL",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9652/3",
+  "term": "Classic Hodgkin lymphoma, mixed cellularity",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9652/3",
+  "term": "Classical Hodgkin lymphoma, mixed cellularity, NOS",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9652/3",
+  "term": "Hodgkin lymphoma, mixed cellularity, NOS",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9652/3",
+  "term": "Mixed-cellularity CHL",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9653/3",
+  "term": "Classic Hodgkin lymphoma, lymphocyte depletion",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9653/3",
+  "term": "Classic Hodgkin lymphoma, lymphocyte-depleted",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9653/3",
+  "term": "Classical Hodgkin lymphoma, lymphocyte depletion, NOS",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9653/3",
+  "term": "Hodgkin lymphoma, lymphocyte depletion, NOS",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9653/3",
+  "term": "Lymphocyte-depleted CHL",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9655/3",
+  "term": "Classical Hodgkin lymphoma, lymphocyte depletion, reticular",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9655/3",
+  "term": "Hodgkin lymphoma, lymphocyte depletion, reticular",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9659/3",
+  "term": "Hodgkin lymphoma, nodular lymphocyte predominant",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9659/3",
+  "term": "Hodgkin paragranuloma, NOS",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9659/3",
+  "term": "Hodgkin paragranuloma, nodular",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9659/3",
+  "term": "Nodular lymphocyte predominant B-cell lymphoma",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9659/3",
+  "term": "Nodular lymphocyte-predominant Hodgkin lymphoma",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9663/3",
+  "term": "Classic Hodgkin lymphoma, nodular sclerosis",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9663/3",
+  "term": "Classical Hodgkin lymphoma, nodular sclerosis, NOS",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9663/3",
+  "term": "Hodgkin disease, nodular sclerosis, NOS",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9663/3",
+  "term": "Hodgkin lymphoma, nodular sclerosis, NOS",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9663/3",
+  "term": "Nodular sclerosis CHL",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9688/3",
+  "term": "Diffuse large B-cell lymphoma associated with chronic inflammation",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9688/3",
+  "term": "Histiocyte-rich large B-cell lymphoma",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9688/3",
+  "term": "T-cell histiocyte-rich large B-cell lymphoma",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9688/3",
+  "term": "T-cell rich large B-cell lymphoma",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9688/3",
+  "term": "T-cell/histiocyte rich large B-cell lymphoma",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9688/3",
+  "term": "T-cell/histiocyte-rich large B-cell lymphoma progressed from nodular lymphocyte-predominant Hodgkin lymphoma",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9688/3",
+  "term": "T-cell/histiocyte-rich large B-cell lymphoma, de novo",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9762/3",
+  "term": "Alpha heavy chain disease",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C421",
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9762/3",
+  "term": "Franklin disease",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C421",
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9762/3",
+  "term": "Gamma heavy chain disease",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C421",
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9762/3",
+  "term": "Heavy chain deposition disease, NOS",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C421",
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9762/3",
+  "term": "Heavy chain disease, NOS",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C421",
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ }
+]

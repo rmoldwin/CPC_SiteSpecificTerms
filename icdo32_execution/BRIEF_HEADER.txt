@@ -1,0 +1,27 @@
+# TASK: Identify ICD-O-3.2 site-specific terms — {BATCH_ID}
+
+You are confirming whether specific ICD-O-3.2 (ICDO32) morphology TERMS are used at only a SUBSET of the anatomic sites their code is validated for. This supports the NCI/SEER Cancer PathCHART initiative.
+
+## Background you must understand
+- Each ICDO32 code (e.g. `8140/3`) carries many terms. All terms under a code share the same code-level site validity.
+- The authoritative list of sites where a CODE is valid is the Cancer PathCHART SMVL, provided per candidate as `ceiling_codes` (a list of C-codes). Treat this set as the absolute CEILING of allowed sites. NEVER expand beyond it.
+- A TERM is "site-specific" ONLY IF the medical literature/guidelines establish that this particular named entity occurs/is-diagnosed at a PROPER SUBSET of the code's ceiling — strictly fewer sites than the code allows. A whole-organ-system subset still counts.
+- Site-specific terms are RARE. Default assumption: a term is used across all of its code's valid sites and is therefore NOT site-specific. Only flag a term when solid published evidence shows it is anatomically restricted.
+- Ignore ICD-O "suggested sites" and parenthetical site hints — base the restriction only on substantive pathology literature/guidelines.
+
+## Authoritative sources (priority order)
+1. WHO Classification of Tumours, 5th ed (Blue Books) — the volume/chapter an entity is defined in tells you its organ home.
+2. NCCN guidelines, UpToDate, College of American Pathologists.
+3. Recent peer-reviewed pathology/oncology literature (PubMed, journal articles).
+Every "Yes" decision MUST have a source URL you actually fetched and that states the restriction.
+
+## Decision rule for each candidate term
+- Determine the anatomic site(s) at which this specific term is defined/used in the literature.
+- Intersect that with the code's `ceiling_codes`. The reported subset must be a subset of the ceiling.
+- If literature-supported sites cover essentially all of the ceiling -> `site_specific = "No"`.
+- If literature clearly restricts the term to a proper subset -> `site_specific = "Yes"` and list the specific subset using ONLY C-codes present in that code's `ceiling_codes` (never invent sites).
+- If evidence is insufficient/ambiguous -> `site_specific = "Uncertain"` with an explanation.
+- Generic morphologic descriptors that occur at many sites (e.g. "Adenocarcinoma, NOS", "Signet ring cell carcinoma") are NOT site-specific -> "No".
+
+## Output schema (one object per candidate term, preserving code+term exactly)
+{"code":"8140/3","term":"Paneth cell carcinoma","site_specific":"Yes","site_subset_codes":["C160","C170","C180","C181"],"site_subset_labels":["Stomach","Small intestine","Colon","Appendix"],"rationale":"1-2 sentences on the anatomic restriction and why.","source":"https://exact-url-you-fetched","source_name":"WHO Blue Book Digestive System 5th ed / NCCN / PubMed PMIDxxxx"}

@@ -1,0 +1,372 @@
+[
+ {
+  "code": "8520/3",
+  "term": "Lobular carcinoma, pleomorphic",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Invasive lobular carcinoma (pleomorphic variant) arises throughout the breast parenchyma and is not restricted to any breast subsite; it occurs across the full breast ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK541138/",
+  "source_name": "StatPearls / general breast pathology"
+ },
+ {
+  "code": "8520/3",
+  "term": "Tubulo-lobular carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Tubulo-lobular carcinoma is a breast carcinoma variant occurring throughout the breast; no literature restricts it to a proper subset of breast subsites.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK541138/",
+  "source_name": "StatPearls / general breast pathology"
+ },
+ {
+  "code": "8520/3",
+  "term": "Tubulolobular carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Synonym of tubulo-lobular carcinoma; a breast carcinoma occurring across all breast subsites with no anatomic restriction.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK541138/",
+  "source_name": "StatPearls / general breast pathology"
+ },
+ {
+  "code": "8521/3",
+  "term": "Infiltrating ductular carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "An invasive ductal-type breast carcinoma that arises throughout the breast; not restricted to any subset of breast subsites.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK541138/",
+  "source_name": "StatPearls / general breast pathology"
+ },
+ {
+  "code": "8522/2",
+  "term": "Intraductal carcinoma and lobular carcinoma in situ",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Combined in-situ ductal and lobular carcinoma occurs throughout the breast ductal/lobular system with no restriction to a proper subset of breast subsites.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK541138/",
+  "source_name": "StatPearls / general breast pathology"
+ },
+ {
+  "code": "8522/3",
+  "term": "Infiltrating duct and lobular carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mixed invasive ductal and lobular carcinoma arises throughout the breast; not anatomically restricted to a proper subset of breast subsites.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK541138/",
+  "source_name": "StatPearls / general breast pathology"
+ },
+ {
+  "code": "8522/3",
+  "term": "Infiltrating duct and lobular carcinoma in situ",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mixed invasive ductal carcinoma with lobular carcinoma in situ occurs across the breast with no restriction to a proper subset of breast subsites.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK541138/",
+  "source_name": "StatPearls / general breast pathology"
+ },
+ {
+  "code": "8522/3",
+  "term": "Infiltrating ductal carcinoma and lobular carcinoma in situ",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A mixed breast carcinoma occurring throughout the breast parenchyma; no anatomic restriction to a proper subset of breast subsites.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK541138/",
+  "source_name": "StatPearls / general breast pathology"
+ },
+ {
+  "code": "8522/3",
+  "term": "Infiltrating lobular carcinoma and ductal carcinoma in situ",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A mixed breast carcinoma occurring throughout the breast; not restricted to a proper subset of breast subsites.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK541138/",
+  "source_name": "StatPearls / general breast pathology"
+ },
+ {
+  "code": "8522/3",
+  "term": "Intraductal and lobular carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Combined intraductal and lobular carcinoma of the breast occurs throughout the breast; no restriction to a proper subset of subsites.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK541138/",
+  "source_name": "StatPearls / general breast pathology"
+ },
+ {
+  "code": "8522/3",
+  "term": "Lobular and ductal carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mixed lobular and ductal carcinoma of the breast arises throughout the breast; not restricted to a proper subset of breast subsites.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK541138/",
+  "source_name": "StatPearls / general breast pathology"
+ },
+ {
+  "code": "8523/3",
+  "term": "Infiltrating duct and apocrine carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mixed invasive ductal carcinoma with apocrine features occurs throughout the breast; no anatomic restriction to a proper subset of breast subsites.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK541138/",
+  "source_name": "StatPearls / general breast pathology"
+ },
+ {
+  "code": "8523/3",
+  "term": "Infiltrating duct and colloid carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mixed invasive ductal and colloid (mucinous) carcinoma occurs throughout the breast; not restricted to a proper subset of breast subsites.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK541138/",
+  "source_name": "StatPearls / general breast pathology"
+ },
+ {
+  "code": "8523/3",
+  "term": "Infiltrating duct and cribriform carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mixed invasive ductal and cribriform carcinoma occurs throughout the breast; no anatomic restriction to a proper subset of breast subsites.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK541138/",
+  "source_name": "StatPearls / general breast pathology"
+ },
+ {
+  "code": "8523/3",
+  "term": "Infiltrating duct and micropapillary carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mixed invasive ductal and micropapillary carcinoma occurs throughout the breast; not restricted to a proper subset of breast subsites.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK541138/",
+  "source_name": "StatPearls / general breast pathology"
+ },
+ {
+  "code": "8523/3",
+  "term": "Infiltrating duct and mucinous carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mixed invasive ductal and mucinous carcinoma occurs throughout the breast; no anatomic restriction to a proper subset of breast subsites.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK541138/",
+  "source_name": "StatPearls / general breast pathology"
+ },
+ {
+  "code": "8523/3",
+  "term": "Infiltrating duct and tubular carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mixed invasive ductal and tubular carcinoma occurs throughout the breast; not restricted to a proper subset of breast subsites.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK541138/",
+  "source_name": "StatPearls / general breast pathology"
+ },
+ {
+  "code": "8523/3",
+  "term": "Infiltrating duct mixed with other types of carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A generic mixed ductal carcinoma descriptor; occurs throughout the breast with no anatomic restriction to a proper subset of breast subsites.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK541138/",
+  "source_name": "StatPearls / general breast pathology"
+ },
+ {
+  "code": "8524/3",
+  "term": "Infiltrating lobular and apocrine carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mixed invasive lobular carcinoma with apocrine features occurs throughout the breast; no restriction to a proper subset of breast subsites.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK541138/",
+  "source_name": "StatPearls / general breast pathology"
+ },
+ {
+  "code": "8524/3",
+  "term": "Infiltrating lobular and cribriform carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mixed invasive lobular and cribriform carcinoma occurs throughout the breast; not restricted to a proper subset of breast subsites.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK541138/",
+  "source_name": "StatPearls / general breast pathology"
+ },
+ {
+  "code": "8524/3",
+  "term": "Infiltrating lobular and micropapillary carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mixed invasive lobular and micropapillary carcinoma occurs throughout the breast; no anatomic restriction to a proper subset of breast subsites.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK541138/",
+  "source_name": "StatPearls / general breast pathology"
+ },
+ {
+  "code": "8524/3",
+  "term": "Infiltrating lobular and mucinous carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mixed invasive lobular and mucinous carcinoma occurs throughout the breast; not restricted to a proper subset of breast subsites.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK541138/",
+  "source_name": "StatPearls / general breast pathology"
+ },
+ {
+  "code": "8524/3",
+  "term": "Infiltrating lobular mixed with other types of carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A generic mixed lobular carcinoma descriptor; occurs throughout the breast with no anatomic restriction to a proper subset of breast subsites.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK541138/",
+  "source_name": "StatPearls / general breast pathology"
+ },
+ {
+  "code": "8540/3",
+  "term": "Mammary Paget disease",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C500", "C501"],
+  "site_subset_labels": ["Nipple", "Central portion of breast"],
+  "rationale": "Mammary Paget disease is an adenocarcinoma that arises within the epidermis of the nipple and areola (nipple-areolar complex), starting at the nipple and extending to the areola/central subareolar region; it is anatomically anchored to the nipple-areolar complex rather than the general breast quadrants.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6669392/",
+  "source_name": "Mammary Paget's Disease of the Nipple, Korean J Fam Med (PMC6669392)"
+ },
+ {
+  "code": "8540/3",
+  "term": "Paget disease of breast",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C500", "C501"],
+  "site_subset_labels": ["Nipple", "Central portion of breast"],
+  "rationale": "Paget disease of the breast is defined by Paget cells within the epidermis of the nipple, extending to the areola; it is a disease of the nipple-areolar complex and not distributed across the general breast quadrants.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6669392/",
+  "source_name": "Mammary Paget's Disease of the Nipple, Korean J Fam Med (PMC6669392)"
+ },
+ {
+  "code": "8540/3",
+  "term": "Paget disease of the nipple",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C500", "C501"],
+  "site_subset_labels": ["Nipple", "Central portion of breast"],
+  "rationale": "By definition Paget disease of the nipple always starts in the nipple and extends to the areola (central subareolar breast); it is restricted to the nipple-areolar complex.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6669392/",
+  "source_name": "Mammary Paget's Disease of the Nipple, Korean J Fam Med (PMC6669392)"
+ },
+ {
+  "code": "8540/3",
+  "term": "Paget disease, mammary",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C500", "C501"],
+  "site_subset_labels": ["Nipple", "Central portion of breast"],
+  "rationale": "Synonym for mammary Paget disease, an epidermal adenocarcinoma of the nipple/areola anchored to the nipple-areolar complex rather than the general breast quadrants.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6669392/",
+  "source_name": "Mammary Paget's Disease of the Nipple, Korean J Fam Med (PMC6669392)"
+ },
+ {
+  "code": "8541/3",
+  "term": "Paget disease and infiltrating duct carcinoma of breast",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The Paget component is nipple-anchored, but this combined entity also includes an underlying invasive ductal carcinoma that may be located in any breast quadrant, so the registrable tumor site is not clearly restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6669392/",
+  "source_name": "Mammary Paget's Disease of the Nipple, Korean J Fam Med (PMC6669392)"
+ },
+ {
+  "code": "8541/3",
+  "term": "Paget disease and infiltrating lobular carcinoma of breast",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The Paget component is nipple-anchored, but the associated invasive lobular carcinoma may occur in any breast quadrant, so the tumor site of this combined entity is not clearly restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6669392/",
+  "source_name": "Mammary Paget's Disease of the Nipple, Korean J Fam Med (PMC6669392)"
+ },
+ {
+  "code": "8541/3",
+  "term": "Paget disease with infiltrating duct carcinoma and lobular carcinoma of breast",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The Paget component is nipple-anchored, but the associated invasive ductal and lobular carcinomas may occupy any breast quadrant, so this combined entity is not clearly restricted to a proper subset of breast subsites.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6669392/",
+  "source_name": "Mammary Paget's Disease of the Nipple, Korean J Fam Med (PMC6669392)"
+ },
+ {
+  "code": "8543/3",
+  "term": "Paget disease and intraductal carcinoma of breast",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The Paget component is nipple-anchored, but the associated intraductal carcinoma (DCIS) may be distributed across any breast quadrant, so the combined entity is not clearly restricted to a proper subset of breast subsites.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6669392/",
+  "source_name": "Mammary Paget's Disease of the Nipple, Korean J Fam Med (PMC6669392)"
+ },
+ {
+  "code": "8836/3",
+  "term": "Angiomatoid malignant fibrous histiocytoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "As coded for breast within this ceiling, this mesenchymal tumor would arise in breast soft tissue without restriction to any particular breast subsite.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK541138/",
+  "source_name": "StatPearls / general breast pathology"
+ },
+ {
+  "code": "8983/3",
+  "term": "Adenomyoepithelioma with carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Malignant adenomyoepithelioma is a breast tumor arising from myoepithelial/epithelial elements throughout the breast; not restricted to a proper subset of breast subsites.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK541138/",
+  "source_name": "StatPearls / general breast pathology"
+ },
+ {
+  "code": "8983/3",
+  "term": "Malignant adenomyoepithelioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast tumor arising throughout the breast parenchyma; no literature restricts it to a proper subset of breast subsites.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK541138/",
+  "source_name": "StatPearls / general breast pathology"
+ },
+ {
+  "code": "9020/3",
+  "term": "Cystosarcoma phyllodes, malignant",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Although primarily a breast tumor, phyllodes tumors also arise in the vulva (labia majora/minora, clitoris) from mammary-like anogenital glands, so the term is used across essentially all of the breast-plus-vulva/vagina ceiling rather than a restricted proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6855887/",
+  "source_name": "Phyllodes tumour of the labia minora, BMJ Case Reports (PMC6855887)"
+ },
+ {
+  "code": "9020/3",
+  "term": "Periductal stromal tumor, low grade",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C500", "C501", "C502", "C503", "C504", "C505", "C506", "C508", "C509"],
+  "site_subset_labels": ["Nipple", "Central portion of breast", "Upper-inner quadrant of breast", "Lower-inner quadrant of breast", "Upper-outer quadrant of breast", "Lower-outer quadrant of breast", "Axillary tail of breast", "Overlapping lesion of breast", "Breast, NOS"],
+  "rationale": "Periductal stromal tumor is defined exclusively as a rare biphasic tumor of the breast (a WHO subtype of phyllodes tumor) arising from periductal breast stroma; unlike phyllodes tumor it is not reported in the vulva/vagina, restricting it to the breast subset of this code's ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4284492/",
+  "source_name": "Periductal Stromal Tumor of Breast, Korean J Pathol (PMC4284492)"
+ },
+ {
+  "code": "9020/3",
+  "term": "Phyllodes tumor, malignant",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Phyllodes tumors are primarily breast neoplasms but also arise in the vulva (labia majora/minora, clitoris) from mammary-like anogenital tissue, so the term is used across essentially the whole breast-plus-vulva ceiling rather than a restricted proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6855887/",
+  "source_name": "Phyllodes tumour of the labia minora, BMJ Case Reports (PMC6855887)"
+ }
+]

@@ -1,0 +1,1810 @@
+[
+ {
+  "code": "9582/0",
+  "term": "Pituicytoma with granular features",
+  "subset_codes": [
+   "C751"
+  ],
+  "subset_sites": [
+   "Pituitary gland"
+  ],
+  "rationale": "A granular-cell variant within the neurohypophyseal pituicyte-lineage tumor family, arising from the posterior pituitary/infundibulum (pituitary gland, C751) rather than the craniopharyngeal duct (C752), restricting it to a proper subset of its ceiling.",
+  "source_name": "Surgical Neurology International 2020 (PMC7265469) \u2014 pituicyte/neurohypophysis lineage of sellar-region posterior-pituitary tumors"
+ },
+ {
+  "code": "8124/3",
+  "term": "Cloacogenic carcinoma",
+  "subset_codes": [
+   "C210",
+   "C211",
+   "C212",
+   "C218"
+  ],
+  "subset_sites": [
+   "Anus, NOS",
+   "Anal canal",
+   "Cloacogenic zone",
+   "Overlapping lesion of rectum, anus and anal canal"
+  ],
+  "rationale": "Cloacogenic (basaloid/transitional) carcinoma is defined as an anorectal tumor arising from the transitional cloacogenic zone of the anal canal near the dentate line; it is a squamous cell carcinoma variant of the anus. This restricts it to the anal codes within its ceiling, a proper subset excluding the vulvar and eye sites.",
+  "source_name": "PMC2780104 (Epidermoid Carcinoma of the Anal Canal - basaloid/cloacogenic carcinoma)"
+ },
+ {
+  "code": "8773/3",
+  "term": "Spindle cell melanoma, type A",
+  "subset_codes": [
+   "C693",
+   "C694"
+  ],
+  "subset_sites": [
+   "Choroid",
+   "Ciliary body"
+  ],
+  "rationale": "The spindle cell type A designation derives from the Callender cytologic classification, which is specific to uveal (choroidal and ciliary body) melanoma and is not applied to conjunctival, corneal, lacrimal, or orbital melanomas. This restricts the term to the uveal codes present in its ceiling.",
+  "source_name": "Ento Key - Intraocular Tumors in Adults (Callender classification of uveal melanoma)"
+ },
+ {
+  "code": "8773/3",
+  "term": "Spindle cell uveal melanoma, type\u00a0A",
+  "subset_codes": [
+   "C693",
+   "C694"
+  ],
+  "subset_sites": [
+   "Choroid",
+   "Ciliary body"
+  ],
+  "rationale": "This term explicitly names uveal melanoma with Callender spindle A cytology; uveal melanoma arises in the choroid, ciliary body, and iris, of which only choroid and ciliary body are among the ceiling codes. This is a proper subset excluding conjunctiva, cornea, lacrimal gland, orbit, and overlapping eye.",
+  "source_name": "Ento Key - Intraocular Tumors in Adults (uveal melanoma cell type)"
+ },
+ {
+  "code": "8774/3",
+  "term": "Spindle cell melanoma, type B",
+  "subset_codes": [
+   "C693",
+   "C694"
+  ],
+  "subset_sites": [
+   "Choroid",
+   "Ciliary body"
+  ],
+  "rationale": "Spindle cell type B is a Callender cytologic category applied specifically to uveal (choroidal/ciliary body) melanoma and not to non-uveal ocular melanomas. This restricts the term to the uveal codes present in its ceiling, a proper subset.",
+  "source_name": "Ento Key - Intraocular Tumors in Adults (Callender classification of uveal melanoma)"
+ },
+ {
+  "code": "8774/3",
+  "term": "Spindle cell uveal melanoma, type\u00a0B",
+  "subset_codes": [
+   "C693",
+   "C694"
+  ],
+  "subset_sites": [
+   "Choroid",
+   "Ciliary body"
+  ],
+  "rationale": "This term explicitly designates uveal melanoma of Callender spindle B cytology; uveal melanoma is confined to the iris, ciliary body, and choroid, of which only choroid and ciliary body appear in the ceiling. This is a proper subset excluding conjunctiva, cornea, lacrimal gland, orbit, and overlapping eye.",
+  "source_name": "Ento Key - Intraocular Tumors in Adults (uveal melanoma cell type)"
+ },
+ {
+  "code": "8991/3",
+  "term": "Embryonal sarcoma of the liver",
+  "subset_codes": [
+   "C220"
+  ],
+  "subset_sites": [
+   "Liver"
+  ],
+  "rationale": "Undifferentiated (embryonal) sarcoma of the liver is a defined hepatic mesenchymal malignancy arising in the liver (predominantly the right lobe). The explicit 'of the liver' designation restricts it to C220, a proper subset of the ceiling excluding retroperitoneum, peritoneum, scrotum, and eye sites.",
+  "source_name": "World Journal of Clinical Cases PMC7642548 (Undifferentiated embryonal sarcoma of the liver)"
+ },
+ {
+  "code": "8991/3",
+  "term": "Undifferentiated sarcoma of liver",
+  "subset_codes": [
+   "C220"
+  ],
+  "subset_sites": [
+   "Liver"
+  ],
+  "rationale": "Undifferentiated sarcoma of the liver (UESL) is a defined primary hepatic malignancy of mesenchymal origin; the 'of liver' designation restricts it to C220, a proper subset of the ceiling excluding the retroperitoneal, peritoneal, scrotal, and ocular sites.",
+  "source_name": "Int J Clin Exp Pathol PMC4313983 (Undifferentiated embryonal sarcoma of liver, 9 cases)"
+ },
+ {
+  "code": "8071/2",
+  "term": "Differentiated exophytic vulvar intraepithelial lesion",
+  "subset_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519"
+  ],
+  "subset_sites": [
+   "Labium majus",
+   "Labium minus",
+   "Clitoris",
+   "Overlapping lesion of vulva",
+   "Vulva, NOS"
+  ],
+  "rationale": "DEVIL is defined exclusively as an HPV-independent, p53-wild-type verruciform/acanthotic squamous precursor of the vulva; it is not a recognized penile entity, restricting it to the vulvar subset of the code's ceiling.",
+  "source_name": "Modern Pathology (Nature)"
+ },
+ {
+  "code": "8071/2",
+  "term": "Differentiated penile intraepithelial neoplasia",
+  "subset_codes": [
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609"
+  ],
+  "subset_sites": [
+   "Prepuce",
+   "Glans penis",
+   "Body of penis",
+   "Overlapping lesion of penis",
+   "Penis, NOS"
+  ],
+  "rationale": "Differentiated (HPV-independent) PeIN is defined as a precursor lesion of the penis associated with male genital lichen sclerosus, restricting it to the penile subset of the code's ceiling.",
+  "source_name": "Histopathology (WHO 2022 penile classification)"
+ },
+ {
+  "code": "8071/2",
+  "term": "Differentiated penile intraepithelial neoplasia (PeIN)",
+  "subset_codes": [
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609"
+  ],
+  "subset_sites": [
+   "Prepuce",
+   "Glans penis",
+   "Body of penis",
+   "Overlapping lesion of penis",
+   "Penis, NOS"
+  ],
+  "rationale": "Differentiated PeIN is by definition a penile intraepithelial neoplasia (HPV-independent precursor of penile SCC), restricting it to the penile subset of the code's ceiling.",
+  "source_name": "Histopathology (WHO 2022 penile classification)"
+ },
+ {
+  "code": "8071/2",
+  "term": "Differentiated vulvar intraepithelial neoplasia (VIN)",
+  "subset_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519"
+  ],
+  "subset_sites": [
+   "Labium majus",
+   "Labium minus",
+   "Clitoris",
+   "Overlapping lesion of vulva",
+   "Vulva, NOS"
+  ],
+  "rationale": "dVIN is defined as the HPV-independent, TP53-mutant precursor of vulvar squamous cell carcinoma arising in vulvar lichen sclerosus, restricting it to the vulvar subset of the code's ceiling.",
+  "source_name": "PubMed Central (gynecologic pathology review)"
+ },
+ {
+  "code": "8071/2",
+  "term": "Vulvar acanthosis with altered differentiation",
+  "subset_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519"
+  ],
+  "subset_sites": [
+   "Labium majus",
+   "Labium minus",
+   "Clitoris",
+   "Overlapping lesion of vulva",
+   "Vulva, NOS"
+  ],
+  "rationale": "VAAD is defined as an uncommon HPV-independent squamous proliferation of the vulvar epithelium associated with vulvar verrucous carcinoma, restricting it to the vulvar subset of the code's ceiling.",
+  "source_name": "PubMed PMID26068020"
+ },
+ {
+  "code": "8071/2",
+  "term": "Vulvar intraepithelial neoplasia, HPV-independent",
+  "subset_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519"
+  ],
+  "subset_sites": [
+   "Labium majus",
+   "Labium minus",
+   "Clitoris",
+   "Overlapping lesion of vulva",
+   "Vulva, NOS"
+  ],
+  "rationale": "By name and definition this is HPV-independent vulvar intraepithelial neoplasia (dVIN/DEVIL/VAAD spectrum), restricting it to the vulvar subset of the code's ceiling.",
+  "source_name": "Modern Pathology (Nature)"
+ },
+ {
+  "code": "8098/3",
+  "term": "Adenoid basal carcinoma",
+  "subset_codes": [
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "subset_sites": [
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri"
+  ],
+  "rationale": "WHO 5th ed. and the literature define adenoid basal carcinoma as a rare HPV-related epithelial neoplasm of the uterine cervix arising from cervical reserve cells, restricting it to the cervical subset of the code's ceiling.",
+  "source_name": "Frontiers in Oncology (PMC)"
+ },
+ {
+  "code": "8098/3",
+  "term": "Adenoid basal epithelioma",
+  "subset_codes": [
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "subset_sites": [
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri"
+  ],
+  "rationale": "Adenoid basal epithelioma is a WHO synonym for adenoid basal carcinoma, defined as a rare neoplasm of the uterine cervix, restricting it to the cervical subset of the code's ceiling.",
+  "source_name": "International Journal of Clinical and Experimental Pathology (PMC)"
+ },
+ {
+  "code": "8098/3",
+  "term": "Low-grade adenoid basal tumor",
+  "subset_codes": [
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "subset_sites": [
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri"
+  ],
+  "rationale": "This synonym for the indolent adenoid basal neoplasm is described exclusively as a cervical tumor derived from cervical reserve cells, restricting it to the cervical subset of the code's ceiling.",
+  "source_name": "Oncology Reports"
+ },
+ {
+  "code": "8383/3",
+  "term": "Endometrioid adenocarcinoma, ciliated cell variant",
+  "subset_codes": [
+   "C541"
+  ],
+  "subset_sites": [
+   "Endometrium"
+  ],
+  "rationale": "The ciliated cell variant of endometrioid adenocarcinoma is reported only as arising in the endometrium in all published cases, restricting it to the endometrial subset of the code's ceiling.",
+  "source_name": "Cureus (PMC)"
+ },
+ {
+  "code": "8441/2",
+  "term": "Serous endometrial intraepithelial carcinoma",
+  "subset_codes": [
+   "C541",
+   "C543",
+   "C559"
+  ],
+  "subset_sites": [
+   "Endometrium",
+   "Fundus uteri",
+   "Uterus, NOS"
+  ],
+  "rationale": "SEIC is defined as replacement of endometrial surface/glandular epithelium by serous carcinoma cells, i.e. the non-invasive precursor arising in the uterine corpus, restricting it to the endometrial/uterine subset (excluding ovary C569 and fallopian tube C570).",
+  "source_name": "PubMed Central (educational case)"
+ },
+ {
+  "code": "8441/2",
+  "term": "Serous endometrial intraepithelial carcinoma (SEIC)",
+  "subset_codes": [
+   "C541",
+   "C543",
+   "C559"
+  ],
+  "subset_sites": [
+   "Endometrium",
+   "Fundus uteri",
+   "Uterus, NOS"
+  ],
+  "rationale": "SEIC is by definition the endometrial serous intraepithelial precursor of uterine serous carcinoma, restricting it to the endometrial/uterine subset (excluding ovary and fallopian tube).",
+  "source_name": "Life (PMC)"
+ },
+ {
+  "code": "8441/2",
+  "term": "Serous tubal intraepithelial carcinoma (STIC)",
+  "subset_codes": [
+   "C570"
+  ],
+  "subset_sites": [
+   "Fallopian tube"
+  ],
+  "rationale": "STIC is defined as the earliest morphologically recognizable serous carcinoma arising in the epithelium of the distal (fimbrial) fallopian tube, restricting it to the fallopian-tube subset of the code's ceiling.",
+  "source_name": "Diagnostics (PMC)"
+ },
+ {
+  "code": "8460/3",
+  "term": "Invasive implants",
+  "subset_codes": [
+   "C480",
+   "C481",
+   "C482",
+   "C488"
+  ],
+  "subset_sites": [
+   "Retroperitoneum",
+   "Specified parts of peritoneum",
+   "Peritoneum, NOS",
+   "Overlapping lesion of retroperitoneum and peritoneum"
+  ],
+  "rationale": "Invasive implants of ovarian serous borderline tumors are, by definition, epithelial proliferations located on/within the peritoneal surface; WHO 2014 reclassified them as peritoneal involvement (low-grade serous carcinoma), so the entity is restricted to the peritoneum within its ceiling.",
+  "source_name": "PubMed PMC5298321 (Virchows Archiv, Ovarian borderline tumors in the 2014 WHO classification)"
+ },
+ {
+  "code": "8461/3",
+  "term": "Primary serous papillary carcinoma of peritoneum",
+  "subset_codes": [
+   "C480",
+   "C481",
+   "C482",
+   "C488"
+  ],
+  "subset_sites": [
+   "Retroperitoneum",
+   "Specified parts of peritoneum",
+   "Peritoneum, NOS",
+   "Overlapping lesion of retroperitoneum and peritoneum"
+  ],
+  "rationale": "By definition this is a primary peritoneal tumor arising from the peritoneal lining, diagnosed only when the ovaries are uninvolved, so it is restricted to the peritoneum within its ceiling.",
+  "source_name": "StatPearls (Peritoneal Cancer)"
+ },
+ {
+  "code": "8482/3",
+  "term": "Adenocarcinoma, HPV-independent, gastric type",
+  "subset_codes": [
+   "C529",
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "subset_sites": [
+   "Vagina, NOS",
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri"
+  ],
+  "rationale": "HPV-independent gastric-type adenocarcinoma is a defined tumor of the uterine cervix (with documented vaginal counterparts), not an established primary of ovary, fallopian tube or endometrium, so it is restricted to the cervix/vagina subset of the ceiling.",
+  "source_name": "PubMed PMC11075765 (Gastric-type adenocarcinoma of the uterine cervix)"
+ },
+ {
+  "code": "8482/3",
+  "term": "Mucinous adenocarcinoma, endocervical type",
+  "subset_codes": [
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "subset_sites": [
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri"
+  ],
+  "rationale": "The descriptor 'endocervical type' defines this mucinous adenocarcinoma as a cervical (endocervical) entity, restricting it to the cervix codes within the ceiling.",
+  "source_name": "PubMed PMC11075765 (Gastric-type adenocarcinoma of the uterine cervix)"
+ },
+ {
+  "code": "8482/3",
+  "term": "Mucinous carcinoma, gastric type",
+  "subset_codes": [
+   "C529",
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "subset_sites": [
+   "Vagina, NOS",
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri"
+  ],
+  "rationale": "Gastric-type mucinous carcinoma is a defined tumor of the uterine cervix (with reported vaginal cases), not an established ovarian, tubal or endometrial primary, restricting it to the cervix/vagina subset of the ceiling.",
+  "source_name": "PubMed PMC11075765 (Gastric-type adenocarcinoma of the uterine cervix)"
+ },
+ {
+  "code": "8483/2",
+  "term": "Adenocarcinoma in situ, HPV-associated",
+  "subset_codes": [
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "subset_sites": [
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri"
+  ],
+  "rationale": "HPV-associated adenocarcinoma in situ is a preinvasive glandular lesion of the uterine (endo)cervix, restricting it to the cervix codes within the ceiling rather than other female-genital sites.",
+  "source_name": "LibrePathology (Endocervical adenocarcinoma in situ)"
+ },
+ {
+  "code": "8483/2",
+  "term": "High-grade cervical glandular intraepithelial neoplasia",
+  "subset_codes": [
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "subset_sites": [
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri"
+  ],
+  "rationale": "Cervical glandular intraepithelial neoplasia (CGIN) is by definition a glandular preinvasive lesion of the cervix, restricting it to the cervix codes within the ceiling.",
+  "source_name": "North Tees & Hartlepool NHS (Glandular abnormalities of the cervix)"
+ },
+ {
+  "code": "8484/2",
+  "term": "Adenocarcinoma in situ, HPV-independent, NOS",
+  "subset_codes": [
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "subset_sites": [
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri"
+  ],
+  "rationale": "HPV-independent (gastric-type) adenocarcinoma in situ is a recognized preinvasive glandular lesion of the uterine cervix, restricting it to the cervix codes within the ceiling.",
+  "source_name": "MyPathologyReport (Adenocarcinoma in situ of the cervix)"
+ },
+ {
+  "code": "8484/2",
+  "term": "Atypical lobular endocervical glandular hyperplasia",
+  "subset_codes": [
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "subset_sites": [
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri"
+  ],
+  "rationale": "Atypical lobular endocervical glandular hyperplasia is a precursor lesion of gastric-type adenocarcinoma arising in the uterine cervix (endocervical glands), restricting it to the cervix codes within the ceiling.",
+  "source_name": "PubMed PMC10728631 (Atypical lobular endocervical glandular hyperplasia)"
+ },
+ {
+  "code": "8484/2",
+  "term": "Gastric-type adenocarcinoma in situ of cervix",
+  "subset_codes": [
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "subset_sites": [
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri"
+  ],
+  "rationale": "The term explicitly names a gastric-type adenocarcinoma in situ 'of cervix', a preinvasive cervical glandular lesion, restricting it to the cervix codes within the ceiling.",
+  "source_name": "PubMed PMC13078056 (gastric-type AIS of cervix)"
+ },
+ {
+  "code": "8484/3",
+  "term": "Adenocarcinoma, HPV-independent, NOS",
+  "subset_codes": [
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "subset_sites": [
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri"
+  ],
+  "rationale": "HPV-independent adenocarcinoma (NOS) is defined in WHO as an HPV-independent cervical adenocarcinoma category, restricting it to the cervix codes within the ceiling rather than other female-genital sites.",
+  "source_name": "MyPathologyReport (Adenocarcinoma in situ of the cervix)"
+ },
+ {
+  "code": "9050/3",
+  "term": "Diffuse pleural mesothelioma",
+  "subset_codes": [
+   "C384"
+  ],
+  "subset_sites": [
+   "Pleura, NOS"
+  ],
+  "rationale": "Diffuse pleural mesothelioma originates specifically from the mesothelial cells of the parietal or visceral pleura, restricting it to the pleura (C384) within its ceiling.",
+  "source_name": "RadioGraphics (Mesotheliomas and benign mesothelial tumors)"
+ },
+ {
+  "code": "9050/3",
+  "term": "Localized pleural mesothelioma",
+  "subset_codes": [
+   "C384"
+  ],
+  "subset_sites": [
+   "Pleura, NOS"
+  ],
+  "rationale": "Localized pleural mesothelioma arises specifically along the pleural surface, restricting it to the pleura (C384) within its ceiling.",
+  "source_name": "RadioGraphics (Mesotheliomas and benign mesothelial tumors)"
+ },
+ {
+  "code": "9071/3",
+  "term": "Embryonal carcinoma, infantile",
+  "subset_codes": [
+   "C620",
+   "C621",
+   "C629"
+  ],
+  "subset_sites": [
+   "Undescended testis",
+   "Descended testis",
+   "Testis, NOS"
+  ],
+  "rationale": "'Infantile embryonal carcinoma' is a historical synonym specifically for testicular yolk sac tumour of young children (under age 3), restricting it to the testis within the broad code ceiling.",
+  "source_name": "StatPearls (NCBI Bookshelf)"
+ },
+ {
+  "code": "9071/3",
+  "term": "Orchioblastoma",
+  "subset_codes": [
+   "C620",
+   "C621",
+   "C629"
+  ],
+  "subset_sites": [
+   "Undescended testis",
+   "Descended testis",
+   "Testis, NOS"
+  ],
+  "rationale": "'Orchioblastoma' (orchi- = testis) is an established synonym exclusively for testicular yolk sac tumour, restricting it to the testis within the broad ceiling.",
+  "source_name": "BC Decker / Holland-Frei (NCBI)"
+ },
+ {
+  "code": "9100/3",
+  "term": "Gestational choriocarcinoma",
+  "subset_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C529",
+   "C541",
+   "C549",
+   "C559",
+   "C569",
+   "C570",
+   "C571",
+   "C572",
+   "C573",
+   "C574",
+   "C577",
+   "C589"
+  ],
+  "subset_sites": [
+   "Labium majus",
+   "Labium minus",
+   "Clitoris",
+   "Overlapping lesion of vulva",
+   "Vulva, NOS",
+   "Vagina, NOS",
+   "Endometrium",
+   "Corpus uteri",
+   "Uterus, NOS",
+   "Ovary",
+   "Fallopian tube",
+   "Broad ligament",
+   "Round ligament",
+   "Parametrium",
+   "Uterine adnexa",
+   "Other specified parts of female genital organs",
+   "Placenta"
+  ],
+  "rationale": "Gestational choriocarcinoma arises from placental/trophoblastic tissue of the female genital tract (uterus predominantly, also ovary/tube/vagina from ovarian pregnancy or metastasis); it does not arise in testis, mediastinum or CNS, restricting it to the female genital/placental subset.",
+  "source_name": "StatPearls (GTD)"
+ },
+ {
+  "code": "9104/3",
+  "term": "Placental site trophoblastic tumor of testis",
+  "subset_codes": [
+   "C620",
+   "C621",
+   "C629"
+  ],
+  "subset_sites": [
+   "Undescended testis",
+   "Descended testis",
+   "Testis, NOS"
+  ],
+  "rationale": "The term explicitly designates the testicular form of PSTT; primary testicular PSTT is confined to the testis within the ceiling.",
+  "source_name": "Malaysian J Pathology (testicular PSTT)"
+ },
+ {
+  "code": "9104/3",
+  "term": "Placental site trophoblastic tumor, malignant",
+  "subset_codes": [
+   "C540",
+   "C541",
+   "C542",
+   "C543",
+   "C548",
+   "C549",
+   "C559",
+   "C569",
+   "C578",
+   "C579",
+   "C589"
+  ],
+  "subset_sites": [
+   "Isthmus uteri",
+   "Endometrium",
+   "Myometrium",
+   "Fundus uteri",
+   "Overlapping lesion of corpus uteri",
+   "Corpus uteri",
+   "Uterus, NOS",
+   "Ovary",
+   "Overlapping lesion of female genital organs",
+   "Female genital tract, NOS",
+   "Placenta"
+  ],
+  "rationale": "PSTT is a gestational trophoblastic neoplasm arising from the placental implantation site, nearly always in the uterine corpus/fundus (rarely other female genital sites); it does not arise in the testis, restricting it to the female genital/uterine subset.",
+  "source_name": "PMC (PSTT review)"
+ },
+ {
+  "code": "9105/3",
+  "term": "Cystic trophoblastic tumor",
+  "subset_codes": [
+   "C620",
+   "C621",
+   "C629",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C716"
+  ],
+  "subset_sites": [
+   "Undescended testis",
+   "Descended testis",
+   "Testis, NOS",
+   "Cerebrum",
+   "Frontal lobe",
+   "Temporal lobe",
+   "Parietal lobe",
+   "Occipital lobe",
+   "Cerebellum, NOS"
+  ],
+  "rationale": "Cystic trophoblastic tumour is described almost exclusively in testicular germ cell tumours (post-chemotherapy/retroperitoneal) and rarely in primary CNS germ cell tumours; it is a germ-cell-derived lesion not occurring at gynaecologic sites, restricting it to testis and CNS within the ceiling.",
+  "source_name": "PubMed PMID15316321"
+ },
+ {
+  "code": "9110/3",
+  "term": "Adenocarcinoma of rete ovarii",
+  "subset_codes": [
+   "C569"
+  ],
+  "subset_sites": [
+   "Ovary"
+  ],
+  "rationale": "Adenocarcinoma of the rete ovarii arises from the rete ovarii in the ovarian hilus, i.e. the ovary only, a strict subset of the broad code ceiling.",
+  "source_name": "WHO Female Genital Tumours (summary)"
+ },
+ {
+  "code": "9110/3",
+  "term": "Adenocarcinoma, HPV-independent, mesonephric type",
+  "subset_codes": [
+   "C529",
+   "C530",
+   "C531",
+   "C538",
+   "C539",
+   "C540",
+   "C541",
+   "C542",
+   "C543",
+   "C548",
+   "C549",
+   "C559",
+   "C569",
+   "C571",
+   "C572",
+   "C573",
+   "C574",
+   "C577"
+  ],
+  "subset_sites": [
+   "Vagina, NOS",
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri",
+   "Isthmus uteri",
+   "Endometrium",
+   "Myometrium",
+   "Fundus uteri",
+   "Overlapping lesion of corpus uteri",
+   "Corpus uteri",
+   "Uterus, NOS",
+   "Ovary",
+   "Broad ligament",
+   "Round ligament",
+   "Parametrium",
+   "Uterine adnexa",
+   "Other specified parts of female genital organs"
+  ],
+  "rationale": "Mesonephric adenocarcinoma (HPV-independent) arises from Wolffian/mesonephric remnants of the female genital tract (cervix predominant, also vagina, uterine corpus, ovary, broad ligament, tube); it does not occur in the urinary tract sites of the ceiling.",
+  "source_name": "PMC (MNAC in FGT)"
+ },
+ {
+  "code": "9110/3",
+  "term": "Mesonephric adenocarcinoma",
+  "subset_codes": [
+   "C529",
+   "C530",
+   "C531",
+   "C538",
+   "C539",
+   "C540",
+   "C541",
+   "C542",
+   "C543",
+   "C548",
+   "C549",
+   "C559",
+   "C569",
+   "C571",
+   "C572",
+   "C573",
+   "C574",
+   "C577"
+  ],
+  "subset_sites": [
+   "Vagina, NOS",
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri",
+   "Isthmus uteri",
+   "Endometrium",
+   "Myometrium",
+   "Fundus uteri",
+   "Overlapping lesion of corpus uteri",
+   "Corpus uteri",
+   "Uterus, NOS",
+   "Ovary",
+   "Broad ligament",
+   "Round ligament",
+   "Parametrium",
+   "Uterine adnexa",
+   "Other specified parts of female genital organs"
+  ],
+  "rationale": "Mesonephric adenocarcinoma arises from mesonephric (Wolffian) remnants confined to the female genital tract (cervix, vagina, uterine corpus, ovary, broad ligament, tube); not the urinary sites in the ceiling.",
+  "source_name": "PMC (MNAC in FGT)"
+ },
+ {
+  "code": "9110/3",
+  "term": "Wolffian duct carcinoma",
+  "subset_codes": [
+   "C529",
+   "C530",
+   "C531",
+   "C538",
+   "C539",
+   "C540",
+   "C541",
+   "C542",
+   "C543",
+   "C548",
+   "C549",
+   "C559",
+   "C569",
+   "C571",
+   "C572",
+   "C573",
+   "C574",
+   "C577"
+  ],
+  "subset_sites": [
+   "Vagina, NOS",
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri",
+   "Isthmus uteri",
+   "Endometrium",
+   "Myometrium",
+   "Fundus uteri",
+   "Overlapping lesion of corpus uteri",
+   "Corpus uteri",
+   "Uterus, NOS",
+   "Ovary",
+   "Broad ligament",
+   "Round ligament",
+   "Parametrium",
+   "Uterine adnexa",
+   "Other specified parts of female genital organs"
+  ],
+  "rationale": "Wolffian (mesonephric) duct carcinoma arises from Wolffian duct remnants of the female genital tract (cervix, vagina, uterine corpus, ovary, broad ligament, tube); not the urinary tract sites in the ceiling.",
+  "source_name": "PMC (MNAC in FGT)"
+ },
+ {
+  "code": "9364/3",
+  "term": "Askin tumor",
+  "subset_codes": [
+   "C493"
+  ],
+  "subset_sites": [
+   "Connective/soft tissue of thorax"
+  ],
+  "rationale": "Askin tumour is by definition the Ewing/PNET of the thoracopulmonary region, arising from the soft tissues of the chest wall; it is restricted to the thorax (connective/soft tissue of thorax) within the broad ceiling.",
+  "source_name": "PMC (Askin tumour, thoracopulmonary)"
+ },
+ {
+  "code": "9364/3",
+  "term": "Renal Ewing sarcoma",
+  "subset_codes": [
+   "C649"
+  ],
+  "subset_sites": [
+   "Kidney, NOS"
+  ],
+  "rationale": "The named entity 'renal Ewing sarcoma' is defined as primary Ewing sarcoma arising in the kidney, restricting it to C649, a strict proper subset of the code's ceiling.",
+  "source_name": "PubMed PMC12603736"
+ },
+ {
+  "code": "8000/3",
+  "term": "Hepatoblastoma, hepatocellular neoplasm NOS subtype",
+  "subset_codes": [
+   "C220",
+   "C221"
+  ],
+  "subset_sites": [
+   "Liver",
+   "Intrahepatic bile duct"
+  ],
+  "rationale": "Hepatoblastoma and hepatocellular neoplasms are defined by WHO as primary tumors of the liver (hepatic parenchyma/intrahepatic biliary tree); they do not arise across the broad NOS ceiling of sites.",
+  "source_name": "J Liver Cancer 2022 / WHO Classification of Digestive System Tumours 5th ed"
+ },
+ {
+  "code": "8000/3",
+  "term": "Hepatocellular neoplasm, NOS",
+  "subset_codes": [
+   "C220",
+   "C221"
+  ],
+  "subset_sites": [
+   "Liver",
+   "Intrahepatic bile duct"
+  ],
+  "rationale": "Hepatoblastoma and hepatocellular neoplasms are defined by WHO as primary tumors of the liver (hepatic parenchyma/intrahepatic biliary tree); they do not arise across the broad NOS ceiling of sites.",
+  "source_name": "J Liver Cancer 2022 / WHO Classification of Digestive System Tumours 5th ed"
+ },
+ {
+  "code": "8020/3",
+  "term": "Anaplastic thyroid carcinoma",
+  "subset_codes": [
+   "C739"
+  ],
+  "subset_sites": [
+   "Thyroid gland"
+  ],
+  "rationale": "Anaplastic (undifferentiated) thyroid carcinoma is defined by WHO as an undifferentiated carcinoma of the thyroid gland; the named entity is restricted to the thyroid, a proper subset of the code's ceiling.",
+  "source_name": "Abe & Lam, PubMed PMID 33170501 / WHO Classification of Thyroid Tumours 5th ed"
+ },
+ {
+  "code": "8020/3",
+  "term": "Poorly differentiated urothelial carcinoma",
+  "subset_codes": [
+   "C659",
+   "C669",
+   "C670",
+   "C671",
+   "C672",
+   "C673",
+   "C674",
+   "C675",
+   "C676",
+   "C677",
+   "C678",
+   "C679",
+   "C680"
+  ],
+  "subset_sites": [
+   "Renal pelvis",
+   "Ureter",
+   "Trigone of bladder",
+   "Dome of bladder",
+   "Lateral wall of bladder",
+   "Anterior wall of bladder",
+   "Posterior wall of bladder",
+   "Bladder neck",
+   "Ureteric orifice",
+   "Urachus",
+   "Overlapping lesion of bladder",
+   "Bladder, NOS",
+   "Urethra"
+  ],
+  "rationale": "Urothelial carcinoma arises from urothelium lining the urinary tract (renal pelvis, ureter, bladder, urethra); the named entity is restricted to urinary-tract sites, a proper subset of the ceiling.",
+  "source_name": "SEER Urinary Solid Tumor Rules / CAP Ureter-Renal Pelvis Protocol"
+ },
+ {
+  "code": "8020/3",
+  "term": "Sinonasal undifferentiated carcinoma",
+  "subset_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319"
+  ],
+  "subset_sites": [
+   "Nasal cavity",
+   "Maxillary sinus",
+   "Ethmoid sinus",
+   "Frontal sinus",
+   "Sphenoid sinus",
+   "Overlapping lesion of accessory sinuses",
+   "Accessory sinus, NOS"
+  ],
+  "rationale": "Per WHO, sinonasal undifferentiated carcinoma is defined as arising in the nasal cavity and/or paranasal sinuses; the entity is restricted to the sinonasal tract, a proper subset of the ceiling.",
+  "source_name": "WHO Classification of Head and Neck Tumours 5th ed (SNUC), summarized"
+ },
+ {
+  "code": "8020/3",
+  "term": "Undifferentiated primary liver carcinoma",
+  "subset_codes": [
+   "C220",
+   "C221"
+  ],
+  "subset_sites": [
+   "Liver",
+   "Intrahepatic bile duct"
+  ],
+  "rationale": "The term explicitly designates an undifferentiated carcinoma primary to the liver; it is restricted to hepatic sites, a proper subset of the ceiling.",
+  "source_name": "WHO Classification of Digestive System Tumours 5th ed (primary liver carcinoma)"
+ },
+ {
+  "code": "8020/3",
+  "term": "Undifferentiated thyroid carcinoma",
+  "subset_codes": [
+   "C739"
+  ],
+  "subset_sites": [
+   "Thyroid gland"
+  ],
+  "rationale": "Anaplastic (undifferentiated) thyroid carcinoma is defined by WHO as an undifferentiated carcinoma of the thyroid gland; the named entity is restricted to the thyroid, a proper subset of the code's ceiling.",
+  "source_name": "Abe & Lam, PubMed PMID 33170501 / WHO Classification of Thyroid Tumours 5th ed"
+ },
+ {
+  "code": "8041/3",
+  "term": "Oat cell carcinoma",
+  "subset_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C349"
+  ],
+  "subset_sites": [
+   "Main bronchus",
+   "Upper lobe, lung",
+   "Middle lobe, lung",
+   "Lower lobe, lung",
+   "Lung, NOS"
+  ],
+  "rationale": "'Oat cell carcinoma' is the classic synonym for small cell carcinoma of the lung; the term is used for the pulmonary form, a proper subset of the ceiling.",
+  "source_name": "Wikipedia / WHO Classification of Thoracic Tumours 5th ed (SCLC = oat cell)"
+ },
+ {
+  "code": "8041/3",
+  "term": "Small cell carcinoma, pulmonary type",
+  "subset_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C349"
+  ],
+  "subset_sites": [
+   "Main bronchus",
+   "Upper lobe, lung",
+   "Middle lobe, lung",
+   "Lower lobe, lung",
+   "Lung, NOS"
+  ],
+  "rationale": "The 'pulmonary type' qualifier explicitly designates the lung form of small cell carcinoma; the term is restricted to pulmonary sites, a proper subset of the ceiling.",
+  "source_name": "WHO Classification of Thoracic Tumours 5th ed (SCLC), summarized"
+ },
+ {
+  "code": "8041/3",
+  "term": "Small cell lung carcinoma",
+  "subset_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C349"
+  ],
+  "subset_sites": [
+   "Main bronchus",
+   "Upper lobe, lung",
+   "Middle lobe, lung",
+   "Lower lobe, lung",
+   "Lung, NOS"
+  ],
+  "rationale": "By definition this term designates small cell carcinoma of the lung; it is restricted to pulmonary sites, a proper subset of the ceiling.",
+  "source_name": "WHO Classification of Thoracic Tumours 5th ed (SCLC), summarized"
+ },
+ {
+  "code": "8070/3",
+  "term": "Nasopharyngeal carcinoma",
+  "subset_codes": [
+   "C110",
+   "C111",
+   "C112",
+   "C113",
+   "C118",
+   "C119"
+  ],
+  "subset_sites": [
+   "Superior wall of nasopharynx",
+   "Posterior wall of nasopharynx",
+   "Lateral wall of nasopharynx",
+   "Anterior wall of nasopharynx",
+   "Overlapping lesion of nasopharynx",
+   "Nasopharynx, NOS"
+  ],
+  "rationale": "Nasopharyngeal carcinoma is a distinct entity defined by origin in the nasopharynx; the named term is anatomically restricted to the nasopharynx, a proper subset of the code's broad squamous ceiling.",
+  "source_name": "StatPearls Nasopharyngeal Cancer NBK459256"
+ },
+ {
+  "code": "8070/3",
+  "term": "Pure squamous carcinoma of urothelial tract",
+  "subset_codes": [
+   "C659",
+   "C669",
+   "C670",
+   "C671",
+   "C672",
+   "C673",
+   "C674",
+   "C675",
+   "C676",
+   "C677",
+   "C678",
+   "C679",
+   "C680"
+  ],
+  "subset_sites": [
+   "Renal pelvis",
+   "Ureter",
+   "Trigone of bladder",
+   "Dome of bladder",
+   "Lateral wall of bladder",
+   "Anterior wall of bladder",
+   "Posterior wall of bladder",
+   "Bladder neck",
+   "Ureteric orifice",
+   "Urachus",
+   "Overlapping lesion of bladder",
+   "Bladder, NOS",
+   "Urethra"
+  ],
+  "rationale": "This term explicitly denotes pure squamous cell carcinoma of the urothelial tract (renal pelvis, ureter, bladder, urethra); it is by definition restricted to urothelial-tract sites, a proper subset of the code's broad squamous ceiling.",
+  "source_name": "AJUO/ASME Squamous Cell Carcinoma of the Urinary Bladder (WHO)"
+ },
+ {
+  "code": "8070/3",
+  "term": "Pure urothelial squamous cell carcinoma",
+  "subset_codes": [
+   "C659",
+   "C669",
+   "C670",
+   "C671",
+   "C672",
+   "C673",
+   "C674",
+   "C675",
+   "C676",
+   "C677",
+   "C678",
+   "C679",
+   "C680"
+  ],
+  "subset_sites": [
+   "Renal pelvis",
+   "Ureter",
+   "Trigone of bladder",
+   "Dome of bladder",
+   "Lateral wall of bladder",
+   "Anterior wall of bladder",
+   "Posterior wall of bladder",
+   "Bladder neck",
+   "Ureteric orifice",
+   "Urachus",
+   "Overlapping lesion of bladder",
+   "Bladder, NOS",
+   "Urethra"
+  ],
+  "rationale": "This term explicitly denotes pure squamous cell carcinoma of the urothelial tract (renal pelvis, ureter, bladder, urethra); it is by definition restricted to urothelial-tract sites, a proper subset of the code's broad squamous ceiling.",
+  "source_name": "AJUO/ASME Squamous Cell Carcinoma of the Urinary Bladder (WHO)"
+ },
+ {
+  "code": "8071/3",
+  "term": "Sinonasal keratinizing squamous cell carcinoma",
+  "subset_codes": [
+   "C300",
+   "C301",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319"
+  ],
+  "subset_sites": [
+   "Nasal cavity",
+   "Middle ear",
+   "Maxillary sinus",
+   "Ethmoid sinus",
+   "Frontal sinus",
+   "Sphenoid sinus",
+   "Overlapping lesion of accessory sinuses",
+   "Accessory sinus, NOS"
+  ],
+  "rationale": "The named term specifies sinonasal keratinizing squamous cell carcinoma, i.e., tumors of the nasal cavity and paranasal sinuses; the 'sinonasal' qualifier restricts it to that tract, a proper subset of the code's broad ceiling.",
+  "source_name": "Head and Neck Pathology 2016 (Lewis) PMC4746138"
+ },
+ {
+  "code": "8077/2",
+  "term": "AIN 2",
+  "subset_codes": [
+   "C210",
+   "C211",
+   "C212",
+   "C218"
+  ],
+  "subset_sites": [
+   "Anus, NOS",
+   "Anal canal",
+   "Cloacogenic zone",
+   "Overlapping lesion of rectum, anus and anal canal"
+  ],
+  "rationale": "Anal intraepithelial neoplasia (AIN) is, by definition and nomenclature, a squamous precursor lesion of the anal canal/anus; the term is anatomically specific to the anus, a proper subset of the code ceiling.",
+  "source_name": "Clinics in Colon and Rectal Surgery 2018 (AIN from a pathologist's point of view)"
+ },
+ {
+  "code": "8077/2",
+  "term": "AIN 3",
+  "subset_codes": [
+   "C210",
+   "C211",
+   "C212",
+   "C218"
+  ],
+  "subset_sites": [
+   "Anus, NOS",
+   "Anal canal",
+   "Cloacogenic zone",
+   "Overlapping lesion of rectum, anus and anal canal"
+  ],
+  "rationale": "Anal intraepithelial neoplasia (AIN) is, by definition and nomenclature, a squamous precursor lesion of the anal canal/anus; the term is anatomically specific to the anus, a proper subset of the code ceiling.",
+  "source_name": "Clinics in Colon and Rectal Surgery 2018 (AIN from a pathologist's point of view)"
+ },
+ {
+  "code": "8077/2",
+  "term": "AIN III",
+  "subset_codes": [
+   "C210",
+   "C211",
+   "C212",
+   "C218"
+  ],
+  "subset_sites": [
+   "Anus, NOS",
+   "Anal canal",
+   "Cloacogenic zone",
+   "Overlapping lesion of rectum, anus and anal canal"
+  ],
+  "rationale": "Anal intraepithelial neoplasia (AIN) is, by definition and nomenclature, a squamous precursor lesion of the anal canal/anus; the term is anatomically specific to the anus, a proper subset of the code ceiling.",
+  "source_name": "Clinics in Colon and Rectal Surgery 2018 (AIN from a pathologist's point of view)"
+ },
+ {
+  "code": "8077/2",
+  "term": "Anal intraepithelial neoplasia, grade 2",
+  "subset_codes": [
+   "C210",
+   "C211",
+   "C212",
+   "C218"
+  ],
+  "subset_sites": [
+   "Anus, NOS",
+   "Anal canal",
+   "Cloacogenic zone",
+   "Overlapping lesion of rectum, anus and anal canal"
+  ],
+  "rationale": "Anal intraepithelial neoplasia (AIN) is, by definition and nomenclature, a squamous precursor lesion of the anal canal/anus; the term is anatomically specific to the anus, a proper subset of the code ceiling.",
+  "source_name": "Clinics in Colon and Rectal Surgery 2018 (AIN from a pathologist's point of view)"
+ },
+ {
+  "code": "8077/2",
+  "term": "Anal intraepithelial neoplasia, grade III",
+  "subset_codes": [
+   "C210",
+   "C211",
+   "C212",
+   "C218"
+  ],
+  "subset_sites": [
+   "Anus, NOS",
+   "Anal canal",
+   "Cloacogenic zone",
+   "Overlapping lesion of rectum, anus and anal canal"
+  ],
+  "rationale": "Anal intraepithelial neoplasia (AIN) is, by definition and nomenclature, a squamous precursor lesion of the anal canal/anus; the term is anatomically specific to the anus, a proper subset of the code ceiling.",
+  "source_name": "Clinics in Colon and Rectal Surgery 2018 (AIN from a pathologist's point of view)"
+ },
+ {
+  "code": "8077/2",
+  "term": "Anal intraepithelial neoplasia, high-grade",
+  "subset_codes": [
+   "C210",
+   "C211",
+   "C212",
+   "C218"
+  ],
+  "subset_sites": [
+   "Anus, NOS",
+   "Anal canal",
+   "Cloacogenic zone",
+   "Overlapping lesion of rectum, anus and anal canal"
+  ],
+  "rationale": "Anal intraepithelial neoplasia (AIN) is, by definition and nomenclature, a squamous precursor lesion of the anal canal/anus; the term is anatomically specific to the anus, a proper subset of the code ceiling.",
+  "source_name": "Clinics in Colon and Rectal Surgery 2018 (AIN from a pathologist's point of view)"
+ },
+ {
+  "code": "8077/2",
+  "term": "CIN 2",
+  "subset_codes": [
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "subset_sites": [
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri"
+  ],
+  "rationale": "Cervical intraepithelial neoplasia (CIN) is by definition a premalignant squamous lesion located in the uterine cervix; the term is anatomically specific to the cervix, a proper subset of the code ceiling.",
+  "source_name": "StatPearls: Cervical Intraepithelial Neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "CIN 3 with severe dysplasia",
+  "subset_codes": [
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "subset_sites": [
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri"
+  ],
+  "rationale": "Cervical intraepithelial neoplasia (CIN) is by definition a premalignant squamous lesion located in the uterine cervix; the term is anatomically specific to the cervix, a proper subset of the code ceiling.",
+  "source_name": "StatPearls: Cervical Intraepithelial Neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "CIN 3, NOS",
+  "subset_codes": [
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "subset_sites": [
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri"
+  ],
+  "rationale": "Cervical intraepithelial neoplasia (CIN) is by definition a premalignant squamous lesion located in the uterine cervix; the term is anatomically specific to the cervix, a proper subset of the code ceiling.",
+  "source_name": "StatPearls: Cervical Intraepithelial Neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "CIN III with severe dysplasia",
+  "subset_codes": [
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "subset_sites": [
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri"
+  ],
+  "rationale": "Cervical intraepithelial neoplasia (CIN) is by definition a premalignant squamous lesion located in the uterine cervix; the term is anatomically specific to the cervix, a proper subset of the code ceiling.",
+  "source_name": "StatPearls: Cervical Intraepithelial Neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "CIN III, NOS",
+  "subset_codes": [
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "subset_sites": [
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri"
+  ],
+  "rationale": "Cervical intraepithelial neoplasia (CIN) is by definition a premalignant squamous lesion located in the uterine cervix; the term is anatomically specific to the cervix, a proper subset of the code ceiling.",
+  "source_name": "StatPearls: Cervical Intraepithelial Neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "Cervical intraepithelial neoplasia, grade 2",
+  "subset_codes": [
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "subset_sites": [
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri"
+  ],
+  "rationale": "Cervical intraepithelial neoplasia (CIN) is by definition a premalignant squamous lesion located in the uterine cervix; the term is anatomically specific to the cervix, a proper subset of the code ceiling.",
+  "source_name": "StatPearls: Cervical Intraepithelial Neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "Cervical intraepithelial neoplasia, grade III",
+  "subset_codes": [
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "subset_sites": [
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri"
+  ],
+  "rationale": "Cervical intraepithelial neoplasia (CIN) is by definition a premalignant squamous lesion located in the uterine cervix; the term is anatomically specific to the cervix, a proper subset of the code ceiling.",
+  "source_name": "StatPearls: Cervical Intraepithelial Neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "Cervical intraepithelial neoplasia, high-grade",
+  "subset_codes": [
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "subset_sites": [
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri"
+  ],
+  "rationale": "Cervical intraepithelial neoplasia (CIN) is by definition a premalignant squamous lesion located in the uterine cervix; the term is anatomically specific to the cervix, a proper subset of the code ceiling.",
+  "source_name": "StatPearls: Cervical Intraepithelial Neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "High-grade oral epithelial dysplasia",
+  "subset_codes": [
+   "C000",
+   "C001",
+   "C002",
+   "C003",
+   "C004",
+   "C005",
+   "C006",
+   "C008",
+   "C009",
+   "C020",
+   "C021",
+   "C022",
+   "C023",
+   "C028",
+   "C029",
+   "C030",
+   "C031",
+   "C039",
+   "C040",
+   "C041",
+   "C048",
+   "C049",
+   "C050",
+   "C058",
+   "C059",
+   "C060",
+   "C061",
+   "C062",
+   "C068",
+   "C069"
+  ],
+  "subset_sites": [
+   "External upper lip",
+   "External lower lip",
+   "External lip, NOS",
+   "Mucosa of upper lip",
+   "Mucosa of lower lip",
+   "Mucosa of lip, NOS",
+   "Commissure of lip",
+   "Overlapping lesion of lip",
+   "Lip, NOS",
+   "Dorsal surface of tongue, NOS",
+   "Border of tongue",
+   "Ventral surface of tongue, NOS",
+   "Anterior 2/3 of tongue, NOS",
+   "Overlapping lesion of tongue",
+   "Tongue, NOS",
+   "Upper gum",
+   "Lower gum",
+   "Gum, NOS",
+   "Anterior floor of mouth",
+   "Lateral floor of mouth",
+   "Overlapping lesion of floor of mouth",
+   "Floor of mouth, NOS",
+   "Hard palate",
+   "Overlapping lesion of palate",
+   "Palate, NOS",
+   "Cheek mucosa",
+   "Vestibule of mouth",
+   "Retromolar area",
+   "Overlapping lesion of other and unspecified parts of mouth",
+   "Mouth, NOS"
+  ],
+  "rationale": "Oral epithelial dysplasia is by definition a precursor lesion of the oral cavity mucosa (lip, tongue, gingiva, floor of mouth, palate, buccal mucosa); the term is anatomically specific to oral cavity subsites, a proper subset of the code ceiling.",
+  "source_name": "NCI Dictionary of Cancer Terms: oral epithelial dysplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "Penile intraepithelial neoplasia, HPV-associated, high-grade",
+  "subset_codes": [
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609"
+  ],
+  "subset_sites": [
+   "Prepuce",
+   "Glans penis",
+   "Body of penis",
+   "Overlapping lesion of penis",
+   "Penis, NOS"
+  ],
+  "rationale": "Penile intraepithelial neoplasia (PeIN) is by definition the squamous precursor lesion of the penis (penile epithelium/glans/prepuce); the term is anatomically specific to the penis, a proper subset of the code ceiling.",
+  "source_name": "Journal of General Internal Medicine 2023 (Penile Intraepithelial Neoplasia)"
+ },
+ {
+  "code": "8077/2",
+  "term": "VAIN 2",
+  "subset_codes": [
+   "C529"
+  ],
+  "subset_sites": [
+   "Vagina, NOS"
+  ],
+  "rationale": "VAIN (vaginal intraepithelial neoplasia) is by definition a squamous intraepithelial lesion of the vagina, so this named term is restricted to the vagina, a proper subset of the code's 66-site ceiling.",
+  "source_name": "Wikipedia: Vaginal intraepithelial neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "VAIN 3",
+  "subset_codes": [
+   "C529"
+  ],
+  "subset_sites": [
+   "Vagina, NOS"
+  ],
+  "rationale": "VAIN (vaginal intraepithelial neoplasia) is by definition a squamous intraepithelial lesion of the vagina, so this named term is restricted to the vagina, a proper subset of the code's 66-site ceiling.",
+  "source_name": "Wikipedia: Vaginal intraepithelial neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "VAIN III",
+  "subset_codes": [
+   "C529"
+  ],
+  "subset_sites": [
+   "Vagina, NOS"
+  ],
+  "rationale": "VAIN (vaginal intraepithelial neoplasia) is by definition a squamous intraepithelial lesion of the vagina, so this named term is restricted to the vagina, a proper subset of the code's 66-site ceiling.",
+  "source_name": "Wikipedia: Vaginal intraepithelial neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "VIN 2",
+  "subset_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519"
+  ],
+  "subset_sites": [
+   "Labium majus",
+   "Labium minus",
+   "Clitoris",
+   "Overlapping lesion of vulva",
+   "Vulva, NOS"
+  ],
+  "rationale": "VIN (vulvar intraepithelial neoplasia) is by definition a squamous intraepithelial lesion of the vulva, restricting this named term to vulvar sites, a proper subset of the code's ceiling.",
+  "source_name": "Wikipedia: Vulvar intraepithelial neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "VIN 3",
+  "subset_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519"
+  ],
+  "subset_sites": [
+   "Labium majus",
+   "Labium minus",
+   "Clitoris",
+   "Overlapping lesion of vulva",
+   "Vulva, NOS"
+  ],
+  "rationale": "VIN (vulvar intraepithelial neoplasia) is by definition a squamous intraepithelial lesion of the vulva, restricting this named term to vulvar sites, a proper subset of the code's ceiling.",
+  "source_name": "Wikipedia: Vulvar intraepithelial neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "VIN III",
+  "subset_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519"
+  ],
+  "subset_sites": [
+   "Labium majus",
+   "Labium minus",
+   "Clitoris",
+   "Overlapping lesion of vulva",
+   "Vulva, NOS"
+  ],
+  "rationale": "VIN (vulvar intraepithelial neoplasia) is by definition a squamous intraepithelial lesion of the vulva, restricting this named term to vulvar sites, a proper subset of the code's ceiling.",
+  "source_name": "Wikipedia: Vulvar intraepithelial neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "Vaginal intraepithelial neoplasia, grade 2",
+  "subset_codes": [
+   "C529"
+  ],
+  "subset_sites": [
+   "Vagina, NOS"
+  ],
+  "rationale": "VAIN (vaginal intraepithelial neoplasia) is by definition a squamous intraepithelial lesion of the vagina, so this named term is restricted to the vagina, a proper subset of the code's 66-site ceiling.",
+  "source_name": "Wikipedia: Vaginal intraepithelial neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "Vaginal intraepithelial neoplasia, grade III",
+  "subset_codes": [
+   "C529"
+  ],
+  "subset_sites": [
+   "Vagina, NOS"
+  ],
+  "rationale": "VAIN (vaginal intraepithelial neoplasia) is by definition a squamous intraepithelial lesion of the vagina, so this named term is restricted to the vagina, a proper subset of the code's 66-site ceiling.",
+  "source_name": "Wikipedia: Vaginal intraepithelial neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "Vulvar intraepithelial neoplasia, grade 2",
+  "subset_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519"
+  ],
+  "subset_sites": [
+   "Labium majus",
+   "Labium minus",
+   "Clitoris",
+   "Overlapping lesion of vulva",
+   "Vulva, NOS"
+  ],
+  "rationale": "VIN (vulvar intraepithelial neoplasia) is by definition a squamous intraepithelial lesion of the vulva, restricting this named term to vulvar sites, a proper subset of the code's ceiling.",
+  "source_name": "Wikipedia: Vulvar intraepithelial neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "Vulvar intraepithelial neoplasia, grade III",
+  "subset_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519"
+  ],
+  "subset_sites": [
+   "Labium majus",
+   "Labium minus",
+   "Clitoris",
+   "Overlapping lesion of vulva",
+   "Vulva, NOS"
+  ],
+  "rationale": "VIN (vulvar intraepithelial neoplasia) is by definition a squamous intraepithelial lesion of the vulva, restricting this named term to vulvar sites, a proper subset of the code's ceiling.",
+  "source_name": "Wikipedia: Vulvar intraepithelial neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "esophageal squamous dysplasia, high-grade",
+  "subset_codes": [
+   "C150",
+   "C151",
+   "C152",
+   "C153",
+   "C154",
+   "C155",
+   "C158",
+   "C159"
+  ],
+  "subset_sites": [
+   "Cervical esophagus",
+   "Thoracic esophagus",
+   "Abdominal esophagus",
+   "Upper third of esophagus",
+   "Middle third of esophagus",
+   "Lower third of esophagus",
+   "Overlapping lesion of esophagus",
+   "Esophagus, NOS"
+  ],
+  "rationale": "The term is explicitly named for the esophagus (esophageal squamous dysplasia / high-grade squamous intraepithelial neoplasia), restricting it to esophageal sites, a proper subset of the code's ceiling.",
+  "source_name": "WHO Blue Book Digestive System 5th ed (esophageal squamous dysplasia)"
+ },
+ {
+  "code": "8077/2",
+  "term": "esophageal squamous intraepithelial neoplasia, high-grade",
+  "subset_codes": [
+   "C150",
+   "C151",
+   "C152",
+   "C153",
+   "C154",
+   "C155",
+   "C158",
+   "C159"
+  ],
+  "subset_sites": [
+   "Cervical esophagus",
+   "Thoracic esophagus",
+   "Abdominal esophagus",
+   "Upper third of esophagus",
+   "Middle third of esophagus",
+   "Lower third of esophagus",
+   "Overlapping lesion of esophagus",
+   "Esophagus, NOS"
+  ],
+  "rationale": "The term is explicitly named for the esophagus (esophageal squamous dysplasia / high-grade squamous intraepithelial neoplasia), restricting it to esophageal sites, a proper subset of the code's ceiling.",
+  "source_name": "WHO Blue Book Digestive System 5th ed (esophageal squamous dysplasia)"
+ },
+ {
+  "code": "8082/3",
+  "term": "Lymphoepithelial carcinoma of salivary gland",
+  "subset_codes": [
+   "C079",
+   "C080",
+   "C081",
+   "C088",
+   "C089"
+  ],
+  "subset_sites": [
+   "Parotid gland",
+   "Submandibular gland",
+   "Sublingual gland",
+   "Overlapping lesion of major salivary glands",
+   "Major salivary gland, NOS"
+  ],
+  "rationale": "Named specifically for salivary gland origin (parotid, submandibular, sublingual, minor glands); restricted to salivary gland sites, a proper subset of the code's broad ceiling.",
+  "source_name": "PMC5319522 - Lymphoepithelial carcinoma of the salivary glands"
+ },
+ {
+  "code": "8082/3",
+  "term": "Lymphoepithelioma-like urothelial carcinoma",
+  "subset_codes": [
+   "C659",
+   "C669",
+   "C670",
+   "C671",
+   "C672",
+   "C673",
+   "C674",
+   "C675",
+   "C676",
+   "C677",
+   "C678",
+   "C679",
+   "C680"
+  ],
+  "subset_sites": [
+   "Renal pelvis",
+   "Ureter",
+   "Trigone of bladder",
+   "Dome of bladder",
+   "Lateral wall of bladder",
+   "Anterior wall of bladder",
+   "Posterior wall of bladder",
+   "Bladder neck",
+   "Ureteric orifice",
+   "Urachus",
+   "Overlapping lesion of bladder",
+   "Bladder, NOS",
+   "Urethra"
+  ],
+  "rationale": "Lymphoepithelioma-like urothelial carcinoma is by definition a subtype of urothelial carcinoma arising in the urinary tract (bladder, ureter, renal pelvis, urethra), a proper subset of the code's ceiling.",
+  "source_name": "Pathologica - Lymphoepithelioma-like carcinoma of urinary bladder"
+ }
+]

@@ -1,0 +1,1589 @@
+[
+ {
+  "code": "8802/3",
+  "term": "Anaplastic sarcoma of the kidney",
+  "proposed_codes": [
+   "C649"
+  ],
+  "proposed_labels": [
+   "Kidney, NOS"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Anaplastic sarcoma of the kidney (ASK) is a DICER1-related renal neoplasm that arises in the kidney; the source states 'ASK is a rare DICER1-related renal neoplasm.' Kidney = C649. C64 is not among the code's ceiling_codes, so this is outside_ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11590164/",
+  "source_ref": "Schoettler PJ et al. Anaplastic Sarcoma of the Kidney (DICER1-Sarcoma of the Kidney). PMC11590164 (2024)"
+ },
+ {
+  "code": "8802/3",
+  "term": "DICER1 sarcoma of kidney",
+  "proposed_codes": [
+   "C649"
+  ],
+  "proposed_labels": [
+   "Kidney, NOS"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "DICER1 sarcoma of the kidney is synonymous with anaplastic sarcoma of the kidney (ASK), described as 'a rare DICER1-related renal neoplasm' arising in the kidney. Kidney = C649. C64 is not in the code's ceiling_codes, so outside_ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11590164/",
+  "source_ref": "Schoettler PJ et al. Anaplastic Sarcoma of the Kidney (DICER1-Sarcoma of the Kidney). PMC11590164 (2024)"
+ },
+ {
+  "code": "8810/3",
+  "term": "Ovarian fibrosarcoma",
+  "proposed_codes": [
+   "C569"
+  ],
+  "proposed_labels": [
+   "Ovary"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Ovarian fibrosarcoma arises from the ovary: 'ovarian fibrosarcoma may originate from stromal cells that surround the sex cord of ovarian follicles and the fibrous components of the ovarian phylum, or from the malignant transformation of a benign ovarian fibroma.' It is an ovarian sex cord-stromal tumor confined to the ovary (C569). C56 is not in the code's ceiling_codes, so outside_ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7724700/",
+  "source_ref": "Sun TT et al. Ovarian fibrosarcoma: A single-institution experience and a review of the literature. PMC7724700 (2020)"
+ },
+ {
+  "code": "8814/3",
+  "term": "Cellular congenital mesoblastic nephroma",
+  "proposed_codes": [
+   "C649"
+  ],
+  "proposed_labels": [
+   "Kidney, NOS"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Congenital mesoblastic nephroma (including the cellular variant) is a mesenchymal renal tumor of infancy: 'Congenital mesoblastic nephroma (CMN) is a mesenchymal renal tumor' and 'the most frequent type of renal tumor in the neonatal and early infantile period.' Kidney = C649. C64 is not in the code's ceiling_codes, so outside_ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4186628/",
+  "source_ref": "Wang ZP et al. Congenital mesoblastic nephroma: Clinical analysis of eight cases. PMC4186628 (2014)"
+ },
+ {
+  "code": "8814/3",
+  "term": "Cellular mesoblastic nephroma",
+  "proposed_codes": [
+   "C649"
+  ],
+  "proposed_labels": [
+   "Kidney, NOS"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Cellular mesoblastic nephroma is a cellular variant of congenital mesoblastic nephroma, 'a mesenchymal renal tumor' that is 'the most frequent type of renal tumor in the neonatal and early infantile period,' arising in the kidney (C649). C64 is not in the code's ceiling_codes, so outside_ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4186628/",
+  "source_ref": "Wang ZP et al. Congenital mesoblastic nephroma: Clinical analysis of eight cases. PMC4186628 (2014)"
+ },
+ {
+  "code": "8842/3",
+  "term": "Primary pulmonary myxoid sarcoma",
+  "proposed_codes": [
+   "C343",
+   "C341",
+   "C342",
+   "C349"
+  ],
+  "proposed_labels": [
+   "Lower lobe, lung",
+   "Middle lobe, lung",
+   "Upper lobe, lung",
+   "Lung, NOS"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Primary pulmonary myxoid sarcoma is a lung-specific mesenchymal malignancy that 'predominantly arises within the bronchial tree and pulmonary parenchyma' (endobronchial/parenchymal lung locations). Lung topography = C340-C349; C349 (Lung, NOS) covers the parenchyma when no single lobe is specified. No lung C34 code is in the code's ceiling_codes (only C49*), so outside_ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12885817/",
+  "source_ref": "Lin M et al. Primary pulmonary myxoid sarcoma with detected EWSR1 gene rearrangement. PMC12885817 (2026)"
+ },
+ {
+  "code": "8842/3",
+  "term": "Pulmonary myxoid sarcoma with EWSR1-CREB1 fusion",
+  "proposed_codes": [
+   "C343",
+   "C341",
+   "C342",
+   "C349"
+  ],
+  "proposed_labels": [
+   "Lower lobe, lung",
+   "Middle lobe, lung",
+   "Upper lobe, lung",
+   "Lung, NOS"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Pulmonary myxoid sarcoma with EWSR1::CREB1 fusion is the same lung-specific entity as primary pulmonary myxoid sarcoma; it 'predominantly arises within the bronchial tree and pulmonary parenchyma.' Lung topography = C340-C349 (C349 Lung, NOS). No lung code is in the code's ceiling_codes (only C49*), so outside_ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12885817/",
+  "source_ref": "Lin M et al. Primary pulmonary myxoid sarcoma with detected EWSR1 gene rearrangement. PMC12885817 (2026)"
+ },
+ {
+  "code": "8842/3",
+  "term": "Pulmonary myxoid sarcoma with EWSR1-CREB1 translocation",
+  "proposed_codes": [
+   "C343",
+   "C341",
+   "C342",
+   "C349"
+  ],
+  "proposed_labels": [
+   "Lower lobe, lung",
+   "Middle lobe, lung",
+   "Upper lobe, lung",
+   "Lung, NOS"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Pulmonary myxoid sarcoma with EWSR1-CREB1 translocation is the same lung-specific entity as primary pulmonary myxoid sarcoma; it 'predominantly arises within the bronchial tree and pulmonary parenchyma.' Lung topography = C340-C349 (C349 Lung, NOS). No lung code is in the code's ceiling_codes (only C49*), so outside_ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12885817/",
+  "source_ref": "Lin M et al. Primary pulmonary myxoid sarcoma with detected EWSR1 gene rearrangement. PMC12885817 (2026)"
+ },
+ {
+  "code": "8842/3",
+  "term": "Pulmonary myxoid sarcoma with EWSR1::CREB1 fusion",
+  "proposed_codes": [
+   "C343",
+   "C341",
+   "C342",
+   "C349"
+  ],
+  "proposed_labels": [
+   "Lower lobe, lung",
+   "Middle lobe, lung",
+   "Upper lobe, lung",
+   "Lung, NOS"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Pulmonary myxoid sarcoma with EWSR1::CREB1 fusion is the same lung-specific entity as primary pulmonary myxoid sarcoma; it 'predominantly arises within the bronchial tree and pulmonary parenchyma.' Lung topography = C340-C349 (C349 Lung, NOS). No lung code is in the code's ceiling_codes (only C49*), so outside_ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12885817/",
+  "source_ref": "Lin M et al. Primary pulmonary myxoid sarcoma with detected EWSR1 gene rearrangement. PMC12885817 (2026)"
+ },
+ {
+  "code": "8842/3",
+  "term": "Pulmonary myxoid sarcoma with EWSR1::CREB1 translocation",
+  "proposed_codes": [
+   "C343",
+   "C341",
+   "C342",
+   "C349"
+  ],
+  "proposed_labels": [
+   "Lower lobe, lung",
+   "Middle lobe, lung",
+   "Upper lobe, lung",
+   "Lung, NOS"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Pulmonary myxoid sarcoma with EWSR1::CREB1 translocation is the same lung-specific entity as primary pulmonary myxoid sarcoma; it 'predominantly arises within the bronchial tree and pulmonary parenchyma.' Lung topography = C340-C349 (C349 Lung, NOS). No lung code is in the code's ceiling_codes (only C49*), so outside_ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12885817/",
+  "source_ref": "Lin M et al. Primary pulmonary myxoid sarcoma with detected EWSR1 gene rearrangement. PMC12885817 (2026)"
+ },
+ {
+  "code": "9044/3",
+  "term": "CRTC1::TRIM11\u00a0cutaneous tumor",
+  "proposed_codes": [
+   "C449",
+   "C447",
+   "C446",
+   "C444",
+   "C445"
+  ],
+  "proposed_labels": [
+   "Skin, NOS",
+   "Skin of lower limb and hip",
+   "Skin of upper limb and shoulder",
+   "Skin of scalp and neck",
+   "Skin of trunk"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Cutaneous melanocytic tumor with CRTC1::TRIM11 fusion is a skin (dermal/subcutaneous) neoplasm: it 'most commonly presents as a well-circumscribed dermal (or dermal and subcutaneous) nodular or multilobulated tumor,' arising most often on the extremities, then head/neck and trunk. Skin topography = C44*. Skin (C44) is not among the code's ceiling_codes (C48/C49/C809), so outside_ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8698518/",
+  "source_ref": "Parra O, Linos K. Cutaneous Melanocytic Tumor with CRTC1::TRIM11 Fusion. PMC8698518 (2021)"
+ },
+ {
+  "code": "9044/3",
+  "term": "Dermal clear cell sarcoma",
+  "proposed_codes": [
+   "C449",
+   "C447",
+   "C446",
+   "C444",
+   "C445"
+  ],
+  "proposed_labels": [
+   "Skin, NOS",
+   "Skin of lower limb and hip",
+   "Skin of upper limb and shoulder",
+   "Skin of scalp and neck",
+   "Skin of trunk"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Dermal clear-cell sarcoma is a cutaneous (dermis-localized) variant: 'Dermis-localized clear-cell sarcoma is rare' and 'Lesions arising in the skin are recognized in the literature.' Skin topography = C44*. Skin (C44) is not among the code's ceiling_codes (C48/C49/C809), so outside_ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9798674/",
+  "source_ref": "Tahiri Elousrouti L et al. Clear-Cell Sarcoma With an Unusual Presentation. PMC9798674 (2022)"
+ },
+ {
+  "code": "9044/3",
+  "term": "Gastrointestinal clear cell sarcoma / malignant gastrointestinal neuroectodermal tumor",
+  "proposed_codes": [
+   "C179",
+   "C169",
+   "C189"
+  ],
+  "proposed_labels": [
+   "Small intestine, NOS",
+   "Stomach, NOS",
+   "Colon, NOS"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Malignant gastrointestinal neuroectodermal tumor (GNET) / GI clear cell sarcoma arises 'in the wall of the gastrointestinal tract'; in the defining series tumors arose in the small bowel (10/16, 62.5%), stomach (4/16, 25%), and colon (2/16, 12.5%). Small intestine = C179, stomach = C169, colon = C189. No GI-tract code is among the code's ceiling_codes (C48/C49/C809), so outside_ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7479544/",
+  "source_ref": "Stockman DL et al. Malignant Gastrointestinal Neuroectodermal Tumor. PMC7479544 (2012)"
+ },
+ {
+  "code": "9044/3",
+  "term": "Malignant gastrointestinal neuroectodermal tumor",
+  "proposed_codes": [
+   "C179",
+   "C169",
+   "C189"
+  ],
+  "proposed_labels": [
+   "Small intestine, NOS",
+   "Stomach, NOS",
+   "Colon, NOS"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Malignant gastrointestinal neuroectodermal tumor (GNET) arises 'in the wall of the gastrointestinal tract'; in the defining series tumors arose in the small bowel (10/16, 62.5%), stomach (4/16, 25%), and colon (2/16, 12.5%). Small intestine = C179, stomach = C169, colon = C189. No GI-tract code is among the code's ceiling_codes (C48/C49/C809), so outside_ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7479544/",
+  "source_ref": "Stockman DL et al. Malignant Gastrointestinal Neuroectodermal Tumor. PMC7479544 (2012)"
+ },
+ {
+  "code": "9050/2",
+  "term": "Mesothelioma in situ",
+  "proposed_codes": [
+   "C384",
+   "C482",
+   "C481",
+   "C380"
+  ],
+  "proposed_labels": [
+   "Pleura, NOS",
+   "Peritoneum, NOS",
+   "Specified parts of peritoneum",
+   "Heart"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "The 2021 WHO Classification 'recognizes mesothelioma in situ in the pleura, peritoneum, and pericardium'; it was introduced as a preinvasive pleural lesion and is also recognized peritoneally and pericardially. Pleura = C384, peritoneum = C481/C482, pericardium is coded to heart C380. All proposed codes (C380, C384, C481, C482) are present in the code's ceiling_codes, so in_ceiling.",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/35026477/",
+  "source_ref": "Sauter JL et al. The 2021 WHO Classification of Tumors of the Pleura. PMID 35026477 (2022)"
+ },
+ {
+  "code": "9367/3",
+  "term": "CIC::NUTM1 sarcoma",
+  "proposed_codes": [
+   "C499",
+   "C412"
+  ],
+  "proposed_labels": [
+   "Connective, subcutaneous and other soft tissues, NOS",
+   "Vertebral column"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "CIC-rearranged sarcomas most often arise in soft tissue ('Most tumors have a predilection to occur in the soft tissue (87%)', limb > trunk > head and neck), with rare bone/visceral/CNS primaries; the ultra-rare CIC-NUTM1 variant 'seems to have distinct anatomic tropism for the axial skeleton' (reported CIC-NUTM1 sarcomas affecting the spine). Soft tissue = C49* (C499 NOS) and axial skeleton/vertebral column = C412. Both C499 and C412 are present in the code's ceiling_codes, so in_ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9657047/",
+  "source_ref": "Mancarella C et al. CIC-Rearranged Sarcomas: An Intriguing Entity. PMC9657047 (2022)"
+ },
+ {
+  "code": "8500/2",
+  "term": "Apocrine intraductal carcinoma",
+  "proposed_codes": [
+   "C089",
+   "C079",
+   "C509"
+  ],
+  "proposed_labels": [
+   "Major salivary gland, NOS",
+   "Parotid gland",
+   "Breast, NOS"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Apocrine intraductal carcinoma (IDC) is described in the WHO 5th ed head/neck classification as a salivary gland malignancy ('Intraductal carcinoma (IDC) is a salivary gland malignancy'; 'the second pattern is an apocrine IDC which is androgen receptor positive'), most often parotid; apocrine ductal carcinoma in situ is also well described in the breast (the WHO text draws the direct DCIS analogy). Major salivary gland = C089 (parotid C079), breast = C509. C089, C079 and C509 are all present in the code's ceiling_codes, so in_ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10293154/",
+  "source_ref": "Skalova A, Hyrcza MD. Classification of Salivary Gland Tumors: Remaining Controversies. PMC10293154 (2023)"
+ },
+ {
+  "code": "8500/2",
+  "term": "Intraductal carcinoma, apocrine",
+  "proposed_codes": [
+   "C089",
+   "C079",
+   "C509"
+  ],
+  "proposed_labels": [
+   "Major salivary gland, NOS",
+   "Parotid gland",
+   "Breast, NOS"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Intraductal carcinoma, apocrine is the same entity as apocrine intraductal carcinoma: a salivary gland malignancy ('Intraductal carcinoma (IDC) is a salivary gland malignancy'; 'the second pattern is an apocrine IDC'), most often parotid, with apocrine DCIS also well described in the breast. Major salivary gland = C089 (parotid C079), breast = C509. C089, C079 and C509 are all present in the code's ceiling_codes, so in_ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10293154/",
+  "source_ref": "Skalova A, Hyrcza MD. Classification of Salivary Gland Tumors: Remaining Controversies. PMC10293154 (2023)"
+ },
+ {
+  "code": "8500/3",
+  "term": "Primary ductal adenocarcinoma of lacrimal gland",
+  "proposed_codes": [
+   "C695"
+  ],
+  "proposed_labels": [
+   "Lacrimal gland"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Primary ductal adenocarcinoma (PDA) is defined exclusively in the lacrimal gland: 'Primary ductal adenocarcinoma (PDA) is a rare epithelial tumor of the lacrimal gland.' Lacrimal gland = C695. C695 is not among the code's ceiling_codes, so outside_ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7215120/",
+  "source_ref": "See TRO et al. Primary ductal adenocarcinoma of the lacrimal gland. PMC7215120 (2019)"
+ },
+ {
+  "code": "8509/2",
+  "term": "Endocrine mucin-producing sweat gland carcinoma in situ",
+  "proposed_codes": [
+   "C441"
+  ],
+  "proposed_labels": [
+   "Skin of eyelid"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "EMPSGC is a low-grade cutaneous adnexal (sweat gland) neuroendocrine carcinoma with a strong predilection for the skin of the eyelid/periocular region; the in situ form is the noninvasive precursor of the same eyelid-skin tumor. WHO/literature: 'EMPSGC is a low-grade neuroendocrine glandular tumor of the eyelid'; Zembowicz series found the most common site was the lower eyelid. Skin of eyelid (C441) is outside this code's breast-only ceiling.",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/16160476/",
+  "source_ref": "Zembowicz A et al. Endocrine mucin-producing sweat gland carcinoma: twelve new cases suggest a distinct entity. Am J Surg Pathol. 2005 (PMID 16160476) - 'predilection to the eyelid ... most common site was the lower eyelid'"
+ },
+ {
+  "code": "8509/3",
+  "term": "Endocrine mucin-producing sweat gland carcinoma",
+  "proposed_codes": [
+   "C441"
+  ],
+  "proposed_labels": [
+   "Skin of eyelid"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "EMPSGC is a rare low-grade cutaneous adnexal carcinoma of sweat-gland origin arising in the skin, with marked predilection for the eyelid/periocular region (>90% of cases eyelid or periorbital). It is analogous to solid-papillary/endocrine DCIS of the breast but its true anatomic home is eyelid skin (C441), outside this code's breast-only ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9627720/",
+  "source_ref": "Bishop JA / Mudhar et al. NGS analysis of EMPSGC (PMC9627720) - 'EMPSGC is a low-grade neuroendocrine glandular tumor of the eyelid ... eyelid or periorbital tumors (>90%)'"
+ },
+ {
+  "code": "8541/3",
+  "term": "Paget disease and infiltrating duct carcinoma of breast",
+  "proposed_codes": [
+   "C500",
+   "C509"
+  ],
+  "proposed_labels": [
+   "Nipple",
+   "Breast, NOS"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Combined entity: mammary Paget disease is nipple-anchored (arises in the epidermis of the nipple-areolar complex) while the associated infiltrating duct (invasive ductal) carcinoma arises in breast parenchyma of any quadrant. Both nipple (C500) and breast NOS (C509) are within the code's breast ceiling; site of origin is the breast, with the Paget component at the nipple.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6669392/",
+  "source_ref": "Karakas C et al./review on mammary Paget disease (PMC6669392) - Paget disease of the nipple with underlying invasive/in situ ductal carcinoma of the breast"
+ },
+ {
+  "code": "8541/3",
+  "term": "Paget disease and infiltrating lobular carcinoma of breast",
+  "proposed_codes": [
+   "C500",
+   "C509"
+  ],
+  "proposed_labels": [
+   "Nipple",
+   "Breast, NOS"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Mammary Paget disease is nipple-anchored (nipple-areolar epidermis) and the associated invasive lobular carcinoma arises in breast parenchyma of any quadrant. Site of origin is the breast (C509) with the Paget component at the nipple (C500); both are within this code's breast ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6669392/",
+  "source_ref": "Review of mammary Paget disease (PMC6669392) - Paget disease of the nipple associated with underlying breast carcinoma"
+ },
+ {
+  "code": "8541/3",
+  "term": "Paget disease with infiltrating duct carcinoma and lobular carcinoma of breast",
+  "proposed_codes": [
+   "C500",
+   "C509"
+  ],
+  "proposed_labels": [
+   "Nipple",
+   "Breast, NOS"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Combined mammary entity: Paget disease is nipple-anchored (nipple-areolar epidermis) while the associated invasive ductal and lobular carcinomas arise in breast parenchyma of any quadrant. Site of origin is the breast (C509) with the Paget component at the nipple (C500); both codes are within the breast ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6669392/",
+  "source_ref": "Review of mammary Paget disease (PMC6669392) - Paget disease of the nipple with underlying invasive breast carcinoma"
+ },
+ {
+  "code": "8543/3",
+  "term": "Paget disease and intraductal carcinoma of breast",
+  "proposed_codes": [
+   "C500",
+   "C509"
+  ],
+  "proposed_labels": [
+   "Nipple",
+   "Breast, NOS"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Mammary Paget disease is nipple-anchored (nipple-areolar epidermis) and the associated intraductal carcinoma (DCIS) arises within the ductal system of the breast, potentially any quadrant. Site of origin is the breast (C509) with the Paget component at the nipple (C500); both are within the code's breast ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6669392/",
+  "source_ref": "Review of mammary Paget disease (PMC6669392) - Paget disease of the nipple with underlying intraductal carcinoma (DCIS)"
+ },
+ {
+  "code": "8850/0",
+  "term": "Lipoadenoma, oncocytic",
+  "proposed_codes": [
+   "C079",
+   "C089"
+  ],
+  "proposed_labels": [
+   "Parotid gland",
+   "Major salivary gland, NOS"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Oncocytic lipoadenoma (oncocytic variant of lipoadenoma) is a benign salivary gland neoplasm, most commonly reported in the parotid gland, occasionally other salivary glands. Its anatomic home is salivary gland (C079 parotid / C089 major salivary gland NOS), entirely outside this code's CNS-only ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3484499/",
+  "source_ref": "Agaimy A et al. Oncocytic lipoadenoma of the parotid gland (PMC3484499) - benign tumor arising in the parotid/salivary gland"
+ },
+ {
+  "code": "8850/0",
+  "term": "Lipomatous hypertrophy of atrial septum",
+  "proposed_codes": [
+   "C380"
+  ],
+  "proposed_labels": [
+   "Heart"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Lipomatous hypertrophy of the atrial (interatrial) septum is a benign non-neoplastic fatty lesion of the heart, arising as massive fat deposition within the interatrial septum. Its anatomic site is the heart (C380), outside this code's CNS-only ceiling.",
+  "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6064128/",
+  "source_ref": "Case report on LHAS (PMC6064128) - 'Lipomatous hypertrophy of the atrial septum is a rare but increasingly recognized non-neoplastic benign abnormality of the heart'"
+ },
+ {
+  "code": "8850/0",
+  "term": "Oncocytic lipoadenoma",
+  "proposed_codes": [
+   "C079",
+   "C089"
+  ],
+  "proposed_labels": [
+   "Parotid gland",
+   "Major salivary gland, NOS"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Oncocytic lipoadenoma is a benign salivary gland neoplasm most commonly reported in the parotid gland, with rarer cases in submandibular/minor salivary glands. Anatomic site is salivary gland (C079 parotid / C089 major salivary gland NOS), outside this code's CNS-only ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4382475/",
+  "source_ref": "Oncocytic Lipoadenoma of the Salivary Gland, Head and Neck Pathol (PMC4382475) - salivary gland origin"
+ },
+ {
+  "code": "8850/0",
+  "term": "Sialolipoma",
+  "proposed_codes": [
+   "C079",
+   "C089"
+  ],
+  "proposed_labels": [
+   "Parotid gland",
+   "Major salivary gland, NOS"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Sialolipoma is a defined benign salivary gland neoplasm (lipoma variant) composed of mature adipose tissue admixed with salivary gland components; reported in major salivary glands (predominantly parotid) and minor salivary glands. Anatomic site is salivary gland (major salivary glands C079/C089), outside this code's CNS-only ceiling.",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/11135044/",
+  "source_ref": "Nagao T et al. Sialolipoma: a report of seven cases of a new variant of salivary gland lipoma. Histopathology. 2001 (PMID 11135044)"
+ },
+ {
+  "code": "8850/0",
+  "term": "Thymolipoma",
+  "proposed_codes": [
+   "C379"
+  ],
+  "proposed_labels": [
+   "Thymus"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Thymolipoma is a benign thymic tumor composed of mature adipose tissue and thymic tissue, arising in the thymus and presenting as an anterior mediastinal mass. Anatomic site of origin is the thymus (C379), outside this code's CNS-only ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7338678/",
+  "source_ref": "Rare cause of large anterior mediastinal mass - Thymolipoma, Radiol Case Rep (PMC7338678) - benign thymic tumor of the anterior mediastinum"
+ },
+ {
+  "code": "9384/1",
+  "term": "Giant cell astrocytoma of retina",
+  "proposed_codes": [
+   "C692"
+  ],
+  "proposed_labels": [
+   "Retina"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Giant cell astrocytoma of the retina is a retinal astrocytic tumor (a variant/aggressive form of retinal astrocytic hamartoma), arising in the retina, often associated with tuberous sclerosis. Anatomic site is retina (C692); the code's ceiling (C710-C715) contains only brain subsites, so this is outside the ceiling.",
+  "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3040785/",
+  "source_ref": "Giant Cell Astrocytoma of the Retina in One Month Old Infant (PMC3040785) - 'a retinal giant cell astrocytoma ... The diagnosis was giant cell astrocytoma of the retina'"
+ },
+ {
+  "code": "9384/1",
+  "term": "Retinal astrocytic hamartoma",
+  "proposed_codes": [
+   "C692"
+  ],
+  "proposed_labels": [
+   "Retina"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Retinal astrocytic hamartoma is by definition a benign glial (astrocytic) tumor originating from the glial cells of the retina, arising in the retinal nerve fiber layer. Anatomic site is retina (C692); the ceiling (C710-C715) has no retina/eye code, so this is outside the ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12659833/",
+  "source_ref": "Retinal astrocytic hamartoma with/without tuberous sclerosis, Indian J Ophthalmol (PMC12659833) - 'Retinal astrocytic hamartoma (RAH) is a benign tumor originating from the glial cells of the retina'"
+ },
+ {
+  "code": "9391/3",
+  "term": "Sellar ependymoma",
+  "proposed_codes": [
+   "C751"
+  ],
+  "proposed_labels": [
+   "Pituitary gland"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Sellar (pituitary/intrasellar) ependymoma is an extremely rare ectopic ependymoma arising in the sellar/suprasellar region, i.e. the pituitary gland region. Best-fit ICD-O topography is pituitary gland (C751), which is NOT among this code's ceiling (ovary + supratentorial brain + spinal cord codes), so outside the ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8218727/",
+  "source_ref": "Zhao L et al. Case Report: Sellar Ependymomas, Front Endocrinol. 2021 (PMC8218727) - 'a case of ependymoma located at the pituitary region ... mass located in the sellar and suprasellar region'"
+ },
+ {
+  "code": "9392/3",
+  "term": "Ependymoblastoma",
+  "proposed_codes": [
+   "C710"
+  ],
+  "proposed_labels": [
+   "Cerebrum"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Ependymoblastoma (an obsolete embryonal tumor term, now within embryonal tumor with multilayered rosettes) most commonly arises supratentorially in the cerebral hemispheres (majority of cases hemispheric/supratentorial, followed by infratentorial and spinal). Best-fit site of origin is cerebrum (C710), which is within this code's ceiling (C710-C721).",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7966246/",
+  "source_ref": "MRI Characteristics of Ependymoblastoma, AJNR (PMC7966246) - 'Most of the tumors are located supratentorially ... Most EBLs were located supratentorially (16 of 22 cases)'"
+ },
+ {
+  "code": "9396/3",
+  "term": "Posterior fossa group A (PFA) ependymoma",
+  "proposed_codes": [
+   "C716",
+   "C715",
+   "C717"
+  ],
+  "proposed_labels": [
+   "Cerebellum, NOS",
+   "Ventricle, NOS (fourth ventricle)",
+   "Brain stem"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "PFA ependymoma is by definition a posterior-fossa tumor arising in and around the fourth ventricle (cerebellum/brainstem region), tending to involve the roof/lateral aspects of the fourth ventricle with extension into the foramen of Luschka. Sites of origin: cerebellum (C716), fourth ventricle (C715 = Ventricle NOS), brain stem (C717) - all outside this code's supratentorial-only ceiling (C710-C715). Note C715 is within the listed ceiling but represents supratentorial 'Ventricle NOS'; the true 4th-ventricle posterior-fossa location is not represented, hence overall outside_ceiling.",
+  "source_url": "https://www.frontiersin.org/journals/pediatrics/articles/10.3389/fped.2023.1181211/full",
+  "source_ref": "Classification and neuroimaging of ependymal tumors, Front Pediatr. 2023 - 'Posterior fossa group A tumors ... tend to involve the roof or lateral aspects of the fourth ventricle with extension into the foramen of Luschka'"
+ },
+ {
+  "code": "9396/3",
+  "term": "Posterior fossa group B (PFB) ependymoma",
+  "proposed_codes": [
+   "C716",
+   "C715",
+   "C717"
+  ],
+  "proposed_labels": [
+   "Cerebellum, NOS",
+   "Ventricle, NOS (fourth ventricle)",
+   "Brain stem"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "PFB ependymoma is by definition a posterior-fossa tumor, tending to arise from the floor of the fourth ventricle in the midline (cerebellum/brainstem region). Sites of origin: cerebellum (C716), fourth ventricle (C715), brain stem (C717) - the true posterior-fossa location is outside this code's supratentorial-only ceiling (C710-C715).",
+  "source_url": "https://www.frontiersin.org/journals/pediatrics/articles/10.3389/fped.2023.1181211/full",
+  "source_ref": "Classification and neuroimaging of ependymal tumors, Front Pediatr. 2023 - 'These lesions tend to arise from the floor of the fourth ventricle in the midline'"
+ },
+ {
+  "code": "9396/3",
+  "term": "Spinal ependymoma, MYCN-amplified",
+  "proposed_codes": [
+   "C720"
+  ],
+  "proposed_labels": [
+   "Spinal cord"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Spinal ependymoma, MYCN-amplified (SP-EPN-MYCN) is defined by obligatory spinal localization, arising with intradural (extramedullary) localization mostly within the thoracic and cervical spine and infiltrating the spinal cord. Site of origin is spinal cord (C720), outside this code's supratentorial-only ceiling (C710-C715).",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6851394/",
+  "source_ref": "Ghasemi DR et al. MYCN amplification drives an aggressive form of spinal ependymoma, Acta Neuropathol. 2019 (PMC6851394) - 'SP-EPN-MYCN tumors showed distinct growth patterns with intradural, extramedullary localization mostly within the thoracic and cervical spine ... infiltrative invasion of the spinal cord'"
+ },
+ {
+  "code": "9490/0",
+  "term": "Ganglioneuroma of the choroid",
+  "proposed_codes": [
+   "C693"
+  ],
+  "proposed_labels": [
+   "Choroid"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Choroidal ganglioneuroma is an ocular lesion arising in the choroid (reported in neurofibromatosis type 1), with the choroid replaced by tumor containing spindle cells and ganglion cells. Anatomic site is choroid (C693), which is not among this code's ceiling (brain stem, spinal cord, cauda equina, nervous system NOS), so outside the ceiling.",
+  "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4847662/",
+  "source_ref": "Mbagwu M et al. Unsuspected Ganglioneuroma of the Choroid Diagnosed after Enucleation (PMC4847662) - 'Approximately 50% of the choroid was replaced with tumor containing cells with spindle shaped nuclei and scattered ganglion cells'"
+ },
+ {
+  "code": "9492/0",
+  "term": "Mixed gangliocytoma\u2013PitNET/adenoma",
+  "proposed_codes": [
+   "C751"
+  ],
+  "proposed_labels": [
+   "Pituitary gland"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "WHO-recognized entity of the sellar region; pituitary gangliocytoma occurs almost always as a mixed gangliocytoma-PitNET/pituitary adenoma arising in the sella turcica/pituitary gland. Source: 'Mixed pituitary neuroendocrine tumors (pitNET)-gangliocytomas are extremely rare sellar region World Health Organisation (WHO) Grade-I tumors ... The most common location is sella turcica alone or the sella turcica with suprasellar extension.' Pituitary gland (C751) is NOT among this code's ceiling codes (which include C753 pineal but not C751).",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12789999/",
+  "source_ref": "Saeed H et al. A Case of Mixed pitNET-Gangliocytoma of the Sella Turcica. Pak J Med Sci."
+ },
+ {
+  "code": "9506/1",
+  "term": "Hypothalamic neurocytoma",
+  "proposed_codes": [
+   "C751"
+  ],
+  "proposed_labels": [
+   "Pituitary gland"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Sellar/hypothalamic neurocytoma is an extraventricular neurocytoma arising from the hypothalamic-pituitary (sellar) region; sellar neurocytomas are believed to originate from small neurons located in and around the hypothalamus. The sellar/hypothalamic-pituitary region maps to C751 (pituitary gland), which is NOT among this code's ceiling codes (cerebral lobes, ventricle, cerebellum).",
+  "source_url": "https://academic.oup.com/jcem/article/110/3/e710/7646752",
+  "source_ref": "Liu Y et al. Clinicopathological and Molecular Profile of Sellar Neurocytoma. J Clin Endocrinol Metab. 2025 ('SNs are believed to originate from small neurons located in and around the hypothalamus')."
+ },
+ {
+  "code": "9506/1",
+  "term": "Neurocytoma of sellar region",
+  "proposed_codes": [
+   "C751"
+  ],
+  "proposed_labels": [
+   "Pituitary gland"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Sellar/suprasellar neurocytoma is an extraventricular neurocytoma arising from the hypothalamic-pituitary (sellar) region; its neuroimaging features are indistinguishable from tumors of the pituitary gland. The sellar region maps to C751 (pituitary gland), which is NOT among this code's ceiling codes.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9157436/",
+  "source_ref": "A Clinicopathological and Molecular Analysis of Sellar/Suprasellar Neurocytoma. Front Endocrinol. 2022 ('Sellar/suprasellar neurocytoma is an extraventricular neurocytoma arising from the hypothalamic-pituitary region')."
+ },
+ {
+  "code": "9506/1",
+  "term": "Sellar neurocytoma",
+  "proposed_codes": [
+   "C751"
+  ],
+  "proposed_labels": [
+   "Pituitary gland"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Sellar neurocytoma is a rare sellar neuronal tumor considered a type of hypothalamic neuroendocrine tumor; it is believed to originate from small neurons in and around the hypothalamus (sellar/hypothalamic-pituitary region = C751). Not among this code's ceiling codes.",
+  "source_url": "https://academic.oup.com/jcem/article/110/3/e710/7646752",
+  "source_ref": "Liu Y et al. Clinicopathological and Molecular Profile of Sellar Neurocytoma. J Clin Endocrinol Metab. 2025."
+ },
+ {
+  "code": "8572/3",
+  "term": "Acinar adenocarcinoma, sarcomatoid variant",
+  "proposed_codes": [
+   "C619"
+  ],
+  "proposed_labels": [
+   "Prostate gland"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "In the 2022 WHO 5th ed Classification of Tumours (Urinary and Male Genital), prostate sarcomatoid carcinoma is categorized as a subtype of acinar adenocarcinoma. 'Acinar adenocarcinoma' is the standard designation for prostatic adenocarcinoma; therefore the sarcomatoid variant of acinar adenocarcinoma arises in the prostate (C619). Prostate (C619) is NOT among this code's ceiling codes (anus/skin/breast/ovary/penis/scrotum).",
+  "source_url": "https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1456390/full",
+  "source_ref": "Dai Z et al. Two cases of prostate adenocarcinoma progressing to rare sarcomatoid carcinoma. Front Oncol. 2024 ('in the 2022 fifth edition of the WHO Classification of Tumors, prostate sarcomatoid carcinoma is categorized as a subtype of acinar adenocarcinoma')."
+ },
+ {
+  "code": "8572/3",
+  "term": "Sarcomatoid acinar adenocarcinoma",
+  "proposed_codes": [
+   "C619"
+  ],
+  "proposed_labels": [
+   "Prostate gland"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Per WHO 2022 5th ed, prostate sarcomatoid carcinoma is a subtype of acinar adenocarcinoma; acinar adenocarcinoma denotes prostatic adenocarcinoma, so sarcomatoid acinar adenocarcinoma arises in the prostate (C619). Prostate is NOT among this code's ceiling codes.",
+  "source_url": "https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1456390/full",
+  "source_ref": "Dai Z et al. Front Oncol. 2024 ('prostate sarcomatoid carcinoma is categorized as a subtype of acinar adenocarcinoma')."
+ },
+ {
+  "code": "9082/3",
+  "term": "Malignant teratoma, anaplastic",
+  "proposed_codes": [
+   "C629"
+  ],
+  "proposed_labels": [
+   "Testis, NOS"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "'Malignant teratoma' (with its subtypes) is a legacy British Testicular Tumour Panel and Registry (BTTPR) classification term for non-seminomatous germ cell tumours of the testis; malignant teratoma undifferentiated corresponds to embryonal carcinoma of the testis in the WHO scheme. These BTTPR 'malignant teratoma' terms are testicular germ cell tumours arising in the testis (C629). Testis is NOT among this code's ceiling codes (peritoneum/CNS/endocrine).",
+  "source_url": "https://assets.publishing.service.gov.uk/media/5a7ea711e5274a2e8ab47562/testicular_cancer.pdf",
+  "source_ref": "GOV.UK Cancer of the testis (BTTPR vs WHO classification of testicular germ-cell tumours: '... undifferentiated yolk-sac tumour and malignant trophoblastic teratoma (in the BTTPR classification)')."
+ },
+ {
+  "code": "9082/3",
+  "term": "Malignant teratoma, undifferentiated",
+  "proposed_codes": [
+   "C629"
+  ],
+  "proposed_labels": [
+   "Testis, NOS"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Malignant teratoma undifferentiated (MTU) is a British Testicular Tumour Panel (BTTP/BTTPR) classification term equivalent to WHO embryonal carcinoma of the testis; it is a testicular germ cell tumour arising in the testis (C629). Testis is NOT among this code's ceiling codes.",
+  "source_url": "https://assets.publishing.service.gov.uk/media/5a7ea711e5274a2e8ab47562/testicular_cancer.pdf",
+  "source_ref": "GOV.UK Cancer of the testis (BTTPR classification of testicular non-seminomatous germ-cell tumours: 'differentiated teratoma, intermediate malignant teratoma, undifferentiated yolk-sac tumour ...')."
+ },
+ {
+  "code": "9504/3",
+  "term": "Spongioneuroblastoma",
+  "proposed_codes": [],
+  "proposed_labels": [],
+  "site_status": "unresolved",
+  "resolution": "unresolved",
+  "rationale": "'Spongioneuroblastoma' is an obsolete ICD-O morphology label for code 9504/3, which sits in the neuroepithelioma group (9503-9504). Historically 'spongioblastoma' is a glial/CNS term and is NOT a synonym for peripheral neuroblastoma; there is no defensible single site of origin for this code. SEER ICCC assigns 9501-9504 a broad, unrestricted topography range (C000-C699, C739-C768, C809), i.e. any site. Left unresolved rather than assigning a site.",
+  "source_url": "https://seer.cancer.gov/iccc/iccc3.html",
+  "source_ref": "SEER ICCC 3rd ed (ICD-O-3) main classification table; ICD-O-3 morphology code list"
+ },
+ {
+  "code": "8121/3",
+  "term": "Cylindrical cell carcinoma",
+  "proposed_codes": [
+   "C300",
+   "C319"
+  ],
+  "proposed_labels": [
+   "Nasal cavity",
+   "Accessory sinus, NOS"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Cylindrical cell (oncocytic Schneiderian) neoplasia is a sinonasal-tract entity arising from the Schneiderian respiratory epithelium of the nose and paranasal sinuses. Cylindrical cell carcinoma is also used in WHO nomenclature as a synonym for sinonasal non-keratinizing SCC of the nasal cavity/paranasal sinuses. Sinonasal sites (C300 nasal cavity, C31x paranasal sinuses) are NOT among this code's ceiling codes (scrotum/eye/ill-defined).",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/6370825/",
+  "source_ref": "Barnes L, Bedetti C. Oncocytic Schneiderian papilloma: a reappraisal of cylindrical cell papilloma of the sinonasal tract. Hum Pathol ('Cylindrical cell papilloma (CCP) is the rarest of three morphologically distinct papillomas that occur in the nose and paranasal sinuses')."
+ },
+ {
+  "code": "8121/3",
+  "term": "Schneiderian carcinoma",
+  "proposed_codes": [
+   "C300",
+   "C319"
+  ],
+  "proposed_labels": [
+   "Nasal cavity",
+   "Accessory sinus, NOS"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Schneiderian (sinonasal) carcinoma is a de novo sinonasal carcinoma derived from Schneiderian (respiratory) mucosa of the nasal cavity and paranasal sinuses. These sinonasal sites (C300 nasal cavity, C31x paranasal sinuses) are NOT among this code's ceiling codes (scrotum/eye/ill-defined).",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8633211/",
+  "source_ref": "Saab-Chalhoub MW et al. Low Grade Papillary Sinonasal (Schneiderian) Carcinoma. Head Neck Pathol. 2021 ('LGPSC is a distinct, de novo sinonasal carcinoma ...')."
+ },
+ {
+  "code": "8380/3",
+  "term": "Mismatch repair-deficient (MMRd) endometrioid carcinoma",
+  "proposed_codes": [
+   "C541",
+   "C569"
+  ],
+  "proposed_labels": [
+   "Endometrium",
+   "Ovary"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "The MMRd molecular subgroup is part of the endometrial cancer (TCGA/ProMisE) molecular taxonomy defined for endometrial carcinoma (endometrium, C541); the same taxonomy is validated for ovarian endometrioid carcinoma (ovary, C569). Both endometrium (C541) and ovary (C569) are IN this code's ceiling codes.",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/41425725/",
+  "source_ref": "Yoshida H, Kobayashi Kato M. Molecular Pathology of Ovarian Endometrioid Carcinoma: A Review ('the endometrial cancer molecular taxonomy (POLE-ultramutated, MMRd, p53-abnormal, NSMP) also applies to OEC')."
+ },
+ {
+  "code": "8380/3",
+  "term": "Mismatch repair\u2013deficient endometrioid carcinoma",
+  "proposed_codes": [
+   "C541",
+   "C569"
+  ],
+  "proposed_labels": [
+   "Endometrium",
+   "Ovary"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "MMRd is part of the endometrial molecular taxonomy (endometrium, C541) also validated in ovarian endometrioid carcinoma (ovary, C569). Both C541 and C569 are IN this code's ceiling codes.",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/41425725/",
+  "source_ref": "Yoshida H, Kobayashi Kato M. Molecular Pathology of Ovarian Endometrioid Carcinoma: A Review."
+ },
+ {
+  "code": "8380/3",
+  "term": "No specific molecular profile (NSMP) endometrioid carcinoma",
+  "proposed_codes": [
+   "C541",
+   "C569"
+  ],
+  "proposed_labels": [
+   "Endometrium",
+   "Ovary"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "NSMP is one of the four endometrial (TCGA/ProMisE) molecular subgroups for endometrioid carcinoma of the endometrium (C541); the taxonomy also applies to ovarian endometrioid carcinoma (C569). Both are IN this code's ceiling codes.",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/41425725/",
+  "source_ref": "Yoshida H, Kobayashi Kato M. Molecular Pathology of Ovarian Endometrioid Carcinoma: A Review."
+ },
+ {
+  "code": "8380/3",
+  "term": "POLE-ultramutated endometrioid carcinoma",
+  "proposed_codes": [
+   "C541",
+   "C569"
+  ],
+  "proposed_labels": [
+   "Endometrium",
+   "Ovary"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "POLE-ultramutated is one of the four endometrial molecular subgroups for endometrioid carcinoma of the endometrium (C541); it also applies to ovarian endometrioid carcinoma (C569). Both are IN this code's ceiling codes.",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/41425725/",
+  "source_ref": "Yoshida H, Kobayashi Kato M. Molecular Pathology of Ovarian Endometrioid Carcinoma: A Review ('POLE-ultramutated ... also applies to OEC')."
+ },
+ {
+  "code": "8380/3",
+  "term": "POLE-ultramutated endometrioid carcinoma (POLEmut)",
+  "proposed_codes": [
+   "C541",
+   "C569"
+  ],
+  "proposed_labels": [
+   "Endometrium",
+   "Ovary"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "POLEmut is part of the endometrial molecular taxonomy for endometrioid carcinoma of the endometrium (C541), also validated in ovarian endometrioid carcinoma (C569). Both are IN this code's ceiling codes.",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/41425725/",
+  "source_ref": "Yoshida H, Kobayashi Kato M. Molecular Pathology of Ovarian Endometrioid Carcinoma: A Review."
+ },
+ {
+  "code": "8380/3",
+  "term": "TP53-mutant endometrioid carcinoma",
+  "proposed_codes": [
+   "C541",
+   "C569"
+  ],
+  "proposed_labels": [
+   "Endometrium",
+   "Ovary"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "The TP53-mutant/p53-abnormal subgroup is part of the endometrial molecular taxonomy for endometrioid carcinoma of the endometrium (C541), also validated in ovarian endometrioid carcinoma (C569). Both are IN this code's ceiling codes.",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/41425725/",
+  "source_ref": "Yoshida H, Kobayashi Kato M. Molecular Pathology of Ovarian Endometrioid Carcinoma: A Review ('p53-abnormal ... also applies to OEC')."
+ },
+ {
+  "code": "8380/3",
+  "term": "p53-mutant endometrioid carcinoma",
+  "proposed_codes": [
+   "C541",
+   "C569"
+  ],
+  "proposed_labels": [
+   "Endometrium",
+   "Ovary"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "The p53abn molecular subgroup is part of the endometrial molecular taxonomy for endometrioid carcinoma of the endometrium (C541), also validated in ovarian endometrioid carcinoma (C569). Both are IN this code's ceiling codes.",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/41425725/",
+  "source_ref": "Yoshida H, Kobayashi Kato M. Molecular Pathology of Ovarian Endometrioid Carcinoma: A Review."
+ },
+ {
+  "code": "8380/3",
+  "term": "p53-mutant endometrioid carcinoma (p53abn)",
+  "proposed_codes": [
+   "C541",
+   "C569"
+  ],
+  "proposed_labels": [
+   "Endometrium",
+   "Ovary"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "The p53abn molecular subgroup is part of the endometrial molecular taxonomy for endometrioid carcinoma of the endometrium (C541), also validated in ovarian endometrioid carcinoma (C569). Both are IN this code's ceiling codes.",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/41425725/",
+  "source_ref": "Yoshida H, Kobayashi Kato M. Molecular Pathology of Ovarian Endometrioid Carcinoma: A Review."
+ },
+ {
+  "code": "8382/3",
+  "term": "Endometrioid adenocarcinoma, secretory variant",
+  "proposed_codes": [
+   "C541"
+  ],
+  "proposed_labels": [
+   "Endometrium"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Secretory carcinoma is a recognized variant of endometrioid adenocarcinoma of the endometrium (uterine corpus); GLOWM's pathology of endometrial carcinoma lists 'secretory' among the variants of endometrioid adenocarcinoma, and multiple case series describe secretory adenocarcinoma as a rare (1-2%) subtype arising in the endometrium. The endometrial (corpus) endometrioid origin (C541) is the definitive site of origin.",
+  "source_url": "https://www.glowm.com/section-view/heading/Pathology%20of%20Endometrial%20Carcinoma/item/238",
+  "source_ref": "Gordon MD. Pathology of Endometrial Carcinoma. GLOWM: 'Variants of endometrioid adenocarcinoma include villoglandular, secretory, ciliated cell, and adenocarcinoma with squamous differentiation.'"
+ },
+ {
+  "code": "8384/3",
+  "term": "Adenocarcinoma, endocervical type, NOS",
+  "proposed_codes": [
+   "C530",
+   "C539"
+  ],
+  "proposed_labels": [
+   "Endocervix",
+   "Cervix uteri"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Endocervical-type adenocarcinoma is by definition an adenocarcinoma arising in the uterine cervix (endocervix). The International Endocervical Adenocarcinoma Criteria and Classification (IECC/Stolnicu et al.) is a classification of invasive endocervical adenocarcinomas of the cervix. Endocervix (C530) and cervix uteri NOS (C539) are the sites of origin, both in-ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5762258/",
+  "source_ref": "Stolnicu S et al. International Endocervical Adenocarcinoma Criteria and Classification (IECC). Am J Surg Pathol (PMC5762258): 'Invasive ECAs are classified based on descriptive morphological characteristics...'"
+ },
+ {
+  "code": "8023/3",
+  "term": "Carcinoma, NUT adnexal",
+  "proposed_codes": [
+   "C449",
+   "C443",
+   "C444"
+  ],
+  "proposed_labels": [
+   "Skin, NOS",
+   "Skin of other and unspecified parts of face",
+   "Skin of scalp and neck"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "NUT adnexal carcinoma (NAC) is a primary cutaneous tumor of the skin/cutaneous adnexa, introduced as a provisional entity in the 5th edition WHO Classification of Skin Tumours; reported cases are cutaneous (commonly head/neck skin). Site of origin is the skin (C44), which is entirely outside this code's ceiling (no C44 codes present).",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/40125640/",
+  "source_ref": "Legrand M et al. Primary cutaneous NUT adnexal carcinoma... 2025 (PMID 40125640): '...NUT adnexal carcinoma (NAC) has been introduced as a provisional tumour entity to the fifth edition of the WHO Classification of Skin Tumours.'"
+ },
+ {
+  "code": "8041/3",
+  "term": "Reserve cell carcinoma",
+  "proposed_codes": [
+   "C349",
+   "C340"
+  ],
+  "proposed_labels": [
+   "Lung, NOS",
+   "Main bronchus"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "'Reserve cell carcinoma' is a historical synonym for small cell carcinoma of the lung (ICD-O 8041/3), named after bronchial reserve (basal) cells. SEER training explicitly lists 'reserve cell' as a synonym of small cell carcinoma and notes these are central lesions in the bronchus/hilum of the lung. Lung (C349) and main bronchus (C340) are the sites of origin, both in-ceiling. (The cervical 'reserve cell' usage is a separate archaic descriptor; the ICD-O 8041/3 designation ties the term to bronchial small cell carcinoma.) Note: small cell carcinoma also arises at extrapulmonary sites (cervix, prostate, GI, bladder, head/neck); lung is the canonical/most common primary.",
+  "source_url": "https://training.seer.cancer.gov/lung/abstract-code-stage/morphology.html",
+  "source_ref": "SEER Training: Lung Morphology & Grade: 'Small cell carcinoma is also called oat cell, round cell, reserve cell... Small cell cancers are usually central lesions (in the bronchus or toward the center or hilum of the lung).'"
+ },
+ {
+  "code": "8070/2",
+  "term": "Actinic keratosis with high-grade dysplasia",
+  "proposed_codes": [
+   "C443",
+   "C444",
+   "C446"
+  ],
+  "proposed_labels": [
+   "Skin of other and unspecified parts of face",
+   "Skin of scalp and neck",
+   "Skin of upper limb and shoulder"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Actinic keratosis is a UV-induced intraepidermal keratinocytic dysplasia (in-situ neoplasia) of chronically sun-exposed skin, arising predominantly on the face, scalp/neck, and dorsa of hands/forearms. The site of origin is sun-exposed skin (C44 subsites), which is outside this code's ceiling (no C44 codes present).",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11566825/",
+  "source_ref": "Reinehr CPH et al. Epidemiology and Risk Factors of Actinic Keratosis (PMC11566825): 'Actinic keratosis (AK) is characterized by the presence of atypical keratinocytes within the epidermal skin layer and is considered an in-situ neoplasia of the skin...'; AKs predominantly occur on chronically photoexposed skin (face, scalp, neck, forearms, dorsa of hands)."
+ },
+ {
+  "code": "8070/2",
+  "term": "Bowenoid papulosis",
+  "proposed_codes": [
+   "C601",
+   "C600",
+   "C602",
+   "C519",
+   "C510"
+  ],
+  "proposed_labels": [
+   "Glans penis",
+   "Prepuce",
+   "Body of penis",
+   "Vulva, NOS",
+   "Labium majus"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Bowenoid papulosis is an HPV-related squamous intraepithelial lesion arising most commonly on anogenital skin/mucosa, particularly the penis (glans, foreskin, body) in males and the vulva/labia in females. These genital sites (C600-C602, C510/C511/C519) are the sites of origin and are all in-ceiling. (Rare extragenital/oral occurrences exist but the defining site is anogenital.)",
+  "source_url": "https://dermnetnz.org/topics/bowenoid-papulosis",
+  "source_ref": "DermNet: Bowenoid papulosis: 'Bowenoid papulosis most commonly involves the anogenital area... on the penis or vulva. Although the glans penis, foreskin, and vulval labia are the most common sites affected...'"
+ },
+ {
+  "code": "8077/2",
+  "term": "Conjunctival squamous intraepithelial neoplasia, moderate dysplasia",
+  "proposed_codes": [
+   "C690"
+  ],
+  "proposed_labels": [
+   "Conjunctiva"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Conjunctival squamous intraepithelial neoplasia is by definition restricted to the conjunctiva/ocular surface. NCBI MedGen classifies it under 'Conjunctival disorder / Conjunctival tumor / Ocular surface squamous neoplasia / Conjunctival intraepithelial neoplasm.' The site of origin is the conjunctiva (C690), which is outside this code's ceiling (no C69 codes present).",
+  "source_url": "https://www.ncbi.nlm.nih.gov/medgen/1882874",
+  "source_ref": "NCBI MedGen 1882874 (Conjunctival Squamous Intraepithelial Neoplasia): 'A conjunctival squamous intraepithelial neoplasia characterized by the presence of dysplastic squamous cells...'; classified as a conjunctival/ocular surface neoplasm."
+ },
+ {
+  "code": "8077/2",
+  "term": "Conjunctival squamous intraepithelial neoplasia, severe dysplasia",
+  "proposed_codes": [
+   "C690"
+  ],
+  "proposed_labels": [
+   "Conjunctiva"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Conjunctival squamous intraepithelial neoplasia is by definition restricted to the conjunctiva/ocular surface. NCBI MedGen classifies it as a conjunctival tumor / ocular surface squamous neoplasia. The site of origin is the conjunctiva (C690), which is outside this code's ceiling (no C69 codes present).",
+  "source_url": "https://www.ncbi.nlm.nih.gov/medgen/1882874",
+  "source_ref": "NCBI MedGen 1882874 (Conjunctival Squamous Intraepithelial Neoplasia): 'A conjunctival squamous intraepithelial neoplasia characterized by the presence of dysplastic squamous cells...'; classified as a conjunctival/ocular surface neoplasm."
+ },
+ {
+  "code": "8430/3",
+  "term": "Sclerosing mucoepidermoid carcinoma with eosinophilia",
+  "proposed_codes": [
+   "C739"
+  ],
+  "proposed_labels": [
+   "Thyroid gland"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Sclerosing mucoepidermoid carcinoma with eosinophilia (SMECE) is a distinct primary thyroid gland malignancy that arises in a background of chronic lymphocytic (Hashimoto) thyroiditis, and is recognized as a thyroid entity in the WHO classification of thyroid tumors. Site of origin is the thyroid gland (C739), which is outside this code's ceiling (no C739 present).",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4782402/",
+  "source_ref": "Kumar et al. Sclerosing mucoepidermoid carcinoma with eosinophilia of the thyroid (PMC4782402): 'Sclerosing mucoepidermoid carcinoma with eosinophilia (SMECE) of the thyroid is a rare primary thyroid tumor arising in a background of Hashimoto's/lymphocytic thyroiditis and has been recently introduced in the WHO classification of thyroid tumors.'"
+ },
+ {
+  "code": "9690/3",
+  "term": "BCL2-R-negative CD23-positive follicle centre lymphoma",
+  "proposed_codes": [
+   "C774",
+   "C771"
+  ],
+  "proposed_labels": [
+   "Lymph nodes of inguinal region and leg",
+   "Lymph nodes of head, face and neck"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "This t(14;18)/BCL2-R-negative, 1p36-deleted diffuse follicle centre (follicular) lymphoma is a nodal lymphoma that most frequently presents in inguinal lymph nodes (Katzenberger et al., Blood 2009). As a nodal B-cell lymphoma the site of origin is lymph nodes; inguinal nodes (C774) are the predominant site, with head/neck nodes (C771) also involved. Both are in-ceiling.",
+  "source_url": "https://ashpublications.org/blood/article/113/5/1053/25631/A-distinctive-subtype-of-t-14-18-negative-nodal",
+  "source_ref": "Katzenberger T et al. A distinctive subtype of t(14;18)-negative nodal follicular non-Hodgkin lymphoma... Blood 2009;113:1053: 'Most frequently, diffuse FL samples involved inguinal lymph nodes.'"
+ },
+ {
+  "code": "9690/3",
+  "term": "Follicular lymphoma with a predominantly diffuse growth pattern",
+  "proposed_codes": [
+   "C774",
+   "C771"
+  ],
+  "proposed_labels": [
+   "Lymph nodes of inguinal region and leg",
+   "Lymph nodes of head, face and neck"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Follicular lymphoma with a predominantly diffuse growth pattern (the t(14;18)-negative, 1p36-deleted diffuse variant of Katzenberger et al.) is a nodal follicular lymphoma that most frequently involves inguinal lymph nodes. Site of origin is lymph nodes, predominantly inguinal (C774), with head/neck nodal involvement (C771) also common. Both in-ceiling.",
+  "source_url": "https://ashpublications.org/blood/article/113/5/1053/25631/A-distinctive-subtype-of-t-14-18-negative-nodal",
+  "source_ref": "Katzenberger T et al. A distinctive subtype of t(14;18)-negative nodal follicular non-Hodgkin lymphoma characterized by a predominantly diffuse growth pattern... Blood 2009;113:1053: 'Most frequently, diffuse FL samples involved inguinal lymph nodes.'"
+ },
+ {
+  "code": "9690/3",
+  "term": "Follicular lymphoma, pediatric type",
+  "proposed_codes": [
+   "C771"
+  ],
+  "proposed_labels": [
+   "Lymph nodes of head, face and neck"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Pediatric-type follicular lymphoma (PTFL) is a nodal lymphoma that presents almost exclusively as localized lymphadenopathy with a strong predilection for the head and neck lymph nodes (cervical, periparotid, submandibular, submental). Site of origin is lymph nodes of the head/face/neck (C771), which is in-ceiling.",
+  "source_url": "https://ashpublications.org/blood/article/128/8/1093/35747/Pediatric-type-nodal-follicular-lymphoma-a",
+  "source_ref": "Louissaint A Jr et al. Pediatric-type nodal follicular lymphoma... Blood 2016;128:1093: 'Patients with PTNFL were almost all male (92%), and 92% presented with localization to head and neck lymph nodes.'"
+ },
+ {
+  "code": "9690/3",
+  "term": "Follicular lymphoma, pediatric-type",
+  "proposed_codes": [
+   "C771"
+  ],
+  "proposed_labels": [
+   "Lymph nodes of head, face and neck"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Pediatric-type follicular lymphoma (PTFL) is a nodal lymphoma presenting almost exclusively as localized head and neck lymphadenopathy. Site of origin is lymph nodes of the head/face/neck (C771), in-ceiling.",
+  "source_url": "https://ashpublications.org/blood/article/128/8/1093/35747/Pediatric-type-nodal-follicular-lymphoma-a",
+  "source_ref": "Louissaint A Jr et al. Pediatric-type nodal follicular lymphoma... Blood 2016;128:1093: '92% presented with localization to head and neck lymph nodes.'"
+ },
+ {
+  "code": "9690/3",
+  "term": "Pediatric follicular lymphoma",
+  "proposed_codes": [
+   "C771"
+  ],
+  "proposed_labels": [
+   "Lymph nodes of head, face and neck"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Pediatric(-type) follicular lymphoma is a nodal lymphoma presenting almost exclusively as localized head and neck lymphadenopathy. Site of origin is lymph nodes of the head/face/neck (C771), in-ceiling.",
+  "source_url": "https://ashpublications.org/blood/article/128/8/1093/35747/Pediatric-type-nodal-follicular-lymphoma-a",
+  "source_ref": "Louissaint A Jr et al. Pediatric-type nodal follicular lymphoma... Blood 2016;128:1093: '92% presented with localization to head and neck lymph nodes.'"
+ },
+ {
+  "code": "9690/3",
+  "term": "pediatric-type follicular lymphoma",
+  "proposed_codes": [
+   "C771"
+  ],
+  "proposed_labels": [
+   "Lymph nodes of head, face and neck"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Pediatric-type follicular lymphoma (PTFL) is a nodal lymphoma presenting almost exclusively as localized head and neck lymphadenopathy. Site of origin is lymph nodes of the head/face/neck (C771), in-ceiling.",
+  "source_url": "https://ashpublications.org/blood/article/128/8/1093/35747/Pediatric-type-nodal-follicular-lymphoma-a",
+  "source_ref": "Louissaint A Jr et al. Pediatric-type nodal follicular lymphoma... Blood 2016;128:1093: '92% presented with localization to head and neck lymph nodes.'"
+ },
+ {
+  "code": "9699/3",
+  "term": "Monocytoid B-cell lymphoma",
+  "proposed_codes": [
+   "C771",
+   "C779"
+  ],
+  "proposed_labels": [
+   "Lymph nodes of head, face and neck",
+   "Lymph node, NOS"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Monocytoid B-cell lymphoma (nodal marginal zone lymphoma) characteristically involves peripheral lymph nodes, with a documented propensity for paraparotid/intraparotid and head-and-neck nodes; the tumor cells occupy the marginal-zone/sinusoidal-interfollicular compartments of the node. Site of origin is lymph nodes (C779 lymph node NOS; C771 head/neck nodes as the predilection site). Both in-ceiling.",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/2032691/",
+  "source_ref": "Sheibani K et al. Monocytoid B-cell lymphoma: a study of 36 cases. Hum Pathol (PMID 2032691): 'Monocytoid B-cell lymphoma characteristically involves peripheral lymph nodes (30 of 36) with a propensity for paraparotid or intraparotid nodes.'"
+ },
+ {
+  "code": "8620/3",
+  "term": "Adult granulosa cell tumor of adrenal gland",
+  "proposed_codes": [
+   "C749"
+  ],
+  "proposed_labels": [
+   "Adrenal gland, NOS"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "This entity is, by its name and reported cases, a primary granulosa cell tumor arising in the adrenal gland (ovarian sex cord-stromal-type tumor occurring at an extragonadal adrenal site). Site of origin is the adrenal gland (C749), which is outside this code's ceiling (ceiling contains only ovary C569 and testis C620/C621/C629, not adrenal C74).",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7131662/",
+  "source_ref": "Cheng JY, Gill AJ, Kumar SK. Granulosa cell tumour of the adrenal. Pathology 2016 (PMC7131662): case of primary granulosa cell tumour arising in the adrenal gland (title 'Granulosa cell tumour of the adrenal'; references 'primary granulosa cell tumor of the adrenal gland')."
+ },
+ {
+  "code": "8044/3",
+  "term": "SMARCA4-deficient undifferentiated tumor",
+  "proposed_codes": [
+   "C349"
+  ],
+  "proposed_labels": [
+   "Lung, NOS"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Thoracic SMARCA4-deficient undifferentiated tumor is a thoracic/pulmonary malignancy classified in the 5th edition WHO Classification of Lung/Thoracic Tumors under 'other epithelial tumors of the lung', considered a dedifferentiated carcinoma of the lung/thorax (WHO diagnostic criterion: thoracic tumor in adults). Best-supported site of origin is the lung (C349), which is in-ceiling; adjacent thoracic/mediastinal sites (e.g., C381 anterior mediastinum, outside ceiling) may also be involved.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10970296/",
+  "source_ref": "Treatment of Thoracic SMARCA4-Deficient Undifferentiated Tumors (PMC10970296): 'the fifth edition of the WHO classification recognized thoracic SMARCA4-UT as a separate entity... placing thoracic SMARCA4-UT under the category of \"other epithelial tumors of the lung\".'"
+ },
+ {
+  "code": "8580/3",
+  "term": "Intrapulmonary thymoma",
+  "proposed_codes": [
+   "C349"
+  ],
+  "proposed_labels": [
+   "Lung, NOS"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Primary intrapulmonary thymoma (PIT) is a thymoma of ectopic thymic origin located entirely within the lung parenchyma (below the visceral pleura, with no mediastinal component). Although derived from thymic tissue, the anatomic site of origin/location is the lung (C349). C349 is outside this code's ceiling (ceiling contains only thymus C379 and anterior mediastinum C380). The in-ceiling thymus code C379 does not capture the intrapulmonary location.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8548194/",
+  "source_ref": "Primary Intrapulmonary Thymoma Appearing as a Solitary Pulmonary Nodule (PMC8548194): 'PITs are defined as tumors of thymic origin with the characteristic histological features of thymoma, situated below the visceral pleura or completely surrounded by lung parenchyma, without a mediastinal component.'"
+ },
+ {
+  "code": "8201/2",
+  "term": "Cribriform carcinoma in situ",
+  "proposed_codes": [
+   "C509"
+  ],
+  "proposed_labels": [
+   "Breast, NOS"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "\"Cribriform carcinoma in situ\" corresponds to the well-defined cribriform pattern of ductal carcinoma in situ (DCIS) of the breast; cribriform is one of the five recognized DCIS architectural patterns and cribriform-pattern in-situ carcinoma is characteristically a breast lesion arising in the breast ductal-lobular system. StatPearls (NCBI) lists cribriform among the DCIS architectural patterns confined to breast ducts. Breast (C509) is inside the code's ceiling. Cribriform in-situ carcinoma is not a defined distinct primary of skin or eye, so breast is the best-supported single site of origin.",
+  "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK567766/",
+  "source_ref": "Breast Ductal Carcinoma in Situ. StatPearls (NCBI Bookshelf), 2023 \u2014 \"The 5 major architectural patterns are comedo, cribriform, micropapillary, papillary, and solid ... confined within the basement membrane\" (breast ducts)."
+ },
+ {
+  "code": "8201/3",
+  "term": "Cribriform morular thyroid carcinoma",
+  "proposed_codes": [
+   "C739"
+  ],
+  "proposed_labels": [
+   "Thyroid gland"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "The 2022 WHO Classification of Endocrine and Neuroendocrine Tumours (5th ed.) recognizes cribriform-morular thyroid carcinoma (CMTC) as a distinct thyroid neoplasm of uncertain histogenesis (previously the cribriform-morular variant of papillary thyroid carcinoma). It is by definition a thyroid gland tumor. C739 (thyroid) is NOT in this code's SMVL ceiling, so the true site of origin lies entirely outside the ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9633223/",
+  "source_ref": "Jung CK, Bychkov A, Kakudo K. Update from the 2022 WHO Classification of Thyroid Neoplasms. Endocrinol Metab. 2022 \u2014 CMTC listed among thyroid tumors of uncertain histogenesis; \"CMTC was classified as a distinct subtype of PTC in the previous WHO classification.\""
+ },
+ {
+  "code": "8408/3",
+  "term": "Aggressive digital papillary adenoma",
+  "proposed_codes": [
+   "C446",
+   "C447"
+  ],
+  "proposed_labels": [
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Aggressive digital papillary adenoma/adenocarcinoma is a rare eccrine sweat-gland tumor of acral skin, arising almost exclusively on the digits \u2014 ~80% on fingers/hands and the remainder on toes/feet. Fingers/hands map to skin of upper limb (C446) and toes/feet to skin of lower limb (C447); both are inside the code's skin ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6376506/",
+  "source_ref": "Gupta J et al. Aggressive Digital Papillary Adenocarcinoma at Atypical Site. Clin Med Insights Case Rep. 2019 \u2014 \"most commonly on fingers and toes\"; \"About 80% ADPA have been reported on fingers with 5% arising on hands elsewhere\"; \"On the foot, most of the lesions are seen on toes.\""
+ },
+ {
+  "code": "8408/3",
+  "term": "Digital papillary adenocarcinoma",
+  "proposed_codes": [
+   "C446",
+   "C447"
+  ],
+  "proposed_labels": [
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Digital papillary adenocarcinoma is a rare eccrine sweat-gland malignancy with an acral distribution, arising predominantly on the digits: ~80% on fingers/hands (skin of upper limb, C446) and most remaining on toes/feet (skin of lower limb, C447). Both are inside the code's skin ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6376506/",
+  "source_ref": "Gupta J et al. Aggressive Digital Papillary Adenocarcinoma at Atypical Site. Clin Med Insights Case Rep. 2019 \u2014 \"most commonly on fingers and toes\"; \"About 80% ADPA have been reported on fingers with 5% arising on hands elsewhere.\""
+ },
+ {
+  "code": "8408/3",
+  "term": "Digital papillary carcinoma",
+  "proposed_codes": [
+   "C446",
+   "C447"
+  ],
+  "proposed_labels": [
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Digital papillary carcinoma (DPC) is an uncommon malignant adnexal (eccrine) neoplasm classified by WHO as a skin tumor, arising on the digits (fingers/hands and toes/feet). Fingers/hands = skin of upper limb (C446); toes/feet = skin of lower limb (C447); both inside the code's skin ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6376506/",
+  "source_ref": "Gupta J et al. Aggressive Digital Papillary Adenocarcinoma at Atypical Site. Clin Med Insights Case Rep. 2019 \u2014 acral eccrine tumor of fingers/toes; \"About 80% ADPA have been reported on fingers ... On the foot, most of the lesions are seen on toes.\""
+ },
+ {
+  "code": "8408/3",
+  "term": "Eccrine papillary adenocarcinoma",
+  "proposed_codes": [
+   "C446",
+   "C447"
+  ],
+  "proposed_labels": [
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Eccrine papillary adenocarcinoma is synonymous with (aggressive) digital papillary adenocarcinoma, a tumor of eccrine origin with acral distribution on the digits. Fingers/hands map to skin of upper limb (C446) and toes/feet to skin of lower limb (C447); both inside the code's skin ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6376506/",
+  "source_ref": "Gupta J et al. Aggressive Digital Papillary Adenocarcinoma at Atypical Site. Clin Med Insights Case Rep. 2019 \u2014 \"ADPA is a rare tumour of eccrine origin ... most commonly on fingers and toes.\""
+ },
+ {
+  "code": "8572/3",
+  "term": "Adenocarcinoma with spindle cell metaplasia",
+  "proposed_codes": [
+   "C509"
+  ],
+  "proposed_labels": [
+   "Breast, NOS"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Adenocarcinoma with spindle cell metaplasia is the defining morphology of metaplastic breast carcinoma (spindle cell / biphasic carcinoma), a WHO 5th ed. breast cancer subtype characterized by adenocarcinoma admixed with malignant spindle cells. It arises in the breast; C509 is inside the ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11309924/",
+  "source_ref": "Yan Q et al. A comprehensive overview of metaplastic breast cancer. Cancer Sci. 2024 \u2014 \"MpBC is a heterogeneous tumor characterized by adenocarcinoma with spindle cell, squamous epithelium, and/or mesenchymal differentiation ... Based on the WHO Classification 5th Edition.\""
+ },
+ {
+  "code": "8573/3",
+  "term": "Adenocarcinoma with apocrine metaplasia",
+  "proposed_codes": [
+   "C509"
+  ],
+  "proposed_labels": [
+   "Breast, NOS"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Adenocarcinoma with apocrine metaplasia corresponds to apocrine (differentiated) carcinoma of the breast \u2014 a WHO-recognized breast carcinoma subtype in which apocrine metaplasia/differentiation defines the lesion. It is a distinct morphological type of invasive breast cancer arising in the breast; C509 is inside the ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3707272/",
+  "source_ref": "Apocrine Carcinoma of Breast: A Case Report with Review. Case Rep Pathol. 2013 \u2014 \"Apocrine carcinoma is a rare and distinct morphological type of invasive breast cancer.\""
+ },
+ {
+  "code": "8573/3",
+  "term": "Carcinoma with apocrine metaplasia",
+  "proposed_codes": [
+   "C509"
+  ],
+  "proposed_labels": [
+   "Breast, NOS"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Carcinoma with apocrine metaplasia corresponds to apocrine carcinoma of the breast, a distinct morphological type of invasive breast cancer defined by apocrine differentiation/metaplasia. It arises in the breast; C509 is inside the ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3707272/",
+  "source_ref": "Apocrine Carcinoma of Breast: A Case Report with Review. Case Rep Pathol. 2013 \u2014 \"Apocrine carcinoma is a rare and distinct morphological type of invasive breast cancer.\""
+ },
+ {
+  "code": "8575/3",
+  "term": "Carcinoma with other types mesenchymal differentiation",
+  "proposed_codes": [
+   "C509"
+  ],
+  "proposed_labels": [
+   "Breast, NOS"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "\"Carcinoma with (other types of) mesenchymal differentiation\" is a form of metaplastic breast carcinoma \u2014 a WHO 5th ed. breast subtype in which carcinoma shows heterologous mesenchymal (e.g., chondroid, osseous, other) differentiation. It arises in the breast; C509 is inside the ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11309924/",
+  "source_ref": "Yan Q et al. A comprehensive overview of metaplastic breast cancer. Cancer Sci. 2024 \u2014 WHO 5th ed. subgroups include \"metaplastic carcinoma with heterogeneous differentiation\" characterized by \"adenocarcinoma with spindle cell, squamous epithelium, and/or mesenchymal differentiation.\""
+ },
+ {
+  "code": "8575/3",
+  "term": "Metaplastic carcinoma of no special type",
+  "proposed_codes": [
+   "C509"
+  ],
+  "proposed_labels": [
+   "Breast, NOS"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Metaplastic carcinoma is a WHO-recognized subtype of breast carcinoma, comprising subgroups including no-special-type / spindle cell / squamous / mesenchymal-differentiation forms. It arises in the breast; C509 is inside the ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11309924/",
+  "source_ref": "Yan Q et al. A comprehensive overview of metaplastic breast cancer. Cancer Sci. 2024 \u2014 \"MpBC is a heterogeneous tumor ... Based on the WHO Classification 5th Edition, MpBC has been categorized into several subgroups: spindle cell carcinoma, squamous cell carcinoma, metaplastic carcinoma with heterogeneous differentiation, low-grade adenosquamous carcinoma, low-grade fibromatosis-like carcinoma, and mixed metaplastic carcinoma.\""
+ },
+ {
+  "code": "8575/3",
+  "term": "Metaplastic carcinoma with other types mesenchymal differentiation",
+  "proposed_codes": [
+   "C509"
+  ],
+  "proposed_labels": [
+   "Breast, NOS"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Metaplastic carcinoma with mesenchymal (heterologous) differentiation is a WHO 5th ed. breast carcinoma subgroup (metaplastic carcinoma with heterogeneous/mesenchymal differentiation). It arises in the breast; C509 is inside the ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11309924/",
+  "source_ref": "Yan Q et al. A comprehensive overview of metaplastic breast cancer. Cancer Sci. 2024 \u2014 WHO 5th ed. subgroups include \"metaplastic carcinoma with heterogeneous differentiation.\""
+ },
+ {
+  "code": "8575/3",
+  "term": "Metaplastic carcinoma, NOS",
+  "proposed_codes": [
+   "C509"
+  ],
+  "proposed_labels": [
+   "Breast, NOS"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Metaplastic carcinoma, NOS is a WHO-recognized subtype of breast carcinoma, a rare aggressive form characterized by adenocarcinoma with spindle cell, squamous and/or mesenchymal differentiation. It arises in the breast; C509 is inside the ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11309924/",
+  "source_ref": "Yan Q et al. A comprehensive overview of metaplastic breast cancer. Cancer Sci. 2024 \u2014 \"Metaplastic breast cancer is a rare, aggressive ... subtype of breast cancers ... characterized by adenocarcinoma with spindle cells, squamous epithelium, and/or mesenchymal tissue differentiation.\""
+ },
+ {
+  "code": "8741/2",
+  "term": "Precancerous melanosis, NOS",
+  "proposed_codes": [
+   "C443",
+   "C444"
+  ],
+  "proposed_labels": [
+   "Skin of other and unspecified parts of face",
+   "Skin of scalp and neck"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "\"Precancerous melanosis\" (melanosis circumscripta precancerosa of Dubreuilh) is the classical synonym for lentigo maligna (melanoma in situ), which arises on chronically sun-exposed skin, typically the head and neck \u2014 predominantly the face (cheeks, forehead, temple, nose) and also scalp/neck. Skin of face (C443) and skin of scalp/neck (C444) are inside the code's skin ceiling.",
+  "source_url": "https://www.spandidos-publications.com/10.3892/wasj.2021.93",
+  "source_ref": "Kanitakis J. Treatment of lentigo maligna (Review). World Acad Sci J. 2021 \u2014 \"It develops on skin areas with high cumulative sun exposure, typically the head and neck (namely the cheeks, forehead, temple, periocular skin, nose and ears)\"; LM also known as \"Melanosis circumscripta precancerosa of Dubreuilh.\""
+ },
+ {
+  "code": "8741/3",
+  "term": "Malignant melanoma in precancerous melanosis",
+  "proposed_codes": [
+   "C443",
+   "C444"
+  ],
+  "proposed_labels": [
+   "Skin of other and unspecified parts of face",
+   "Skin of scalp and neck"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Malignant melanoma arising in precancerous melanosis (Dubreuilh) = lentigo maligna melanoma, the invasive counterpart of lentigo maligna, arising on chronically sun-exposed skin, predominantly the face and head/neck. Skin of face (C443) and skin of scalp/neck (C444) are inside the code's skin ceiling.",
+  "source_url": "https://www.spandidos-publications.com/10.3892/wasj.2021.93",
+  "source_ref": "Kanitakis J. Treatment of lentigo maligna (Review). World Acad Sci J. 2021 \u2014 LM/LMM \"develops on skin areas with high cumulative sun exposure, typically the head and neck (namely the cheeks, forehead, temple, periocular skin, nose and ears).\""
+ },
+ {
+  "code": "8741/3",
+  "term": "Melanoma in precancerous melanosis",
+  "proposed_codes": [
+   "C443",
+   "C444"
+  ],
+  "proposed_labels": [
+   "Skin of other and unspecified parts of face",
+   "Skin of scalp and neck"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Melanoma in precancerous melanosis (Dubreuilh) = lentigo maligna melanoma, arising on chronically sun-exposed skin, predominantly the face and head/neck. Skin of face (C443) and skin of scalp/neck (C444) are inside the code's skin ceiling.",
+  "source_url": "https://www.spandidos-publications.com/10.3892/wasj.2021.93",
+  "source_ref": "Kanitakis J. Treatment of lentigo maligna (Review). World Acad Sci J. 2021 \u2014 LM/LMM \"develops on skin areas with high cumulative sun exposure, typically the head and neck.\""
+ },
+ {
+  "code": "9709/3",
+  "term": "Primary cutaneous acral CD8 positive T-cell lymphoma",
+  "proposed_codes": [
+   "C442",
+   "C443",
+   "C447",
+   "C446"
+  ],
+  "proposed_labels": [
+   "External ear",
+   "Skin of other and unspecified parts of face",
+   "Skin of lower limb and hip",
+   "Skin of upper limb and shoulder"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Primary cutaneous acral CD8+ T-cell lymphoma (now lymphoproliferative disorder) has a striking predilection for acral skin, above all the ear, followed by the nose/face, feet and hands. In the EORTC workshop series: ears 18, nose 3, feet 4, hand 1 (26/31 acral). External ear (C442), skin of face/nose (C443), skin of lower limb/foot (C447), and skin of upper limb/hand (C446) are all inside the code's skin ceiling.",
+  "source_url": "https://academic.oup.com/bjd/article/186/5/887/6705832",
+  "source_ref": "Kempf W et al. Clinical, histopathological and prognostic features of primary cutaneous acral CD8+ T-cell lymphoma ... EORTC Cutaneous Lymphoma Group workshop. Br J Dermatol. 2022 \u2014 \"Acral (26/31, 84%): ears (18), nose (3), feet (4), hand (1).\""
+ },
+ {
+  "code": "9709/3",
+  "term": "Primary cutaneous acral CD8-positive T-cell lymphoproliferative disorder",
+  "proposed_codes": [
+   "C442",
+   "C443",
+   "C447",
+   "C446"
+  ],
+  "proposed_labels": [
+   "External ear",
+   "Skin of other and unspecified parts of face",
+   "Skin of lower limb and hip",
+   "Skin of upper limb and shoulder"
+  ],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Primary cutaneous acral CD8-positive T-cell lymphoproliferative disorder (WHO 5th ed. haematolymphoid) preferentially arises at acral sites, most commonly the ear, then nose/face, feet and hands. External ear (C442), skin of face/nose (C443), skin of lower limb/foot (C447), and skin of upper limb/hand (C446) are all inside the code's skin ceiling.",
+  "source_url": "https://academic.oup.com/bjd/article/186/5/887/6705832",
+  "source_ref": "Kempf W et al. EORTC Cutaneous Lymphoma Group workshop. Br J Dermatol. 2022 \u2014 \"Acral (26/31, 84%): ears (18), nose (3), feet (4), hand (1).\""
+ },
+ {
+  "code": "9718/3",
+  "term": "Primary mucosal CD30 positive large T-cell lymphoma",
+  "proposed_codes": [
+   "C069",
+   "C211"
+  ],
+  "proposed_labels": [
+   "Mouth, NOS",
+   "Anal canal"
+  ],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "The primary mucosal CD30-positive T-cell lymphoproliferation is the mucosal counterpart of primary cutaneous CD30+ large T-cell lymphoma and arises predominantly in the oral mucosa, with a minority in anal canal mucosa. In an 8-case series, 7 occurred in oral mucosa and 1 in anal canal mucosa. Mouth (C069) and anal canal (C211) are NOT in the code's skin/genital ceiling, so the mucosal site(s) of origin fall outside the ceiling.",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/38955696/",
+  "source_ref": "Clinicopathological features of primary mucosal CD30-positive T-cell lymphoproliferative disorders. PubMed 38955696, 2024 \u2014 \"Seven cases occurred in oral mucosa and one in anal canal mucosa.\""
+ }
+]

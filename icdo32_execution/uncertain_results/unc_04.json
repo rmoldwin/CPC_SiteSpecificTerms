@@ -1,0 +1,211 @@
+[
+ {
+  "code": "8382/3",
+  "term": "Endometrioid adenocarcinoma, secretory variant",
+  "proposed_codes": ["C541"],
+  "proposed_labels": ["Endometrium"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Secretory carcinoma is a recognized variant of endometrioid adenocarcinoma of the endometrium (uterine corpus); GLOWM's pathology of endometrial carcinoma lists 'secretory' among the variants of endometrioid adenocarcinoma, and multiple case series describe secretory adenocarcinoma as a rare (1-2%) subtype arising in the endometrium. The endometrial (corpus) endometrioid origin (C541) is the definitive site of origin.",
+  "source_url": "https://www.glowm.com/section-view/heading/Pathology%20of%20Endometrial%20Carcinoma/item/238",
+  "source_ref": "Gordon MD. Pathology of Endometrial Carcinoma. GLOWM: 'Variants of endometrioid adenocarcinoma include villoglandular, secretory, ciliated cell, and adenocarcinoma with squamous differentiation.'"
+ },
+ {
+  "code": "8384/3",
+  "term": "Adenocarcinoma, endocervical type, NOS",
+  "proposed_codes": ["C530", "C539"],
+  "proposed_labels": ["Endocervix", "Cervix uteri"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Endocervical-type adenocarcinoma is by definition an adenocarcinoma arising in the uterine cervix (endocervix). The International Endocervical Adenocarcinoma Criteria and Classification (IECC/Stolnicu et al.) is a classification of invasive endocervical adenocarcinomas of the cervix. Endocervix (C530) and cervix uteri NOS (C539) are the sites of origin, both in-ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5762258/",
+  "source_ref": "Stolnicu S et al. International Endocervical Adenocarcinoma Criteria and Classification (IECC). Am J Surg Pathol (PMC5762258): 'Invasive ECAs are classified based on descriptive morphological characteristics...'"
+ },
+ {
+  "code": "8023/3",
+  "term": "Carcinoma, NUT adnexal",
+  "proposed_codes": ["C449", "C443", "C444"],
+  "proposed_labels": ["Skin, NOS", "Skin of other and unspecified parts of face", "Skin of scalp and neck"],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "NUT adnexal carcinoma (NAC) is a primary cutaneous tumor of the skin/cutaneous adnexa, introduced as a provisional entity in the 5th edition WHO Classification of Skin Tumours; reported cases are cutaneous (commonly head/neck skin). Site of origin is the skin (C44), which is entirely outside this code's ceiling (no C44 codes present).",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/40125640/",
+  "source_ref": "Legrand M et al. Primary cutaneous NUT adnexal carcinoma... 2025 (PMID 40125640): '...NUT adnexal carcinoma (NAC) has been introduced as a provisional tumour entity to the fifth edition of the WHO Classification of Skin Tumours.'"
+ },
+ {
+  "code": "8041/3",
+  "term": "Reserve cell carcinoma",
+  "proposed_codes": ["C349", "C340"],
+  "proposed_labels": ["Lung, NOS", "Main bronchus"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "'Reserve cell carcinoma' is a historical synonym for small cell carcinoma of the lung (ICD-O 8041/3), named after bronchial reserve (basal) cells. SEER training explicitly lists 'reserve cell' as a synonym of small cell carcinoma and notes these are central lesions in the bronchus/hilum of the lung. Lung (C349) and main bronchus (C340) are the sites of origin, both in-ceiling. (The cervical 'reserve cell' usage is a separate archaic descriptor; the ICD-O 8041/3 designation ties the term to bronchial small cell carcinoma.)",
+  "source_url": "https://training.seer.cancer.gov/lung/abstract-code-stage/morphology.html",
+  "source_ref": "SEER Training: Lung Morphology & Grade: 'Small cell carcinoma is also called oat cell, round cell, reserve cell... Small cell cancers are usually central lesions (in the bronchus or toward the center or hilum of the lung).'"
+ },
+ {
+  "code": "8070/2",
+  "term": "Actinic keratosis with high-grade dysplasia",
+  "proposed_codes": ["C443", "C444", "C446"],
+  "proposed_labels": ["Skin of other and unspecified parts of face", "Skin of scalp and neck", "Skin of upper limb and shoulder"],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Actinic keratosis is a UV-induced intraepidermal keratinocytic dysplasia (in-situ neoplasia) of chronically sun-exposed skin, arising predominantly on the face, scalp/neck, and dorsa of hands/forearms. The site of origin is sun-exposed skin (C44 subsites), which is outside this code's ceiling (no C44 codes present).",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11566825/",
+  "source_ref": "Reinehr CPH et al. Epidemiology and Risk Factors of Actinic Keratosis (PMC11566825): 'Actinic keratosis (AK) is characterized by the presence of atypical keratinocytes within the epidermal skin layer and is considered an in-situ neoplasia of the skin...'; AKs predominantly occur on chronically photoexposed skin (face, scalp, neck, forearms, dorsa of hands)."
+ },
+ {
+  "code": "8070/2",
+  "term": "Bowenoid papulosis",
+  "proposed_codes": ["C601", "C600", "C602", "C519", "C510"],
+  "proposed_labels": ["Glans penis", "Prepuce", "Body of penis", "Vulva, NOS", "Labium majus"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Bowenoid papulosis is an HPV-related squamous intraepithelial lesion arising most commonly on anogenital skin/mucosa, particularly the penis (glans, foreskin, body) in males and the vulva/labia in females. These genital sites (C600-C602, C510/C511/C519) are the sites of origin and are all in-ceiling. (Rare extragenital/oral occurrences exist but the defining site is anogenital.)",
+  "source_url": "https://dermnetnz.org/topics/bowenoid-papulosis",
+  "source_ref": "DermNet: Bowenoid papulosis: 'Bowenoid papulosis most commonly involves the anogenital area... on the penis or vulva. Although the glans penis, foreskin, and vulval labia are the most common sites affected...'"
+ },
+ {
+  "code": "8077/2",
+  "term": "Conjunctival squamous intraepithelial neoplasia, moderate dysplasia",
+  "proposed_codes": ["C690"],
+  "proposed_labels": ["Conjunctiva"],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Conjunctival squamous intraepithelial neoplasia is by definition restricted to the conjunctiva/ocular surface. NCBI MedGen classifies it under 'Conjunctival disorder / Conjunctival tumor / Ocular surface squamous neoplasia / Conjunctival intraepithelial neoplasm.' The site of origin is the conjunctiva (C690), which is outside this code's ceiling (no C69 codes present).",
+  "source_url": "https://www.ncbi.nlm.nih.gov/medgen/1882874",
+  "source_ref": "NCBI MedGen 1882874 (Conjunctival Squamous Intraepithelial Neoplasia): 'A conjunctival squamous intraepithelial neoplasia characterized by the presence of dysplastic squamous cells...'; classified as a conjunctival/ocular surface neoplasm."
+ },
+ {
+  "code": "8077/2",
+  "term": "Conjunctival squamous intraepithelial neoplasia, severe dysplasia",
+  "proposed_codes": ["C690"],
+  "proposed_labels": ["Conjunctiva"],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Conjunctival squamous intraepithelial neoplasia is by definition restricted to the conjunctiva/ocular surface. NCBI MedGen classifies it as a conjunctival tumor / ocular surface squamous neoplasia. The site of origin is the conjunctiva (C690), which is outside this code's ceiling (no C69 codes present).",
+  "source_url": "https://www.ncbi.nlm.nih.gov/medgen/1882874",
+  "source_ref": "NCBI MedGen 1882874 (Conjunctival Squamous Intraepithelial Neoplasia): 'A conjunctival squamous intraepithelial neoplasia characterized by the presence of dysplastic squamous cells...'; classified as a conjunctival/ocular surface neoplasm."
+ },
+ {
+  "code": "8430/3",
+  "term": "Sclerosing mucoepidermoid carcinoma with eosinophilia",
+  "proposed_codes": ["C739"],
+  "proposed_labels": ["Thyroid gland"],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Sclerosing mucoepidermoid carcinoma with eosinophilia (SMECE) is a distinct primary thyroid gland malignancy that arises in a background of chronic lymphocytic (Hashimoto) thyroiditis, and is recognized as a thyroid entity in the WHO classification of thyroid tumors. Site of origin is the thyroid gland (C739), which is outside this code's ceiling (no C739 present).",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4782402/",
+  "source_ref": "Kumar et al. Sclerosing mucoepidermoid carcinoma with eosinophilia of the thyroid (PMC4782402): 'Sclerosing mucoepidermoid carcinoma with eosinophilia (SMECE) of the thyroid is a rare primary thyroid tumor arising in a background of Hashimoto's/lymphocytic thyroiditis and has been recently introduced in the WHO classification of thyroid tumors.'"
+ },
+ {
+  "code": "9690/3",
+  "term": "BCL2-R-negative CD23-positive follicle centre lymphoma",
+  "proposed_codes": ["C774", "C771"],
+  "proposed_labels": ["Lymph nodes of inguinal region and leg", "Lymph nodes of head, face and neck"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "This t(14;18)/BCL2-R-negative, 1p36-deleted diffuse follicle centre (follicular) lymphoma is a nodal lymphoma that most frequently presents in inguinal lymph nodes (Katzenberger et al., Blood 2009). As a nodal B-cell lymphoma the site of origin is lymph nodes; inguinal nodes (C774) are the predominant site, with head/neck nodes (C771) also involved. Both are in-ceiling.",
+  "source_url": "https://ashpublications.org/blood/article/113/5/1053/25631/A-distinctive-subtype-of-t-14-18-negative-nodal",
+  "source_ref": "Katzenberger T et al. A distinctive subtype of t(14;18)-negative nodal follicular non-Hodgkin lymphoma... Blood 2009;113:1053: 'Most frequently, diffuse FL samples involved inguinal lymph nodes.'"
+ },
+ {
+  "code": "9690/3",
+  "term": "Follicular lymphoma with a predominantly diffuse growth pattern",
+  "proposed_codes": ["C774", "C771"],
+  "proposed_labels": ["Lymph nodes of inguinal region and leg", "Lymph nodes of head, face and neck"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Follicular lymphoma with a predominantly diffuse growth pattern (the t(14;18)-negative, 1p36-deleted diffuse variant of Katzenberger et al.) is a nodal follicular lymphoma that most frequently involves inguinal lymph nodes. Site of origin is lymph nodes, predominantly inguinal (C774), with head/neck nodal involvement (C771) also common. Both in-ceiling.",
+  "source_url": "https://ashpublications.org/blood/article/113/5/1053/25631/A-distinctive-subtype-of-t-14-18-negative-nodal",
+  "source_ref": "Katzenberger T et al. A distinctive subtype of t(14;18)-negative nodal follicular non-Hodgkin lymphoma characterized by a predominantly diffuse growth pattern... Blood 2009;113:1053: 'Most frequently, diffuse FL samples involved inguinal lymph nodes.'"
+ },
+ {
+  "code": "9690/3",
+  "term": "Follicular lymphoma, pediatric type",
+  "proposed_codes": ["C771"],
+  "proposed_labels": ["Lymph nodes of head, face and neck"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Pediatric-type follicular lymphoma (PTFL) is a nodal lymphoma that presents almost exclusively as localized lymphadenopathy with a strong predilection for the head and neck lymph nodes (cervical, periparotid, submandibular, submental). Site of origin is lymph nodes of the head/face/neck (C771), which is in-ceiling.",
+  "source_url": "https://ashpublications.org/blood/article/128/8/1093/35747/Pediatric-type-nodal-follicular-lymphoma-a",
+  "source_ref": "Louissaint A Jr et al. Pediatric-type nodal follicular lymphoma... Blood 2016;128:1093: 'Patients with PTNFL were almost all male (92%), and 92% presented with localization to head and neck lymph nodes.'"
+ },
+ {
+  "code": "9690/3",
+  "term": "Follicular lymphoma, pediatric-type",
+  "proposed_codes": ["C771"],
+  "proposed_labels": ["Lymph nodes of head, face and neck"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Pediatric-type follicular lymphoma (PTFL) is a nodal lymphoma presenting almost exclusively as localized head and neck lymphadenopathy. Site of origin is lymph nodes of the head/face/neck (C771), in-ceiling.",
+  "source_url": "https://ashpublications.org/blood/article/128/8/1093/35747/Pediatric-type-nodal-follicular-lymphoma-a",
+  "source_ref": "Louissaint A Jr et al. Pediatric-type nodal follicular lymphoma... Blood 2016;128:1093: '92% presented with localization to head and neck lymph nodes.'"
+ },
+ {
+  "code": "9690/3",
+  "term": "Pediatric follicular lymphoma",
+  "proposed_codes": ["C771"],
+  "proposed_labels": ["Lymph nodes of head, face and neck"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Pediatric(-type) follicular lymphoma is a nodal lymphoma presenting almost exclusively as localized head and neck lymphadenopathy. Site of origin is lymph nodes of the head/face/neck (C771), in-ceiling.",
+  "source_url": "https://ashpublications.org/blood/article/128/8/1093/35747/Pediatric-type-nodal-follicular-lymphoma-a",
+  "source_ref": "Louissaint A Jr et al. Pediatric-type nodal follicular lymphoma... Blood 2016;128:1093: '92% presented with localization to head and neck lymph nodes.'"
+ },
+ {
+  "code": "9690/3",
+  "term": "pediatric-type follicular lymphoma",
+  "proposed_codes": ["C771"],
+  "proposed_labels": ["Lymph nodes of head, face and neck"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Pediatric-type follicular lymphoma (PTFL) is a nodal lymphoma presenting almost exclusively as localized head and neck lymphadenopathy. Site of origin is lymph nodes of the head/face/neck (C771), in-ceiling.",
+  "source_url": "https://ashpublications.org/blood/article/128/8/1093/35747/Pediatric-type-nodal-follicular-lymphoma-a",
+  "source_ref": "Louissaint A Jr et al. Pediatric-type nodal follicular lymphoma... Blood 2016;128:1093: '92% presented with localization to head and neck lymph nodes.'"
+ },
+ {
+  "code": "9699/3",
+  "term": "Monocytoid B-cell lymphoma",
+  "proposed_codes": ["C771", "C779"],
+  "proposed_labels": ["Lymph nodes of head, face and neck", "Lymph node, NOS"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Monocytoid B-cell lymphoma (nodal marginal zone lymphoma) characteristically involves peripheral lymph nodes, with a documented propensity for paraparotid/intraparotid and head-and-neck nodes; the tumor cells occupy the marginal-zone/sinusoidal-interfollicular compartments of the node. Site of origin is lymph nodes (C779 lymph node NOS; C771 head/neck nodes as the predilection site). Both in-ceiling.",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/2032691/",
+  "source_ref": "Sheibani K et al. Monocytoid B-cell lymphoma: a study of 36 cases. Hum Pathol (PMID 2032691): 'Monocytoid B-cell lymphoma characteristically involves peripheral lymph nodes (30 of 36) with a propensity for paraparotid or intraparotid nodes.'"
+ },
+ {
+  "code": "8620/3",
+  "term": "Adult granulosa cell tumor of adrenal gland",
+  "proposed_codes": ["C749"],
+  "proposed_labels": ["Adrenal gland, NOS"],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "This entity is, by its name and reported cases, a primary granulosa cell tumor arising in the adrenal gland (ovarian sex cord-stromal-type tumor occurring at an extragonadal adrenal site). Site of origin is the adrenal gland (C749), which is outside this code's ceiling (ceiling contains only ovary C569 and testis C620/C621/C629, not adrenal C74).",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7131662/",
+  "source_ref": "Cheng JY, Gill AJ, Kumar SK. Granulosa cell tumour of the adrenal. Pathology 2016 (PMC7131662): case of primary granulosa cell tumour arising in the adrenal gland (title 'Granulosa cell tumour of the adrenal'; references 'primary granulosa cell tumor of the adrenal gland')."
+ },
+ {
+  "code": "8044/3",
+  "term": "SMARCA4-deficient undifferentiated tumor",
+  "proposed_codes": ["C349"],
+  "proposed_labels": ["Lung, NOS"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Thoracic SMARCA4-deficient undifferentiated tumor is a thoracic/pulmonary malignancy classified in the 5th edition WHO Classification of Lung/Thoracic Tumors under 'other epithelial tumors of the lung', considered a dedifferentiated carcinoma of the lung/thorax (WHO diagnostic criterion: thoracic tumor in adults). Best-supported site of origin is the lung (C349), which is in-ceiling; adjacent thoracic/mediastinal sites (e.g., C381 anterior mediastinum, outside ceiling) may also be involved.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10970296/",
+  "source_ref": "Treatment of Thoracic SMARCA4-Deficient Undifferentiated Tumors (PMC10970296): 'the fifth edition of the WHO classification recognized thoracic SMARCA4-UT as a separate entity... placing thoracic SMARCA4-UT under the category of \"other epithelial tumors of the lung\".'"
+ },
+ {
+  "code": "8580/3",
+  "term": "Intrapulmonary thymoma",
+  "proposed_codes": ["C349"],
+  "proposed_labels": ["Lung, NOS"],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Primary intrapulmonary thymoma (PIT) is a thymoma of ectopic thymic origin located entirely within the lung parenchyma (below the visceral pleura, with no mediastinal component). Although derived from thymic tissue, the anatomic site of origin/location is the lung (C349). C349 is outside this code's ceiling (ceiling contains only thymus C379 and anterior mediastinum C380). The in-ceiling thymus code C379 does not capture the intrapulmonary location.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8548194/",
+  "source_ref": "Primary Intrapulmonary Thymoma Appearing as a Solitary Pulmonary Nodule (PMC8548194): 'PITs are defined as tumors of thymic origin with the characteristic histological features of thymoma, situated below the visceral pleura or completely surrounded by lung parenchyma, without a mediastinal component.'"
+ }
+]

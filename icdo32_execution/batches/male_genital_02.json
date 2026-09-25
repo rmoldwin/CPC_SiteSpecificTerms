@@ -1,0 +1,281 @@
+[
+ {
+  "code": "8640/3",
+  "term": "Sertoli cell carcinoma",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C620",
+   "C621",
+   "C629"
+  ]
+ },
+ {
+  "code": "8640/3",
+  "term": "Sertoli cell tumor, malignant",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C620",
+   "C621",
+   "C629"
+  ]
+ },
+ {
+  "code": "8650/3",
+  "term": "Interstitial cell tumor, malignant",
+  "ceiling_count": 6,
+  "ceiling_codes": [
+   "C620",
+   "C621",
+   "C629",
+   "C630",
+   "C631",
+   "C637"
+  ]
+ },
+ {
+  "code": "8650/3",
+  "term": "Leydig cell tumor, malignant",
+  "ceiling_count": 6,
+  "ceiling_codes": [
+   "C620",
+   "C621",
+   "C629",
+   "C630",
+   "C631",
+   "C637"
+  ]
+ },
+ {
+  "code": "8650/3",
+  "term": "Malignant Leydig cell tumor",
+  "ceiling_count": 6,
+  "ceiling_codes": [
+   "C620",
+   "C621",
+   "C629",
+   "C630",
+   "C631",
+   "C637"
+  ]
+ },
+ {
+  "code": "9061/2",
+  "term": "Intratubular seminoma",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C620",
+   "C621",
+   "C629"
+  ]
+ },
+ {
+  "code": "9061/2",
+  "term": "Intratubular trophoblast",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C620",
+   "C621",
+   "C629"
+  ]
+ },
+ {
+  "code": "9061/3",
+  "term": "Germinoma of testis",
+  "ceiling_count": 10,
+  "ceiling_codes": [
+   "C379",
+   "C381",
+   "C382",
+   "C383",
+   "C620",
+   "C621",
+   "C629",
+   "C630",
+   "C631",
+   "C637"
+  ]
+ },
+ {
+  "code": "9061/3",
+  "term": "Seminoma with syncytiotrophoblast cells",
+  "ceiling_count": 10,
+  "ceiling_codes": [
+   "C379",
+   "C381",
+   "C382",
+   "C383",
+   "C620",
+   "C621",
+   "C629",
+   "C630",
+   "C631",
+   "C637"
+  ]
+ },
+ {
+  "code": "9061/3",
+  "term": "Seminoma with syncytiotrophoblastic cells",
+  "ceiling_count": 10,
+  "ceiling_codes": [
+   "C379",
+   "C381",
+   "C382",
+   "C383",
+   "C620",
+   "C621",
+   "C629",
+   "C630",
+   "C631",
+   "C637"
+  ]
+ },
+ {
+  "code": "9061/3",
+  "term": "Seminoma, NOS",
+  "ceiling_count": 10,
+  "ceiling_codes": [
+   "C379",
+   "C381",
+   "C382",
+   "C383",
+   "C620",
+   "C621",
+   "C629",
+   "C630",
+   "C631",
+   "C637"
+  ]
+ },
+ {
+  "code": "9063/3",
+  "term": "Spermatocytic seminoma",
+  "ceiling_count": 6,
+  "ceiling_codes": [
+   "C620",
+   "C621",
+   "C629",
+   "C630",
+   "C631",
+   "C637"
+  ]
+ },
+ {
+  "code": "9063/3",
+  "term": "Spermatocytic tumor",
+  "ceiling_count": 6,
+  "ceiling_codes": [
+   "C620",
+   "C621",
+   "C629",
+   "C630",
+   "C631",
+   "C637"
+  ]
+ },
+ {
+  "code": "9063/3",
+  "term": "Spermatocytic tumor with sarcomatous differentiation",
+  "ceiling_count": 6,
+  "ceiling_codes": [
+   "C620",
+   "C621",
+   "C629",
+   "C630",
+   "C631",
+   "C637"
+  ]
+ },
+ {
+  "code": "9063/3",
+  "term": "Spermatocytoma",
+  "ceiling_count": 6,
+  "ceiling_codes": [
+   "C620",
+   "C621",
+   "C629",
+   "C630",
+   "C631",
+   "C637"
+  ]
+ },
+ {
+  "code": "9064/2",
+  "term": "Germ cell neoplasia in situ",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C620",
+   "C621",
+   "C629"
+  ]
+ },
+ {
+  "code": "9064/2",
+  "term": "Intratubular germ cell neoplasia",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C620",
+   "C621",
+   "C629"
+  ]
+ },
+ {
+  "code": "9064/2",
+  "term": "Intratubular germ cell neoplasia (male gonadal)",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C620",
+   "C621",
+   "C629"
+  ]
+ },
+ {
+  "code": "9064/2",
+  "term": "Intratubular malignant germ cells",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C620",
+   "C621",
+   "C629"
+  ]
+ },
+ {
+  "code": "9064/2",
+  "term": "Specific forms of intratubular germ cell neoplasia",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C620",
+   "C621",
+   "C629"
+  ]
+ },
+ {
+  "code": "9070/2",
+  "term": "Intratubular embryonal carcinoma",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C620",
+   "C621",
+   "C629"
+  ]
+ },
+ {
+  "code": "9071/2",
+  "term": "Intratubular yolk-sac tumor",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C620",
+   "C621",
+   "C629"
+  ]
+ },
+ {
+  "code": "9080/2",
+  "term": "Intratubular teratoma",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C620",
+   "C621",
+   "C629"
+  ]
+ }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "code": "8131/3",
+    "term": "Urothelial carcinoma, micropapillary",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Micropapillary urothelial carcinoma is a variant of urothelial carcinoma documented throughout the urothelial tract, including the urinary bladder and the upper urinary tract (renal pelvis and ureter), which together constitute essentially the entire ceiling. It is not restricted to a proper subset of the code's urinary-tract sites.",
+    "source": "https://academic.oup.com/ajcp/article/126/1/86/1759952",
+    "source_name": "PubMed / Am J Clin Pathol (PMID 16753598) - Micropapillary Urothelial Carcinoma of the Upper Urinary Tract"
+  },
+  {
+    "code": "8211/2",
+    "term": "Adenocarcinoma in situ in tubular adenoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Tubular adenomas (and their in-situ adenocarcinoma progression) are the classic precursor lesion of the colorectum but are also a described entity of the urinary tract (bladder, ureter, prostatic urethra) with identical histology; the term therefore spans both the intestinal and urinary components of the ceiling rather than a proper subset.",
+    "source": "https://pubmed.ncbi.nlm.nih.gov/23664485/",
+    "source_name": "PubMed / Am J Surg Pathol (PMID 23664485) - Tubular adenoma of the urinary tract: a newly described entity"
+  },
+  {
+    "code": "8211/2",
+    "term": "Tubular adenoma, high grade",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "High-grade tubular adenoma is a conventional colorectal precursor lesion but the same lesion, including high-grade dysplasia, is documented in the urinary tract (bladder, ureter, prostatic urethra) with histology identical to its gastrointestinal counterpart, so the term is used across both organ systems within the ceiling rather than being restricted to a proper subset.",
+    "source": "https://pubmed.ncbi.nlm.nih.gov/23664485/",
+    "source_name": "PubMed / Am J Surg Pathol (PMID 23664485) - Tubular adenoma of the urinary tract: a newly described entity"
+  },
+  {
+    "code": "8680/3",
+    "term": "Paraganglioma, NOS",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Paraganglioma arises anywhere paraganglia reside along the sympathetic and parasympathetic nervous system, spanning head/neck and CNS-region sites, mediastinum/heart, retroperitoneum/peritoneum, autonomic nerves, adrenal/endocrine sites, and the urinary bladder - which together cover essentially all of the code's diverse ceiling. It is not restricted to a proper subset.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6162705/",
+    "source_name": "PubMed Central / J Clin Med (PMC6162705) - The Diagnosis and Clinical Significance of Paragangliomas"
+  }
+]

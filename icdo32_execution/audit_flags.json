@@ -1,0 +1,724 @@
+[
+ {
+  "code": "8691/3",
+  "term": "Aorticopulmonary paraganglioma",
+  "keyword": "pulmonary",
+  "subset": [
+   "C755"
+  ],
+  "subset_labels": [
+   "C755=Aortic body and other paraganglia"
+  ],
+  "expected_any_of": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349"
+  ],
+  "source_name": "FCDS 2021 ICD-O-3.2 update - 8691/3 aorticopulmonary paragan"
+ },
+ {
+  "code": "8963/3",
+  "term": "Extrarenal rhabdoid tumor",
+  "keyword": "renal",
+  "subset": [
+   "C480",
+   "C488",
+   "C490",
+   "C491",
+   "C492",
+   "C493",
+   "C494",
+   "C495",
+   "C496",
+   "C498",
+   "C499"
+  ],
+  "subset_labels": [
+   "C480=Retroperitoneum",
+   "C488=Overlapping lesion of retroperitoneum and peritoneum",
+   "C490=Connective/soft tissue of head, face, and neck",
+   "C491=Connective/soft tissue of upper limb and shoulder",
+   "C492=Connective/soft tissue of lower limb and hip",
+   "C493=Connective/soft tissue of thorax",
+   "C494=Connective/soft tissue of abdomen",
+   "C495=Connective/soft tissue of pelvis",
+   "C496=Connective/soft tissue of trunk, NOS",
+   "C498=Overlapping lesion of connective, subcutaneous and other soft tissues",
+   "C499=Connective, subcutaneous and other soft tissues, NOS"
+  ],
+  "expected_any_of": [
+   "C649",
+   "C659"
+  ],
+  "source_name": "Geller et al., Biology and Treatment of Rhabdoid Tumor, PMC6"
+ },
+ {
+  "code": "9137/3",
+  "term": "Pulmonary artery intimal sarcoma",
+  "keyword": "pulmonary",
+  "subset": [
+   "C380",
+   "C493"
+  ],
+  "subset_labels": [
+   "C380=Heart",
+   "C493=Connective/soft tissue of thorax"
+  ],
+  "expected_any_of": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349"
+  ],
+  "source_name": "SEER Inquiry 20150052 \u2014 code pulmonary artery intimal sarcom"
+ },
+ {
+  "code": "9390/0",
+  "term": "Choroid plexus papilloma, NOS",
+  "keyword": "choroid",
+  "subset": [
+   "C715"
+  ],
+  "subset_labels": [
+   "C715=Ventricle, NOS"
+  ],
+  "expected_any_of": [
+   "C693"
+  ],
+  "source_name": "World J Oncol / PMC - Choroid plexus tumors spectrum"
+ },
+ {
+  "code": "9390/1",
+  "term": "Atypical choroid plexus papilloma",
+  "keyword": "choroid",
+  "subset": [
+   "C715"
+  ],
+  "subset_labels": [
+   "C715=Ventricle, NOS"
+  ],
+  "expected_any_of": [
+   "C693"
+  ],
+  "source_name": "PMC - Choroid plexus tumors spectrum"
+ },
+ {
+  "code": "9390/3",
+  "term": "Choroid plexus carcinoma",
+  "keyword": "choroid",
+  "subset": [
+   "C715"
+  ],
+  "subset_labels": [
+   "C715=Ventricle, NOS"
+  ],
+  "expected_any_of": [
+   "C693"
+  ],
+  "source_name": "PMC - Choroid plexus tumors spectrum"
+ },
+ {
+  "code": "9390/3",
+  "term": "Choroid plexus papilloma, anaplastic",
+  "keyword": "choroid",
+  "subset": [
+   "C715"
+  ],
+  "subset_labels": [
+   "C715=Ventricle, NOS"
+  ],
+  "expected_any_of": [
+   "C693"
+  ],
+  "source_name": "PMC - Choroid plexus tumors spectrum"
+ },
+ {
+  "code": "9390/3",
+  "term": "Choroid plexus papilloma, malignant",
+  "keyword": "choroid",
+  "subset": [
+   "C715"
+  ],
+  "subset_labels": [
+   "C715=Ventricle, NOS"
+  ],
+  "expected_any_of": [
+   "C693"
+  ],
+  "source_name": "PMC - Choroid plexus tumors spectrum"
+ },
+ {
+  "code": "8144/3",
+  "term": "Endometrial gastric (gastrointestinal)-type carcinoma",
+  "keyword": "gastric",
+  "subset": [
+   "C541"
+  ],
+  "subset_labels": [
+   "C541=Endometrium"
+  ],
+  "expected_any_of": [
+   "C160",
+   "C161",
+   "C162",
+   "C163",
+   "C164",
+   "C165",
+   "C166",
+   "C168",
+   "C169"
+  ],
+  "source_name": "Bragantini E et al. Gastric (gastrointestinal)-type endometr"
+ },
+ {
+  "code": "8144/3",
+  "term": "Endometrial gastric-type adenocarcinoma",
+  "keyword": "gastric",
+  "subset": [
+   "C541"
+  ],
+  "subset_labels": [
+   "C541=Endometrium"
+  ],
+  "expected_any_of": [
+   "C160",
+   "C161",
+   "C162",
+   "C163",
+   "C164",
+   "C165",
+   "C166",
+   "C168",
+   "C169"
+  ],
+  "source_name": "Bragantini E et al. Gastric (gastrointestinal)-type endometr"
+ },
+ {
+  "code": "8370/3",
+  "term": "Adrenal cortical adenocarcinoma",
+  "keyword": "renal",
+  "subset": [
+   "C740",
+   "C749"
+  ],
+  "subset_labels": [
+   "C740=Cortex of adrenal gland",
+   "C749=Adrenal gland, NOS"
+  ],
+  "expected_any_of": [
+   "C649",
+   "C659"
+  ],
+  "source_name": "WHO Blue Book (Endocrine & NE Tumours 5th ed) - Adrenal cort"
+ },
+ {
+  "code": "8370/3",
+  "term": "Adrenal cortical carcinoma",
+  "keyword": "renal",
+  "subset": [
+   "C740",
+   "C749"
+  ],
+  "subset_labels": [
+   "C740=Cortex of adrenal gland",
+   "C749=Adrenal gland, NOS"
+  ],
+  "expected_any_of": [
+   "C649",
+   "C659"
+  ],
+  "source_name": "WHO Blue Book (Endocrine & NE Tumours 5th ed) - Adrenal cort"
+ },
+ {
+  "code": "8370/3",
+  "term": "Adrenal cortical carcinoma, conventional",
+  "keyword": "renal",
+  "subset": [
+   "C740",
+   "C749"
+  ],
+  "subset_labels": [
+   "C740=Cortex of adrenal gland",
+   "C749=Adrenal gland, NOS"
+  ],
+  "expected_any_of": [
+   "C649",
+   "C659"
+  ],
+  "source_name": "WHO Blue Book (Endocrine & NE Tumours 5th ed) - Adrenal cort"
+ },
+ {
+  "code": "8370/3",
+  "term": "Adrenal cortical carcinoma, oncocytic",
+  "keyword": "renal",
+  "subset": [
+   "C740",
+   "C749"
+  ],
+  "subset_labels": [
+   "C740=Cortex of adrenal gland",
+   "C749=Adrenal gland, NOS"
+  ],
+  "expected_any_of": [
+   "C649",
+   "C659"
+  ],
+  "source_name": "WHO Blue Book (Endocrine & NE Tumours 5th ed) - Adrenal cort"
+ },
+ {
+  "code": "8370/3",
+  "term": "Adrenal cortical tumor, malignant",
+  "keyword": "renal",
+  "subset": [
+   "C740",
+   "C749"
+  ],
+  "subset_labels": [
+   "C740=Cortex of adrenal gland",
+   "C749=Adrenal gland, NOS"
+  ],
+  "expected_any_of": [
+   "C649",
+   "C659"
+  ],
+  "source_name": "WHO Blue Book (Endocrine & NE Tumours 5th ed) - Adrenal cort"
+ },
+ {
+  "code": "8370/3",
+  "term": "Conventional adrenal cortical carcinoma",
+  "keyword": "renal",
+  "subset": [
+   "C740",
+   "C749"
+  ],
+  "subset_labels": [
+   "C740=Cortex of adrenal gland",
+   "C749=Adrenal gland, NOS"
+  ],
+  "expected_any_of": [
+   "C649",
+   "C659"
+  ],
+  "source_name": "WHO Blue Book (Endocrine & NE Tumours 5th ed) - Adrenal cort"
+ },
+ {
+  "code": "8370/3",
+  "term": "Myxoid adrenal cortical carcinoma",
+  "keyword": "renal",
+  "subset": [
+   "C740",
+   "C749"
+  ],
+  "subset_labels": [
+   "C740=Cortex of adrenal gland",
+   "C749=Adrenal gland, NOS"
+  ],
+  "expected_any_of": [
+   "C649",
+   "C659"
+  ],
+  "source_name": "WHO Blue Book (Endocrine & NE Tumours 5th ed) - Adrenal cort"
+ },
+ {
+  "code": "8370/3",
+  "term": "Oncocytic adrenal cortical carcinoma",
+  "keyword": "renal",
+  "subset": [
+   "C740",
+   "C749"
+  ],
+  "subset_labels": [
+   "C740=Cortex of adrenal gland",
+   "C749=Adrenal gland, NOS"
+  ],
+  "expected_any_of": [
+   "C649",
+   "C659"
+  ],
+  "source_name": "WHO Blue Book (Endocrine & NE Tumours 5th ed) - Adrenal cort"
+ },
+ {
+  "code": "8370/3",
+  "term": "Sarcomatoid adrenal cortical carcinoma",
+  "keyword": "renal",
+  "subset": [
+   "C740",
+   "C749"
+  ],
+  "subset_labels": [
+   "C740=Cortex of adrenal gland",
+   "C749=Adrenal gland, NOS"
+  ],
+  "expected_any_of": [
+   "C649",
+   "C659"
+  ],
+  "source_name": "WHO Blue Book (Endocrine & NE Tumours 5th ed) - Adrenal cort"
+ },
+ {
+  "code": "8482/3",
+  "term": "Adenocarcinoma, HPV-independent, gastric type",
+  "keyword": "gastric",
+  "subset": [
+   "C529",
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "subset_labels": [
+   "C529=Vagina, NOS",
+   "C530=Endocervix",
+   "C531=Exocervix",
+   "C538=Overlapping lesion of cervix uteri",
+   "C539=Cervix uteri"
+  ],
+  "expected_any_of": [
+   "C160",
+   "C161",
+   "C162",
+   "C163",
+   "C164",
+   "C165",
+   "C166",
+   "C168",
+   "C169"
+  ],
+  "source_name": "PubMed PMC11075765 (Gastric-type adenocarcinoma of the uteri"
+ },
+ {
+  "code": "8482/3",
+  "term": "Mucinous carcinoma, gastric type",
+  "keyword": "gastric",
+  "subset": [
+   "C529",
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "subset_labels": [
+   "C529=Vagina, NOS",
+   "C530=Endocervix",
+   "C531=Exocervix",
+   "C538=Overlapping lesion of cervix uteri",
+   "C539=Cervix uteri"
+  ],
+  "expected_any_of": [
+   "C160",
+   "C161",
+   "C162",
+   "C163",
+   "C164",
+   "C165",
+   "C166",
+   "C168",
+   "C169"
+  ],
+  "source_name": "PubMed PMC11075765 (Gastric-type adenocarcinoma of the uteri"
+ },
+ {
+  "code": "8484/2",
+  "term": "Gastric-type adenocarcinoma in situ of cervix",
+  "keyword": "gastric",
+  "subset": [
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "subset_labels": [
+   "C530=Endocervix",
+   "C531=Exocervix",
+   "C538=Overlapping lesion of cervix uteri",
+   "C539=Cervix uteri"
+  ],
+  "expected_any_of": [
+   "C160",
+   "C161",
+   "C162",
+   "C163",
+   "C164",
+   "C165",
+   "C166",
+   "C168",
+   "C169"
+  ],
+  "source_name": "PubMed PMC13078056 (gastric-type AIS of cervix)"
+ },
+ {
+  "code": "9364/3",
+  "term": "Askin tumor",
+  "keyword": "skin",
+  "subset": [
+   "C493"
+  ],
+  "subset_labels": [
+   "C493=Connective/soft tissue of thorax"
+  ],
+  "expected_any_of": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "source_name": "PMC (Askin tumour, thoracopulmonary)"
+ },
+ {
+  "code": "8502/3",
+  "term": "Mammary analogue secretory carcinoma",
+  "keyword": "anal",
+  "subset": [
+   "C000",
+   "C001",
+   "C002",
+   "C003",
+   "C004",
+   "C005",
+   "C006",
+   "C008",
+   "C009",
+   "C019",
+   "C020",
+   "C021",
+   "C022",
+   "C023",
+   "C024",
+   "C028",
+   "C029",
+   "C040",
+   "C041",
+   "C048",
+   "C049",
+   "C050",
+   "C051",
+   "C052",
+   "C058",
+   "C059",
+   "C060",
+   "C061",
+   "C062",
+   "C068",
+   "C069",
+   "C079",
+   "C080",
+   "C081",
+   "C088",
+   "C089",
+   "C090",
+   "C091",
+   "C098",
+   "C099",
+   "C100",
+   "C101",
+   "C102",
+   "C103",
+   "C108",
+   "C109",
+   "C110",
+   "C111",
+   "C112",
+   "C113",
+   "C118",
+   "C119",
+   "C140",
+   "C142",
+   "C148"
+  ],
+  "subset_labels": [
+   "C000=External upper lip",
+   "C001=External lower lip",
+   "C002=External lip, NOS",
+   "C003=Mucosa of upper lip",
+   "C004=Mucosa of lower lip",
+   "C005=Mucosa of lip, NOS",
+   "C006=Commissure of lip",
+   "C008=Overlapping lesion of lip",
+   "C009=Lip, NOS",
+   "C019=Base of tongue, NOS",
+   "C020=Dorsal surface of tongue, NOS",
+   "C021=Border of tongue",
+   "C022=Ventral surface of tongue, NOS",
+   "C023=Anterior 2/3 of tongue, NOS",
+   "C024=Lingual tonsil",
+   "C028=Overlapping lesion of tongue",
+   "C029=Tongue, NOS",
+   "C040=Anterior floor of mouth",
+   "C041=Lateral floor of mouth",
+   "C048=Overlapping lesion of floor of mouth",
+   "C049=Floor of mouth, NOS",
+   "C050=Hard palate",
+   "C051=Soft palate, NOS",
+   "C052=Uvula",
+   "C058=Overlapping lesion of palate",
+   "C059=Palate, NOS",
+   "C060=Cheek mucosa",
+   "C061=Vestibule of mouth",
+   "C062=Retromolar area",
+   "C068=Overlapping lesion of other and unspecified parts of mouth",
+   "C069=Mouth, NOS",
+   "C079=Parotid gland",
+   "C080=Submandibular gland",
+   "C081=Sublingual gland",
+   "C088=Overlapping lesion of major salivary glands",
+   "C089=Major salivary gland, NOS",
+   "C090=Tonsillar fossa",
+   "C091=Tonsillar pillar",
+   "C098=Overlapping lesion of tonsil",
+   "C099=Tonsil, NOS",
+   "C100=Vallecula",
+   "C101=Anterior surface of epiglottis",
+   "C102=Lateral wall of oropharynx",
+   "C103=Posterior wall of oropharynx",
+   "C108=Overlapping lesion of oropharynx",
+   "C109=Oropharynx, NOS",
+   "C110=Superior wall of nasopharynx",
+   "C111=Posterior wall of nasopharynx",
+   "C112=Lateral wall of nasopharynx",
+   "C113=Anterior wall of nasopharynx",
+   "C118=Overlapping lesion of nasopharynx",
+   "C119=Nasopharynx, NOS",
+   "C140=Pharynx, NOS",
+   "C142=Waldeyer ring",
+   "C148=Overlapping lesion of lip, oral cavity and pharynx"
+  ],
+  "expected_any_of": [
+   "C210",
+   "C211",
+   "C212",
+   "C218"
+  ],
+  "source_name": "Rare Tumors - MASC of salivary glands"
+ },
+ {
+  "code": "8700/3",
+  "term": "Adrenal composite paraganglion tumor",
+  "keyword": "renal",
+  "subset": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "subset_labels": [
+   "C740=Cortex of adrenal gland",
+   "C741=Medulla of adrenal gland",
+   "C749=Adrenal gland, NOS"
+  ],
+  "expected_any_of": [
+   "C649",
+   "C659"
+  ],
+  "source_name": "Guilmette & Sadow, WHO 2017 Endocrine classification review "
+ },
+ {
+  "code": "8700/3",
+  "term": "Adrenal composite pheochromocytoma-paraganglioma",
+  "keyword": "renal",
+  "subset": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "subset_labels": [
+   "C740=Cortex of adrenal gland",
+   "C741=Medulla of adrenal gland",
+   "C749=Adrenal gland, NOS"
+  ],
+  "expected_any_of": [
+   "C649",
+   "C659"
+  ],
+  "source_name": "Tischler, WHO definition: pheochromocytoma = intra-adrenal s"
+ },
+ {
+  "code": "8700/3",
+  "term": "Adrenal medullary paraganglioma",
+  "keyword": "renal",
+  "subset": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "subset_labels": [
+   "C740=Cortex of adrenal gland",
+   "C741=Medulla of adrenal gland",
+   "C749=Adrenal gland, NOS"
+  ],
+  "expected_any_of": [
+   "C649",
+   "C659"
+  ],
+  "source_name": "Guilmette & Sadow, WHO 2017 Endocrine classification review "
+ },
+ {
+  "code": "8700/3",
+  "term": "Paraganglioma, adrenal sympathetic",
+  "keyword": "renal",
+  "subset": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "subset_labels": [
+   "C740=Cortex of adrenal gland",
+   "C741=Medulla of adrenal gland",
+   "C749=Adrenal gland, NOS"
+  ],
+  "expected_any_of": [
+   "C649",
+   "C659"
+  ],
+  "source_name": "Guilmette & Sadow, WHO 2017 Endocrine classification review "
+ },
+ {
+  "code": "8700/3",
+  "term": "Paraganglioma, adrenal, NOS",
+  "keyword": "renal",
+  "subset": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "subset_labels": [
+   "C740=Cortex of adrenal gland",
+   "C741=Medulla of adrenal gland",
+   "C749=Adrenal gland, NOS"
+  ],
+  "expected_any_of": [
+   "C649",
+   "C659"
+  ],
+  "source_name": "Guilmette & Sadow, WHO 2017 Endocrine classification review "
+ },
+ {
+  "code": "8700/3",
+  "term": "Paraganglioma, intra-adrenal",
+  "keyword": "renal",
+  "subset": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "subset_labels": [
+   "C740=Cortex of adrenal gland",
+   "C741=Medulla of adrenal gland",
+   "C749=Adrenal gland, NOS"
+  ],
+  "expected_any_of": [
+   "C649",
+   "C659"
+  ],
+  "source_name": "Guilmette & Sadow, WHO 2017 Endocrine classification review "
+ }
+]

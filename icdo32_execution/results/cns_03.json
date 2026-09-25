@@ -1,0 +1,452 @@
+[
+ {
+  "code": "9120/0",
+  "term": "Microvenular hemangioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic hemangioma-variant descriptor; these vascular lesions are not restricted to a proper subset of the code's CNS ceiling sites, and the cutaneous/soft-tissue variants (microvenular, papillary, spindle cell) have no literature confining them to specific CNS locations.",
+  "source": "https://en.wikipedia.org/wiki/Microvenular_hemangioma",
+  "source_name": "Microvenular hemangioma / spindle cell hemangioma literature (Wikipedia; PubMed PMID 36206448)"
+ },
+ {
+  "code": "9120/0",
+  "term": "Papillary hemangioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic hemangioma-variant descriptor; these vascular lesions are not restricted to a proper subset of the code's CNS ceiling sites, and the cutaneous/soft-tissue variants (microvenular, papillary, spindle cell) have no literature confining them to specific CNS locations.",
+  "source": "https://en.wikipedia.org/wiki/Microvenular_hemangioma",
+  "source_name": "Microvenular hemangioma / spindle cell hemangioma literature (Wikipedia; PubMed PMID 36206448)"
+ },
+ {
+  "code": "9120/0",
+  "term": "Perilobular hemangioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic hemangioma-variant descriptor; these vascular lesions are not restricted to a proper subset of the code's CNS ceiling sites, and the cutaneous/soft-tissue variants (microvenular, papillary, spindle cell) have no literature confining them to specific CNS locations.",
+  "source": "https://en.wikipedia.org/wiki/Microvenular_hemangioma",
+  "source_name": "Microvenular hemangioma / spindle cell hemangioma literature (Wikipedia; PubMed PMID 36206448)"
+ },
+ {
+  "code": "9120/0",
+  "term": "Poikilodermatous plaque-like hemangioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic hemangioma-variant descriptor; these vascular lesions are not restricted to a proper subset of the code's CNS ceiling sites, and the cutaneous/soft-tissue variants (microvenular, papillary, spindle cell) have no literature confining them to specific CNS locations.",
+  "source": "https://en.wikipedia.org/wiki/Microvenular_hemangioma",
+  "source_name": "Microvenular hemangioma / spindle cell hemangioma literature (Wikipedia; PubMed PMID 36206448)"
+ },
+ {
+  "code": "9120/0",
+  "term": "Sinusoidal hemangioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic hemangioma-variant descriptor; these vascular lesions are not restricted to a proper subset of the code's CNS ceiling sites, and the cutaneous/soft-tissue variants (microvenular, papillary, spindle cell) have no literature confining them to specific CNS locations.",
+  "source": "https://en.wikipedia.org/wiki/Microvenular_hemangioma",
+  "source_name": "Microvenular hemangioma / spindle cell hemangioma literature (Wikipedia; PubMed PMID 36206448)"
+ },
+ {
+  "code": "9120/0",
+  "term": "Sinusoidal venous malformation",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic hemangioma-variant descriptor; these vascular lesions are not restricted to a proper subset of the code's CNS ceiling sites, and the cutaneous/soft-tissue variants (microvenular, papillary, spindle cell) have no literature confining them to specific CNS locations.",
+  "source": "https://en.wikipedia.org/wiki/Microvenular_hemangioma",
+  "source_name": "Microvenular hemangioma / spindle cell hemangioma literature (Wikipedia; PubMed PMID 36206448)"
+ },
+ {
+  "code": "9120/0",
+  "term": "Spindle cell hemangioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic hemangioma-variant descriptor; these vascular lesions are not restricted to a proper subset of the code's CNS ceiling sites, and the cutaneous/soft-tissue variants (microvenular, papillary, spindle cell) have no literature confining them to specific CNS locations.",
+  "source": "https://en.wikipedia.org/wiki/Microvenular_hemangioma",
+  "source_name": "Microvenular hemangioma / spindle cell hemangioma literature (Wikipedia; PubMed PMID 36206448)"
+ },
+ {
+  "code": "9120/0",
+  "term": "Synovial hemangioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic hemangioma-variant descriptor; these vascular lesions are not restricted to a proper subset of the code's CNS ceiling sites, and the cutaneous/soft-tissue variants (microvenular, papillary, spindle cell) have no literature confining them to specific CNS locations.",
+  "source": "https://en.wikipedia.org/wiki/Microvenular_hemangioma",
+  "source_name": "Microvenular hemangioma / spindle cell hemangioma literature (Wikipedia; PubMed PMID 36206448)"
+ },
+ {
+  "code": "9121/0",
+  "term": "Cavernoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Cavernous malformation/cavernoma occurs throughout the CNS (cerebral hemispheres, brainstem, cerebellum, basal ganglia, and spinal cord/meninges), not confined to a proper subset of the ceiling sites.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK538144/",
+  "source_name": "StatPearls: Cerebral Cavernous Malformations"
+ },
+ {
+  "code": "9121/0",
+  "term": "Cavernous angioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Cavernous malformation/cavernoma occurs throughout the CNS (cerebral hemispheres, brainstem, cerebellum, basal ganglia, and spinal cord/meninges), not confined to a proper subset of the ceiling sites.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK538144/",
+  "source_name": "StatPearls: Cerebral Cavernous Malformations"
+ },
+ {
+  "code": "9121/0",
+  "term": "Cavernous hemangioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Cavernous malformation/cavernoma occurs throughout the CNS (cerebral hemispheres, brainstem, cerebellum, basal ganglia, and spinal cord/meninges), not confined to a proper subset of the ceiling sites.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK538144/",
+  "source_name": "StatPearls: Cerebral Cavernous Malformations"
+ },
+ {
+  "code": "9121/0",
+  "term": "Cavernous malformation",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Cavernous malformation/cavernoma occurs throughout the CNS (cerebral hemispheres, brainstem, cerebellum, basal ganglia, and spinal cord/meninges), not confined to a proper subset of the ceiling sites.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK538144/",
+  "source_name": "StatPearls: Cerebral Cavernous Malformations"
+ },
+ {
+  "code": "9121/0",
+  "term": "Cavernous vascular malformation",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Cavernous malformation/cavernoma occurs throughout the CNS (cerebral hemispheres, brainstem, cerebellum, basal ganglia, and spinal cord/meninges), not confined to a proper subset of the ceiling sites.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK538144/",
+  "source_name": "StatPearls: Cerebral Cavernous Malformations"
+ },
+ {
+  "code": "9122/0",
+  "term": "Venous hemangioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Venous hemangioma/malformation is a generic vascular descriptor occurring throughout CNS parenchyma and meninges, not restricted to a proper subset of the ceiling sites.",
+  "source": "https://www.ahajournals.org/doi/10.1161/strokeaha.117.017074",
+  "source_name": "Stroke: Cranial Cavernous Malformations (venous vascular malformations of brain and spinal cord)"
+ },
+ {
+  "code": "9122/0",
+  "term": "Venous malformation",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Venous hemangioma/malformation is a generic vascular descriptor occurring throughout CNS parenchyma and meninges, not restricted to a proper subset of the ceiling sites.",
+  "source": "https://www.ahajournals.org/doi/10.1161/strokeaha.117.017074",
+  "source_name": "Stroke: Cranial Cavernous Malformations (venous vascular malformations of brain and spinal cord)"
+ },
+ {
+  "code": "9123/0",
+  "term": "Angiodysplasia",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Arteriovenous malformations occur throughout the CNS (cerebral cortex, brainstem, cerebellum, spinal cord and meninges); the syndromic/cutaneous/deep-seated qualifiers do not confine the entity to a proper subset of the CNS ceiling sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/30285374/",
+  "source_name": "PubMed/StatPearls: Arteriovenous Malformations of the Central Nervous System"
+ },
+ {
+  "code": "9123/0",
+  "term": "Angiomatosis (involving multiple tissue planes)",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Arteriovenous malformations occur throughout the CNS (cerebral cortex, brainstem, cerebellum, spinal cord and meninges); the syndromic/cutaneous/deep-seated qualifiers do not confine the entity to a proper subset of the CNS ceiling sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/30285374/",
+  "source_name": "PubMed/StatPearls: Arteriovenous Malformations of the Central Nervous System"
+ },
+ {
+  "code": "9123/0",
+  "term": "Arteriovenous hemangioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Arteriovenous malformations occur throughout the CNS (cerebral cortex, brainstem, cerebellum, spinal cord and meninges); the syndromic/cutaneous/deep-seated qualifiers do not confine the entity to a proper subset of the CNS ceiling sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/30285374/",
+  "source_name": "PubMed/StatPearls: Arteriovenous Malformations of the Central Nervous System"
+ },
+ {
+  "code": "9123/0",
+  "term": "Arteriovenous malformation",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Arteriovenous malformations occur throughout the CNS (cerebral cortex, brainstem, cerebellum, spinal cord and meninges); the syndromic/cutaneous/deep-seated qualifiers do not confine the entity to a proper subset of the CNS ceiling sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/30285374/",
+  "source_name": "PubMed/StatPearls: Arteriovenous Malformations of the Central Nervous System"
+ },
+ {
+  "code": "9123/0",
+  "term": "Arteriovenous malformation occurring in Parkes Weber syndrome",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Arteriovenous malformations occur throughout the CNS (cerebral cortex, brainstem, cerebellum, spinal cord and meninges); the syndromic/cutaneous/deep-seated qualifiers do not confine the entity to a proper subset of the CNS ceiling sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/30285374/",
+  "source_name": "PubMed/StatPearls: Arteriovenous Malformations of the Central Nervous System"
+ },
+ {
+  "code": "9123/0",
+  "term": "Arteriovenous malformation occurring in capillary malformation\u2013arteriovenous malformation",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Arteriovenous malformations occur throughout the CNS (cerebral cortex, brainstem, cerebellum, spinal cord and meninges); the syndromic/cutaneous/deep-seated qualifiers do not confine the entity to a proper subset of the CNS ceiling sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/30285374/",
+  "source_name": "PubMed/StatPearls: Arteriovenous Malformations of the Central Nervous System"
+ },
+ {
+  "code": "9123/0",
+  "term": "Arteriovenous malformation occurring in hereditary hemorrhagic telangiectasia",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Arteriovenous malformations occur throughout the CNS (cerebral cortex, brainstem, cerebellum, spinal cord and meninges); the syndromic/cutaneous/deep-seated qualifiers do not confine the entity to a proper subset of the CNS ceiling sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/30285374/",
+  "source_name": "PubMed/StatPearls: Arteriovenous Malformations of the Central Nervous System"
+ },
+ {
+  "code": "9123/0",
+  "term": "Arteriovenous malformation, cutaneous",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Arteriovenous malformations occur throughout the CNS (cerebral cortex, brainstem, cerebellum, spinal cord and meninges); the syndromic/cutaneous/deep-seated qualifiers do not confine the entity to a proper subset of the CNS ceiling sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/30285374/",
+  "source_name": "PubMed/StatPearls: Arteriovenous Malformations of the Central Nervous System"
+ },
+ {
+  "code": "9123/0",
+  "term": "Arteriovenous malformation, deep-seated",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Arteriovenous malformations occur throughout the CNS (cerebral cortex, brainstem, cerebellum, spinal cord and meninges); the syndromic/cutaneous/deep-seated qualifiers do not confine the entity to a proper subset of the CNS ceiling sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/30285374/",
+  "source_name": "PubMed/StatPearls: Arteriovenous Malformations of the Central Nervous System"
+ },
+ {
+  "code": "9123/0",
+  "term": "Arteriovenous malformation/hemangioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Arteriovenous malformations occur throughout the CNS (cerebral cortex, brainstem, cerebellum, spinal cord and meninges); the syndromic/cutaneous/deep-seated qualifiers do not confine the entity to a proper subset of the CNS ceiling sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/30285374/",
+  "source_name": "PubMed/StatPearls: Arteriovenous Malformations of the Central Nervous System"
+ },
+ {
+  "code": "9123/0",
+  "term": "Cutaneous AVM/H",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Arteriovenous malformations occur throughout the CNS (cerebral cortex, brainstem, cerebellum, spinal cord and meninges); the syndromic/cutaneous/deep-seated qualifiers do not confine the entity to a proper subset of the CNS ceiling sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/30285374/",
+  "source_name": "PubMed/StatPearls: Arteriovenous Malformations of the Central Nervous System"
+ },
+ {
+  "code": "9123/0",
+  "term": "Cutaneous arteriovenous malformation",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Arteriovenous malformations occur throughout the CNS (cerebral cortex, brainstem, cerebellum, spinal cord and meninges); the syndromic/cutaneous/deep-seated qualifiers do not confine the entity to a proper subset of the CNS ceiling sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/30285374/",
+  "source_name": "PubMed/StatPearls: Arteriovenous Malformations of the Central Nervous System"
+ },
+ {
+  "code": "9123/0",
+  "term": "Deep-seated AVM/H",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Arteriovenous malformations occur throughout the CNS (cerebral cortex, brainstem, cerebellum, spinal cord and meninges); the syndromic/cutaneous/deep-seated qualifiers do not confine the entity to a proper subset of the CNS ceiling sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/30285374/",
+  "source_name": "PubMed/StatPearls: Arteriovenous Malformations of the Central Nervous System"
+ },
+ {
+  "code": "9123/0",
+  "term": "Deep-seated arteriovenous malformation",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Arteriovenous malformations occur throughout the CNS (cerebral cortex, brainstem, cerebellum, spinal cord and meninges); the syndromic/cutaneous/deep-seated qualifiers do not confine the entity to a proper subset of the CNS ceiling sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/30285374/",
+  "source_name": "PubMed/StatPearls: Arteriovenous Malformations of the Central Nervous System"
+ },
+ {
+  "code": "9123/0",
+  "term": "Racemose hemangioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Arteriovenous malformations occur throughout the CNS (cerebral cortex, brainstem, cerebellum, spinal cord and meninges); the syndromic/cutaneous/deep-seated qualifiers do not confine the entity to a proper subset of the CNS ceiling sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/30285374/",
+  "source_name": "PubMed/StatPearls: Arteriovenous Malformations of the Central Nervous System"
+ },
+ {
+  "code": "9123/0",
+  "term": "Sporadic arteriovenous malformation",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Arteriovenous malformations occur throughout the CNS (cerebral cortex, brainstem, cerebellum, spinal cord and meninges); the syndromic/cutaneous/deep-seated qualifiers do not confine the entity to a proper subset of the CNS ceiling sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/30285374/",
+  "source_name": "PubMed/StatPearls: Arteriovenous Malformations of the Central Nervous System"
+ },
+ {
+  "code": "9131/0",
+  "term": "Capillary hemangioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Capillary/infantile/congenital hemangioma is a generic vascular lesion; within its CNS ceiling it is reported in both brain and spinal cord and is not restricted to a proper subset of the ceiling sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/15255254/",
+  "source_name": "PubMed PMID 15255254: Capillary hemangioma of the central nervous system"
+ },
+ {
+  "code": "9131/0",
+  "term": "Congenital hemangioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Capillary/infantile/congenital hemangioma is a generic vascular lesion; within its CNS ceiling it is reported in both brain and spinal cord and is not restricted to a proper subset of the ceiling sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/15255254/",
+  "source_name": "PubMed PMID 15255254: Capillary hemangioma of the central nervous system"
+ },
+ {
+  "code": "9131/0",
+  "term": "Congenital hemangioma, non-involuting",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Capillary/infantile/congenital hemangioma is a generic vascular lesion; within its CNS ceiling it is reported in both brain and spinal cord and is not restricted to a proper subset of the ceiling sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/15255254/",
+  "source_name": "PubMed PMID 15255254: Capillary hemangioma of the central nervous system"
+ },
+ {
+  "code": "9131/0",
+  "term": "Congenital hemangioma, partially involuting",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Capillary/infantile/congenital hemangioma is a generic vascular lesion; within its CNS ceiling it is reported in both brain and spinal cord and is not restricted to a proper subset of the ceiling sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/15255254/",
+  "source_name": "PubMed PMID 15255254: Capillary hemangioma of the central nervous system"
+ },
+ {
+  "code": "9131/0",
+  "term": "Congenital hemangioma, rapidly involuting, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Capillary/infantile/congenital hemangioma is a generic vascular lesion; within its CNS ceiling it is reported in both brain and spinal cord and is not restricted to a proper subset of the ceiling sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/15255254/",
+  "source_name": "PubMed PMID 15255254: Capillary hemangioma of the central nervous system"
+ },
+ {
+  "code": "9131/0",
+  "term": "Diffuse infantile hemangioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Capillary/infantile/congenital hemangioma is a generic vascular lesion; within its CNS ceiling it is reported in both brain and spinal cord and is not restricted to a proper subset of the ceiling sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/15255254/",
+  "source_name": "PubMed PMID 15255254: Capillary hemangioma of the central nervous system"
+ },
+ {
+  "code": "9131/0",
+  "term": "Disseminated lobular capillary hemangioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Capillary/infantile/congenital hemangioma is a generic vascular lesion; within its CNS ceiling it is reported in both brain and spinal cord and is not restricted to a proper subset of the ceiling sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/15255254/",
+  "source_name": "PubMed PMID 15255254: Capillary hemangioma of the central nervous system"
+ },
+ {
+  "code": "9131/0",
+  "term": "Hemangioma simplex",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Capillary/infantile/congenital hemangioma is a generic vascular lesion; within its CNS ceiling it is reported in both brain and spinal cord and is not restricted to a proper subset of the ceiling sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/15255254/",
+  "source_name": "PubMed PMID 15255254: Capillary hemangioma of the central nervous system"
+ },
+ {
+  "code": "9131/0",
+  "term": "Hepatic congenital hemangioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Capillary/infantile/congenital hemangioma is a generic vascular lesion; within its CNS ceiling it is reported in both brain and spinal cord and is not restricted to a proper subset of the ceiling sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/15255254/",
+  "source_name": "PubMed PMID 15255254: Capillary hemangioma of the central nervous system"
+ },
+ {
+  "code": "9131/0",
+  "term": "Hepatic infantile hemangioendothelioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Capillary/infantile/congenital hemangioma is a generic vascular lesion; within its CNS ceiling it is reported in both brain and spinal cord and is not restricted to a proper subset of the ceiling sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/15255254/",
+  "source_name": "PubMed PMID 15255254: Capillary hemangioma of the central nervous system"
+ },
+ {
+  "code": "9131/0",
+  "term": "Hepatic infantile hemangioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Capillary/infantile/congenital hemangioma is a generic vascular lesion; within its CNS ceiling it is reported in both brain and spinal cord and is not restricted to a proper subset of the ceiling sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/15255254/",
+  "source_name": "PubMed PMID 15255254: Capillary hemangioma of the central nervous system"
+ },
+ {
+  "code": "9131/0",
+  "term": "Infantile hemangioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Capillary/infantile/congenital hemangioma is a generic vascular lesion; within its CNS ceiling it is reported in both brain and spinal cord and is not restricted to a proper subset of the ceiling sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/15255254/",
+  "source_name": "PubMed PMID 15255254: Capillary hemangioma of the central nervous system"
+ },
+ {
+  "code": "9131/0",
+  "term": "Intravascular lobular capillary hemangioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Capillary/infantile/congenital hemangioma is a generic vascular lesion; within its CNS ceiling it is reported in both brain and spinal cord and is not restricted to a proper subset of the ceiling sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/15255254/",
+  "source_name": "PubMed PMID 15255254: Capillary hemangioma of the central nervous system"
+ },
+ {
+  "code": "9131/0",
+  "term": "Juvenile hemangioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Capillary/infantile/congenital hemangioma is a generic vascular lesion; within its CNS ceiling it is reported in both brain and spinal cord and is not restricted to a proper subset of the ceiling sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/15255254/",
+  "source_name": "PubMed PMID 15255254: Capillary hemangioma of the central nervous system"
+ }
+]

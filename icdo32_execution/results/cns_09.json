@@ -1,0 +1,498 @@
+[
+  {
+    "code": "9508/3",
+    "term": "Atypical teratoid/rhabdoid tumor TYR",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "AT/RT and CNS embryonal tumors with rhabdoid features arise anywhere along the neuraxis (supratentorial, infratentorial/cerebellum, brainstem, spinal cord and meninges); not restricted to a proper subset of the ceiling.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12785001/",
+    "source_name": "Histogenesis of ATRT, Cancers 2025 (PMC12785001)"
+  },
+  {
+    "code": "9508/3",
+    "term": "CNS Embryonal tumor with rhabdoid features",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "AT/RT and CNS embryonal tumors with rhabdoid features arise anywhere along the neuraxis (supratentorial, infratentorial/cerebellum, brainstem, spinal cord and meninges); not restricted to a proper subset of the ceiling.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12785001/",
+    "source_name": "Histogenesis of ATRT, Cancers 2025 (PMC12785001)"
+  },
+  {
+    "code": "9508/3",
+    "term": "Embryonal tumor with rhabdoid features",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "AT/RT and CNS embryonal tumors with rhabdoid features arise anywhere along the neuraxis (supratentorial, infratentorial/cerebellum, brainstem, spinal cord and meninges); not restricted to a proper subset of the ceiling.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12785001/",
+    "source_name": "Histogenesis of ATRT, Cancers 2025 (PMC12785001)"
+  },
+  {
+    "code": "9509/0",
+    "term": "Multinodular and vacuolating neuronal tumor",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C710",
+      "C711",
+      "C712",
+      "C713",
+      "C714"
+    ],
+    "site_subset_labels": [
+      "Cerebrum",
+      "Frontal lobe",
+      "Temporal lobe",
+      "Parietal lobe",
+      "Occipital lobe"
+    ],
+    "rationale": "MVNT is a tumor of the cerebral hemispheres (temporal, parietal, frontal, occipital lobes; rare deep supratentorial sites); it is not reported in the spinal cord or cauda equina, a proper subset of the code ceiling which also includes C720/C721.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11817111/",
+    "source_name": "Calandrelli et al., Diagnostics 2025 (PMC11817111)"
+  },
+  {
+    "code": "9509/1",
+    "term": "Glioneuronal tumor, NOS",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A generic (NOS) glioneuronal descriptor without a specific anatomic restriction; occurs across the CNS sites of the ceiling.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477988/",
+    "source_name": "Yarabarla et al., Front Oncol 2023 \u2014 WHO 2021 intracranial meningiomas update (PMC10477988)"
+  },
+  {
+    "code": "9509/1",
+    "term": "Myxoid glioneuronal tumor",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C710",
+      "C711",
+      "C712",
+      "C713",
+      "C714",
+      "C718"
+    ],
+    "site_subset_labels": [
+      "Cerebrum",
+      "Frontal lobe",
+      "Temporal lobe",
+      "Parietal lobe",
+      "Occipital lobe",
+      "Overlapping lesion of brain"
+    ],
+    "rationale": "Myxoid glioneuronal tumor has a predilection for the septum pellucidum, corpus callosum and periventricular white matter of the lateral ventricle \u2014 all supratentorial cerebral structures; not reported in the spinal cord or cauda equina, a proper subset of the ceiling.",
+    "source": "https://pubmed.ncbi.nlm.nih.gov/31609499/",
+    "source_name": "Lucas et al., myxoid glioneuronal tumor PDGFRA (PMID 31609499)"
+  },
+  {
+    "code": "9509/1",
+    "term": "Papillary glioneuronal tumor",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C710",
+      "C711",
+      "C712",
+      "C713",
+      "C714",
+      "C718"
+    ],
+    "site_subset_labels": [
+      "Cerebrum",
+      "Frontal lobe",
+      "Temporal lobe",
+      "Parietal lobe",
+      "Occipital lobe",
+      "Overlapping lesion of brain"
+    ],
+    "rationale": "Papillary glioneuronal tumor is supratentorial in ~97% of cases (cerebral hemispheres, periventricular white matter), with only rare brainstem cases and no spinal cord involvement reported; a proper subset of the ceiling excluding C720/C721.",
+    "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11035433/",
+    "source_name": "Du et al., imaging of PGNT (PMC11035433)"
+  },
+  {
+    "code": "9509/1",
+    "term": "Rosette-forming glioneuronal tumor",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Although classically a fourth-ventricle/cerebellar tumor, RGNT is reported across the neuraxis including brainstem, pineal region, optic chiasm, ventricles and spinal cord; it spans essentially the full ceiling.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8369514/",
+    "source_name": "Clinical Case Reports 2021 \u2014 RGNT of fourth ventricle (PMC8369514)"
+  },
+  {
+    "code": "9509/3",
+    "term": "Diffuse leptomeningeal glioneuronal tumor",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "DLGNT is defined by diffuse leptomeningeal spread over both the brain surface and the spinal cord, with common intraparenchymal spinal lesions; it involves the whole neuraxis, not a proper subset of the ceiling.",
+    "source": "https://radiopaedia.org/articles/diffuse-leptomeningeal-glioneuronal-tumour?lang=us",
+    "source_name": "Radiopaedia \u2014 diffuse leptomeningeal glioneuronal tumour"
+  },
+  {
+    "code": "9509/3",
+    "term": "Diffuse leptomeningeal glioneuronal tumor with 1q gain",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "DLGNT is defined by diffuse leptomeningeal spread over both the brain surface and the spinal cord, with common intraparenchymal spinal lesions; it involves the whole neuraxis, not a proper subset of the ceiling.",
+    "source": "https://radiopaedia.org/articles/diffuse-leptomeningeal-glioneuronal-tumour?lang=us",
+    "source_name": "Radiopaedia \u2014 diffuse leptomeningeal glioneuronal tumour"
+  },
+  {
+    "code": "9509/3",
+    "term": "Diffuse leptomeningeal glioneuronal tumor, methylation class 1 (DLGNT-MC-1)",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "DLGNT is defined by diffuse leptomeningeal spread over both the brain surface and the spinal cord, with common intraparenchymal spinal lesions; it involves the whole neuraxis, not a proper subset of the ceiling.",
+    "source": "https://radiopaedia.org/articles/diffuse-leptomeningeal-glioneuronal-tumour?lang=us",
+    "source_name": "Radiopaedia \u2014 diffuse leptomeningeal glioneuronal tumour"
+  },
+  {
+    "code": "9509/3",
+    "term": "Diffuse leptomeningeal glioneuronal tumor, methylation class 2 (DLGNT-MC-2)",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "DLGNT is defined by diffuse leptomeningeal spread over both the brain surface and the spinal cord, with common intraparenchymal spinal lesions; it involves the whole neuraxis, not a proper subset of the ceiling.",
+    "source": "https://radiopaedia.org/articles/diffuse-leptomeningeal-glioneuronal-tumour?lang=us",
+    "source_name": "Radiopaedia \u2014 diffuse leptomeningeal glioneuronal tumour"
+  },
+  {
+    "code": "9530/0",
+    "term": "Calvarial meningioma",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C700",
+      "C709"
+    ],
+    "site_subset_labels": [
+      "Cerebral meninges",
+      "Meninges, NOS"
+    ],
+    "rationale": "Calvarial (primary intraosseous) meningioma arises from and within the calvarial skull bone (most often frontal bone), a cranial location; not a spinal-meninges entity, so it maps to a cranial-meninges proper subset of the ceiling.",
+    "source": "https://pubmed.ncbi.nlm.nih.gov/33069929/",
+    "source_name": "Omofoye et al., primary intraosseous meningioma of the calvarium: systematic review (PMID 33069929)"
+  },
+  {
+    "code": "9530/0",
+    "term": "Ectopic meningioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A generic location descriptor for meningiomas occurring outside the neuraxis at many sites (head and neck, orbit, sinonasal, skin, paraspinal soft tissue, mediastinum, lung); not restricted to a single cranial-vs-spinal meningeal subset.",
+    "source": "https://www.intechopen.com/chapters/78780",
+    "source_name": "IntechOpen \u2014 Meninges Outside the Meninges: Ectopic Meningiomas"
+  },
+  {
+    "code": "9530/0",
+    "term": "Extracranial/extraspinal meningioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A generic location descriptor for meningiomas occurring outside the neuraxis at many sites (head and neck, orbit, sinonasal, skin, paraspinal soft tissue, mediastinum, lung); not restricted to a single cranial-vs-spinal meningeal subset.",
+    "source": "https://www.intechopen.com/chapters/78780",
+    "source_name": "IntechOpen \u2014 Meninges Outside the Meninges: Ectopic Meningiomas"
+  },
+  {
+    "code": "9530/0",
+    "term": "Extradural meningioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A generic location descriptor for meningiomas occurring outside the neuraxis at many sites (head and neck, orbit, sinonasal, skin, paraspinal soft tissue, mediastinum, lung); not restricted to a single cranial-vs-spinal meningeal subset.",
+    "source": "https://www.intechopen.com/chapters/78780",
+    "source_name": "IntechOpen \u2014 Meninges Outside the Meninges: Ectopic Meningiomas"
+  },
+  {
+    "code": "9530/0",
+    "term": "Extraneuraxial meningioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A generic location descriptor for meningiomas occurring outside the neuraxis at many sites (head and neck, orbit, sinonasal, skin, paraspinal soft tissue, mediastinum, lung); not restricted to a single cranial-vs-spinal meningeal subset.",
+    "source": "https://www.intechopen.com/chapters/78780",
+    "source_name": "IntechOpen \u2014 Meninges Outside the Meninges: Ectopic Meningiomas"
+  },
+  {
+    "code": "9530/0",
+    "term": "Heterotopic meningioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A generic location descriptor for meningiomas occurring outside the neuraxis at many sites (head and neck, orbit, sinonasal, skin, paraspinal soft tissue, mediastinum, lung); not restricted to a single cranial-vs-spinal meningeal subset.",
+    "source": "https://www.intechopen.com/chapters/78780",
+    "source_name": "IntechOpen \u2014 Meninges Outside the Meninges: Ectopic Meningiomas"
+  },
+  {
+    "code": "9530/0",
+    "term": "Intraosseous meningioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Intraosseous meningioma arises within bone at both the calvaria and (rarely) the vertebral column, so it is not confined to a cranial-only meningeal subset of the ceiling.",
+    "source": "https://www.intechopen.com/chapters/78780",
+    "source_name": "IntechOpen \u2014 Meninges Outside the Meninges: Ectopic Meningiomas"
+  },
+  {
+    "code": "9530/0",
+    "term": "Lymphoplasmacyte-rich meningioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A histologic/grade descriptor of meningioma; per the WHO 2021 classification meningioma subtypes arise along meningeal surfaces of both the calvarium and spinal canal and are not restricted to cranial or spinal sites.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477988/",
+    "source_name": "Yarabarla et al., Front Oncol 2023 \u2014 WHO 2021 intracranial meningiomas update (PMC10477988)"
+  },
+  {
+    "code": "9530/0",
+    "term": "Meningioma, NOS",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A histologic/grade descriptor of meningioma; per the WHO 2021 classification meningioma subtypes arise along meningeal surfaces of both the calvarium and spinal canal and are not restricted to cranial or spinal sites.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477988/",
+    "source_name": "Yarabarla et al., Front Oncol 2023 \u2014 WHO 2021 intracranial meningiomas update (PMC10477988)"
+  },
+  {
+    "code": "9530/0",
+    "term": "Metaplastic meningioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A histologic/grade descriptor of meningioma; per the WHO 2021 classification meningioma subtypes arise along meningeal surfaces of both the calvarium and spinal canal and are not restricted to cranial or spinal sites.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477988/",
+    "source_name": "Yarabarla et al., Front Oncol 2023 \u2014 WHO 2021 intracranial meningiomas update (PMC10477988)"
+  },
+  {
+    "code": "9530/0",
+    "term": "Microcystic meningioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A histologic/grade descriptor of meningioma; per the WHO 2021 classification meningioma subtypes arise along meningeal surfaces of both the calvarium and spinal canal and are not restricted to cranial or spinal sites.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477988/",
+    "source_name": "Yarabarla et al., Front Oncol 2023 \u2014 WHO 2021 intracranial meningiomas update (PMC10477988)"
+  },
+  {
+    "code": "9530/0",
+    "term": "Secretory meningioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A histologic/grade descriptor of meningioma; per the WHO 2021 classification meningioma subtypes arise along meningeal surfaces of both the calvarium and spinal canal and are not restricted to cranial or spinal sites.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477988/",
+    "source_name": "Yarabarla et al., Front Oncol 2023 \u2014 WHO 2021 intracranial meningiomas update (PMC10477988)"
+  },
+  {
+    "code": "9530/1",
+    "term": "Diffuse meningiomatosis",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A histologic/grade descriptor of meningioma; per the WHO 2021 classification meningioma subtypes arise along meningeal surfaces of both the calvarium and spinal canal and are not restricted to cranial or spinal sites.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477988/",
+    "source_name": "Yarabarla et al., Front Oncol 2023 \u2014 WHO 2021 intracranial meningiomas update (PMC10477988)"
+  },
+  {
+    "code": "9530/1",
+    "term": "Meningiomatosis, NOS",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A histologic/grade descriptor of meningioma; per the WHO 2021 classification meningioma subtypes arise along meningeal surfaces of both the calvarium and spinal canal and are not restricted to cranial or spinal sites.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477988/",
+    "source_name": "Yarabarla et al., Front Oncol 2023 \u2014 WHO 2021 intracranial meningiomas update (PMC10477988)"
+  },
+  {
+    "code": "9530/1",
+    "term": "Multiple meningiomas",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A histologic/grade descriptor of meningioma; per the WHO 2021 classification meningioma subtypes arise along meningeal surfaces of both the calvarium and spinal canal and are not restricted to cranial or spinal sites.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477988/",
+    "source_name": "Yarabarla et al., Front Oncol 2023 \u2014 WHO 2021 intracranial meningiomas update (PMC10477988)"
+  },
+  {
+    "code": "9530/3",
+    "term": "Anaplastic (malignant) meningioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A histologic/grade descriptor of meningioma; per the WHO 2021 classification meningioma subtypes arise along meningeal surfaces of both the calvarium and spinal canal and are not restricted to cranial or spinal sites.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477988/",
+    "source_name": "Yarabarla et al., Front Oncol 2023 \u2014 WHO 2021 intracranial meningiomas update (PMC10477988)"
+  },
+  {
+    "code": "9530/3",
+    "term": "Leptomeningeal sarcoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A histologic/grade descriptor of meningioma; per the WHO 2021 classification meningioma subtypes arise along meningeal surfaces of both the calvarium and spinal canal and are not restricted to cranial or spinal sites.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477988/",
+    "source_name": "Yarabarla et al., Front Oncol 2023 \u2014 WHO 2021 intracranial meningiomas update (PMC10477988)"
+  },
+  {
+    "code": "9530/3",
+    "term": "Meningeal sarcoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A histologic/grade descriptor of meningioma; per the WHO 2021 classification meningioma subtypes arise along meningeal surfaces of both the calvarium and spinal canal and are not restricted to cranial or spinal sites.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477988/",
+    "source_name": "Yarabarla et al., Front Oncol 2023 \u2014 WHO 2021 intracranial meningiomas update (PMC10477988)"
+  },
+  {
+    "code": "9530/3",
+    "term": "Meningioma, anaplastic",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A histologic/grade descriptor of meningioma; per the WHO 2021 classification meningioma subtypes arise along meningeal surfaces of both the calvarium and spinal canal and are not restricted to cranial or spinal sites.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477988/",
+    "source_name": "Yarabarla et al., Front Oncol 2023 \u2014 WHO 2021 intracranial meningiomas update (PMC10477988)"
+  },
+  {
+    "code": "9530/3",
+    "term": "Meningioma, grade 3",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A histologic/grade descriptor of meningioma; per the WHO 2021 classification meningioma subtypes arise along meningeal surfaces of both the calvarium and spinal canal and are not restricted to cranial or spinal sites.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477988/",
+    "source_name": "Yarabarla et al., Front Oncol 2023 \u2014 WHO 2021 intracranial meningiomas update (PMC10477988)"
+  },
+  {
+    "code": "9530/3",
+    "term": "Meningioma, malignant",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A histologic/grade descriptor of meningioma; per the WHO 2021 classification meningioma subtypes arise along meningeal surfaces of both the calvarium and spinal canal and are not restricted to cranial or spinal sites.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477988/",
+    "source_name": "Yarabarla et al., Front Oncol 2023 \u2014 WHO 2021 intracranial meningiomas update (PMC10477988)"
+  },
+  {
+    "code": "9530/3",
+    "term": "Meningothelial sarcoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A histologic/grade descriptor of meningioma; per the WHO 2021 classification meningioma subtypes arise along meningeal surfaces of both the calvarium and spinal canal and are not restricted to cranial or spinal sites.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477988/",
+    "source_name": "Yarabarla et al., Front Oncol 2023 \u2014 WHO 2021 intracranial meningiomas update (PMC10477988)"
+  },
+  {
+    "code": "9531/0",
+    "term": "Endotheliomatous meningioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A histologic/grade descriptor of meningioma; per the WHO 2021 classification meningioma subtypes arise along meningeal surfaces of both the calvarium and spinal canal and are not restricted to cranial or spinal sites.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477988/",
+    "source_name": "Yarabarla et al., Front Oncol 2023 \u2014 WHO 2021 intracranial meningiomas update (PMC10477988)"
+  },
+  {
+    "code": "9531/0",
+    "term": "Meningothelial meningioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A histologic/grade descriptor of meningioma; per the WHO 2021 classification meningioma subtypes arise along meningeal surfaces of both the calvarium and spinal canal and are not restricted to cranial or spinal sites.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477988/",
+    "source_name": "Yarabarla et al., Front Oncol 2023 \u2014 WHO 2021 intracranial meningiomas update (PMC10477988)"
+  },
+  {
+    "code": "9531/0",
+    "term": "Syncytial meningioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A histologic/grade descriptor of meningioma; per the WHO 2021 classification meningioma subtypes arise along meningeal surfaces of both the calvarium and spinal canal and are not restricted to cranial or spinal sites.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477988/",
+    "source_name": "Yarabarla et al., Front Oncol 2023 \u2014 WHO 2021 intracranial meningiomas update (PMC10477988)"
+  },
+  {
+    "code": "9532/0",
+    "term": "Fibroblastic meningioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A histologic/grade descriptor of meningioma; per the WHO 2021 classification meningioma subtypes arise along meningeal surfaces of both the calvarium and spinal canal and are not restricted to cranial or spinal sites.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477988/",
+    "source_name": "Yarabarla et al., Front Oncol 2023 \u2014 WHO 2021 intracranial meningiomas update (PMC10477988)"
+  },
+  {
+    "code": "9532/0",
+    "term": "Fibrous meningioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A histologic/grade descriptor of meningioma; per the WHO 2021 classification meningioma subtypes arise along meningeal surfaces of both the calvarium and spinal canal and are not restricted to cranial or spinal sites.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477988/",
+    "source_name": "Yarabarla et al., Front Oncol 2023 \u2014 WHO 2021 intracranial meningiomas update (PMC10477988)"
+  },
+  {
+    "code": "9533/0",
+    "term": "Psammomatous meningioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A histologic/grade descriptor of meningioma; per the WHO 2021 classification meningioma subtypes arise along meningeal surfaces of both the calvarium and spinal canal and are not restricted to cranial or spinal sites.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477988/",
+    "source_name": "Yarabarla et al., Front Oncol 2023 \u2014 WHO 2021 intracranial meningiomas update (PMC10477988)"
+  },
+  {
+    "code": "9534/0",
+    "term": "Angiomatous meningioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A histologic/grade descriptor of meningioma; per the WHO 2021 classification meningioma subtypes arise along meningeal surfaces of both the calvarium and spinal canal and are not restricted to cranial or spinal sites.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477988/",
+    "source_name": "Yarabarla et al., Front Oncol 2023 \u2014 WHO 2021 intracranial meningiomas update (PMC10477988)"
+  },
+  {
+    "code": "9537/0",
+    "term": "Mixed meningioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A histologic/grade descriptor of meningioma; per the WHO 2021 classification meningioma subtypes arise along meningeal surfaces of both the calvarium and spinal canal and are not restricted to cranial or spinal sites.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477988/",
+    "source_name": "Yarabarla et al., Front Oncol 2023 \u2014 WHO 2021 intracranial meningiomas update (PMC10477988)"
+  },
+  {
+    "code": "9537/0",
+    "term": "Transitional meningioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A histologic/grade descriptor of meningioma; per the WHO 2021 classification meningioma subtypes arise along meningeal surfaces of both the calvarium and spinal canal and are not restricted to cranial or spinal sites.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477988/",
+    "source_name": "Yarabarla et al., Front Oncol 2023 \u2014 WHO 2021 intracranial meningiomas update (PMC10477988)"
+  },
+  {
+    "code": "9538/1",
+    "term": "Chordoid meningioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A histologic/grade descriptor of meningioma; per the WHO 2021 classification meningioma subtypes arise along meningeal surfaces of both the calvarium and spinal canal and are not restricted to cranial or spinal sites.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477988/",
+    "source_name": "Yarabarla et al., Front Oncol 2023 \u2014 WHO 2021 intracranial meningiomas update (PMC10477988)"
+  },
+  {
+    "code": "9538/1",
+    "term": "Clear cell meningioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "A histologic/grade descriptor of meningioma; per the WHO 2021 classification meningioma subtypes arise along meningeal surfaces of both the calvarium and spinal canal and are not restricted to cranial or spinal sites.",
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10477988/",
+    "source_name": "Yarabarla et al., Front Oncol 2023 \u2014 WHO 2021 intracranial meningiomas update (PMC10477988)"
+  }
+]

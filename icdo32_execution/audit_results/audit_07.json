@@ -1,0 +1,674 @@
+[
+ {
+  "code": "9699/3",
+  "term": "Skin-associated lymphoid tissue lymphoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9699/3",
+  "term": "pediatric nodal marginal zone lymphoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8620/3",
+  "term": "Adult granulosa cell tumor of ovary",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8620/3",
+  "term": "Granulosa cell tumor of ovary, NOS",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9061/3",
+  "term": "Germinoma of testis",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9063/3",
+  "term": "Spermatocytic seminoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9063/3",
+  "term": "Spermatocytic tumor",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9063/3",
+  "term": "Spermatocytic tumor with sarcomatous differentiation",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9063/3",
+  "term": "Spermatocytoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8044/3",
+  "term": "SMARCA4-deficient carcinoma of ovary",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8044/3",
+  "term": "SMARCA4-deficient sinonasal carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8044/3",
+  "term": "SMARCA4-deficient undifferentiated sinonasal carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8044/3",
+  "term": "SMARCB1-deficient sinonasal adenocarcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8044/3",
+  "term": "SMARCB1-deficient sinonasal carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8044/3",
+  "term": "SMARCB1-deficient undifferentiated sinonasal carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8044/3",
+  "term": "SWI/SNF complex-deficient sinonasal carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8044/3",
+  "term": "Small cell carcinoma of the ovary, hypercalcemic type",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8044/3",
+  "term": "Small cell carcinoma of the ovary, hypercalcemic type, large cell subtype",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8044/3",
+  "term": "Small cell carcinoma, hypercalcemic type",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8044/3",
+  "term": "Small cell carcinoma, hypercalcemic type, large cell subtype",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8044/3",
+  "term": "Small cell carcinoma, intermediate cell",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8044/3",
+  "term": "Small cell carcinoma, large cell subtype",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8044/3",
+  "term": "Small cell carcinoma, large cell variant",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8044/3",
+  "term": "Thoracic SMARCA4-deficient undifferentiated tumor",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8333/3",
+  "term": "Fetal adenocarcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8483/3",
+  "term": "Adenocarcinoma, HPV-associated",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8483/3",
+  "term": "HPV-associated multiphenotypic sinonasal carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8483/3",
+  "term": "HPV-related multiphenotypic sinonasal carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8700/3",
+  "term": "Adrenal composite paraganglion tumor",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8700/3",
+  "term": "Adrenal composite pheochromocytoma-paraganglioma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8700/3",
+  "term": "Adrenal medullary paraganglioma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8700/3",
+  "term": "Chromaffin paraganglioma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8700/3",
+  "term": "Chromaffin tumor",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8700/3",
+  "term": "Chromaffinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8700/3",
+  "term": "Composite pheochromocytoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8700/3",
+  "term": "Composite pheochromocytoma-ganglioneuroblastoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8700/3",
+  "term": "Composite pheochromocytoma-ganglioneuroma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8700/3",
+  "term": "Composite pheochromocytoma-neuroblastoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8700/3",
+  "term": "Composite pheochromocytoma\u2013malignant peripheral nerve sheath tumor",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8700/3",
+  "term": "Composite pheochromocytoma\u2013peripheral nerve sheath tumor",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8700/3",
+  "term": "Paraganglioma, adrenal sympathetic",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8700/3",
+  "term": "Paraganglioma, adrenal, NOS",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8700/3",
+  "term": "Paraganglioma, intra-adrenal",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8700/3",
+  "term": "Pheochromoblastoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8700/3",
+  "term": "Pheochromocytoma, NOS",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8700/3",
+  "term": "Pheochromocytoma, malignant",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8972/3",
+  "term": "Pneumoblastoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8972/3",
+  "term": "Pulmonary blastoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9522/3",
+  "term": "Esthesioneuroblastoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9522/3",
+  "term": "Olfactory neuroblastoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9678/3",
+  "term": "Fluid overload-associated large B-cell lymphoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9678/3",
+  "term": "Fluid-overload effusion lymphoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9678/3",
+  "term": "KSHV/HHV8-negative effusion-based lymphoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8201/2",
+  "term": "Ductal carcinoma in situ, cribriform type",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8230/2",
+  "term": "Ductal carcinoma in situ, solid type",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8230/2",
+  "term": "Intraductal carcinoma, solid type",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8420/3",
+  "term": "Ceruminous adenocarcinoma",
+  "audit": "WRONG_SITE",
+  "corrected_codes": [
+   "C442"
+  ],
+  "correction_reason": "Ceruminous carcinomas arise from ceruminous glands located only in the skin of the external auditory canal (outer ear); ceruminous glands are not present in the middle ear, so the assigned C301 (middle ear) is the wrong site \u2014 correct site is skin of external ear (C442).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8294997/"
+ },
+ {
+  "code": "8420/3",
+  "term": "Ceruminous adenoid cystic carcinoma",
+  "audit": "WRONG_SITE",
+  "corrected_codes": [
+   "C442"
+  ],
+  "correction_reason": "Ceruminous carcinomas arise from ceruminous glands located only in the skin of the external auditory canal (outer ear); ceruminous glands are not present in the middle ear, so the assigned C301 (middle ear) is the wrong site \u2014 correct site is skin of external ear (C442).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8294997/"
+ },
+ {
+  "code": "8420/3",
+  "term": "Ceruminous carcinoma",
+  "audit": "WRONG_SITE",
+  "corrected_codes": [
+   "C442"
+  ],
+  "correction_reason": "Ceruminous carcinomas arise from ceruminous glands located only in the skin of the external auditory canal (outer ear); ceruminous glands are not present in the middle ear, so the assigned C301 (middle ear) is the wrong site \u2014 correct site is skin of external ear (C442).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8294997/"
+ },
+ {
+  "code": "8420/3",
+  "term": "Ceruminous mucoepidermoid carcinoma",
+  "audit": "WRONG_SITE",
+  "corrected_codes": [
+   "C442"
+  ],
+  "correction_reason": "Ceruminous carcinomas arise from ceruminous glands located only in the skin of the external auditory canal (outer ear); ceruminous glands are not present in the middle ear, so the assigned C301 (middle ear) is the wrong site \u2014 correct site is skin of external ear (C442).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8294997/"
+ },
+ {
+  "code": "8572/3",
+  "term": "Fibromatosis-like metaplastic carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8742/2",
+  "term": "Hutchinson melanotic freckle, NOS",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8742/2",
+  "term": "Lentigo maligna",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8742/2",
+  "term": "Lentigo maligna melanoma in situ",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8742/3",
+  "term": "High cumulative sun damage melanoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8742/3",
+  "term": "High-CSD melanoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8742/3",
+  "term": "Lentigo maligna melanoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8742/3",
+  "term": "Malignant melanoma in Hutchinson melanotic freckle",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8742/3",
+  "term": "Melanoma in Hutchinson melanotic freckle",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8743/2",
+  "term": "Low cumulative sun damage melanoma in situ",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8743/2",
+  "term": "Low-CSD melanoma in\u00a0situ",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8743/2",
+  "term": "Superficial spreading melanoma in situ",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8744/3",
+  "term": "Acral lentiginous melanoma, NOS",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8744/3",
+  "term": "Acral lentiginous melanoma, malignant",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8744/3",
+  "term": "Acral melanoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8744/3",
+  "term": "Acral melanoma, desmoplastic",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8744/3",
+  "term": "Desmoplastic acral melanoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8744/3",
+  "term": "Melanoma, nail apparatus",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8744/3",
+  "term": "Melanoma, subungual",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8744/3",
+  "term": "Subungual melanoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8770/3",
+  "term": "Mixed epithelioid and spindle cell uveal melanoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9718/3",
+  "term": "Ocular adnexal T-cell lymphoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8120/3",
+  "term": "Diverticular carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ }
+]

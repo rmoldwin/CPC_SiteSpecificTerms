@@ -1,0 +1,540 @@
+[
+ {
+  "code": "8041/3",
+  "term": "Small cell neuroendocrine carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic small cell (neuroendocrine/undifferentiated) carcinoma is a broad morphologic diagnosis occurring across essentially all of the code's validated mucosal head/neck and visceral sites; not anatomically restricted.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK459256/",
+  "source_name": "StatPearls / general pathology"
+ },
+ {
+  "code": "8041/3",
+  "term": "Small cell undifferentiated carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic small cell (neuroendocrine/undifferentiated) carcinoma is a broad morphologic diagnosis occurring across essentially all of the code's validated mucosal head/neck and visceral sites; not anatomically restricted.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK459256/",
+  "source_name": "StatPearls / general pathology"
+ },
+ {
+  "code": "8045/3",
+  "term": "Combined small cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Combined/mixed small cell carcinoma is a morphologic descriptor (small cell plus another component) that can arise at any site where small cell carcinoma occurs; the term is not restricted to a proper subset of its ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK459256/",
+  "source_name": "StatPearls / WHO general"
+ },
+ {
+  "code": "8045/3",
+  "term": "Combined small cell neuroendocrine carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Combined/mixed small cell carcinoma is a morphologic descriptor (small cell plus another component) that can arise at any site where small cell carcinoma occurs; the term is not restricted to a proper subset of its ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK459256/",
+  "source_name": "StatPearls / WHO general"
+ },
+ {
+  "code": "8045/3",
+  "term": "Combined small cell-adenocarcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Combined/mixed small cell carcinoma is a morphologic descriptor (small cell plus another component) that can arise at any site where small cell carcinoma occurs; the term is not restricted to a proper subset of its ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK459256/",
+  "source_name": "StatPearls / WHO general"
+ },
+ {
+  "code": "8045/3",
+  "term": "Combined small cell-large cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Combined/mixed small cell carcinoma is a morphologic descriptor (small cell plus another component) that can arise at any site where small cell carcinoma occurs; the term is not restricted to a proper subset of its ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK459256/",
+  "source_name": "StatPearls / WHO general"
+ },
+ {
+  "code": "8045/3",
+  "term": "Combined small cell-large cell neuroendocrine carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Combined/mixed small cell carcinoma is a morphologic descriptor (small cell plus another component) that can arise at any site where small cell carcinoma occurs; the term is not restricted to a proper subset of its ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK459256/",
+  "source_name": "StatPearls / WHO general"
+ },
+ {
+  "code": "8045/3",
+  "term": "Combined small cell-squamous cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Combined/mixed small cell carcinoma is a morphologic descriptor (small cell plus another component) that can arise at any site where small cell carcinoma occurs; the term is not restricted to a proper subset of its ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK459256/",
+  "source_name": "StatPearls / WHO general"
+ },
+ {
+  "code": "8045/3",
+  "term": "Combined small cell-urothelial carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Combined/mixed small cell carcinoma is a morphologic descriptor (small cell plus another component) that can arise at any site where small cell carcinoma occurs; the term is not restricted to a proper subset of its ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK459256/",
+  "source_name": "StatPearls / WHO general"
+ },
+ {
+  "code": "8045/3",
+  "term": "Mixed small cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Combined/mixed small cell carcinoma is a morphologic descriptor (small cell plus another component) that can arise at any site where small cell carcinoma occurs; the term is not restricted to a proper subset of its ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK459256/",
+  "source_name": "StatPearls / WHO general"
+ },
+ {
+  "code": "8045/3",
+  "term": "Small cell and large cell endocrine carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Combined/mixed small cell carcinoma is a morphologic descriptor (small cell plus another component) that can arise at any site where small cell carcinoma occurs; the term is not restricted to a proper subset of its ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK459256/",
+  "source_name": "StatPearls / WHO general"
+ },
+ {
+  "code": "8050/2",
+  "term": "Papillary carcinoma in situ, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Papillary carcinoma in situ, NOS is a generic non-invasive papillary carcinoma descriptor used across many mucosal and glandular sites; not anatomically restricted.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK459256/",
+  "source_name": "general pathology"
+ },
+ {
+  "code": "8050/3",
+  "term": "Papillary carcinoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Papillary carcinoma, NOS is a broad architectural descriptor applied at numerous mucosal/glandular sites; not restricted to a proper subset of its ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK459256/",
+  "source_name": "general pathology"
+ },
+ {
+  "code": "8051/3",
+  "term": "Carcinoma cuniculatum",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Verrucous carcinoma (including carcinoma cuniculatum) is a well-differentiated squamous variant that occurs at multiple sites (oral cavity, larynx, sinonasal, esophagus, anogenital, skin); the term is not restricted to a proper subset of its ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4746138/",
+  "source_name": "Head and Neck Pathology 2016 (Lewis) PMC4746138"
+ },
+ {
+  "code": "8051/3",
+  "term": "Verrucous carcinoma (including carcinoma cuniculatum)",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Verrucous carcinoma (including carcinoma cuniculatum) is a well-differentiated squamous variant that occurs at multiple sites (oral cavity, larynx, sinonasal, esophagus, anogenital, skin); the term is not restricted to a proper subset of its ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4746138/",
+  "source_name": "Head and Neck Pathology 2016 (Lewis) PMC4746138"
+ },
+ {
+  "code": "8051/3",
+  "term": "Verrucous carcinoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Verrucous carcinoma (including carcinoma cuniculatum) is a well-differentiated squamous variant that occurs at multiple sites (oral cavity, larynx, sinonasal, esophagus, anogenital, skin); the term is not restricted to a proper subset of its ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4746138/",
+  "source_name": "Head and Neck Pathology 2016 (Lewis) PMC4746138"
+ },
+ {
+  "code": "8051/3",
+  "term": "Verrucous epidermoid carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Verrucous carcinoma (including carcinoma cuniculatum) is a well-differentiated squamous variant that occurs at multiple sites (oral cavity, larynx, sinonasal, esophagus, anogenital, skin); the term is not restricted to a proper subset of its ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4746138/",
+  "source_name": "Head and Neck Pathology 2016 (Lewis) PMC4746138"
+ },
+ {
+  "code": "8051/3",
+  "term": "Verrucous squamous cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Verrucous carcinoma (including carcinoma cuniculatum) is a well-differentiated squamous variant that occurs at multiple sites (oral cavity, larynx, sinonasal, esophagus, anogenital, skin); the term is not restricted to a proper subset of its ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4746138/",
+  "source_name": "Head and Neck Pathology 2016 (Lewis) PMC4746138"
+ },
+ {
+  "code": "8052/2",
+  "term": "Papillary squamous cell carcinoma in situ",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Papillary squamous cell carcinoma, non-invasive and related in-situ papillary squamous lesions occur across the upper aerodigestive tract and other squamous mucosal sites; broad descriptor, not site-restricted.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4746138/",
+  "source_name": "Head and Neck Pathology 2016 (Lewis) PMC4746138"
+ },
+ {
+  "code": "8052/2",
+  "term": "Papillary squamous cell carcinoma, non-invasive",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Papillary squamous cell carcinoma, non-invasive and related in-situ papillary squamous lesions occur across the upper aerodigestive tract and other squamous mucosal sites; broad descriptor, not site-restricted.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4746138/",
+  "source_name": "Head and Neck Pathology 2016 (Lewis) PMC4746138"
+ },
+ {
+  "code": "8052/2",
+  "term": "Squamous papilloma with high-grade dysplasia",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Papillary squamous cell carcinoma, non-invasive and related in-situ papillary squamous lesions occur across the upper aerodigestive tract and other squamous mucosal sites; broad descriptor, not site-restricted.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4746138/",
+  "source_name": "Head and Neck Pathology 2016 (Lewis) PMC4746138"
+ },
+ {
+  "code": "8052/3",
+  "term": "Papillary epidermoid carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Papillary squamous cell carcinoma is a recognized squamous variant occurring at numerous mucosal sites throughout the head/neck and aerodigestive tract; not restricted to a proper subset of its ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4746138/",
+  "source_name": "Head and Neck Pathology 2016 (Lewis) PMC4746138"
+ },
+ {
+  "code": "8052/3",
+  "term": "Papillary squamous cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Papillary squamous cell carcinoma is a recognized squamous variant occurring at numerous mucosal sites throughout the head/neck and aerodigestive tract; not restricted to a proper subset of its ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4746138/",
+  "source_name": "Head and Neck Pathology 2016 (Lewis) PMC4746138"
+ },
+ {
+  "code": "8070/2",
+  "term": "Actinic keratosis with high-grade dysplasia",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Actinic keratosis is a UV/sun-related keratinocytic lesion of sun-exposed skin (and vermilion lip as actinic cheilitis). Within this mucosal ceiling (no C44 skin), the only plausible correlate is the external/vermilion lip, but a clean literature-defined ICD-O topography subset within the ceiling cannot be firmly established.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK557401/",
+  "source_name": "StatPearls Actinic Keratosis NBK557401"
+ },
+ {
+  "code": "8070/2",
+  "term": "Bowen disease",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Bowen disease is a synonym for squamous cell carcinoma in situ and occurs at essentially all keratinized/mucosal squamous sites; it is a broad in-situ SCC descriptor, not restricted to a proper subset of its ceiling.",
+  "source": "https://dermnetnz.org/topics/bowenoid-papulosis",
+  "source_name": "DermNet NZ"
+ },
+ {
+  "code": "8070/2",
+  "term": "Bowenoid papulosis",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Bowenoid papulosis is HPV-related and most commonly anogenital, but extragenital and oral occurrences are reported, so it is not cleanly restricted to a documented proper subset of this broad ceiling.",
+  "source": "https://dermnetnz.org/topics/bowenoid-papulosis",
+  "source_name": "DermNet NZ Bowenoid Papulosis"
+ },
+ {
+  "code": "8070/2",
+  "term": "Epidermoid carcinoma in situ, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Squamous cell carcinoma in situ / intraepithelial squamous carcinoma (including Bowen-type) is a generic in-situ squamous descriptor occurring across many mucosal and keratinized sites; not anatomically restricted.",
+  "source": "https://dermnetnz.org/topics/bowenoid-papulosis",
+  "source_name": "DermNet NZ / general pathology"
+ },
+ {
+  "code": "8070/2",
+  "term": "Intraepidermal carcinoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Squamous cell carcinoma in situ / intraepithelial squamous carcinoma (including Bowen-type) is a generic in-situ squamous descriptor occurring across many mucosal and keratinized sites; not anatomically restricted.",
+  "source": "https://dermnetnz.org/topics/bowenoid-papulosis",
+  "source_name": "DermNet NZ / general pathology"
+ },
+ {
+  "code": "8070/2",
+  "term": "Intraepidermal squamous cell carcinoma, Bowen type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Squamous cell carcinoma in situ / intraepithelial squamous carcinoma (including Bowen-type) is a generic in-situ squamous descriptor occurring across many mucosal and keratinized sites; not anatomically restricted.",
+  "source": "https://dermnetnz.org/topics/bowenoid-papulosis",
+  "source_name": "DermNet NZ / general pathology"
+ },
+ {
+  "code": "8070/2",
+  "term": "Intraepithelial squamous cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Squamous cell carcinoma in situ / intraepithelial squamous carcinoma (including Bowen-type) is a generic in-situ squamous descriptor occurring across many mucosal and keratinized sites; not anatomically restricted.",
+  "source": "https://dermnetnz.org/topics/bowenoid-papulosis",
+  "source_name": "DermNet NZ / general pathology"
+ },
+ {
+  "code": "8070/2",
+  "term": "Squamous cell carcinoma in situ (Bowen disease)",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Squamous cell carcinoma in situ / intraepithelial squamous carcinoma (including Bowen-type) is a generic in-situ squamous descriptor occurring across many mucosal and keratinized sites; not anatomically restricted.",
+  "source": "https://dermnetnz.org/topics/bowenoid-papulosis",
+  "source_name": "DermNet NZ / general pathology"
+ },
+ {
+  "code": "8070/2",
+  "term": "Squamous cell carcinoma in situ, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Squamous cell carcinoma in situ / intraepithelial squamous carcinoma (including Bowen-type) is a generic in-situ squamous descriptor occurring across many mucosal and keratinized sites; not anatomically restricted.",
+  "source": "https://dermnetnz.org/topics/bowenoid-papulosis",
+  "source_name": "DermNet NZ / general pathology"
+ },
+ {
+  "code": "8070/3",
+  "term": "Epidermoid carcinoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Epidermoid carcinoma, NOS is a synonym for squamous cell carcinoma, NOS and occurs at nearly all squamous mucosal/cutaneous sites; broad descriptor.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4746138/",
+  "source_name": "Head and Neck Pathology 2016 (Lewis)"
+ },
+ {
+  "code": "8070/3",
+  "term": "Hybrid verrucous carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hybrid verrucous carcinoma is a squamous variant (verrucous plus conventional SCC) occurring at multiple mucosal sites; not restricted to a proper subset of its ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4746138/",
+  "source_name": "Head and Neck Pathology 2016 (Lewis)"
+ },
+ {
+  "code": "8070/3",
+  "term": "Nasopharyngeal carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C110",
+   "C111",
+   "C112",
+   "C113",
+   "C118",
+   "C119"
+  ],
+  "site_subset_labels": [
+   "Nasopharynx, superior wall",
+   "Nasopharynx, posterior wall",
+   "Nasopharynx, lateral wall",
+   "Nasopharynx, anterior wall",
+   "Nasopharynx, overlapping",
+   "Nasopharynx, NOS"
+  ],
+  "rationale": "Nasopharyngeal carcinoma is a distinct entity defined by origin in the nasopharynx; the named term is anatomically restricted to the nasopharynx, a proper subset of the code's broad squamous ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK459256/",
+  "source_name": "StatPearls Nasopharyngeal Cancer NBK459256"
+ },
+ {
+  "code": "8070/3",
+  "term": "Pure squamous carcinoma of urothelial tract",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C659",
+   "C669",
+   "C670",
+   "C671",
+   "C672",
+   "C673",
+   "C674",
+   "C675",
+   "C676",
+   "C677",
+   "C678",
+   "C679",
+   "C680"
+  ],
+  "site_subset_labels": [
+   "Renal pelvis",
+   "Ureter",
+   "Bladder, trigone",
+   "Bladder, dome",
+   "Bladder, lateral wall",
+   "Bladder, anterior wall",
+   "Bladder, posterior wall",
+   "Bladder neck",
+   "Ureteric orifice",
+   "Urachus",
+   "Bladder, overlapping",
+   "Bladder, NOS",
+   "Urethra"
+  ],
+  "rationale": "This term explicitly denotes pure squamous cell carcinoma of the urothelial tract (renal pelvis, ureter, bladder, urethra); it is by definition restricted to urothelial-tract sites, a proper subset of the code's broad squamous ceiling.",
+  "source": "https://auo.asmepress.com/articles/new-39-466.html",
+  "source_name": "AJUO/ASME Squamous Cell Carcinoma of the Urinary Bladder (WHO)"
+ },
+ {
+  "code": "8070/3",
+  "term": "Pure urothelial squamous cell carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C659",
+   "C669",
+   "C670",
+   "C671",
+   "C672",
+   "C673",
+   "C674",
+   "C675",
+   "C676",
+   "C677",
+   "C678",
+   "C679",
+   "C680"
+  ],
+  "site_subset_labels": [
+   "Renal pelvis",
+   "Ureter",
+   "Bladder, trigone",
+   "Bladder, dome",
+   "Bladder, lateral wall",
+   "Bladder, anterior wall",
+   "Bladder, posterior wall",
+   "Bladder neck",
+   "Ureteric orifice",
+   "Urachus",
+   "Bladder, overlapping",
+   "Bladder, NOS",
+   "Urethra"
+  ],
+  "rationale": "This term explicitly denotes pure squamous cell carcinoma of the urothelial tract (renal pelvis, ureter, bladder, urethra); it is by definition restricted to urothelial-tract sites, a proper subset of the code's broad squamous ceiling.",
+  "source": "https://auo.asmepress.com/articles/new-39-466.html",
+  "source_name": "AJUO/ASME Squamous Cell Carcinoma of the Urinary Bladder (WHO)"
+ },
+ {
+  "code": "8070/3",
+  "term": "Squamous carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "'Squamous carcinoma' is a generic synonym for squamous cell carcinoma, NOS occurring at essentially all squamous sites; broad descriptor.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4746138/",
+  "source_name": "Head and Neck Pathology 2016 (Lewis)"
+ },
+ {
+  "code": "8070/3",
+  "term": "Squamous cell carcinoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Squamous cell carcinoma, NOS is the prototypical broad multi-site squamous morphologic diagnosis; not anatomically restricted.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4746138/",
+  "source_name": "Head and Neck Pathology 2016 (Lewis)"
+ },
+ {
+  "code": "8070/3",
+  "term": "Squamous cell carcinoma, usual type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Squamous cell carcinoma, usual type is a generic squamous descriptor used across many mucosal/cutaneous sites; not restricted.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4746138/",
+  "source_name": "Head and Neck Pathology 2016 (Lewis)"
+ },
+ {
+  "code": "8070/3",
+  "term": "Squamous cell epithelioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Squamous cell epithelioma is a synonym for squamous cell carcinoma; broad multi-site descriptor, not anatomically restricted.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4746138/",
+  "source_name": "Head and Neck Pathology 2016 (Lewis)"
+ },
+ {
+  "code": "8071/3",
+  "term": "Epidermoid carcinoma, keratinizing",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Keratinizing (epidermoid) squamous cell carcinoma is a broad histologic grade/type of SCC occurring at essentially all squamous mucosal and cutaneous sites; not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4746138/",
+  "source_name": "Head and Neck Pathology 2016 (Lewis)"
+ },
+ {
+  "code": "8071/3",
+  "term": "Keratinizing squamous cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Keratinizing squamous cell carcinoma is a broad multi-site squamous type; not anatomically restricted to a proper subset of its ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4746138/",
+  "source_name": "Head and Neck Pathology 2016 (Lewis)"
+ },
+ {
+  "code": "8071/3",
+  "term": "Sinonasal keratinizing squamous cell carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C300",
+   "C301",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319"
+  ],
+  "site_subset_labels": [
+   "Nasal cavity",
+   "Middle ear",
+   "Maxillary sinus",
+   "Ethmoid sinus",
+   "Frontal sinus",
+   "Sphenoid sinus",
+   "Accessory sinus overlapping",
+   "Accessory sinus, NOS"
+  ],
+  "rationale": "The named term specifies sinonasal keratinizing squamous cell carcinoma, i.e., tumors of the nasal cavity and paranasal sinuses; the 'sinonasal' qualifier restricts it to that tract, a proper subset of the code's broad ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4746138/",
+  "source_name": "Head and Neck Pathology 2016 (Lewis) PMC4746138"
+ },
+ {
+  "code": "8071/3",
+  "term": "Squamous cell carcinoma, keratinizing, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Squamous cell carcinoma, keratinizing, NOS is a generic keratinizing SCC descriptor applied across many squamous sites; not anatomically restricted.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4746138/",
+  "source_name": "Head and Neck Pathology 2016 (Lewis)"
+ }
+]

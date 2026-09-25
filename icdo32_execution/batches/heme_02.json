@@ -1,0 +1,347 @@
+[
+ {
+  "code": "9762/3",
+  "term": "Immunoproliferative small intestinal disease",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C421",
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9762/3",
+  "term": "Mediterranean lymphoma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C421",
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9762/3",
+  "term": "Mu heavy chain disease",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C421",
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9805/3",
+  "term": "Acute leukemia of ambiguous lineage with BCL11B rearrangement",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9805/3",
+  "term": "Acute leukemia of ambiguous lineage with other defined genetic abnormalities",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9805/3",
+  "term": "Acute leukemia of ambiguous lineage with other defined genetic alterations",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9805/3",
+  "term": "Acute leukemia of ambiguous lineage, NOS",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9805/3",
+  "term": "Mixed-phenotype acute leukemia (MPAL) with ZNF384 rearrangement",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9805/3",
+  "term": "Mixed-phenotype acute leukemia B/T",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9805/3",
+  "term": "Mixed-phenotype acute leukemia B/T/Myeloid",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9805/3",
+  "term": "Mixed-phenotype acute leukemia with ZNF384 rearrangement",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9805/3",
+  "term": "Mixed-phenotype acute leukemia, B/T (MPAL-B/T)",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9805/3",
+  "term": "Mixed-phenotype acute leukemia, B/T/Myeloid (MPAL-B/T/M)",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9805/3",
+  "term": "Mixed-phenotype acute leukemia, T/Megakaryocytic (MPAL-T/Mk)",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9805/3",
+  "term": "Mixed-phenotype acute leukemia, T/megakaryocytic",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9980/3",
+  "term": "Myelodysplastic neoplasm with low blasts and single-lineage dysplasia",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9980/3",
+  "term": "Myelodysplastic syndrome with single lineage dysplasia",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9980/3",
+  "term": "Refractory anemia without sideroblasts",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9980/3",
+  "term": "Refractory anemia, NOS",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9980/3",
+  "term": "Refractory neutropenia",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9980/3",
+  "term": "Refractory thrombocytopenia",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9985/3",
+  "term": "Childhood myelodysplastic neoplasm with low blasts, NOS",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9985/3",
+  "term": "Childhood myelodysplastic neoplasm with low blasts, hypocellular",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9985/3",
+  "term": "Myelodysplastic neoplasm with biallelic TP53 inactivation",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9985/3",
+  "term": "Myelodysplastic neoplasm with low blasts and multilineage dysplasia",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9985/3",
+  "term": "Myelodysplastic neoplasm with low blasts, NOS",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9985/3",
+  "term": "Myelodysplastic neoplasm with multi-hit TP53 inactivation",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9985/3",
+  "term": "Myelodysplastic neoplasm with muti-hit TP53 inactivation",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9985/3",
+  "term": "Myelodysplastic neoplasm, hypoplastic",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9985/3",
+  "term": "Myelodysplastic syndrome with multilineage dysplasia",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9985/3",
+  "term": "Refractory cytopenia of childhood",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9985/3",
+  "term": "Refractory cytopenia of childhood (childhood myelodysplastic neoplasm with low blasts)",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9985/3",
+  "term": "Refractory cytopenia with multilineage dysplasia",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9987/3",
+  "term": "Myelodysplastic neoplasm post cytotoxic therapy",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9987/3",
+  "term": "Myelodysplastic neoplasm post cytotoxic therapy, alkylating agent related",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ },
+ {
+  "code": "9987/3",
+  "term": "Myelodysplastic neoplasm post cytotoxic therapy, epipodophyllotoxin-related",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C421",
+   "C424"
+  ]
+ }
+]

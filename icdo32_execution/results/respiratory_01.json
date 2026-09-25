@@ -1,0 +1,668 @@
+[
+ {
+  "code": "8044/3",
+  "term": "SMARCA4-deficient carcinoma of ovary",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C569"
+  ],
+  "site_subset_labels": [
+   "Ovary"
+  ],
+  "rationale": "Term explicitly names the ovary; SMARCA4-deficient ovarian carcinoma (SCCOHT) is an ovarian entity in WHO Female Genital Tumours, restricted to the ovary within the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4332808/",
+  "source_name": "Nature Genetics 2014 (PMC4332808) SMARCA4 in SCCOHT"
+ },
+ {
+  "code": "8044/3",
+  "term": "SMARCA4-deficient sinonasal carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319"
+  ],
+  "site_subset_labels": [
+   "Nasal cavity",
+   "Maxillary sinus",
+   "Ethmoid sinus",
+   "Frontal sinus",
+   "Sphenoid sinus",
+   "Overlapping lesion of accessory sinuses",
+   "Accessory sinus, NOS"
+  ],
+  "rationale": "SWI/SNF (SMARCB1/SMARCA4)-deficient sinonasal carcinoma is defined as a sinonasal tract entity in WHO Head & Neck Tumours 5th ed; restricted to nasal cavity and paranasal sinuses within the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12078905/",
+  "source_name": "PubMed PMC12078905 (Head Neck Pathol 2025) citing WHO Head & Neck Tumours 5th ed"
+ },
+ {
+  "code": "8044/3",
+  "term": "SMARCA4-deficient undifferentiated sinonasal carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319"
+  ],
+  "site_subset_labels": [
+   "Nasal cavity",
+   "Maxillary sinus",
+   "Ethmoid sinus",
+   "Frontal sinus",
+   "Sphenoid sinus",
+   "Overlapping lesion of accessory sinuses",
+   "Accessory sinus, NOS"
+  ],
+  "rationale": "SWI/SNF (SMARCB1/SMARCA4)-deficient sinonasal carcinoma is defined as a sinonasal tract entity in WHO Head & Neck Tumours 5th ed; restricted to nasal cavity and paranasal sinuses within the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12078905/",
+  "source_name": "PubMed PMC12078905 (Head Neck Pathol 2025) citing WHO Head & Neck Tumours 5th ed"
+ },
+ {
+  "code": "8044/3",
+  "term": "SMARCA4-deficient undifferentiated tumor",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Without a site qualifier this term is used for both the thoracic (lung) entity and other SMARCA4-deficient undifferentiated tumors; the name alone does not restrict it to a specific proper subset of the ceiling.",
+  "source": "https://academic.oup.com/jjco/article/54/3/265/7479745",
+  "source_name": "Jpn J Clin Oncol 2024 citing WHO Classification of Thoracic Tumours 5th ed 2021"
+ },
+ {
+  "code": "8044/3",
+  "term": "SMARCB1-deficient sinonasal adenocarcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319"
+  ],
+  "site_subset_labels": [
+   "Nasal cavity",
+   "Maxillary sinus",
+   "Ethmoid sinus",
+   "Frontal sinus",
+   "Sphenoid sinus",
+   "Overlapping lesion of accessory sinuses",
+   "Accessory sinus, NOS"
+  ],
+  "rationale": "SWI/SNF (SMARCB1/SMARCA4)-deficient sinonasal carcinoma is defined as a sinonasal tract entity in WHO Head & Neck Tumours 5th ed; restricted to nasal cavity and paranasal sinuses within the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12078905/",
+  "source_name": "PubMed PMC12078905 (Head Neck Pathol 2025) citing WHO Head & Neck Tumours 5th ed"
+ },
+ {
+  "code": "8044/3",
+  "term": "SMARCB1-deficient sinonasal carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319"
+  ],
+  "site_subset_labels": [
+   "Nasal cavity",
+   "Maxillary sinus",
+   "Ethmoid sinus",
+   "Frontal sinus",
+   "Sphenoid sinus",
+   "Overlapping lesion of accessory sinuses",
+   "Accessory sinus, NOS"
+  ],
+  "rationale": "SWI/SNF (SMARCB1/SMARCA4)-deficient sinonasal carcinoma is defined as a sinonasal tract entity in WHO Head & Neck Tumours 5th ed; restricted to nasal cavity and paranasal sinuses within the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12078905/",
+  "source_name": "PubMed PMC12078905 (Head Neck Pathol 2025) citing WHO Head & Neck Tumours 5th ed"
+ },
+ {
+  "code": "8044/3",
+  "term": "SMARCB1-deficient undifferentiated sinonasal carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319"
+  ],
+  "site_subset_labels": [
+   "Nasal cavity",
+   "Maxillary sinus",
+   "Ethmoid sinus",
+   "Frontal sinus",
+   "Sphenoid sinus",
+   "Overlapping lesion of accessory sinuses",
+   "Accessory sinus, NOS"
+  ],
+  "rationale": "SWI/SNF (SMARCB1/SMARCA4)-deficient sinonasal carcinoma is defined as a sinonasal tract entity in WHO Head & Neck Tumours 5th ed; restricted to nasal cavity and paranasal sinuses within the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12078905/",
+  "source_name": "PubMed PMC12078905 (Head Neck Pathol 2025) citing WHO Head & Neck Tumours 5th ed"
+ },
+ {
+  "code": "8044/3",
+  "term": "SWI/SNF complex-deficient sinonasal carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319"
+  ],
+  "site_subset_labels": [
+   "Nasal cavity",
+   "Maxillary sinus",
+   "Ethmoid sinus",
+   "Frontal sinus",
+   "Sphenoid sinus",
+   "Overlapping lesion of accessory sinuses",
+   "Accessory sinus, NOS"
+  ],
+  "rationale": "SWI/SNF (SMARCB1/SMARCA4)-deficient sinonasal carcinoma is defined as a sinonasal tract entity in WHO Head & Neck Tumours 5th ed; restricted to nasal cavity and paranasal sinuses within the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12078905/",
+  "source_name": "PubMed PMC12078905 (Head Neck Pathol 2025) citing WHO Head & Neck Tumours 5th ed"
+ },
+ {
+  "code": "8044/3",
+  "term": "Small cell carcinoma of the ovary, hypercalcemic type",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C569"
+  ],
+  "site_subset_labels": [
+   "Ovary"
+  ],
+  "rationale": "Hypercalcemic-type small cell carcinoma (SCCOHT), including its large-cell/rhabdoid variant, is definitionally an ovarian tumor per WHO Female Genital Tumours; restricted to the ovary within the ceiling.",
+  "source": "https://www.jcancer.org/v10p0223.htm",
+  "source_name": "PubMed / J Cancer 2019 (SCCOHT review); WHO Female Genital Tumours"
+ },
+ {
+  "code": "8044/3",
+  "term": "Small cell carcinoma of the ovary, hypercalcemic type, large cell subtype",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C569"
+  ],
+  "site_subset_labels": [
+   "Ovary"
+  ],
+  "rationale": "Hypercalcemic-type small cell carcinoma (SCCOHT), including its large-cell/rhabdoid variant, is definitionally an ovarian tumor per WHO Female Genital Tumours; restricted to the ovary within the ceiling.",
+  "source": "https://www.jcancer.org/v10p0223.htm",
+  "source_name": "PubMed / J Cancer 2019 (SCCOHT review); WHO Female Genital Tumours"
+ },
+ {
+  "code": "8044/3",
+  "term": "Small cell carcinoma, hypercalcemic type",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C569"
+  ],
+  "site_subset_labels": [
+   "Ovary"
+  ],
+  "rationale": "Hypercalcemic-type small cell carcinoma (SCCOHT), including its large-cell/rhabdoid variant, is definitionally an ovarian tumor per WHO Female Genital Tumours; restricted to the ovary within the ceiling.",
+  "source": "https://www.jcancer.org/v10p0223.htm",
+  "source_name": "PubMed / J Cancer 2019 (SCCOHT review); WHO Female Genital Tumours"
+ },
+ {
+  "code": "8044/3",
+  "term": "Small cell carcinoma, hypercalcemic type, large cell subtype",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C569"
+  ],
+  "site_subset_labels": [
+   "Ovary"
+  ],
+  "rationale": "Hypercalcemic-type small cell carcinoma (SCCOHT), including its large-cell/rhabdoid variant, is definitionally an ovarian tumor per WHO Female Genital Tumours; restricted to the ovary within the ceiling.",
+  "source": "https://www.jcancer.org/v10p0223.htm",
+  "source_name": "PubMed / J Cancer 2019 (SCCOHT review); WHO Female Genital Tumours"
+ },
+ {
+  "code": "8044/3",
+  "term": "Small cell carcinoma, intermediate cell",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390"
+  ],
+  "site_subset_labels": [
+   "Trachea",
+   "Main bronchus",
+   "Upper lobe, lung",
+   "Middle lobe, lung",
+   "Lower lobe, lung",
+   "Overlapping lesion of lung",
+   "Lung, NOS",
+   "Upper respiratory tract, NOS"
+  ],
+  "rationale": "'Intermediate cell' small cell carcinoma is a small cell lung cancer morphologic descriptor (SEER lists intermediate cell carcinoma among small cell lung cancers); used in the lower respiratory tract, not the ovary/sinonasal, so restricted to the thoracic/respiratory codes within the ceiling.",
+  "source": "https://training.seer.cancer.gov/lung/abstract-code-stage/morphology.html",
+  "source_name": "SEER Training \u2014 Lung morphology (small cell/intermediate cell lung cancer)"
+ },
+ {
+  "code": "8044/3",
+  "term": "Small cell carcinoma, large cell subtype",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C569"
+  ],
+  "site_subset_labels": [
+   "Ovary"
+  ],
+  "rationale": "Hypercalcemic-type small cell carcinoma (SCCOHT), including its large-cell/rhabdoid variant, is definitionally an ovarian tumor per WHO Female Genital Tumours; restricted to the ovary within the ceiling.",
+  "source": "https://www.jcancer.org/v10p0223.htm",
+  "source_name": "PubMed / J Cancer 2019 (SCCOHT review); WHO Female Genital Tumours"
+ },
+ {
+  "code": "8044/3",
+  "term": "Small cell carcinoma, large cell variant",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C569"
+  ],
+  "site_subset_labels": [
+   "Ovary"
+  ],
+  "rationale": "Hypercalcemic-type small cell carcinoma (SCCOHT), including its large-cell/rhabdoid variant, is definitionally an ovarian tumor per WHO Female Genital Tumours; restricted to the ovary within the ceiling.",
+  "source": "https://www.jcancer.org/v10p0223.htm",
+  "source_name": "PubMed / J Cancer 2019 (SCCOHT review); WHO Female Genital Tumours"
+ },
+ {
+  "code": "8044/3",
+  "term": "Thoracic SMARCA4-deficient undifferentiated tumor",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390"
+  ],
+  "site_subset_labels": [
+   "Trachea",
+   "Main bronchus",
+   "Upper lobe, lung",
+   "Middle lobe, lung",
+   "Lower lobe, lung",
+   "Overlapping lesion of lung",
+   "Lung, NOS",
+   "Upper respiratory tract, NOS"
+  ],
+  "rationale": "Thoracic SMARCA4-deficient undifferentiated tumor is defined in WHO Thoracic Tumours 5th ed (2021) as a thoracic/lung entity under 'other epithelial tumours of the lung'; restricted to the thoracic/respiratory codes within the ceiling.",
+  "source": "https://academic.oup.com/jjco/article/54/3/265/7479745",
+  "source_name": "Jpn J Clin Oncol 2024 citing WHO Classification of Thoracic Tumours 5th ed 2021"
+ },
+ {
+  "code": "8046/3",
+  "term": "Non-small cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic descriptor; its ceiling is entirely lung (C340-C349), so it is used across all of its valid sites and is not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8250/2",
+  "term": "Adenocarcinoma in situ of lung, non-mucinous",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Adenocarcinoma in situ (non-mucinous) is a lung entity and its ceiling is entirely lung (C340-C349); covers all of the ceiling, so not a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8250/2",
+  "term": "Adenocarcinoma in situ, non-mucinous",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Adenocarcinoma in situ (non-mucinous) is a lung entity and its ceiling is entirely lung (C340-C349); covers all of the ceiling, so not a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8250/3",
+  "term": "Alveolar cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Lepidic/bronchiolo-alveolar adenocarcinoma patterns are pulmonary adenocarcinomas spanning the lung/respiratory ceiling; no literature restricts the term to a smaller proper subset within the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8250/3",
+  "term": "Bronchiolar adenocarcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Lepidic/bronchiolo-alveolar adenocarcinoma patterns are pulmonary adenocarcinomas spanning the lung/respiratory ceiling; no literature restricts the term to a smaller proper subset within the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8250/3",
+  "term": "Bronchiolar carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Lepidic/bronchiolo-alveolar adenocarcinoma patterns are pulmonary adenocarcinomas spanning the lung/respiratory ceiling; no literature restricts the term to a smaller proper subset within the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8250/3",
+  "term": "Bronchiolo-alveolar adenocarcinoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Lepidic/bronchiolo-alveolar adenocarcinoma patterns are pulmonary adenocarcinomas spanning the lung/respiratory ceiling; no literature restricts the term to a smaller proper subset within the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8250/3",
+  "term": "Bronchiolo-alveolar carcinoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Lepidic/bronchiolo-alveolar adenocarcinoma patterns are pulmonary adenocarcinomas spanning the lung/respiratory ceiling; no literature restricts the term to a smaller proper subset within the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8250/3",
+  "term": "Lepidic adenocarcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Lepidic/bronchiolo-alveolar adenocarcinoma patterns are pulmonary adenocarcinomas spanning the lung/respiratory ceiling; no literature restricts the term to a smaller proper subset within the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8253/2",
+  "term": "Adenocarcinoma in situ of lung, mucinous",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mucinous adenocarcinoma in situ is a lung entity and its ceiling is entirely lung (C340-C349); covers all of the ceiling, not a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8253/2",
+  "term": "Adenocarcinoma in situ, mucinous",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mucinous adenocarcinoma in situ is a lung entity and its ceiling is entirely lung (C340-C349); covers all of the ceiling, not a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8253/3",
+  "term": "Adenocarcinoma of lung, mucinous",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Invasive mucinous (bronchiolo-alveolar) adenocarcinoma is a pulmonary adenocarcinoma spanning the lung/respiratory ceiling; no literature restricts it to a smaller proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8253/3",
+  "term": "Bronchiolo-alveolar carcinoma, goblet cell type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Invasive mucinous (bronchiolo-alveolar) adenocarcinoma is a pulmonary adenocarcinoma spanning the lung/respiratory ceiling; no literature restricts it to a smaller proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8253/3",
+  "term": "Bronchiolo-alveolar carcinoma, mucinous",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Invasive mucinous (bronchiolo-alveolar) adenocarcinoma is a pulmonary adenocarcinoma spanning the lung/respiratory ceiling; no literature restricts it to a smaller proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8253/3",
+  "term": "Invasive mucinous adenocarcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Invasive mucinous (bronchiolo-alveolar) adenocarcinoma is a pulmonary adenocarcinoma spanning the lung/respiratory ceiling; no literature restricts it to a smaller proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8253/3",
+  "term": "Mucinous carcinoma of lung",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Invasive mucinous (bronchiolo-alveolar) adenocarcinoma is a pulmonary adenocarcinoma spanning the lung/respiratory ceiling; no literature restricts it to a smaller proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8254/3",
+  "term": "Adenocarcinoma of lung, mixed mucinous and non-mucinous",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mixed mucinous/non-mucinous (bronchiolo-alveolar) adenocarcinoma is a pulmonary adenocarcinoma spanning the lung/respiratory ceiling; no literature restricts it to a smaller proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8254/3",
+  "term": "Bronchiolo-alveolar carcinoma, Clara cell and goblet cell type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mixed mucinous/non-mucinous (bronchiolo-alveolar) adenocarcinoma is a pulmonary adenocarcinoma spanning the lung/respiratory ceiling; no literature restricts it to a smaller proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8254/3",
+  "term": "Bronchiolo-alveolar carcinoma, indeterminate type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mixed mucinous/non-mucinous (bronchiolo-alveolar) adenocarcinoma is a pulmonary adenocarcinoma spanning the lung/respiratory ceiling; no literature restricts it to a smaller proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8254/3",
+  "term": "Bronchiolo-alveolar carcinoma, mixed mucinous and non-mucinous",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mixed mucinous/non-mucinous (bronchiolo-alveolar) adenocarcinoma is a pulmonary adenocarcinoma spanning the lung/respiratory ceiling; no literature restricts it to a smaller proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8254/3",
+  "term": "Bronchiolo-alveolar carcinoma, type II pneumocyte and goblet cell type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mixed mucinous/non-mucinous (bronchiolo-alveolar) adenocarcinoma is a pulmonary adenocarcinoma spanning the lung/respiratory ceiling; no literature restricts it to a smaller proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8254/3",
+  "term": "Mixed invasive mucinous and non-mucinous adenocarcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mixed mucinous/non-mucinous (bronchiolo-alveolar) adenocarcinoma is a pulmonary adenocarcinoma spanning the lung/respiratory ceiling; no literature restricts it to a smaller proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8256/3",
+  "term": "Minimally invasive adenocarcinoma, non-mucinous",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Minimally invasive adenocarcinoma is a lung entity and its ceiling is entirely lung (C340-C349); covers all of the ceiling, not a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8257/3",
+  "term": "Minimally invasive adenocarcinoma, mucinous",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Minimally invasive adenocarcinoma (mucinous) is a lung entity and its ceiling is entirely lung (C340-C349); covers all of the ceiling, not a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8333/3",
+  "term": "Fetal adenocarcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349"
+  ],
+  "site_subset_labels": [
+   "Main bronchus",
+   "Upper lobe, lung",
+   "Middle lobe, lung",
+   "Lower lobe, lung",
+   "Overlapping lesion of lung",
+   "Lung, NOS"
+  ],
+  "rationale": "Fetal adenocarcinoma (8333/3) is defined as a lung tumor ('fetal adenocarcinoma of the lung') in WHO Thoracic Tumours 5th ed; restricted to lung, excluding the thyroid (C739) code in the ceiling.",
+  "source": "https://whobluebooks.iarc.who.int/structures/thoracic-tumours/",
+  "source_name": "WHO Blue Books \u2014 Thoracic Tumours 5th ed (Fetal adenocarcinoma of the lung)"
+ },
+ {
+  "code": "8483/3",
+  "term": "Adenocarcinoma, HPV-associated",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "site_subset_labels": [
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri, NOS"
+  ],
+  "rationale": "'Adenocarcinoma, HPV-associated' (8483/3) is the HPV-associated endocervical adenocarcinoma of WHO Female Genital Tumours, valid for uterine cervix; restricted to the cervix codes within the ceiling.",
+  "source": "https://www.iccr-cancer.org/wp-content/uploads/2023/10/ICCR-Cervix-5th-ed-v5.0-bookmark-1.pdf",
+  "source_name": "ICCR Carcinoma of the Cervix Reporting Guide 5th ed (WHO Female Genital Tumours)"
+ },
+ {
+  "code": "8483/3",
+  "term": "HPV-associated multiphenotypic sinonasal carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319"
+  ],
+  "site_subset_labels": [
+   "Nasal cavity",
+   "Maxillary sinus",
+   "Ethmoid sinus",
+   "Frontal sinus",
+   "Sphenoid sinus",
+   "Overlapping lesion of accessory sinuses",
+   "Accessory sinus, NOS"
+  ],
+  "rationale": "HPV-related multiphenotypic sinonasal carcinoma is described in WHO Head & Neck Tumours 5th ed as seemingly restricted to the sinonasal tract; restricted to nasal cavity and paranasal sinuses within the ceiling.",
+  "source": "https://lesterthompsonmd.com/pdf/HNPJ-2022-03_Update%20From%20the%20ENT%205th%20Edition%20From%20the%20WHO.pdf",
+  "source_name": "Thompson & Bishop, Head Neck Pathol 2022 \u2014 WHO Head & Neck 5th ed update"
+ },
+ {
+  "code": "8483/3",
+  "term": "HPV-related multiphenotypic sinonasal carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319"
+  ],
+  "site_subset_labels": [
+   "Nasal cavity",
+   "Maxillary sinus",
+   "Ethmoid sinus",
+   "Frontal sinus",
+   "Sphenoid sinus",
+   "Overlapping lesion of accessory sinuses",
+   "Accessory sinus, NOS"
+  ],
+  "rationale": "HPV-related multiphenotypic sinonasal carcinoma is described in WHO Head & Neck Tumours 5th ed as seemingly restricted to the sinonasal tract; restricted to nasal cavity and paranasal sinuses within the ceiling.",
+  "source": "https://lesterthompsonmd.com/pdf/HNPJ-2022-03_Update%20From%20the%20ENT%205th%20Edition%20From%20the%20WHO.pdf",
+  "source_name": "Thompson & Bishop, Head Neck Pathol 2022 \u2014 WHO Head & Neck 5th ed update"
+ },
+ {
+  "code": "8580/3",
+  "term": "Intrapulmonary thymoma",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Intrapulmonary thymoma arises from ectopic thymic tissue in the lung, but the ceiling only contains thymus (C379) and mediastinum/heart/pleura (C380); no literature cleanly restricts it to a proper subset of these two mediastinal codes.",
+  "source": "",
+  "source_name": ""
+ }
+]

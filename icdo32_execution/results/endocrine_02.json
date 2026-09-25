@@ -1,0 +1,484 @@
+[
+  {
+    "code": "8280/3",
+    "term": "Acidophil stem cell PitNET",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8280/3",
+    "term": "Acidophil stem cell PitNET/adenoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8280/3",
+    "term": "Acidophil stem cell tumor",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8280/3",
+    "term": "Densely granulated somatotroph and sparsely granulated lactotroph PitNET/adenoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8280/3",
+    "term": "Densely granulated somatotroph and sparsely granulated lactotroph tumor",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8280/3",
+    "term": "Eosinophil adenocarcinoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8280/3",
+    "term": "Eosinophil adenoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8280/3",
+    "term": "Eosinophil carcinoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8280/3",
+    "term": "Mammosomatotroph PitNET",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8280/3",
+    "term": "Mammosomatotroph PitNET/adenoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8280/3",
+    "term": "Mammosomatotroph tumor",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8280/3",
+    "term": "Mixed somatotroph-lactotroph tumor",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8280/3",
+    "term": "Mixed somatotroph–lactotroph PitNET/adenoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8280/3",
+    "term": "Sparsely granulated somatotroph and sparsely granulated lactotroph PitNET/adenoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8280/3",
+    "term": "Sparsely granulated somatotroph and sparsely granulated lactotroph tumor",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8281/0",
+    "term": "Mixed acidophil-basophil adenoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8281/3",
+    "term": "Mixed acidophil-basophil adenoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8281/3",
+    "term": "Mixed acidophil-basophil carcinoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8290/0",
+    "term": "Clear cell oncocytoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8290/0",
+    "term": "Follicular adenoma, oxyphilic cell",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8290/0",
+    "term": "Hurthle cell adenoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8290/0",
+    "term": "Hurthle cell tumor",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8290/0",
+    "term": "Hürthle cell adenoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8290/0",
+    "term": "Hürthle cell tumor",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8290/0",
+    "term": "Oncocytic (oxyphil cell) parathyroid adenoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8290/0",
+    "term": "Oncocytic adenoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8290/0",
+    "term": "Oncocytic adenoma of the thyroid",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8290/0",
+    "term": "Oncocytic adenoma of the thyroid gland",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8290/0",
+    "term": "Oncocytic papillary cystadenoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8290/0",
+    "term": "Oncocytic pituicytoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8290/0",
+    "term": "Oncocytoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8290/0",
+    "term": "Oncocytoma, clear cell",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8290/0",
+    "term": "Oxyphilic adenoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8290/0",
+    "term": "Pituicytoma with oncocytic features",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8290/0",
+    "term": "Spindle cell oncocytoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8290/0",
+    "term": "Spindle cell oncocytoma / oncocytic pituicytoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8290/0",
+    "term": "Spindle cell oncocytoma of adenohypophysis",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Code ceiling is limited to the pituitary region (C751 pituitary gland, C752 craniopharyngeal duct); the term is not restricted to a proper subset of these two codes based on the literature, so it is not site-specific within its ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "8290/3",
+    "term": "Encapsulated angioinvasive oncocytic carcinoma",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C739"
+    ],
+    "site_subset_labels": [
+      "Thyroid gland"
+    ],
+    "rationale": "Encapsulated angioinvasive oncocytic carcinoma is a WHO 2022 invasion subtype of oncocytic carcinoma of the thyroid gland, a follicular-cell-derived thyroid malignancy; it does not arise at the other ceiling sites (salivary, breast, eye, adrenal, pituitary), so it is restricted to the thyroid (C739).",
+    "source": "https://www.mypathologyreport.ca/diagnosis-library/oncocytic-carcinoma-of-the-thyroid-gland/",
+    "source_name": "MyPathologyReport: Oncocytic Carcinoma of the Thyroid Gland (WHO 2022 subtypes)"
+  },
+  {
+    "code": "8290/3",
+    "term": "Encapsulated angioinvasive oncocytic carcinoma of the thyroid gland",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C739"
+    ],
+    "site_subset_labels": [
+      "Thyroid gland"
+    ],
+    "rationale": "Encapsulated angioinvasive oncocytic carcinoma is a WHO 2022 invasion subtype of oncocytic carcinoma of the thyroid gland, a follicular-cell-derived thyroid malignancy; it does not arise at the other ceiling sites (salivary, breast, eye, adrenal, pituitary), so it is restricted to the thyroid (C739).",
+    "source": "https://www.mypathologyreport.ca/diagnosis-library/oncocytic-carcinoma-of-the-thyroid-gland/",
+    "source_name": "MyPathologyReport: Oncocytic Carcinoma of the Thyroid Gland (WHO 2022 subtypes)"
+  },
+  {
+    "code": "8290/3",
+    "term": "Follicular carcinoma, Hürthle cell type",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C739"
+    ],
+    "site_subset_labels": [
+      "Thyroid gland"
+    ],
+    "rationale": "Hürthle cell (oncocytic) carcinoma / oncocytic follicular carcinoma is a rare thyroid cancer originating from oncocytic (Hürthle) follicular thyroid cells; it is not described at the other ceiling sites, so it is restricted to the thyroid (C739).",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK568736/",
+    "source_name": "StatPearls: Oncocytic (Hürthle Cell) Thyroid Carcinoma (NCBI Bookshelf NBK568736)"
+  },
+  {
+    "code": "8290/3",
+    "term": "Follicular carcinoma, oncocytic type",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C739"
+    ],
+    "site_subset_labels": [
+      "Thyroid gland"
+    ],
+    "rationale": "Hürthle cell (oncocytic) carcinoma / oncocytic follicular carcinoma is a rare thyroid cancer originating from oncocytic (Hürthle) follicular thyroid cells; it is not described at the other ceiling sites, so it is restricted to the thyroid (C739).",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK568736/",
+    "source_name": "StatPearls: Oncocytic (Hürthle Cell) Thyroid Carcinoma (NCBI Bookshelf NBK568736)"
+  },
+  {
+    "code": "8290/3",
+    "term": "Follicular carcinoma, oxyphilic cell",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C739"
+    ],
+    "site_subset_labels": [
+      "Thyroid gland"
+    ],
+    "rationale": "Hürthle cell (oncocytic) carcinoma / oncocytic follicular carcinoma is a rare thyroid cancer originating from oncocytic (Hürthle) follicular thyroid cells; it is not described at the other ceiling sites, so it is restricted to the thyroid (C739).",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK568736/",
+    "source_name": "StatPearls: Oncocytic (Hürthle Cell) Thyroid Carcinoma (NCBI Bookshelf NBK568736)"
+  },
+  {
+    "code": "8290/3",
+    "term": "Hurthle cell adenocarcinoma",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C739"
+    ],
+    "site_subset_labels": [
+      "Thyroid gland"
+    ],
+    "rationale": "Hürthle cell (oncocytic) carcinoma / oncocytic follicular carcinoma is a rare thyroid cancer originating from oncocytic (Hürthle) follicular thyroid cells; it is not described at the other ceiling sites, so it is restricted to the thyroid (C739).",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK568736/",
+    "source_name": "StatPearls: Oncocytic (Hürthle Cell) Thyroid Carcinoma (NCBI Bookshelf NBK568736)"
+  },
+  {
+    "code": "8290/3",
+    "term": "Hurthle cell carcinoma",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C739"
+    ],
+    "site_subset_labels": [
+      "Thyroid gland"
+    ],
+    "rationale": "Hürthle cell (oncocytic) carcinoma / oncocytic follicular carcinoma is a rare thyroid cancer originating from oncocytic (Hürthle) follicular thyroid cells; it is not described at the other ceiling sites, so it is restricted to the thyroid (C739).",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK568736/",
+    "source_name": "StatPearls: Oncocytic (Hürthle Cell) Thyroid Carcinoma (NCBI Bookshelf NBK568736)"
+  },
+  {
+    "code": "8290/3",
+    "term": "Hürthle cell adenocarcinoma",
+    "site_specific": "Yes",
+    "site_subset_codes": [
+      "C739"
+    ],
+    "site_subset_labels": [
+      "Thyroid gland"
+    ],
+    "rationale": "Hürthle cell (oncocytic) carcinoma / oncocytic follicular carcinoma is a rare thyroid cancer originating from oncocytic (Hürthle) follicular thyroid cells; it is not described at the other ceiling sites, so it is restricted to the thyroid (C739).",
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK568736/",
+    "source_name": "StatPearls: Oncocytic (Hürthle Cell) Thyroid Carcinoma (NCBI Bookshelf NBK568736)"
+  }
+]

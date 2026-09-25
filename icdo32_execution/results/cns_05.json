@@ -1,0 +1,670 @@
+[
+ {
+  "code": "9384/1",
+  "term": "Giant cell astrocytoma of retina",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This entity is retinal (an ocular/retinal astrocytic lesion), but the code's ceiling (C710-C715) contains only brain subsites and no retina/eye code, so no valid site subset can be expressed within the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9384/1",
+  "term": "Retinal astrocytic hamartoma",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A retinal lesion by definition, but the ceiling (C710-C715) has no retina/eye code, so no in-ceiling subset can be assigned.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9384/1",
+  "term": "Subependymal giant cell astrocytoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C715"
+  ],
+  "site_subset_labels": [
+   "Ventricle, NOS"
+  ],
+  "rationale": "SEGA arises almost exclusively from the wall of the lateral ventricle near the foramen of Monro (intraventricular), a proper subset (ventricle, C715) of the C710-C715 ceiling.",
+  "source": "https://radiopaedia.org/articles/subependymal-giant-cell-astrocytoma?lang=us",
+  "source_name": "Radiopaedia - Subependymal giant cell astrocytoma"
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse hemispheric glioma, H3 G34-mutant",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714"
+  ],
+  "site_subset_labels": [
+   "Cerebrum",
+   "Frontal lobe",
+   "Temporal lobe",
+   "Parietal lobe",
+   "Occipital lobe"
+  ],
+  "rationale": "WHO 5th ed defines this as a CNS grade 4 astrocytoma arising in the cerebral hemispheres (mainly temporal/parietal lobes); restricted to hemispheric subsites, excluding ventricle, cerebellum, brainstem and spinal cord.",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9763979/",
+  "source_name": "Pathologica - Paediatric-type diffuse HGG in 5th CNS WHO Classification"
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse intrinsic pontine glioma, H3 K27M-mutant",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C717"
+  ],
+  "site_subset_labels": [
+   "Brain stem"
+  ],
+  "rationale": "DIPG by definition arises within the pons of the brainstem (C717), a proper subset of the brain/spinal ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/sites/books/NBK560640/",
+  "source_name": "StatPearls - Diffuse intrinsic pontine glioma"
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse intrinsic pontine glioma, NOS",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C717"
+  ],
+  "site_subset_labels": [
+   "Brain stem"
+  ],
+  "rationale": "DIPG arises within the pons of the brainstem (C717) by definition, a proper subset of the ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/sites/books/NBK560640/",
+  "source_name": "StatPearls - Diffuse intrinsic pontine glioma"
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse midline glioma, EGFR-mutant",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C710",
+   "C717",
+   "C720"
+  ],
+  "site_subset_labels": [
+   "Cerebrum",
+   "Brain stem",
+   "Spinal cord"
+  ],
+  "rationale": "Diffuse midline gliomas arise in CNS midline structures (thalamus, pons/brainstem, spinal cord); mapped to cerebrum/thalamus (C710), brain stem (C717) and spinal cord (C720), a proper subset excluding the lateral lobes, ventricle, cerebellum and cauda equina.",
+  "source": "https://en.wikipedia.org/wiki/Diffuse_midline_glioma",
+  "source_name": "Wikipedia (WHO-based) - Diffuse midline glioma"
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse midline glioma, H3 K27-altered",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C710",
+   "C717",
+   "C720"
+  ],
+  "site_subset_labels": [
+   "Cerebrum",
+   "Brain stem",
+   "Spinal cord"
+  ],
+  "rationale": "Diffuse midline gliomas arise in CNS midline structures (thalamus, pons/brainstem, spinal cord); mapped to cerebrum/thalamus (C710), brain stem (C717) and spinal cord (C720), a proper subset excluding the lateral lobes, ventricle, cerebellum and cauda equina.",
+  "source": "https://en.wikipedia.org/wiki/Diffuse_midline_glioma",
+  "source_name": "Wikipedia (WHO-based) - Diffuse midline glioma"
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse midline glioma, H3 K27M-mutant",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C710",
+   "C717",
+   "C720"
+  ],
+  "site_subset_labels": [
+   "Cerebrum",
+   "Brain stem",
+   "Spinal cord"
+  ],
+  "rationale": "Diffuse midline gliomas arise in CNS midline structures (thalamus, pons/brainstem, spinal cord); mapped to cerebrum/thalamus (C710), brain stem (C717) and spinal cord (C720), a proper subset excluding the lateral lobes, ventricle, cerebellum and cauda equina.",
+  "source": "https://en.wikipedia.org/wiki/Diffuse_midline_glioma",
+  "source_name": "Wikipedia (WHO-based) - Diffuse midline glioma"
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse midline glioma, H3-wildtype with EZHIP overexpression",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C710",
+   "C717",
+   "C720"
+  ],
+  "site_subset_labels": [
+   "Cerebrum",
+   "Brain stem",
+   "Spinal cord"
+  ],
+  "rationale": "Diffuse midline gliomas arise in CNS midline structures (thalamus, pons/brainstem, spinal cord); mapped to cerebrum/thalamus (C710), brain stem (C717) and spinal cord (C720), a proper subset excluding the lateral lobes, ventricle, cerebellum and cauda equina.",
+  "source": "https://en.wikipedia.org/wiki/Diffuse_midline_glioma",
+  "source_name": "Wikipedia (WHO-based) - Diffuse midline glioma"
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse midline glioma, H3.1 or H3.2 K27–mutant",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C710",
+   "C717",
+   "C720"
+  ],
+  "site_subset_labels": [
+   "Cerebrum",
+   "Brain stem",
+   "Spinal cord"
+  ],
+  "rationale": "Diffuse midline gliomas arise in CNS midline structures (thalamus, pons/brainstem, spinal cord); mapped to cerebrum/thalamus (C710), brain stem (C717) and spinal cord (C720), a proper subset excluding the lateral lobes, ventricle, cerebellum and cauda equina.",
+  "source": "https://en.wikipedia.org/wiki/Diffuse_midline_glioma",
+  "source_name": "Wikipedia (WHO-based) - Diffuse midline glioma"
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse midline glioma, H3.3 K27–mutant",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C710",
+   "C717",
+   "C720"
+  ],
+  "site_subset_labels": [
+   "Cerebrum",
+   "Brain stem",
+   "Spinal cord"
+  ],
+  "rationale": "Diffuse midline gliomas arise in CNS midline structures (thalamus, pons/brainstem, spinal cord); mapped to cerebrum/thalamus (C710), brain stem (C717) and spinal cord (C720), a proper subset excluding the lateral lobes, ventricle, cerebellum and cauda equina.",
+  "source": "https://en.wikipedia.org/wiki/Diffuse_midline_glioma",
+  "source_name": "Wikipedia (WHO-based) - Diffuse midline glioma"
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse midline glioma, NOS",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C710",
+   "C717",
+   "C720"
+  ],
+  "site_subset_labels": [
+   "Cerebrum",
+   "Brain stem",
+   "Spinal cord"
+  ],
+  "rationale": "Diffuse midline gliomas arise in CNS midline structures (thalamus, pons/brainstem, spinal cord); mapped to cerebrum/thalamus (C710), brain stem (C717) and spinal cord (C720), a proper subset excluding the lateral lobes, ventricle, cerebellum and cauda equina.",
+  "source": "https://en.wikipedia.org/wiki/Diffuse_midline_glioma",
+  "source_name": "Wikipedia (WHO-based) - Diffuse midline glioma"
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse pediatric-type high-grade glioma MYCN",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Diffuse paediatric-type high-grade glioma, H3-/IDH-wildtype (and its MYCN/RTK1/RTK2 methylation subtypes) occurs in both the supratentorial hemispheres and infratentorial/brainstem-midline sites, so it is not restricted to a proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse pediatric-type high-grade glioma RTK1",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Diffuse paediatric-type high-grade glioma, H3-/IDH-wildtype (and its MYCN/RTK1/RTK2 methylation subtypes) occurs in both the supratentorial hemispheres and infratentorial/brainstem-midline sites, so it is not restricted to a proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse pediatric-type high-grade glioma RTK2",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Diffuse paediatric-type high-grade glioma, H3-/IDH-wildtype (and its MYCN/RTK1/RTK2 methylation subtypes) occurs in both the supratentorial hemispheres and infratentorial/brainstem-midline sites, so it is not restricted to a proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse pediatric-type high-grade glioma, H3-wildtype and IDH-wildtype",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Diffuse paediatric-type high-grade glioma, H3-/IDH-wildtype (and its MYCN/RTK1/RTK2 methylation subtypes) occurs in both the supratentorial hemispheres and infratentorial/brainstem-midline sites, so it is not restricted to a proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9385/3",
+  "term": "Infant-type hemispheric glioma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714"
+  ],
+  "site_subset_labels": [
+   "Cerebrum",
+   "Frontal lobe",
+   "Temporal lobe",
+   "Parietal lobe",
+   "Occipital lobe"
+  ],
+  "rationale": "Infant-type hemispheric glioma arises in the cerebral hemispheres (supratentorial) by definition; restricted to hemispheric subsites, a proper subset excluding ventricle, cerebellum, brainstem and spinal cord.",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9763979/",
+  "source_name": "Pathologica - Paediatric-type diffuse HGG in 5th CNS WHO Classification"
+ },
+ {
+  "code": "9385/3",
+  "term": "Infant-type hemispheric glioma, ALK-altered",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714"
+  ],
+  "site_subset_labels": [
+   "Cerebrum",
+   "Frontal lobe",
+   "Temporal lobe",
+   "Parietal lobe",
+   "Occipital lobe"
+  ],
+  "rationale": "Infant-type hemispheric glioma arises in the cerebral hemispheres (supratentorial) by definition; restricted to hemispheric subsites, a proper subset excluding ventricle, cerebellum, brainstem and spinal cord.",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9763979/",
+  "source_name": "Pathologica - Paediatric-type diffuse HGG in 5th CNS WHO Classification"
+ },
+ {
+  "code": "9385/3",
+  "term": "Infant-type hemispheric glioma, MET-altered",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714"
+  ],
+  "site_subset_labels": [
+   "Cerebrum",
+   "Frontal lobe",
+   "Temporal lobe",
+   "Parietal lobe",
+   "Occipital lobe"
+  ],
+  "rationale": "Infant-type hemispheric glioma arises in the cerebral hemispheres (supratentorial) by definition; restricted to hemispheric subsites, a proper subset excluding ventricle, cerebellum, brainstem and spinal cord.",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9763979/",
+  "source_name": "Pathologica - Paediatric-type diffuse HGG in 5th CNS WHO Classification"
+ },
+ {
+  "code": "9385/3",
+  "term": "Infant-type hemispheric glioma, NTRK-altered",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714"
+  ],
+  "site_subset_labels": [
+   "Cerebrum",
+   "Frontal lobe",
+   "Temporal lobe",
+   "Parietal lobe",
+   "Occipital lobe"
+  ],
+  "rationale": "Infant-type hemispheric glioma arises in the cerebral hemispheres (supratentorial) by definition; restricted to hemispheric subsites, a proper subset excluding ventricle, cerebellum, brainstem and spinal cord.",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9763979/",
+  "source_name": "Pathologica - Paediatric-type diffuse HGG in 5th CNS WHO Classification"
+ },
+ {
+  "code": "9385/3",
+  "term": "Infant-type hemispheric glioma, ROS1-altered",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714"
+  ],
+  "site_subset_labels": [
+   "Cerebrum",
+   "Frontal lobe",
+   "Temporal lobe",
+   "Parietal lobe",
+   "Occipital lobe"
+  ],
+  "rationale": "Infant-type hemispheric glioma arises in the cerebral hemispheres (supratentorial) by definition; restricted to hemispheric subsites, a proper subset excluding ventricle, cerebellum, brainstem and spinal cord.",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9763979/",
+  "source_name": "Pathologica - Paediatric-type diffuse HGG in 5th CNS WHO Classification"
+ },
+ {
+  "code": "9390/0",
+  "term": "Choroid plexus papilloma, NOS",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C715"
+  ],
+  "site_subset_labels": [
+   "Ventricle, NOS"
+  ],
+  "rationale": "Choroid plexus tumors are intraventricular neoplasms of choroid plexus epithelium arising within the lateral/third/fourth ventricles; restricted to the ventricle (C715), a proper subset of the ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10552314/",
+  "source_name": "World J Oncol / PMC - Choroid plexus tumors spectrum"
+ },
+ {
+  "code": "9390/1",
+  "term": "Atypical choroid plexus papilloma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C715"
+  ],
+  "site_subset_labels": [
+   "Ventricle, NOS"
+  ],
+  "rationale": "Choroid plexus tumors are intraventricular neoplasms of choroid plexus epithelium arising within the lateral/third/fourth ventricles; restricted to the ventricle (C715), a proper subset of the ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10552314/",
+  "source_name": "PMC - Choroid plexus tumors spectrum"
+ },
+ {
+  "code": "9390/3",
+  "term": "Choroid plexus carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C715"
+  ],
+  "site_subset_labels": [
+   "Ventricle, NOS"
+  ],
+  "rationale": "Choroid plexus tumors are intraventricular neoplasms of choroid plexus epithelium arising within the lateral/third/fourth ventricles; restricted to the ventricle (C715), a proper subset of the ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10552314/",
+  "source_name": "PMC - Choroid plexus tumors spectrum"
+ },
+ {
+  "code": "9390/3",
+  "term": "Choroid plexus papilloma, anaplastic",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C715"
+  ],
+  "site_subset_labels": [
+   "Ventricle, NOS"
+  ],
+  "rationale": "Choroid plexus tumors are intraventricular neoplasms of choroid plexus epithelium arising within the lateral/third/fourth ventricles; restricted to the ventricle (C715), a proper subset of the ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10552314/",
+  "source_name": "PMC - Choroid plexus tumors spectrum"
+ },
+ {
+  "code": "9390/3",
+  "term": "Choroid plexus papilloma, malignant",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C715"
+  ],
+  "site_subset_labels": [
+   "Ventricle, NOS"
+  ],
+  "rationale": "Choroid plexus tumors are intraventricular neoplasms of choroid plexus epithelium arising within the lateral/third/fourth ventricles; restricted to the ventricle (C715), a proper subset of the ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10552314/",
+  "source_name": "PMC - Choroid plexus tumors spectrum"
+ },
+ {
+  "code": "9391/3",
+  "term": "Cellular ependymoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic/morphologic ependymoma variant occurring throughout the neuraxis (and validated at extraneural sites in this code's ceiling); not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9391/3",
+  "term": "Clear cell ependymoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic/morphologic ependymoma variant occurring throughout the neuraxis (and validated at extraneural sites in this code's ceiling); not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9391/3",
+  "term": "Ependymoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic/morphologic ependymoma variant occurring throughout the neuraxis (and validated at extraneural sites in this code's ceiling); not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9391/3",
+  "term": "Ependymoma, posterior fossa",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C716",
+   "C717"
+  ],
+  "site_subset_labels": [
+   "Cerebellum, NOS",
+   "Brain stem"
+  ],
+  "rationale": "By name a posterior-fossa tumor (cerebellum/fourth-ventricle/brainstem region); mapped to cerebellum (C716) and brain stem (C717), a proper subset of the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10242666/",
+  "source_name": "Front Pediatr / PMC - Classification and neuroimaging of ependymal tumors"
+ },
+ {
+  "code": "9391/3",
+  "term": "Ependymoma, spinal",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C720",
+   "C721"
+  ],
+  "site_subset_labels": [
+   "Spinal cord",
+   "Cauda equina"
+  ],
+  "rationale": "Spinal ependymoma arises from ependymal remnants of the spinal cord central canal; mapped to spinal cord (C720) and cauda equina (C721), a proper subset of the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10242666/",
+  "source_name": "PMC - Classification and neuroimaging of ependymal tumors"
+ },
+ {
+  "code": "9391/3",
+  "term": "Ependymoma, supratentorial",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715"
+  ],
+  "site_subset_labels": [
+   "Cerebrum",
+   "Frontal lobe",
+   "Temporal lobe",
+   "Parietal lobe",
+   "Occipital lobe",
+   "Ventricle, NOS"
+  ],
+  "rationale": "Supratentorial ependymoma is intra-/paraventricular or hemispheric above the tentorium; mapped to cerebral hemisphere lobes (C710-C714) and ventricle (C715), a proper subset excluding cerebellum, brainstem and spinal cord.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10242666/",
+  "source_name": "PMC - Classification and neuroimaging of ependymal tumors"
+ },
+ {
+  "code": "9391/3",
+  "term": "Epithelial ependymoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic/morphologic ependymoma variant occurring throughout the neuraxis (and validated at extraneural sites in this code's ceiling); not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9391/3",
+  "term": "Posterior fossa ependymoma, NOS",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C716",
+   "C717"
+  ],
+  "site_subset_labels": [
+   "Cerebellum, NOS",
+   "Brain stem"
+  ],
+  "rationale": "Posterior-fossa ependymoma by name; mapped to cerebellum (C716) and brain stem (C717), a proper subset of the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10242666/",
+  "source_name": "Front Pediatr / PMC - Classification and neuroimaging of ependymal tumors"
+ },
+ {
+  "code": "9391/3",
+  "term": "Sellar ependymoma",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "\"Sellar ependymoma\" is not a standard WHO CNS site subtype; the sellar region has no dedicated C-code within this ceiling, so a valid in-ceiling subset cannot be assigned.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9391/3",
+  "term": "Spinal ependymoma, NOS",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C720",
+   "C721"
+  ],
+  "site_subset_labels": [
+   "Spinal cord",
+   "Cauda equina"
+  ],
+  "rationale": "Spinal ependymoma arises in the spinal cord; mapped to spinal cord (C720) and cauda equina (C721), a proper subset of the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10242666/",
+  "source_name": "PMC - Classification and neuroimaging of ependymal tumors"
+ },
+ {
+  "code": "9391/3",
+  "term": "Supratentorial ependymoma, NOS",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715"
+  ],
+  "site_subset_labels": [
+   "Cerebrum",
+   "Frontal lobe",
+   "Temporal lobe",
+   "Parietal lobe",
+   "Occipital lobe",
+   "Ventricle, NOS"
+  ],
+  "rationale": "Supratentorial ependymoma occupies the supratentorial compartment (hemispheres/lateral ventricle); mapped to C710-C715, a proper subset of the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10242666/",
+  "source_name": "PMC - Classification and neuroimaging of ependymal tumors"
+ },
+ {
+  "code": "9391/3",
+  "term": "Tanycytic ependymoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic/morphologic ependymoma variant occurring throughout the neuraxis (and validated at extraneural sites in this code's ceiling); not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9392/3",
+  "term": "Ependymoblastoma",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Ependymoblastoma is an obsolete embryonal-tumor term (now within ETMR); its historic supratentorial/periventricular association is not reliably mappable to a defined in-ceiling subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9392/3",
+  "term": "Ependymoma, anaplastic",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Anaplastic (grade 3) ependymoma occurs throughout the neuraxis (supratentorial, posterior fossa, spinal); not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9393/3",
+  "term": "Papillary ependymoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Papillary ependymoma is a morphologic pattern reported along ventricular walls and within the spinal cord (i.e., across its ceiling sites); not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9394/1",
+  "term": "Myxopapillary ependymoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C720",
+   "C721"
+  ],
+  "site_subset_labels": [
+   "Spinal cord",
+   "Cauda equina"
+  ],
+  "rationale": "Myxopapillary ependymoma occurs almost exclusively in the filum terminale/conus medullaris/cauda equina of the lumbosacral spine; mapped to spinal cord (C720) and cauda equina (C721), a proper subset excluding brain stem/brain NOS/nervous system NOS.",
+  "source": "https://radiopaedia.org/articles/myxopapillary-ependymoma-1?lang=us",
+  "source_name": "Radiopaedia - Myxopapillary ependymoma"
+ },
+ {
+  "code": "9396/3",
+  "term": "Ependymoma, RELA fusion positive",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "ZFTA(RELA)-fusion ependymomas are supratentorial; the ceiling (C710-C715) is already entirely supratentorial, and these tumors occur across the cerebral hemispheres and lateral ventricle, so there is no proper subset within the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9396/3",
+  "term": "Posterior fossa group A (PFA) ependymoma",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "PFA ependymoma is by definition a posterior-fossa (cerebellum/brainstem) tumor, but the provided ceiling (C710-C715) contains only supratentorial subsites; the tumor's true site is not represented in the ceiling, so no valid in-ceiling subset can be assigned.",
+  "source": "",
+  "source_name": ""
+ }
+]

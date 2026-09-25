@@ -1,0 +1,788 @@
+[
+ {
+  "code": "9473/3",
+  "term": "CNS embryonal tumor, NEC/NOS",
+  "ceiling_count": 22,
+  "ceiling_codes": [
+   "C540",
+   "C541",
+   "C542",
+   "C543",
+   "C548",
+   "C549",
+   "C559",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721",
+   "C728",
+   "C729",
+   "C753"
+  ]
+ },
+ {
+  "code": "9473/3",
+  "term": "CNS embryonal tumor, NOS",
+  "ceiling_count": 22,
+  "ceiling_codes": [
+   "C540",
+   "C541",
+   "C542",
+   "C543",
+   "C548",
+   "C549",
+   "C559",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721",
+   "C728",
+   "C729",
+   "C753"
+  ]
+ },
+ {
+  "code": "9473/3",
+  "term": "CPNET",
+  "ceiling_count": 22,
+  "ceiling_codes": [
+   "C540",
+   "C541",
+   "C542",
+   "C543",
+   "C548",
+   "C549",
+   "C559",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721",
+   "C728",
+   "C729",
+   "C753"
+  ]
+ },
+ {
+  "code": "9473/3",
+  "term": "Central primitive neuroectodermal tumor",
+  "ceiling_count": 22,
+  "ceiling_codes": [
+   "C540",
+   "C541",
+   "C542",
+   "C543",
+   "C548",
+   "C549",
+   "C559",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721",
+   "C728",
+   "C729",
+   "C753"
+  ]
+ },
+ {
+  "code": "9473/3",
+  "term": "Central primitive neuroectodermal tumor / CNS embryonal tumor",
+  "ceiling_count": 22,
+  "ceiling_codes": [
+   "C540",
+   "C541",
+   "C542",
+   "C543",
+   "C548",
+   "C549",
+   "C559",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721",
+   "C728",
+   "C729",
+   "C753"
+  ]
+ },
+ {
+  "code": "9473/3",
+  "term": "PNET, NOS",
+  "ceiling_count": 22,
+  "ceiling_codes": [
+   "C540",
+   "C541",
+   "C542",
+   "C543",
+   "C548",
+   "C549",
+   "C559",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721",
+   "C728",
+   "C729",
+   "C753"
+  ]
+ },
+ {
+  "code": "9473/3",
+  "term": "Primitive neuroectodermal tumor, NOS",
+  "ceiling_count": 22,
+  "ceiling_codes": [
+   "C540",
+   "C541",
+   "C542",
+   "C543",
+   "C548",
+   "C549",
+   "C559",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721",
+   "C728",
+   "C729",
+   "C753"
+  ]
+ },
+ {
+  "code": "9473/3",
+  "term": "Supratentorial PNET",
+  "ceiling_count": 22,
+  "ceiling_codes": [
+   "C540",
+   "C541",
+   "C542",
+   "C543",
+   "C548",
+   "C549",
+   "C559",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721",
+   "C728",
+   "C729",
+   "C753"
+  ]
+ },
+ {
+  "code": "9474/3",
+  "term": "Anaplastic medulloblastoma",
+  "ceiling_count": 4,
+  "ceiling_codes": [
+   "C716",
+   "C717",
+   "C719",
+   "C728"
+  ]
+ },
+ {
+  "code": "9474/3",
+  "term": "Large cell medulloblastoma",
+  "ceiling_count": 4,
+  "ceiling_codes": [
+   "C716",
+   "C717",
+   "C719",
+   "C728"
+  ]
+ },
+ {
+  "code": "9475/3",
+  "term": "Medulloblastoma, WNT-activated, NOS",
+  "ceiling_count": 5,
+  "ceiling_codes": [
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719"
+  ]
+ },
+ {
+  "code": "9475/3",
+  "term": "Medulloblastoma, WNT-activated, anaplastic type",
+  "ceiling_count": 5,
+  "ceiling_codes": [
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719"
+  ]
+ },
+ {
+  "code": "9475/3",
+  "term": "Medulloblastoma, WNT-activated, classic",
+  "ceiling_count": 5,
+  "ceiling_codes": [
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719"
+  ]
+ },
+ {
+  "code": "9475/3",
+  "term": "Medulloblastoma, WNT-activated, large cell type",
+  "ceiling_count": 5,
+  "ceiling_codes": [
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719"
+  ]
+ },
+ {
+  "code": "9476/3",
+  "term": "Medulloblastoma, SHH-activated and TP53-mutant",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C715",
+   "C716",
+   "C717"
+  ]
+ },
+ {
+  "code": "9477/3",
+  "term": "Medulloblastoma, group 3",
+  "ceiling_count": 4,
+  "ceiling_codes": [
+   "C715",
+   "C716",
+   "C717",
+   "C719"
+  ]
+ },
+ {
+  "code": "9477/3",
+  "term": "Medulloblastoma, group 4",
+  "ceiling_count": 4,
+  "ceiling_codes": [
+   "C715",
+   "C716",
+   "C717",
+   "C719"
+  ]
+ },
+ {
+  "code": "9477/3",
+  "term": "Medulloblastoma, non-WNT/non-SHH",
+  "ceiling_count": 4,
+  "ceiling_codes": [
+   "C715",
+   "C716",
+   "C717",
+   "C719"
+  ]
+ },
+ {
+  "code": "9478/3",
+  "term": "Embryonal tumor with multilayered rosettes with C19MC-alteration",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9478/3",
+  "term": "Embryonal tumor with multilayered rosettes, C19MC-altered",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9478/3",
+  "term": "Embryonal tumor with multilayered rosettes, DICER1-mutated",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9478/3",
+  "term": "Embryonal tumor with multilayered rosettes, NOS",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9490/0",
+  "term": "Ganglioneuroma",
+  "ceiling_count": 4,
+  "ceiling_codes": [
+   "C717",
+   "C720",
+   "C721",
+   "C729"
+  ]
+ },
+ {
+  "code": "9490/0",
+  "term": "Ganglioneuroma of the choroid",
+  "ceiling_count": 4,
+  "ceiling_codes": [
+   "C717",
+   "C720",
+   "C721",
+   "C729"
+  ]
+ },
+ {
+  "code": "9490/0",
+  "term": "Mature ganglioneuroma",
+  "ceiling_count": 4,
+  "ceiling_codes": [
+   "C717",
+   "C720",
+   "C721",
+   "C729"
+  ]
+ },
+ {
+  "code": "9490/0",
+  "term": "Maturing ganglioneuroma",
+  "ceiling_count": 4,
+  "ceiling_codes": [
+   "C717",
+   "C720",
+   "C721",
+   "C729"
+  ]
+ },
+ {
+  "code": "9492/0",
+  "term": "Gangliocytoma, NOS",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C716",
+   "C717",
+   "C719",
+   "C720",
+   "C721",
+   "C753"
+  ]
+ },
+ {
+  "code": "9492/0",
+  "term": "Mixed gangliocytoma\u2013PitNET/adenoma",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C716",
+   "C717",
+   "C719",
+   "C720",
+   "C721",
+   "C753"
+  ]
+ },
+ {
+  "code": "9505/1",
+  "term": "Ganglioglioma, NOS",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721",
+   "C753"
+  ]
+ },
+ {
+  "code": "9505/1",
+  "term": "Glioneuroma",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721",
+   "C753"
+  ]
+ },
+ {
+  "code": "9505/1",
+  "term": "Neuroastrocytoma",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721",
+   "C753"
+  ]
+ },
+ {
+  "code": "9505/3",
+  "term": "Ganglioglioma, anaplastic",
+  "ceiling_count": 24,
+  "ceiling_codes": [
+   "C481",
+   "C482",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721",
+   "C740",
+   "C741",
+   "C749",
+   "C750",
+   "C751",
+   "C752",
+   "C753",
+   "C754",
+   "C755",
+   "C758",
+   "C759"
+  ]
+ },
+ {
+  "code": "9506/1",
+  "term": "Central neurocytoma",
+  "ceiling_count": 7,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716"
+  ]
+ },
+ {
+  "code": "9506/1",
+  "term": "Cerebellar liponeurocytoma",
+  "ceiling_count": 7,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716"
+  ]
+ },
+ {
+  "code": "9506/1",
+  "term": "Extraventricular neurocytoma",
+  "ceiling_count": 7,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716"
+  ]
+ },
+ {
+  "code": "9506/1",
+  "term": "Hypothalamic neurocytoma",
+  "ceiling_count": 7,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716"
+  ]
+ },
+ {
+  "code": "9506/1",
+  "term": "Lipomatous medulloblastoma",
+  "ceiling_count": 7,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716"
+  ]
+ },
+ {
+  "code": "9506/1",
+  "term": "Medullocytoma",
+  "ceiling_count": 7,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716"
+  ]
+ },
+ {
+  "code": "9506/1",
+  "term": "Neurocytoma of sellar region",
+  "ceiling_count": 7,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716"
+  ]
+ },
+ {
+  "code": "9506/1",
+  "term": "Neurocytoma, NOS",
+  "ceiling_count": 7,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716"
+  ]
+ },
+ {
+  "code": "9506/1",
+  "term": "Neurolipocytoma",
+  "ceiling_count": 7,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716"
+  ]
+ },
+ {
+  "code": "9506/1",
+  "term": "Sellar neurocytoma",
+  "ceiling_count": 7,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716"
+  ]
+ },
+ {
+  "code": "9508/3",
+  "term": "Atypical teratoid/rhabdoid tumor",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C720",
+   "C721",
+   "C729"
+  ]
+ },
+ {
+  "code": "9508/3",
+  "term": "Atypical teratoid/rhabdoid tumor MYC",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C720",
+   "C721",
+   "C729"
+  ]
+ },
+ {
+  "code": "9508/3",
+  "term": "Atypical teratoid/rhabdoid tumor SHH",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C720",
+   "C721",
+   "C729"
+  ]
+ }
+]

@@ -1,0 +1,802 @@
+[
+ {
+  "code": "9698/3",
+  "term": "Malignant lymphoma, lymphocytic, well differentiated, nodular",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Legacy Rappaport/Working-Formulation synonym for follicular lymphoma, a systemic nodal and extranodal B-cell lymphoma that occurs across essentially all of the code's valid sites; not restricted to a proper subset.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (Alaggio et al., Leukemia 2022) - follicular lymphoma"
+ },
+ {
+  "code": "9698/3",
+  "term": "Malignant lymphoma, noncleaved cell, follicular, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Legacy Rappaport/Working-Formulation synonym for follicular lymphoma, a systemic nodal and extranodal B-cell lymphoma that occurs across essentially all of the code's valid sites; not restricted to a proper subset.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (Alaggio et al., Leukemia 2022) - follicular lymphoma"
+ },
+ {
+  "code": "9699/3",
+  "term": "BALT lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic marginal zone / MALT (mucosa-associated / bronchus-associated lymphoid tissue) descriptor occurring across essentially all extranodal/mucosal sites in the ceiling; not restricted to a proper subset.",
+  "source": "https://www.nature.com/articles/s41375-022-01764-1",
+  "source_name": "ICC vs WHO-HAEM5 (Zamo et al., Leukemia 2022) - EMZL not classified by site except cutaneous"
+ },
+ {
+  "code": "9699/3",
+  "term": "Bronchus-associated lymphoid tissue lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic marginal zone / MALT (mucosa-associated / bronchus-associated lymphoid tissue) descriptor occurring across essentially all extranodal/mucosal sites in the ceiling; not restricted to a proper subset.",
+  "source": "https://www.nature.com/articles/s41375-022-01764-1",
+  "source_name": "ICC vs WHO-HAEM5 (Zamo et al., Leukemia 2022) - EMZL not classified by site except cutaneous"
+ },
+ {
+  "code": "9699/3",
+  "term": "Extranodal marginal zone lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic marginal zone / MALT (mucosa-associated / bronchus-associated lymphoid tissue) descriptor occurring across essentially all extranodal/mucosal sites in the ceiling; not restricted to a proper subset.",
+  "source": "https://www.nature.com/articles/s41375-022-01764-1",
+  "source_name": "ICC vs WHO-HAEM5 (Zamo et al., Leukemia 2022) - EMZL not classified by site except cutaneous"
+ },
+ {
+  "code": "9699/3",
+  "term": "Extranodal marginal zone lymphoma of MALT",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic marginal zone / MALT (mucosa-associated / bronchus-associated lymphoid tissue) descriptor occurring across essentially all extranodal/mucosal sites in the ceiling; not restricted to a proper subset.",
+  "source": "https://www.nature.com/articles/s41375-022-01764-1",
+  "source_name": "ICC vs WHO-HAEM5 (Zamo et al., Leukemia 2022) - EMZL not classified by site except cutaneous"
+ },
+ {
+  "code": "9699/3",
+  "term": "Extranodal marginal zone lymphoma of mucosa-associated lymphoid tissue",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic marginal zone / MALT (mucosa-associated / bronchus-associated lymphoid tissue) descriptor occurring across essentially all extranodal/mucosal sites in the ceiling; not restricted to a proper subset.",
+  "source": "https://www.nature.com/articles/s41375-022-01764-1",
+  "source_name": "ICC vs WHO-HAEM5 (Zamo et al., Leukemia 2022) - EMZL not classified by site except cutaneous"
+ },
+ {
+  "code": "9699/3",
+  "term": "Extranodal marginal zone lymphoma of mucosa-associated lymphoid tissue (MALT lymphoma)",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic marginal zone / MALT (mucosa-associated / bronchus-associated lymphoid tissue) descriptor occurring across essentially all extranodal/mucosal sites in the ceiling; not restricted to a proper subset.",
+  "source": "https://www.nature.com/articles/s41375-022-01764-1",
+  "source_name": "ICC vs WHO-HAEM5 (Zamo et al., Leukemia 2022) - EMZL not classified by site except cutaneous"
+ },
+ {
+  "code": "9699/3",
+  "term": "Heavy chain class-switched subtype of primary cutaneous marginal zone lymphoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "site_subset_labels": [
+   "Skin of lip",
+   "Skin of eyelid",
+   "Skin of ear/external canal",
+   "Skin of face other/NOS",
+   "Skin of scalp and neck",
+   "Skin of trunk",
+   "Skin of upper limb/shoulder",
+   "Skin of lower limb/hip",
+   "Overlapping lesion of skin",
+   "Skin NOS"
+  ],
+  "rationale": "Primary cutaneous marginal zone lymphoma (including its heavy-chain class-switched, non-class-switched/IgM subtypes and the SALT synonym) is recognized in WHO-HAEM5 as a distinct entity confined to the skin, restricted to skin at diagnosis with rare extracutaneous spread.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (Alaggio et al., Leukemia 2022) - PCMZL designated a separate skin-restricted entity"
+ },
+ {
+  "code": "9699/3",
+  "term": "IgM-positive non\u2013class-switched subtype of primary cutaneous marginal zone lymphoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "site_subset_labels": [
+   "Skin of lip",
+   "Skin of eyelid",
+   "Skin of ear/external canal",
+   "Skin of face other/NOS",
+   "Skin of scalp and neck",
+   "Skin of trunk",
+   "Skin of upper limb/shoulder",
+   "Skin of lower limb/hip",
+   "Overlapping lesion of skin",
+   "Skin NOS"
+  ],
+  "rationale": "Primary cutaneous marginal zone lymphoma (including its heavy-chain class-switched, non-class-switched/IgM subtypes and the SALT synonym) is recognized in WHO-HAEM5 as a distinct entity confined to the skin, restricted to skin at diagnosis with rare extracutaneous spread.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (Alaggio et al., Leukemia 2022) - PCMZL designated a separate skin-restricted entity"
+ },
+ {
+  "code": "9699/3",
+  "term": "MALT lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic marginal zone / MALT (mucosa-associated / bronchus-associated lymphoid tissue) descriptor occurring across essentially all extranodal/mucosal sites in the ceiling; not restricted to a proper subset.",
+  "source": "https://www.nature.com/articles/s41375-022-01764-1",
+  "source_name": "ICC vs WHO-HAEM5 (Zamo et al., Leukemia 2022) - EMZL not classified by site except cutaneous"
+ },
+ {
+  "code": "9699/3",
+  "term": "MALT lymphoma of the dura",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C700",
+   "C701",
+   "C709"
+  ],
+  "site_subset_labels": [
+   "Cerebral meninges",
+   "Spinal meninges",
+   "Meninges NOS"
+  ],
+  "rationale": "MALT lymphoma of the dura is a primary CNS marginal zone lymphoma arising in the dura mater/meninges; restricted to the meninges, a proper subset of the code ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9217145/",
+  "source_name": "NMC Case Rep J 2022 (PMC9217145) - CNS MALT lymphoma arises in dura mater"
+ },
+ {
+  "code": "9699/3",
+  "term": "Marginal zone B-cell lymphoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic marginal zone / MALT (mucosa-associated / bronchus-associated lymphoid tissue) descriptor occurring across essentially all extranodal/mucosal sites in the ceiling; not restricted to a proper subset.",
+  "source": "https://www.nature.com/articles/s41375-022-01764-1",
+  "source_name": "ICC vs WHO-HAEM5 (Zamo et al., Leukemia 2022) - EMZL not classified by site except cutaneous"
+ },
+ {
+  "code": "9699/3",
+  "term": "Marginal zone lymphoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic marginal zone / MALT (mucosa-associated / bronchus-associated lymphoid tissue) descriptor occurring across essentially all extranodal/mucosal sites in the ceiling; not restricted to a proper subset.",
+  "source": "https://www.nature.com/articles/s41375-022-01764-1",
+  "source_name": "ICC vs WHO-HAEM5 (Zamo et al., Leukemia 2022) - EMZL not classified by site except cutaneous"
+ },
+ {
+  "code": "9699/3",
+  "term": "Monocytoid B-cell lymphoma",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Historically 'monocytoid B-cell lymphoma' equated with nodal MZL, but monocytoid morphology is also a defining feature of extranodal MALT lymphomas at many sites; literature does not cleanly restrict this term to one anatomic subset.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/10319381/",
+  "source_name": "Nathwani et al. (PMID10319381) - nodal monocytoid B-cell lymphoma = nodal MZL"
+ },
+ {
+  "code": "9699/3",
+  "term": "Mucosa-associated lymphoid tissue lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic marginal zone / MALT (mucosa-associated / bronchus-associated lymphoid tissue) descriptor occurring across essentially all extranodal/mucosal sites in the ceiling; not restricted to a proper subset.",
+  "source": "https://www.nature.com/articles/s41375-022-01764-1",
+  "source_name": "ICC vs WHO-HAEM5 (Zamo et al., Leukemia 2022) - EMZL not classified by site except cutaneous"
+ },
+ {
+  "code": "9699/3",
+  "term": "Nodal marginal zone lymphoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ],
+  "site_subset_labels": [
+   "LN of head/face/neck",
+   "Intrathoracic LN",
+   "Intra-abdominal LN",
+   "LN of axilla/arm",
+   "LN of inguinal/leg",
+   "LN of pelvis",
+   "Overlapping LN",
+   "LN NOS"
+  ],
+  "rationale": "Nodal marginal zone lymphoma (and its pediatric variant) is defined by WHO as a primary NODAL B-cell lymphoma presenting in lymph nodes without extranodal or splenic disease; restricted to lymph nodes, a proper subset of the ceiling.",
+  "source": "https://www.cancernetwork.com/view/nodal-marginal-zone-b-cell-lymphoma-diagnostic-and-therapeutic-dilemma",
+  "source_name": "CancerNetwork/WHO - NMZL is a primary nodal lymphoma localized to lymph nodes"
+ },
+ {
+  "code": "9699/3",
+  "term": "Primary choroidal lymphoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C690",
+   "C691",
+   "C692",
+   "C693",
+   "C694",
+   "C695",
+   "C696",
+   "C698",
+   "C699"
+  ],
+  "site_subset_labels": [
+   "Eye NOS",
+   "Conjunctiva",
+   "Cornea NOS",
+   "Retina",
+   "Choroid",
+   "Ciliary body",
+   "Lacrimal gland",
+   "Overlapping lesion of eye",
+   "Eye NOS"
+  ],
+  "rationale": "Primary choroidal (uveal) lymphoma is an intraocular MALT/marginal zone lymphoma of the eye; restricted to ocular sites, a proper subset of the ceiling.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/15586289/",
+  "source_name": "Coupland et al., Graefes Arch Clin Exp Ophthalmol 2005 (PMID15586289) - primary uveal EMZL"
+ },
+ {
+  "code": "9699/3",
+  "term": "Primary cutaneous marginal zone lymphoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "site_subset_labels": [
+   "Skin of lip",
+   "Skin of eyelid",
+   "Skin of ear/external canal",
+   "Skin of face other/NOS",
+   "Skin of scalp and neck",
+   "Skin of trunk",
+   "Skin of upper limb/shoulder",
+   "Skin of lower limb/hip",
+   "Overlapping lesion of skin",
+   "Skin NOS"
+  ],
+  "rationale": "Primary cutaneous marginal zone lymphoma (including its heavy-chain class-switched, non-class-switched/IgM subtypes and the SALT synonym) is recognized in WHO-HAEM5 as a distinct entity confined to the skin, restricted to skin at diagnosis with rare extracutaneous spread.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (Alaggio et al., Leukemia 2022) - PCMZL designated a separate skin-restricted entity"
+ },
+ {
+  "code": "9699/3",
+  "term": "Primary cutaneous marginal zone lymphoma (PCMZL)",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "site_subset_labels": [
+   "Skin of lip",
+   "Skin of eyelid",
+   "Skin of ear/external canal",
+   "Skin of face other/NOS",
+   "Skin of scalp and neck",
+   "Skin of trunk",
+   "Skin of upper limb/shoulder",
+   "Skin of lower limb/hip",
+   "Overlapping lesion of skin",
+   "Skin NOS"
+  ],
+  "rationale": "Primary cutaneous marginal zone lymphoma (including its heavy-chain class-switched, non-class-switched/IgM subtypes and the SALT synonym) is recognized in WHO-HAEM5 as a distinct entity confined to the skin, restricted to skin at diagnosis with rare extracutaneous spread.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (Alaggio et al., Leukemia 2022) - PCMZL designated a separate skin-restricted entity"
+ },
+ {
+  "code": "9699/3",
+  "term": "Primary cutaneous marginal zone lymphoma, IgM-positive non-class-switched subtype",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "site_subset_labels": [
+   "Skin of lip",
+   "Skin of eyelid",
+   "Skin of ear/external canal",
+   "Skin of face other/NOS",
+   "Skin of scalp and neck",
+   "Skin of trunk",
+   "Skin of upper limb/shoulder",
+   "Skin of lower limb/hip",
+   "Overlapping lesion of skin",
+   "Skin NOS"
+  ],
+  "rationale": "Primary cutaneous marginal zone lymphoma (including its heavy-chain class-switched, non-class-switched/IgM subtypes and the SALT synonym) is recognized in WHO-HAEM5 as a distinct entity confined to the skin, restricted to skin at diagnosis with rare extracutaneous spread.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (Alaggio et al., Leukemia 2022) - PCMZL designated a separate skin-restricted entity"
+ },
+ {
+  "code": "9699/3",
+  "term": "Primary cutaneous marginal zone lymphoma, heavy chain class-switched form",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "site_subset_labels": [
+   "Skin of lip",
+   "Skin of eyelid",
+   "Skin of ear/external canal",
+   "Skin of face other/NOS",
+   "Skin of scalp and neck",
+   "Skin of trunk",
+   "Skin of upper limb/shoulder",
+   "Skin of lower limb/hip",
+   "Overlapping lesion of skin",
+   "Skin NOS"
+  ],
+  "rationale": "Primary cutaneous marginal zone lymphoma (including its heavy-chain class-switched, non-class-switched/IgM subtypes and the SALT synonym) is recognized in WHO-HAEM5 as a distinct entity confined to the skin, restricted to skin at diagnosis with rare extracutaneous spread.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (Alaggio et al., Leukemia 2022) - PCMZL designated a separate skin-restricted entity"
+ },
+ {
+  "code": "9699/3",
+  "term": "Primary cutaneous marginal zone lymphoma, heavy chain class-switched form (IgG+, IgA+, or IgE+)",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "site_subset_labels": [
+   "Skin of lip",
+   "Skin of eyelid",
+   "Skin of ear/external canal",
+   "Skin of face other/NOS",
+   "Skin of scalp and neck",
+   "Skin of trunk",
+   "Skin of upper limb/shoulder",
+   "Skin of lower limb/hip",
+   "Overlapping lesion of skin",
+   "Skin NOS"
+  ],
+  "rationale": "Primary cutaneous marginal zone lymphoma (including its heavy-chain class-switched, non-class-switched/IgM subtypes and the SALT synonym) is recognized in WHO-HAEM5 as a distinct entity confined to the skin, restricted to skin at diagnosis with rare extracutaneous spread.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (Alaggio et al., Leukemia 2022) - PCMZL designated a separate skin-restricted entity"
+ },
+ {
+  "code": "9699/3",
+  "term": "Primary cutaneous marginal zone lymphoma, heavy chain class-switched subtype",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "site_subset_labels": [
+   "Skin of lip",
+   "Skin of eyelid",
+   "Skin of ear/external canal",
+   "Skin of face other/NOS",
+   "Skin of scalp and neck",
+   "Skin of trunk",
+   "Skin of upper limb/shoulder",
+   "Skin of lower limb/hip",
+   "Overlapping lesion of skin",
+   "Skin NOS"
+  ],
+  "rationale": "Primary cutaneous marginal zone lymphoma (including its heavy-chain class-switched, non-class-switched/IgM subtypes and the SALT synonym) is recognized in WHO-HAEM5 as a distinct entity confined to the skin, restricted to skin at diagnosis with rare extracutaneous spread.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (Alaggio et al., Leukemia 2022) - PCMZL designated a separate skin-restricted entity"
+ },
+ {
+  "code": "9699/3",
+  "term": "Primary cutaneous marginal zone lymphoma, non-class-switched form",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "site_subset_labels": [
+   "Skin of lip",
+   "Skin of eyelid",
+   "Skin of ear/external canal",
+   "Skin of face other/NOS",
+   "Skin of scalp and neck",
+   "Skin of trunk",
+   "Skin of upper limb/shoulder",
+   "Skin of lower limb/hip",
+   "Overlapping lesion of skin",
+   "Skin NOS"
+  ],
+  "rationale": "Primary cutaneous marginal zone lymphoma (including its heavy-chain class-switched, non-class-switched/IgM subtypes and the SALT synonym) is recognized in WHO-HAEM5 as a distinct entity confined to the skin, restricted to skin at diagnosis with rare extracutaneous spread.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (Alaggio et al., Leukemia 2022) - PCMZL designated a separate skin-restricted entity"
+ },
+ {
+  "code": "9699/3",
+  "term": "Primary cutaneous marginal zone lymphoma, non-class-switched form (IgM+)",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "site_subset_labels": [
+   "Skin of lip",
+   "Skin of eyelid",
+   "Skin of ear/external canal",
+   "Skin of face other/NOS",
+   "Skin of scalp and neck",
+   "Skin of trunk",
+   "Skin of upper limb/shoulder",
+   "Skin of lower limb/hip",
+   "Overlapping lesion of skin",
+   "Skin NOS"
+  ],
+  "rationale": "Primary cutaneous marginal zone lymphoma (including its heavy-chain class-switched, non-class-switched/IgM subtypes and the SALT synonym) is recognized in WHO-HAEM5 as a distinct entity confined to the skin, restricted to skin at diagnosis with rare extracutaneous spread.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (Alaggio et al., Leukemia 2022) - PCMZL designated a separate skin-restricted entity"
+ },
+ {
+  "code": "9699/3",
+  "term": "Primary cutaneous marginal zone lymphoproliferative disorder",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "site_subset_labels": [
+   "Skin of lip",
+   "Skin of eyelid",
+   "Skin of ear/external canal",
+   "Skin of face other/NOS",
+   "Skin of scalp and neck",
+   "Skin of trunk",
+   "Skin of upper limb/shoulder",
+   "Skin of lower limb/hip",
+   "Overlapping lesion of skin",
+   "Skin NOS"
+  ],
+  "rationale": "Primary cutaneous marginal zone lymphoma (including its heavy-chain class-switched, non-class-switched/IgM subtypes and the SALT synonym) is recognized in WHO-HAEM5 as a distinct entity confined to the skin, restricted to skin at diagnosis with rare extracutaneous spread.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (Alaggio et al., Leukemia 2022) - PCMZL designated a separate skin-restricted entity"
+ },
+ {
+  "code": "9699/3",
+  "term": "SALT lymphoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "site_subset_labels": [
+   "Skin of lip",
+   "Skin of eyelid",
+   "Skin of ear/external canal",
+   "Skin of face other/NOS",
+   "Skin of scalp and neck",
+   "Skin of trunk",
+   "Skin of upper limb/shoulder",
+   "Skin of lower limb/hip",
+   "Overlapping lesion of skin",
+   "Skin NOS"
+  ],
+  "rationale": "Primary cutaneous marginal zone lymphoma (including its heavy-chain class-switched, non-class-switched/IgM subtypes and the SALT synonym) is recognized in WHO-HAEM5 as a distinct entity confined to the skin, restricted to skin at diagnosis with rare extracutaneous spread.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (Alaggio et al., Leukemia 2022) - PCMZL designated a separate skin-restricted entity"
+ },
+ {
+  "code": "9699/3",
+  "term": "Skin-associated lymphoid tissue lymphoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "site_subset_labels": [
+   "Skin of lip",
+   "Skin of eyelid",
+   "Skin of ear/external canal",
+   "Skin of face other/NOS",
+   "Skin of scalp and neck",
+   "Skin of trunk",
+   "Skin of upper limb/shoulder",
+   "Skin of lower limb/hip",
+   "Overlapping lesion of skin",
+   "Skin NOS"
+  ],
+  "rationale": "Primary cutaneous marginal zone lymphoma (including its heavy-chain class-switched, non-class-switched/IgM subtypes and the SALT synonym) is recognized in WHO-HAEM5 as a distinct entity confined to the skin, restricted to skin at diagnosis with rare extracutaneous spread.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (Alaggio et al., Leukemia 2022) - PCMZL designated a separate skin-restricted entity"
+ },
+ {
+  "code": "9699/3",
+  "term": "pediatric nodal marginal zone lymphoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ],
+  "site_subset_labels": [
+   "LN of head/face/neck",
+   "Intrathoracic LN",
+   "Intra-abdominal LN",
+   "LN of axilla/arm",
+   "LN of inguinal/leg",
+   "LN of pelvis",
+   "Overlapping LN",
+   "LN NOS"
+  ],
+  "rationale": "Nodal marginal zone lymphoma (and its pediatric variant) is defined by WHO as a primary NODAL B-cell lymphoma presenting in lymph nodes without extranodal or splenic disease; restricted to lymph nodes, a proper subset of the ceiling.",
+  "source": "https://www.cancernetwork.com/view/nodal-marginal-zone-b-cell-lymphoma-diagnostic-and-therapeutic-dilemma",
+  "source_name": "CancerNetwork/WHO - NMZL is a primary nodal lymphoma localized to lymph nodes"
+ },
+ {
+  "code": "9719/3",
+  "term": "Angiocentric T-cell lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's SMVL ceiling is already limited to nasal/upper-aerodigestive sites (palate, nasopharynx, nasal cavity/sinuses/middle ear); this term does not restrict further to a proper subset. Non-nasal/extranasal variants involve skin/GI/testis/soft tissue that lie outside the ceiling, so no in-ceiling subset applies.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (Alaggio et al., Leukemia 2022) - extranodal NK/T-cell lymphoma"
+ },
+ {
+  "code": "9719/3",
+  "term": "EBV-positive extranodal NK/T-cell lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's SMVL ceiling is already limited to nasal/upper-aerodigestive sites (palate, nasopharynx, nasal cavity/sinuses/middle ear); this term does not restrict further to a proper subset. Non-nasal/extranasal variants involve skin/GI/testis/soft tissue that lie outside the ceiling, so no in-ceiling subset applies.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (Alaggio et al., Leukemia 2022) - extranodal NK/T-cell lymphoma"
+ },
+ {
+  "code": "9719/3",
+  "term": "Extranasal lymphoma, arising from the skin, gastrointestinal tract, testis, or soft tissue",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's SMVL ceiling is already limited to nasal/upper-aerodigestive sites (palate, nasopharynx, nasal cavity/sinuses/middle ear); this term does not restrict further to a proper subset. Non-nasal/extranasal variants involve skin/GI/testis/soft tissue that lie outside the ceiling, so no in-ceiling subset applies.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (Alaggio et al., Leukemia 2022) - extranodal NK/T-cell lymphoma"
+ },
+ {
+  "code": "9719/3",
+  "term": "Extranodal NK/T-cell lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's SMVL ceiling is already limited to nasal/upper-aerodigestive sites (palate, nasopharynx, nasal cavity/sinuses/middle ear); this term does not restrict further to a proper subset. Non-nasal/extranasal variants involve skin/GI/testis/soft tissue that lie outside the ceiling, so no in-ceiling subset applies.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (Alaggio et al., Leukemia 2022) - extranodal NK/T-cell lymphoma"
+ },
+ {
+  "code": "9719/3",
+  "term": "Extranodal NK/T-cell lymphoma, nasal type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's SMVL ceiling is already limited to nasal/upper-aerodigestive sites (palate, nasopharynx, nasal cavity/sinuses/middle ear); this term does not restrict further to a proper subset. Non-nasal/extranasal variants involve skin/GI/testis/soft tissue that lie outside the ceiling, so no in-ceiling subset applies.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (Alaggio et al., Leukemia 2022) - extranodal NK/T-cell lymphoma"
+ },
+ {
+  "code": "9719/3",
+  "term": "Extranodal NK/T-cell lymphoma, non-nasal (extranasal)",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's SMVL ceiling is already limited to nasal/upper-aerodigestive sites (palate, nasopharynx, nasal cavity/sinuses/middle ear); this term does not restrict further to a proper subset. Non-nasal/extranasal variants involve skin/GI/testis/soft tissue that lie outside the ceiling, so no in-ceiling subset applies.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (Alaggio et al., Leukemia 2022) - extranodal NK/T-cell lymphoma"
+ },
+ {
+  "code": "9719/3",
+  "term": "Malignant midline reticulosis",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's SMVL ceiling is already limited to nasal/upper-aerodigestive sites (palate, nasopharynx, nasal cavity/sinuses/middle ear); this term does not restrict further to a proper subset. Non-nasal/extranasal variants involve skin/GI/testis/soft tissue that lie outside the ceiling, so no in-ceiling subset applies.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (Alaggio et al., Leukemia 2022) - extranodal NK/T-cell lymphoma"
+ },
+ {
+  "code": "9719/3",
+  "term": "Malignant reticulosis, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's SMVL ceiling is already limited to nasal/upper-aerodigestive sites (palate, nasopharynx, nasal cavity/sinuses/middle ear); this term does not restrict further to a proper subset. Non-nasal/extranasal variants involve skin/GI/testis/soft tissue that lie outside the ceiling, so no in-ceiling subset applies.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (Alaggio et al., Leukemia 2022) - extranodal NK/T-cell lymphoma"
+ },
+ {
+  "code": "9719/3",
+  "term": "NK/T-cell lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's SMVL ceiling is already limited to nasal/upper-aerodigestive sites (palate, nasopharynx, nasal cavity/sinuses/middle ear); this term does not restrict further to a proper subset. Non-nasal/extranasal variants involve skin/GI/testis/soft tissue that lie outside the ceiling, so no in-ceiling subset applies.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (Alaggio et al., Leukemia 2022) - extranodal NK/T-cell lymphoma"
+ },
+ {
+  "code": "9719/3",
+  "term": "NK/T-cell lymphoma, nasal and nasal type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's SMVL ceiling is already limited to nasal/upper-aerodigestive sites (palate, nasopharynx, nasal cavity/sinuses/middle ear); this term does not restrict further to a proper subset. Non-nasal/extranasal variants involve skin/GI/testis/soft tissue that lie outside the ceiling, so no in-ceiling subset applies.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (Alaggio et al., Leukemia 2022) - extranodal NK/T-cell lymphoma"
+ },
+ {
+  "code": "9719/3",
+  "term": "Nasal ENKTL",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's SMVL ceiling is already limited to nasal/upper-aerodigestive sites (palate, nasopharynx, nasal cavity/sinuses/middle ear); this term does not restrict further to a proper subset. Non-nasal/extranasal variants involve skin/GI/testis/soft tissue that lie outside the ceiling, so no in-ceiling subset applies.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (Alaggio et al., Leukemia 2022) - extranodal NK/T-cell lymphoma"
+ },
+ {
+  "code": "9719/3",
+  "term": "Nasal lymphoma, involving the nasal and/or paranasal region",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's SMVL ceiling is already limited to nasal/upper-aerodigestive sites (palate, nasopharynx, nasal cavity/sinuses/middle ear); this term does not restrict further to a proper subset. Non-nasal/extranasal variants involve skin/GI/testis/soft tissue that lie outside the ceiling, so no in-ceiling subset applies.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (Alaggio et al., Leukemia 2022) - extranodal NK/T-cell lymphoma"
+ },
+ {
+  "code": "9719/3",
+  "term": "Non-nasal (extranasal) lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's SMVL ceiling is already limited to nasal/upper-aerodigestive sites (palate, nasopharynx, nasal cavity/sinuses/middle ear); this term does not restrict further to a proper subset. Non-nasal/extranasal variants involve skin/GI/testis/soft tissue that lie outside the ceiling, so no in-ceiling subset applies.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (Alaggio et al., Leukemia 2022) - extranodal NK/T-cell lymphoma"
+ },
+ {
+  "code": "9719/3",
+  "term": "Polymorphic reticulosis",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's SMVL ceiling is already limited to nasal/upper-aerodigestive sites (palate, nasopharynx, nasal cavity/sinuses/middle ear); this term does not restrict further to a proper subset. Non-nasal/extranasal variants involve skin/GI/testis/soft tissue that lie outside the ceiling, so no in-ceiling subset applies.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (Alaggio et al., Leukemia 2022) - extranodal NK/T-cell lymphoma"
+ },
+ {
+  "code": "9719/3",
+  "term": "T/NK-cell lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code's SMVL ceiling is already limited to nasal/upper-aerodigestive sites (palate, nasopharynx, nasal cavity/sinuses/middle ear); this term does not restrict further to a proper subset. Non-nasal/extranasal variants involve skin/GI/testis/soft tissue that lie outside the ceiling, so no in-ceiling subset applies.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (Alaggio et al., Leukemia 2022) - extranodal NK/T-cell lymphoma"
+ }
+]

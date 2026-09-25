@@ -1,0 +1,464 @@
+[
+ {
+  "code": "8500/3",
+  "term": "Invasive ductal carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic/pan-organ ductal morphology used across all of the code's validated sites; not restricted to a proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8500/3",
+  "term": "Primary ductal adenocarcinoma of lacrimal gland",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This entity is defined exclusively in the lacrimal gland (WHO; equivalent to salivary duct carcinoma of the lacrimal gland), coded C695, which is NOT among the code's ceiling_codes. Because the term's only anatomic home lies outside the provided ceiling, no valid proper subset of the ceiling can be asserted; mapping is anomalous.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7215120/",
+  "source_name": "Primary ductal adenocarcinoma of the lacrimal gland (Survey of Ophthalmology, PMC7215120)"
+ },
+ {
+  "code": "8500/3",
+  "term": "Salivary duct carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C079",
+   "C080",
+   "C081",
+   "C088",
+   "C089"
+  ],
+  "site_subset_labels": [
+   "Parotid gland",
+   "Submandibular gland",
+   "Sublingual gland",
+   "Overlapping major salivary glands",
+   "Major salivary gland, NOS"
+  ],
+  "rationale": "Salivary duct carcinoma is a primary malignancy of the salivary glands (WHO Head & Neck Tumours), arising almost exclusively in major salivary glands (esp. parotid) and minor glands; it does not occur across the code's other ceiling organs (pancreas, breast, etc.). Restricted to the salivary-gland C-codes within the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7541685/",
+  "source_name": "Salivary Duct Carcinoma: Updates (Cancer Cytopathology, PMC7541685) / WHO Head & Neck 5th ed"
+ },
+ {
+  "code": "8501/2",
+  "term": "Comedocarcinoma, noninfiltrating",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8501/2",
+  "term": "DCIS, comedo type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8501/2",
+  "term": "Ductal carcinoma in situ, comedo type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8504/2",
+  "term": "Encapsulated papillary carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8504/2",
+  "term": "Encysted papillary carcinoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8504/2",
+  "term": "Intracystic carcinoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8504/2",
+  "term": "Intracystic papillary adenocarcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8504/2",
+  "term": "Intracystic papillary carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8504/2",
+  "term": "Noninfiltrating intracystic carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8504/3",
+  "term": "Encapsulated papillary carcinoma with invasion",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8504/3",
+  "term": "Encysted papillary carcinoma with invasion",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8504/3",
+  "term": "Intracystic papillary carcinoma with invasion",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8507/2",
+  "term": "Ductal carcinoma in situ, micropapillary",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8507/2",
+  "term": "Intraductal carcinoma, clinging, high-grade",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8507/2",
+  "term": "Intraductal micropapillary carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8507/3",
+  "term": "Micropapillary carcinoma of breast",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8509/2",
+  "term": "Breast carcinoma in situ, neuroendocrine",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8509/2",
+  "term": "Ductal carcinoma in situ, endocrine",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8509/2",
+  "term": "Ductal carcinoma in situ, neuroendocrine",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8509/2",
+  "term": "Ductal carcinoma in situ, spindle cell",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8509/2",
+  "term": "Endocrine mucin-producing sweat gland carcinoma in situ",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Endocrine mucin-producing sweat gland carcinoma is a cutaneous adnexal (skin, predominantly eyelid/periocular) tumor per WHO Skin Tumours classification, coded to skin (C44), which is NOT among this code's breast-only ceiling_codes. Its true anatomic home lies outside the provided ceiling, so no valid proper subset of the ceiling can be asserted; mapping is anomalous.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10529628/",
+  "source_name": "Endocrine Mucin-Producing Sweat Gland Carcinoma review (Dermatopathology, PMC10529628) / WHO Skin Tumours"
+ },
+ {
+  "code": "8509/2",
+  "term": "Solid papillary carcinoma in situ",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8509/3",
+  "term": "Endocrine mucin-producing sweat gland carcinoma",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Endocrine mucin-producing sweat gland carcinoma is a cutaneous adnexal (skin, predominantly eyelid/periocular) tumor per WHO Skin Tumours classification, coded to skin (C44), which is NOT among this code's breast-only ceiling_codes. Its true anatomic home lies outside the provided ceiling, so no valid proper subset of the ceiling can be asserted; mapping is anomalous.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10529628/",
+  "source_name": "Endocrine Mucin-Producing Sweat Gland Carcinoma review (Dermatopathology, PMC10529628) / WHO Skin Tumours"
+ },
+ {
+  "code": "8509/3",
+  "term": "Solid papillary carcinoma with invasion",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8509/3",
+  "term": "Tall cell carcinoma with reversed polarity",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8514/3",
+  "term": "Duct carcinoma, desmoplastic type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8519/2",
+  "term": "LCIS, pleomorphic",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8519/2",
+  "term": "Lobular carcinoma in situ, pleomorphic",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8520/2",
+  "term": "Classic lobular carcinoma in situ",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8520/2",
+  "term": "Florid lobular carcinoma in situ",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8520/2",
+  "term": "Intraductal papilloma with lobular carcinoma in situ",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8520/2",
+  "term": "LCIS, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8520/2",
+  "term": "Lobular carcinoma in situ, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8520/2",
+  "term": "Lobular carcinoma in situ, classic",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8520/2",
+  "term": "Lobular carcinoma in situ, florid",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8520/2",
+  "term": "Lobular carcinoma, noninfiltrating",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8520/3",
+  "term": "Infiltrating lobular carcinoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8520/3",
+  "term": "Invasive lobular carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8520/3",
+  "term": "Invasive lobular carcinoma, alveolar type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8520/3",
+  "term": "Invasive lobular carcinoma, solid type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8520/3",
+  "term": "Lobular adenocarcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8520/3",
+  "term": "Lobular carcinoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A breast-defined entity used across the breast; its code's ceiling is limited to breast subsites (C500-C509), so the term is not restricted to any PROPER subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ }
+]

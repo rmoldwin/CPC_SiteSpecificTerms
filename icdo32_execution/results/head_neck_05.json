@@ -1,0 +1,504 @@
+[
+ {
+  "code": "8086/3",
+  "term": "HPV-independent squamous cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic HPV-independent (p16/HPV-negative) squamous cell carcinoma descriptor applicable across essentially all squamous-lined sites in the code ceiling (oral cavity, larynx, sinonasal, esophagus, anogenital); not restricted to a proper subset.",
+  "source": "https://uroweb.org/guidelines/penile-cancer/chapter/epidemiology-aetiology-and-pathology",
+  "source_name": "EAU Penile Cancer Guidelines / WHO Classification of Head and Neck Tumours 5th ed"
+ },
+ {
+  "code": "8086/3",
+  "term": "Keratinizing squamous cell carcinoma, HPV-independent",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic HPV-independent (p16/HPV-negative) squamous cell carcinoma descriptor applicable across essentially all squamous-lined sites in the code ceiling (oral cavity, larynx, sinonasal, esophagus, anogenital); not restricted to a proper subset.",
+  "source": "https://uroweb.org/guidelines/penile-cancer/chapter/epidemiology-aetiology-and-pathology",
+  "source_name": "EAU Penile Cancer Guidelines / WHO Classification of Head and Neck Tumours 5th ed"
+ },
+ {
+  "code": "8086/3",
+  "term": "Lymphoepithelial carcinoma, HPV-independent",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic HPV-independent (p16/HPV-negative) squamous cell carcinoma descriptor applicable across essentially all squamous-lined sites in the code ceiling (oral cavity, larynx, sinonasal, esophagus, anogenital); not restricted to a proper subset.",
+  "source": "https://uroweb.org/guidelines/penile-cancer/chapter/epidemiology-aetiology-and-pathology",
+  "source_name": "EAU Penile Cancer Guidelines / WHO Classification of Head and Neck Tumours 5th ed"
+ },
+ {
+  "code": "8086/3",
+  "term": "Non-keratinizing squamous cell carcinoma, HPV-independent",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic HPV-independent (p16/HPV-negative) squamous cell carcinoma descriptor applicable across essentially all squamous-lined sites in the code ceiling (oral cavity, larynx, sinonasal, esophagus, anogenital); not restricted to a proper subset.",
+  "source": "https://uroweb.org/guidelines/penile-cancer/chapter/epidemiology-aetiology-and-pathology",
+  "source_name": "EAU Penile Cancer Guidelines / WHO Classification of Head and Neck Tumours 5th ed"
+ },
+ {
+  "code": "8086/3",
+  "term": "Papillary squamous cell carcinoma, HPV-independent",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic HPV-independent (p16/HPV-negative) squamous cell carcinoma descriptor applicable across essentially all squamous-lined sites in the code ceiling (oral cavity, larynx, sinonasal, esophagus, anogenital); not restricted to a proper subset.",
+  "source": "https://uroweb.org/guidelines/penile-cancer/chapter/epidemiology-aetiology-and-pathology",
+  "source_name": "EAU Penile Cancer Guidelines / WHO Classification of Head and Neck Tumours 5th ed"
+ },
+ {
+  "code": "8086/3",
+  "term": "Pseudohyperplastic carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609"
+  ],
+  "site_subset_labels": [
+   "Prepuce",
+   "Glans penis",
+   "Body of penis",
+   "Overlapping lesion of penis",
+   "Penis, NOS"
+  ],
+  "rationale": "Pseudohyperplastic carcinoma is a distinct, very well-differentiated HPV-independent squamous cell carcinoma subtype defined in the penis (preferentially the inner foreskin/glans mucosa) and is listed as a penile SCC subtype by WHO/EAU and CAP; it is not a general multi-site SCC descriptor.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/15223959/",
+  "source_name": "Cubilla et al. Am J Surg Pathol 2004 (PMID 15223959); EAU Penile Cancer Guidelines; CAP Penis Protocol"
+ },
+ {
+  "code": "8086/3",
+  "term": "Spindle cell / sarcomatoid squamous cell carcinoma, HPV-independent",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic HPV-independent (p16/HPV-negative) squamous cell carcinoma descriptor applicable across essentially all squamous-lined sites in the code ceiling (oral cavity, larynx, sinonasal, esophagus, anogenital); not restricted to a proper subset.",
+  "source": "https://uroweb.org/guidelines/penile-cancer/chapter/epidemiology-aetiology-and-pathology",
+  "source_name": "EAU Penile Cancer Guidelines / WHO Classification of Head and Neck Tumours 5th ed"
+ },
+ {
+  "code": "8086/3",
+  "term": "Squamous cell carcinoma, HPV negative",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic HPV-independent (p16/HPV-negative) squamous cell carcinoma descriptor applicable across essentially all squamous-lined sites in the code ceiling (oral cavity, larynx, sinonasal, esophagus, anogenital); not restricted to a proper subset.",
+  "source": "https://uroweb.org/guidelines/penile-cancer/chapter/epidemiology-aetiology-and-pathology",
+  "source_name": "EAU Penile Cancer Guidelines / WHO Classification of Head and Neck Tumours 5th ed"
+ },
+ {
+  "code": "8086/3",
+  "term": "Squamous cell carcinoma, HPV-independent",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic HPV-independent (p16/HPV-negative) squamous cell carcinoma descriptor applicable across essentially all squamous-lined sites in the code ceiling (oral cavity, larynx, sinonasal, esophagus, anogenital); not restricted to a proper subset.",
+  "source": "https://uroweb.org/guidelines/penile-cancer/chapter/epidemiology-aetiology-and-pathology",
+  "source_name": "EAU Penile Cancer Guidelines / WHO Classification of Head and Neck Tumours 5th ed"
+ },
+ {
+  "code": "8086/3",
+  "term": "Squamous cell carcinoma, p16-negative",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic HPV-independent (p16/HPV-negative) squamous cell carcinoma descriptor applicable across essentially all squamous-lined sites in the code ceiling (oral cavity, larynx, sinonasal, esophagus, anogenital); not restricted to a proper subset.",
+  "source": "https://uroweb.org/guidelines/penile-cancer/chapter/epidemiology-aetiology-and-pathology",
+  "source_name": "EAU Penile Cancer Guidelines / WHO Classification of Head and Neck Tumours 5th ed"
+ },
+ {
+  "code": "8086/3",
+  "term": "Squamous cell carcinoma, usual type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic HPV-independent (p16/HPV-negative) squamous cell carcinoma descriptor applicable across essentially all squamous-lined sites in the code ceiling (oral cavity, larynx, sinonasal, esophagus, anogenital); not restricted to a proper subset.",
+  "source": "https://uroweb.org/guidelines/penile-cancer/chapter/epidemiology-aetiology-and-pathology",
+  "source_name": "EAU Penile Cancer Guidelines / WHO Classification of Head and Neck Tumours 5th ed"
+ },
+ {
+  "code": "8086/3",
+  "term": "Verrucous carcinoma, HPV-independent",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic HPV-independent (p16/HPV-negative) squamous cell carcinoma descriptor applicable across essentially all squamous-lined sites in the code ceiling (oral cavity, larynx, sinonasal, esophagus, anogenital); not restricted to a proper subset.",
+  "source": "https://uroweb.org/guidelines/penile-cancer/chapter/epidemiology-aetiology-and-pathology",
+  "source_name": "EAU Penile Cancer Guidelines / WHO Classification of Head and Neck Tumours 5th ed"
+ },
+ {
+  "code": "8147/3",
+  "term": "Adenoid basal cell carcinoma of prostate",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C619"
+  ],
+  "site_subset_labels": [
+   "Prostate gland"
+  ],
+  "rationale": "Terms explicitly naming the prostate (basal cell / adenoid basal cell / adenoid cystic-basal cell carcinoma of prostate) designate the prostatic basal cell carcinoma entity, which is anatomically restricted to the prostate; code 8147/3 is otherwise a salivary/skin/breast tumor code.",
+  "source": "https://librepathology.org/wiki/Adenoid_cystic/basal_cell_carcinoma_of_the_prostate",
+  "source_name": "Libre Pathology: Adenoid cystic/basal cell carcinoma of the prostate; World J Surg Oncol 2013 (PMC3751337)"
+ },
+ {
+  "code": "8147/3",
+  "term": "Adenoid cystic (basal cell) carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic 8147/3 basal cell adenocarcinoma term (WHO salivary gland entity) that can arise across salivary glands, skin adnexa, breast and other ceiling sites; not restricted to a proper anatomic subset by this generic name.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/26451535/",
+  "source_name": "Basal cell adenocarcinoma of major salivary glands, NCDB (PMID 26451535); WHO Head & Neck Tumours 5th ed"
+ },
+ {
+  "code": "8147/3",
+  "term": "Adenoid cystic (basal cell) carcinoma of prosate",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C619"
+  ],
+  "site_subset_labels": [
+   "Prostate gland"
+  ],
+  "rationale": "Terms explicitly naming the prostate (basal cell / adenoid basal cell / adenoid cystic-basal cell carcinoma of prostate) designate the prostatic basal cell carcinoma entity, which is anatomically restricted to the prostate; code 8147/3 is otherwise a salivary/skin/breast tumor code.",
+  "source": "https://librepathology.org/wiki/Adenoid_cystic/basal_cell_carcinoma_of_the_prostate",
+  "source_name": "Libre Pathology: Adenoid cystic/basal cell carcinoma of the prostate; World J Surg Oncol 2013 (PMC3751337)"
+ },
+ {
+  "code": "8147/3",
+  "term": "Adenoid cystic carcinoma of prostate",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C619"
+  ],
+  "site_subset_labels": [
+   "Prostate gland"
+  ],
+  "rationale": "Terms explicitly naming the prostate (basal cell / adenoid basal cell / adenoid cystic-basal cell carcinoma of prostate) designate the prostatic basal cell carcinoma entity, which is anatomically restricted to the prostate; code 8147/3 is otherwise a salivary/skin/breast tumor code.",
+  "source": "https://librepathology.org/wiki/Adenoid_cystic/basal_cell_carcinoma_of_the_prostate",
+  "source_name": "Libre Pathology: Adenoid cystic/basal cell carcinoma of the prostate; World J Surg Oncol 2013 (PMC3751337)"
+ },
+ {
+  "code": "8147/3",
+  "term": "Adenoid cystic carcinoma of prostate, solid pattern",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C619"
+  ],
+  "site_subset_labels": [
+   "Prostate gland"
+  ],
+  "rationale": "Terms explicitly naming the prostate (basal cell / adenoid basal cell / adenoid cystic-basal cell carcinoma of prostate) designate the prostatic basal cell carcinoma entity, which is anatomically restricted to the prostate; code 8147/3 is otherwise a salivary/skin/breast tumor code.",
+  "source": "https://librepathology.org/wiki/Adenoid_cystic/basal_cell_carcinoma_of_the_prostate",
+  "source_name": "Libre Pathology: Adenoid cystic/basal cell carcinoma of the prostate; World J Surg Oncol 2013 (PMC3751337)"
+ },
+ {
+  "code": "8147/3",
+  "term": "Basal cell adenocarcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic 8147/3 basal cell adenocarcinoma term (WHO salivary gland entity) that can arise across salivary glands, skin adnexa, breast and other ceiling sites; not restricted to a proper anatomic subset by this generic name.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/26451535/",
+  "source_name": "Basal cell adenocarcinoma of major salivary glands, NCDB (PMID 26451535); WHO Head & Neck Tumours 5th ed"
+ },
+ {
+  "code": "8147/3",
+  "term": "Basal cell carcinoma of prostate",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C619"
+  ],
+  "site_subset_labels": [
+   "Prostate gland"
+  ],
+  "rationale": "Terms explicitly naming the prostate (basal cell / adenoid basal cell / adenoid cystic-basal cell carcinoma of prostate) designate the prostatic basal cell carcinoma entity, which is anatomically restricted to the prostate; code 8147/3 is otherwise a salivary/skin/breast tumor code.",
+  "source": "https://librepathology.org/wiki/Adenoid_cystic/basal_cell_carcinoma_of_the_prostate",
+  "source_name": "Libre Pathology: Adenoid cystic/basal cell carcinoma of the prostate; World J Surg Oncol 2013 (PMC3751337)"
+ },
+ {
+  "code": "8200/3",
+  "term": "Adenocarcinoma, cylindroid",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Adenoid cystic carcinoma (and its synonyms/patterns) is a broad multi-site salivary-type malignancy occurring across salivary glands, airway, breast, skin, and anogenital tract; not restricted to a proper subset of the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3597152/",
+  "source_name": "Adenoid Cystic Carcinoma: Clinical and Molecular Features, Head Neck Pathol 2013 (PMC3597152)"
+ },
+ {
+  "code": "8200/3",
+  "term": "Adenocystic carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Adenoid cystic carcinoma (and its synonyms/patterns) is a broad multi-site salivary-type malignancy occurring across salivary glands, airway, breast, skin, and anogenital tract; not restricted to a proper subset of the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3597152/",
+  "source_name": "Adenoid Cystic Carcinoma: Clinical and Molecular Features, Head Neck Pathol 2013 (PMC3597152)"
+ },
+ {
+  "code": "8200/3",
+  "term": "Adenoid cystic carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Adenoid cystic carcinoma (and its synonyms/patterns) is a broad multi-site salivary-type malignancy occurring across salivary glands, airway, breast, skin, and anogenital tract; not restricted to a proper subset of the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3597152/",
+  "source_name": "Adenoid Cystic Carcinoma: Clinical and Molecular Features, Head Neck Pathol 2013 (PMC3597152)"
+ },
+ {
+  "code": "8200/3",
+  "term": "Adenoid cystic carcinoma with high-grade transformation",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Adenoid cystic carcinoma (and its synonyms/patterns) is a broad multi-site salivary-type malignancy occurring across salivary glands, airway, breast, skin, and anogenital tract; not restricted to a proper subset of the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3597152/",
+  "source_name": "Adenoid Cystic Carcinoma: Clinical and Molecular Features, Head Neck Pathol 2013 (PMC3597152)"
+ },
+ {
+  "code": "8200/3",
+  "term": "Bronchial adenoma, cylindroid",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349"
+  ],
+  "site_subset_labels": [
+   "Trachea",
+   "Main bronchus",
+   "Upper lobe, lung",
+   "Middle lobe, lung",
+   "Lower lobe, lung",
+   "Overlapping lesion of lung",
+   "Lung, NOS"
+  ],
+  "rationale": "'Bronchial adenoma, cylindroid' is the historical name for adenoid cystic carcinoma (cylindroma) of the tracheobronchial tree, arising from submucosal seromucinous glands of the trachea and bronchi; the term is anatomically tied to the airway.",
+  "source": "https://ajronline.org/doi/10.2214/ajr.183.2.1830277",
+  "source_name": "AJR: Adenoid cystic carcinoma of the airways (10.2214/ajr.183.2.1830277); AJR sialadenoid tumors of respiratory tract"
+ },
+ {
+  "code": "8200/3",
+  "term": "Classic adenoid cystic carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Adenoid cystic carcinoma (and its synonyms/patterns) is a broad multi-site salivary-type malignancy occurring across salivary glands, airway, breast, skin, and anogenital tract; not restricted to a proper subset of the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3597152/",
+  "source_name": "Adenoid Cystic Carcinoma: Clinical and Molecular Features, Head Neck Pathol 2013 (PMC3597152)"
+ },
+ {
+  "code": "8200/3",
+  "term": "Cylindroma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Adenoid cystic carcinoma (and its synonyms/patterns) is a broad multi-site salivary-type malignancy occurring across salivary glands, airway, breast, skin, and anogenital tract; not restricted to a proper subset of the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3597152/",
+  "source_name": "Adenoid Cystic Carcinoma: Clinical and Molecular Features, Head Neck Pathol 2013 (PMC3597152)"
+ },
+ {
+  "code": "8200/3",
+  "term": "Solid-basaloid adenoid cystic carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Adenoid cystic carcinoma (and its synonyms/patterns) is a broad multi-site salivary-type malignancy occurring across salivary glands, airway, breast, skin, and anogenital tract; not restricted to a proper subset of the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3597152/",
+  "source_name": "Adenoid Cystic Carcinoma: Clinical and Molecular Features, Head Neck Pathol 2013 (PMC3597152)"
+ },
+ {
+  "code": "8200/3",
+  "term": "Thymic carcinoma with adenoid cystic carcinoma-like features",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C379"
+  ],
+  "site_subset_labels": [
+   "Thymus"
+  ],
+  "rationale": "Thymic carcinoma with adenoid cystic carcinoma-like features (TCACC) is a WHO-recognized primary thymic adenocarcinoma subtype defined in and restricted to the thymus; diagnosis requires no ACC elsewhere.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7402894/",
+  "source_name": "Thymic carcinoma with ACC-like features case/review (PMC7402894); Di Tommaso et al. (PMID 17667537); WHO Thoracic Tumours"
+ },
+ {
+  "code": "8247/3",
+  "term": "Merkel cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Merkel cell carcinoma (primary cutaneous neuroendocrine carcinoma) arises across cutaneous sites; the code ceiling is composed of skin and skin-bearing/mucocutaneous sites (skin all regions, lip, oral, vulva, penis) at all of which MCC has been reported, so it is not restricted to a proper subset.",
+  "source": "https://www.cancer.gov/types/skin/hp/merkel-cell-treatment-pdq",
+  "source_name": "NCI PDQ Merkel Cell Carcinoma Treatment; WHO Skin Tumours 5th ed"
+ },
+ {
+  "code": "8247/3",
+  "term": "Merkel cell tumor",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Merkel cell carcinoma (primary cutaneous neuroendocrine carcinoma) arises across cutaneous sites; the code ceiling is composed of skin and skin-bearing/mucocutaneous sites (skin all regions, lip, oral, vulva, penis) at all of which MCC has been reported, so it is not restricted to a proper subset.",
+  "source": "https://www.cancer.gov/types/skin/hp/merkel-cell-treatment-pdq",
+  "source_name": "NCI PDQ Merkel Cell Carcinoma Treatment; WHO Skin Tumours 5th ed"
+ },
+ {
+  "code": "8247/3",
+  "term": "Primary cutaneous neuroendocrine carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Merkel cell carcinoma (primary cutaneous neuroendocrine carcinoma) arises across cutaneous sites; the code ceiling is composed of skin and skin-bearing/mucocutaneous sites (skin all regions, lip, oral, vulva, penis) at all of which MCC has been reported, so it is not restricted to a proper subset.",
+  "source": "https://www.cancer.gov/types/skin/hp/merkel-cell-treatment-pdq",
+  "source_name": "NCI PDQ Merkel Cell Carcinoma Treatment; WHO Skin Tumours 5th ed"
+ },
+ {
+  "code": "8249/3",
+  "term": "Atypical carcinoid",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Atypical carcinoid / neuroendocrine tumor grade 2-3 is a generic well/moderately-differentiated neuroendocrine neoplasm grade descriptor applied across many organs (lung, GI tract, pancreas, larynx, thymus, etc.); not restricted to a proper subset.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK557855/",
+  "source_name": "WHO Classification of Tumours (neuroendocrine neoplasia); StatPearls"
+ },
+ {
+  "code": "8249/3",
+  "term": "Atypical carcinoid / neuroendocrine tumor, grade 2",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Atypical carcinoid / neuroendocrine tumor grade 2-3 is a generic well/moderately-differentiated neuroendocrine neoplasm grade descriptor applied across many organs (lung, GI tract, pancreas, larynx, thymus, etc.); not restricted to a proper subset.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK557855/",
+  "source_name": "WHO Classification of Tumours (neuroendocrine neoplasia); StatPearls"
+ },
+ {
+  "code": "8249/3",
+  "term": "Atypical carcinoid tumor",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Atypical carcinoid / neuroendocrine tumor grade 2-3 is a generic well/moderately-differentiated neuroendocrine neoplasm grade descriptor applied across many organs (lung, GI tract, pancreas, larynx, thymus, etc.); not restricted to a proper subset.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK557855/",
+  "source_name": "WHO Classification of Tumours (neuroendocrine neoplasia); StatPearls"
+ },
+ {
+  "code": "8249/3",
+  "term": "Neuroendocrine carcinoma, moderately differentiated",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Atypical carcinoid / neuroendocrine tumor grade 2-3 is a generic well/moderately-differentiated neuroendocrine neoplasm grade descriptor applied across many organs (lung, GI tract, pancreas, larynx, thymus, etc.); not restricted to a proper subset.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK557855/",
+  "source_name": "WHO Classification of Tumours (neuroendocrine neoplasia); StatPearls"
+ },
+ {
+  "code": "8249/3",
+  "term": "Neuroendocrine tumor, grade 2",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Atypical carcinoid / neuroendocrine tumor grade 2-3 is a generic well/moderately-differentiated neuroendocrine neoplasm grade descriptor applied across many organs (lung, GI tract, pancreas, larynx, thymus, etc.); not restricted to a proper subset.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK557855/",
+  "source_name": "WHO Classification of Tumours (neuroendocrine neoplasia); StatPearls"
+ },
+ {
+  "code": "8249/3",
+  "term": "Neuroendocrine tumor, grade 3",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Atypical carcinoid / neuroendocrine tumor grade 2-3 is a generic well/moderately-differentiated neuroendocrine neoplasm grade descriptor applied across many organs (lung, GI tract, pancreas, larynx, thymus, etc.); not restricted to a proper subset.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK557855/",
+  "source_name": "WHO Classification of Tumours (neuroendocrine neoplasia); StatPearls"
+ },
+ {
+  "code": "8406/3",
+  "term": "Syringocystadenocarcinoma papilliferum",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Syringocystadenocarcinoma papilliferum is a cutaneous adnexal (apocrine/eccrine) malignancy; the code ceiling contains only lip skin (C000-C009) and vulva (C510-C519), both cutaneous sites where the entity is reported, so no proper anatomic subset can be established.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7992554/",
+  "source_name": "Syringocystadenocarcinoma papilliferum review, Ann Dermatol (PMC7992554); genital SCACP series (PMC8599099)"
+ },
+ {
+  "code": "8407/3",
+  "term": "Microcystic adnexal carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Microcystic adnexal carcinoma / sclerosing sweat duct / syringomatous carcinoma is a cutaneous adnexal (sweat-duct) malignancy; the code ceiling is confined to cutaneous sites (lip, eyelid, skin) at which the entity occurs (face, eyelid, lip predominate), so it is not restricted to a proper subset of these skin sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/28654578/",
+  "source_name": "Microcystic Adnexal Carcinoma: A Review of the Literature (PMID 28654578); WHO Skin Tumours 5th ed"
+ },
+ {
+  "code": "8407/3",
+  "term": "Sclerosing microcystic adenocarcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Microcystic adnexal carcinoma / sclerosing sweat duct / syringomatous carcinoma is a cutaneous adnexal (sweat-duct) malignancy; the code ceiling is confined to cutaneous sites (lip, eyelid, skin) at which the entity occurs (face, eyelid, lip predominate), so it is not restricted to a proper subset of these skin sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/28654578/",
+  "source_name": "Microcystic Adnexal Carcinoma: A Review of the Literature (PMID 28654578); WHO Skin Tumours 5th ed"
+ },
+ {
+  "code": "8407/3",
+  "term": "Sclerosing sweat duct carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Microcystic adnexal carcinoma / sclerosing sweat duct / syringomatous carcinoma is a cutaneous adnexal (sweat-duct) malignancy; the code ceiling is confined to cutaneous sites (lip, eyelid, skin) at which the entity occurs (face, eyelid, lip predominate), so it is not restricted to a proper subset of these skin sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/28654578/",
+  "source_name": "Microcystic Adnexal Carcinoma: A Review of the Literature (PMID 28654578); WHO Skin Tumours 5th ed"
+ },
+ {
+  "code": "8407/3",
+  "term": "Sclerosing sweat duct-like carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Microcystic adnexal carcinoma / sclerosing sweat duct / syringomatous carcinoma is a cutaneous adnexal (sweat-duct) malignancy; the code ceiling is confined to cutaneous sites (lip, eyelid, skin) at which the entity occurs (face, eyelid, lip predominate), so it is not restricted to a proper subset of these skin sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/28654578/",
+  "source_name": "Microcystic Adnexal Carcinoma: A Review of the Literature (PMID 28654578); WHO Skin Tumours 5th ed"
+ },
+ {
+  "code": "8407/3",
+  "term": "Syringomatous adenocarcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Microcystic adnexal carcinoma / sclerosing sweat duct / syringomatous carcinoma is a cutaneous adnexal (sweat-duct) malignancy; the code ceiling is confined to cutaneous sites (lip, eyelid, skin) at which the entity occurs (face, eyelid, lip predominate), so it is not restricted to a proper subset of these skin sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/28654578/",
+  "source_name": "Microcystic Adnexal Carcinoma: A Review of the Literature (PMID 28654578); WHO Skin Tumours 5th ed"
+ },
+ {
+  "code": "8407/3",
+  "term": "Syringomatous carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Microcystic adnexal carcinoma / sclerosing sweat duct / syringomatous carcinoma is a cutaneous adnexal (sweat-duct) malignancy; the code ceiling is confined to cutaneous sites (lip, eyelid, skin) at which the entity occurs (face, eyelid, lip predominate), so it is not restricted to a proper subset of these skin sites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/28654578/",
+  "source_name": "Microcystic Adnexal Carcinoma: A Review of the Literature (PMID 28654578); WHO Skin Tumours 5th ed"
+ },
+ {
+  "code": "8409/2",
+  "term": "Porocarcinoma in situ",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Porocarcinoma in situ is a cutaneous adnexal (eccrine/apocrine poroma-derived) carcinoma in situ; the code ceiling contains only lip skin (C000-C009) and vulva (C510-C519), both cutaneous sites, so no proper anatomic subset restriction can be established.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/28654578/",
+  "source_name": "WHO Classification of Skin Tumours 5th ed (adnexal tumors)"
+ }
+]

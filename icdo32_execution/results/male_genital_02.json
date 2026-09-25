@@ -1,0 +1,236 @@
+[
+ {
+  "code": "8640/3",
+  "term": "Sertoli cell carcinoma",
+  "site_specific": "No",
+  "rationale": "Sertoli cell tumors arise in the testis; the code's ceiling (C620/C621/C629) is entirely testis, so the term occupies the whole ceiling and no proper anatomic subset exists.",
+  "source": "https://uroweb.org/guidelines/testicular-cancer/chapter/rare-adult-para-and-testicular-tumours",
+  "source_name": "EAU Guidelines on Testicular Cancer (rare para/testicular tumours)"
+ },
+ {
+  "code": "8640/3",
+  "term": "Sertoli cell tumor, malignant",
+  "site_specific": "No",
+  "rationale": "Sertoli cell tumors arise in the testis; the code's ceiling (C620/C621/C629) is entirely testis, so the term occupies the whole ceiling and no proper anatomic subset exists.",
+  "source": "https://uroweb.org/guidelines/testicular-cancer/chapter/rare-adult-para-and-testicular-tumours",
+  "source_name": "EAU Guidelines on Testicular Cancer (rare para/testicular tumours)"
+ },
+ {
+  "code": "8650/3",
+  "term": "Interstitial cell tumor, malignant",
+  "site_specific": "No",
+  "rationale": "Leydig (interstitial) cell tumors are chiefly testicular but a recognized minority (~2-3%) are extratesticular/paratesticular, arising in the spermatic cord and epididymis, which are both within the code's ceiling; thus the term is not confined to a proper subset.",
+  "source": "https://meridian.allenpress.com/aplm/article/131/2/311/460139/An-In-Depth-Look-at-Leydig-Cell-Tumor-of-the",
+  "source_name": "Al-Agha & Axiotis, Arch Pathol Lab Med 2007 (An In-Depth Look at Leydig Cell Tumor of the Testis)"
+ },
+ {
+  "code": "8650/3",
+  "term": "Leydig cell tumor, malignant",
+  "site_specific": "No",
+  "rationale": "Leydig (interstitial) cell tumors are chiefly testicular but a recognized minority (~2-3%) are extratesticular/paratesticular, arising in the spermatic cord and epididymis, which are both within the code's ceiling; thus the term is not confined to a proper subset.",
+  "source": "https://meridian.allenpress.com/aplm/article/131/2/311/460139/An-In-Depth-Look-at-Leydig-Cell-Tumor-of-the",
+  "source_name": "Al-Agha & Axiotis, Arch Pathol Lab Med 2007 (An In-Depth Look at Leydig Cell Tumor of the Testis)"
+ },
+ {
+  "code": "8650/3",
+  "term": "Malignant Leydig cell tumor",
+  "site_specific": "No",
+  "rationale": "Leydig (interstitial) cell tumors are chiefly testicular but a recognized minority (~2-3%) are extratesticular/paratesticular, arising in the spermatic cord and epididymis, which are both within the code's ceiling; thus the term is not confined to a proper subset.",
+  "source": "https://meridian.allenpress.com/aplm/article/131/2/311/460139/An-In-Depth-Look-at-Leydig-Cell-Tumor-of-the",
+  "source_name": "Al-Agha & Axiotis, Arch Pathol Lab Med 2007 (An In-Depth Look at Leydig Cell Tumor of the Testis)"
+ },
+ {
+  "code": "9061/2",
+  "term": "Intratubular seminoma",
+  "site_specific": "No",
+  "rationale": "An intratubular (within seminiferous tubules) lesion is inherently testicular; the ceiling (C620/C621/C629) is entirely testis, so no proper subset is possible.",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6789349/",
+  "source_name": "Testicular germ cell tumors: the changing role of the pathologist, PMC6789349"
+ },
+ {
+  "code": "9061/2",
+  "term": "Intratubular trophoblast",
+  "site_specific": "No",
+  "rationale": "An intratubular (within seminiferous tubules) lesion is inherently testicular; the ceiling (C620/C621/C629) is entirely testis, so no proper subset is possible.",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6789349/",
+  "source_name": "Testicular germ cell tumors: the changing role of the pathologist, PMC6789349"
+ },
+ {
+  "code": "9061/3",
+  "term": "Germinoma of testis",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C620",
+   "C621",
+   "C629"
+  ],
+  "site_subset_labels": [
+   "Undescended testis",
+   "Descended testis",
+   "Testis, NOS"
+  ],
+  "rationale": "The named entity 'germinoma of testis' is by definition confined to the testis, a proper subset of the code's ceiling, which also spans extragonadal sites (thymus C379, mediastinum C381-C383) and paratesticular sites (epididymis C630, spermatic cord C631).",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/10355653/",
+  "source_name": "Weidner N, Germ-cell tumors of the mediastinum, PMID 10355653 (establishes seminoma/germinoma family also occurs extragonadally)"
+ },
+ {
+  "code": "9061/3",
+  "term": "Seminoma with syncytiotrophoblast cells",
+  "site_specific": "No",
+  "rationale": "Seminoma (including the syncytiotrophoblast-containing variant) occurs both in the testis and at extragonadal sites (mediastinum/thymus) as well as paratesticular sites, spanning essentially the whole ceiling; it is not restricted to a proper subset.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/10355653/",
+  "source_name": "Weidner N, Germ-cell tumors of the mediastinum, PMID 10355653"
+ },
+ {
+  "code": "9061/3",
+  "term": "Seminoma with syncytiotrophoblastic cells",
+  "site_specific": "No",
+  "rationale": "Seminoma (including the syncytiotrophoblast-containing variant) occurs both in the testis and at extragonadal sites (mediastinum/thymus) as well as paratesticular sites, spanning essentially the whole ceiling; it is not restricted to a proper subset.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/10355653/",
+  "source_name": "Weidner N, Germ-cell tumors of the mediastinum, PMID 10355653"
+ },
+ {
+  "code": "9061/3",
+  "term": "Seminoma, NOS",
+  "site_specific": "No",
+  "rationale": "Seminoma (including the syncytiotrophoblast-containing variant) occurs both in the testis and at extragonadal sites (mediastinum/thymus) as well as paratesticular sites, spanning essentially the whole ceiling; it is not restricted to a proper subset.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/10355653/",
+  "source_name": "Weidner N, Germ-cell tumors of the mediastinum, PMID 10355653"
+ },
+ {
+  "code": "9063/3",
+  "term": "Spermatocytic seminoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C620",
+   "C621",
+   "C629"
+  ],
+  "site_subset_labels": [
+   "Undescended testis",
+   "Descended testis",
+   "Testis, NOS"
+  ],
+  "rationale": "WHO/EAU and pathology literature establish that spermatocytic tumor occurs exclusively in the testis with no extragonadal or paratesticular counterpart; this excludes epididymis (C630), spermatic cord (C631) and overlapping male-genital (C637) sites in the ceiling, leaving only the testis codes.",
+  "source": "https://uroweb.org/guidelines/testicular-cancer/chapter/rare-adult-para-and-testicular-tumours",
+  "source_name": "EAU Guidelines on Testicular Cancer: 'Spermatocytic tumours ... occur exclusively in the testis'"
+ },
+ {
+  "code": "9063/3",
+  "term": "Spermatocytic tumor",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C620",
+   "C621",
+   "C629"
+  ],
+  "site_subset_labels": [
+   "Undescended testis",
+   "Descended testis",
+   "Testis, NOS"
+  ],
+  "rationale": "WHO/EAU and pathology literature establish that spermatocytic tumor occurs exclusively in the testis with no extragonadal or paratesticular counterpart; this excludes epididymis (C630), spermatic cord (C631) and overlapping male-genital (C637) sites in the ceiling, leaving only the testis codes.",
+  "source": "https://uroweb.org/guidelines/testicular-cancer/chapter/rare-adult-para-and-testicular-tumours",
+  "source_name": "EAU Guidelines on Testicular Cancer: 'Spermatocytic tumours ... occur exclusively in the testis'"
+ },
+ {
+  "code": "9063/3",
+  "term": "Spermatocytic tumor with sarcomatous differentiation",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C620",
+   "C621",
+   "C629"
+  ],
+  "site_subset_labels": [
+   "Undescended testis",
+   "Descended testis",
+   "Testis, NOS"
+  ],
+  "rationale": "WHO/EAU and pathology literature establish that spermatocytic tumor occurs exclusively in the testis with no extragonadal or paratesticular counterpart; this excludes epididymis (C630), spermatic cord (C631) and overlapping male-genital (C637) sites in the ceiling, leaving only the testis codes.",
+  "source": "https://uroweb.org/guidelines/testicular-cancer/chapter/rare-adult-para-and-testicular-tumours",
+  "source_name": "EAU Guidelines on Testicular Cancer: 'Spermatocytic tumours ... occur exclusively in the testis'"
+ },
+ {
+  "code": "9063/3",
+  "term": "Spermatocytoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C620",
+   "C621",
+   "C629"
+  ],
+  "site_subset_labels": [
+   "Undescended testis",
+   "Descended testis",
+   "Testis, NOS"
+  ],
+  "rationale": "WHO/EAU and pathology literature establish that spermatocytic tumor occurs exclusively in the testis with no extragonadal or paratesticular counterpart; this excludes epididymis (C630), spermatic cord (C631) and overlapping male-genital (C637) sites in the ceiling, leaving only the testis codes.",
+  "source": "https://uroweb.org/guidelines/testicular-cancer/chapter/rare-adult-para-and-testicular-tumours",
+  "source_name": "EAU Guidelines on Testicular Cancer: 'Spermatocytic tumours ... occur exclusively in the testis'"
+ },
+ {
+  "code": "9064/2",
+  "term": "Germ cell neoplasia in situ",
+  "site_specific": "No",
+  "rationale": "GCNIS/intratubular germ cell neoplasia is defined by neoplastic germ cells within the seminiferous tubules of the testis; the ceiling (C620/C621/C629) is entirely testis, so no proper subset is possible.",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6789349/",
+  "source_name": "Testicular germ cell tumors: the changing role of the pathologist, PMC6789349 (GCNIS localized within seminiferous tubules)"
+ },
+ {
+  "code": "9064/2",
+  "term": "Intratubular germ cell neoplasia",
+  "site_specific": "No",
+  "rationale": "GCNIS/intratubular germ cell neoplasia is defined by neoplastic germ cells within the seminiferous tubules of the testis; the ceiling (C620/C621/C629) is entirely testis, so no proper subset is possible.",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6789349/",
+  "source_name": "Testicular germ cell tumors: the changing role of the pathologist, PMC6789349 (GCNIS localized within seminiferous tubules)"
+ },
+ {
+  "code": "9064/2",
+  "term": "Intratubular germ cell neoplasia (male gonadal)",
+  "site_specific": "No",
+  "rationale": "GCNIS/intratubular germ cell neoplasia is defined by neoplastic germ cells within the seminiferous tubules of the testis; the ceiling (C620/C621/C629) is entirely testis, so no proper subset is possible.",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6789349/",
+  "source_name": "Testicular germ cell tumors: the changing role of the pathologist, PMC6789349 (GCNIS localized within seminiferous tubules)"
+ },
+ {
+  "code": "9064/2",
+  "term": "Intratubular malignant germ cells",
+  "site_specific": "No",
+  "rationale": "GCNIS/intratubular germ cell neoplasia is defined by neoplastic germ cells within the seminiferous tubules of the testis; the ceiling (C620/C621/C629) is entirely testis, so no proper subset is possible.",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6789349/",
+  "source_name": "Testicular germ cell tumors: the changing role of the pathologist, PMC6789349 (GCNIS localized within seminiferous tubules)"
+ },
+ {
+  "code": "9064/2",
+  "term": "Specific forms of intratubular germ cell neoplasia",
+  "site_specific": "No",
+  "rationale": "GCNIS/intratubular germ cell neoplasia is defined by neoplastic germ cells within the seminiferous tubules of the testis; the ceiling (C620/C621/C629) is entirely testis, so no proper subset is possible.",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6789349/",
+  "source_name": "Testicular germ cell tumors: the changing role of the pathologist, PMC6789349 (GCNIS localized within seminiferous tubules)"
+ },
+ {
+  "code": "9070/2",
+  "term": "Intratubular embryonal carcinoma",
+  "site_specific": "No",
+  "rationale": "An intratubular embryonal carcinoma is by definition within the testicular seminiferous tubules; the ceiling is entirely testis (C620/C621/C629), so no proper subset exists.",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6789349/",
+  "source_name": "Testicular germ cell tumors: the changing role of the pathologist, PMC6789349"
+ },
+ {
+  "code": "9071/2",
+  "term": "Intratubular yolk-sac tumor",
+  "site_specific": "No",
+  "rationale": "An intratubular yolk-sac tumor is confined to testicular seminiferous tubules; the ceiling is entirely testis (C620/C621/C629), so no proper subset exists.",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6789349/",
+  "source_name": "Testicular germ cell tumors: the changing role of the pathologist, PMC6789349"
+ },
+ {
+  "code": "9080/2",
+  "term": "Intratubular teratoma",
+  "site_specific": "No",
+  "rationale": "An intratubular teratoma is within testicular seminiferous tubules; the ceiling is entirely testis (C620/C621/C629), so no proper subset exists.",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6789349/",
+  "source_name": "Testicular germ cell tumors: the changing role of the pathologist, PMC6789349"
+ }
+]

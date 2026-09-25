@@ -1,0 +1,1508 @@
+[
+ {
+  "code": "8144/2",
+  "term": "Intestinal-type gastric adenoma, high-grade",
+  "subset_codes": [
+   "C160",
+   "C161",
+   "C162",
+   "C163",
+   "C164",
+   "C165",
+   "C166",
+   "C168",
+   "C169"
+  ],
+  "subset_sites": [
+   "Cardia, NOS",
+   "Fundus of stomach",
+   "Body of stomach",
+   "Gastric antrum",
+   "Pylorus",
+   "Lesser curvature of stomach, NOS",
+   "Greater curvature of stomach, NOS",
+   "Overlapping lesion of stomach",
+   "Stomach, NOS"
+  ],
+  "rationale": "Intestinal-type gastric adenoma is a defined gastric precursor lesion in the WHO stomach chapter; the 'gastric' qualifier confines this term to the stomach within the code's whole-GI ceiling.",
+  "source_name": "WHO Classification of Digestive System Tumours 5th ed (structure: intestinal-type gastric adenoma)"
+ },
+ {
+  "code": "8144/2",
+  "term": "Sporadic intestinal-type gastric adenoma, high grade",
+  "subset_codes": [
+   "C160",
+   "C161",
+   "C162",
+   "C163",
+   "C164",
+   "C165",
+   "C166",
+   "C168",
+   "C169"
+  ],
+  "subset_sites": [
+   "Cardia, NOS",
+   "Fundus of stomach",
+   "Body of stomach",
+   "Gastric antrum",
+   "Pylorus",
+   "Lesser curvature of stomach, NOS",
+   "Greater curvature of stomach, NOS",
+   "Overlapping lesion of stomach",
+   "Stomach, NOS"
+  ],
+  "rationale": "Intestinal-type gastric adenoma is a defined gastric precursor lesion in the WHO stomach chapter; the 'gastric' qualifier confines this term to the stomach within the code's whole-GI ceiling.",
+  "source_name": "WHO Classification of Digestive System Tumours 5th ed (structure: intestinal-type gastric adenoma)"
+ },
+ {
+  "code": "8144/2",
+  "term": "Syndromic intestinal-type gastric adenoma, high grade",
+  "subset_codes": [
+   "C160",
+   "C161",
+   "C162",
+   "C163",
+   "C164",
+   "C165",
+   "C166",
+   "C168",
+   "C169"
+  ],
+  "subset_sites": [
+   "Cardia, NOS",
+   "Fundus of stomach",
+   "Body of stomach",
+   "Gastric antrum",
+   "Pylorus",
+   "Lesser curvature of stomach, NOS",
+   "Greater curvature of stomach, NOS",
+   "Overlapping lesion of stomach",
+   "Stomach, NOS"
+  ],
+  "rationale": "Intestinal-type gastric adenoma is a defined gastric precursor lesion in the WHO stomach chapter; the 'gastric' qualifier confines this term to the stomach within the code's whole-GI ceiling.",
+  "source_name": "WHO Classification of Digestive System Tumours 5th ed (structure: intestinal-type gastric adenoma)"
+ },
+ {
+  "code": "8213/2",
+  "term": "Foveolar-type (gastric-type) dysplasia, high grade",
+  "subset_codes": [
+   "C160",
+   "C161",
+   "C162",
+   "C163",
+   "C164",
+   "C165",
+   "C166",
+   "C168",
+   "C169"
+  ],
+  "subset_sites": [
+   "Cardia, NOS",
+   "Fundus of stomach",
+   "Body of stomach",
+   "Gastric antrum",
+   "Pylorus",
+   "Lesser curvature of stomach, NOS",
+   "Greater curvature of stomach, NOS",
+   "Overlapping lesion of stomach",
+   "Stomach, NOS"
+  ],
+  "rationale": "Foveolar-type (gastric-type) and gastric pit/crypt dysplasia are gastric precursor lesions defined in the WHO stomach chapter; they are confined to the stomach within this code's whole-GI ceiling.",
+  "source_name": "WHO Classification of Digestive System Tumours 5th ed (structure: intestinal-type gastric adenoma)"
+ },
+ {
+  "code": "8213/2",
+  "term": "Gastric pit/crypt dysplasia, high grade",
+  "subset_codes": [
+   "C160",
+   "C161",
+   "C162",
+   "C163",
+   "C164",
+   "C165",
+   "C166",
+   "C168",
+   "C169"
+  ],
+  "subset_sites": [
+   "Cardia, NOS",
+   "Fundus of stomach",
+   "Body of stomach",
+   "Gastric antrum",
+   "Pylorus",
+   "Lesser curvature of stomach, NOS",
+   "Greater curvature of stomach, NOS",
+   "Overlapping lesion of stomach",
+   "Stomach, NOS"
+  ],
+  "rationale": "Foveolar-type (gastric-type) and gastric pit/crypt dysplasia are gastric precursor lesions defined in the WHO stomach chapter; they are confined to the stomach within this code's whole-GI ceiling.",
+  "source_name": "WHO Classification of Digestive System Tumours 5th ed (structure: intestinal-type gastric adenoma)"
+ },
+ {
+  "code": "8503/2",
+  "term": "Intra-ampullary papillary-tubular neoplasm, high-grade",
+  "subset_codes": [
+   "C241"
+  ],
+  "subset_sites": [
+   "Ampulla of Vater"
+  ],
+  "rationale": "Intra-ampullary papillary-tubular neoplasm (IAPN) is defined as a tumoral intraepithelial neoplasm arising within the ampulla of Vater; population analyses filter it exclusively to C24.1. The code's SMVL ceiling also includes biliary, pancreas and breast sites, so the term is restricted to a proper subset (ampulla).",
+  "source_name": "Med Sci Monit - IAPN population-based analysis (ICD-O-3 site C24.1)"
+ },
+ {
+  "code": "8243/3",
+  "term": "Goblet cell adenocarcinoma",
+  "subset_codes": [
+   "C181"
+  ],
+  "subset_sites": [
+   "Appendix"
+  ],
+  "rationale": "WHO 5th ed and large series establish goblet cell adenocarcinoma occurs almost exclusively in the appendix (90.5% appendiceal in a national series); true extra-appendiceal cases are exceedingly rare and likely occult appendiceal primaries. This restricts it to a proper subset of the code's intestinal-tract SMVL sites.",
+  "source_name": "Frontiers in Oncology - Goblet Cell Adenocarcinoma of the Appendix: Systematic Review"
+ },
+ {
+  "code": "8243/3",
+  "term": "Goblet cell carcinoid",
+  "subset_codes": [
+   "C181"
+  ],
+  "subset_sites": [
+   "Appendix"
+  ],
+  "rationale": "Goblet cell carcinoid (the former name of goblet cell adenocarcinoma) arises almost exclusively in the appendix, with rare cases outside this location; true extra-appendiceal disease requires excluding an occult appendiceal primary. This restricts it to a proper subset of the code's intestinal-tract SMVL sites.",
+  "source_name": "World J Gastrointest Oncol - Goblet cell carcinoid tumors of the appendix: overview"
+ },
+ {
+  "code": "8243/3",
+  "term": "Goblet cell carcinoma",
+  "subset_codes": [
+   "C181"
+  ],
+  "subset_sites": [
+   "Appendix"
+  ],
+  "rationale": "Goblet cell carcinoma/adenocarcinoma is an amphicrine appendiceal neoplasm occurring almost exclusively in the appendix per WHO 5th ed; extra-appendiceal presentations are exceedingly rare and likely represent occult appendiceal primaries. This restricts it to a proper subset of the code's intestinal-tract SMVL sites.",
+  "source_name": "Frontiers in Oncology - Goblet Cell Adenocarcinoma of the Appendix: Systematic Review"
+ },
+ {
+  "code": "8152/3",
+  "term": "Pancreatic peptide and pancreatic peptide-like peptide within terminal tyrosine amide producing tumor",
+  "subset_codes": [
+   "C250",
+   "C251",
+   "C252",
+   "C253",
+   "C254",
+   "C257",
+   "C258",
+   "C259"
+  ],
+  "subset_sites": [
+   "Head of pancreas",
+   "Body of pancreas",
+   "Tail of pancreas",
+   "Pancreatic duct",
+   "Islets of Langerhans",
+   "Other specified parts of pancreas",
+   "Overlapping lesion of pancreas",
+   "Pancreas, NOS"
+  ],
+  "rationale": "Pancreatic-polypeptide-producing tumors (PPomas) are predominantly pancreatic (islet-cell); the code's ceiling additionally includes the colon/rectum, so the literature-dominant pancreatic usage is a strict subset.",
+  "source_name": "PubMed Central - PPoma review"
+ },
+ {
+  "code": "8551/3",
+  "term": "Acinar adenocarcinoma of lung",
+  "subset_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349"
+  ],
+  "subset_sites": [
+   "Main bronchus",
+   "Upper lobe, lung",
+   "Middle lobe, lung",
+   "Lower lobe, lung",
+   "Overlapping lesion of lung",
+   "Lung, NOS"
+  ],
+  "rationale": "Acinar adenocarcinoma (8551/3) is explicitly a lung-only entity in the WHO/IASLC lung classification (SEER and FCDS materials note 8551 is 'lung only'). The code's SMVL ceiling also includes pancreas, thyroid and other sites, so this named term is restricted to the lung subset.",
+  "source_name": "FCDS 2023 Lung and Thorax Neoplasms WHO 5th ed (8551/3 - Lung Only)"
+ },
+ {
+  "code": "8551/3",
+  "term": "Acinar cell cystadenocarcinoma",
+  "subset_codes": [
+   "C250",
+   "C251",
+   "C252",
+   "C253",
+   "C254",
+   "C257",
+   "C258",
+   "C259"
+  ],
+  "subset_sites": [
+   "Head of pancreas",
+   "Body of pancreas",
+   "Tail of pancreas",
+   "Pancreatic duct",
+   "Islets of Langerhans",
+   "Other specified parts of pancreas",
+   "Overlapping lesion of pancreas",
+   "Pancreas, NOS"
+  ],
+  "rationale": "Acinar cell cystadenocarcinoma is a rare malignant epithelial neoplasm of the pancreas (cystic acinar-differentiated tumor with exocrine enzyme production). The code's SMVL ceiling also includes lung, thyroid and other sites, so this term is restricted to the pancreatic subset.",
+  "source_name": "Case Rep Gastroenterol - Acinar Cell Cystadenocarcinoma of the Pancreas"
+ },
+ {
+  "code": "8991/3",
+  "term": "Embryonal sarcoma of the liver",
+  "subset_codes": [
+   "C220"
+  ],
+  "subset_sites": [
+   "Liver"
+  ],
+  "rationale": "Undifferentiated (embryonal) sarcoma of the liver is a hepatic mesenchymal tumor arising in the liver. The code's SMVL ceiling also includes peritoneum/retroperitoneum, penis, eye/orbit and other sites, so this named term is restricted to the liver.",
+  "source_name": "PMC - Undifferentiated embryonal sarcoma of the liver: a rare hepatic tumor"
+ },
+ {
+  "code": "8991/3",
+  "term": "Undifferentiated sarcoma of liver",
+  "subset_codes": [
+   "C220"
+  ],
+  "subset_sites": [
+   "Liver"
+  ],
+  "rationale": "Undifferentiated (embryonal) sarcoma of the liver is a hepatic mesenchymal tumor arising in the liver. The code's SMVL ceiling also includes peritoneum/retroperitoneum, penis, eye/orbit and other sites, so this named term is restricted to the liver.",
+  "source_name": "PMC - Undifferentiated embryonal sarcoma of the liver: a rare hepatic tumor"
+ },
+ {
+  "code": "8158/3",
+  "term": "Calcitonin-producing pancreatic neuroendocrine tumor",
+  "subset_codes": [
+   "C250",
+   "C251",
+   "C252",
+   "C253",
+   "C254",
+   "C257",
+   "C258",
+   "C259"
+  ],
+  "subset_sites": [
+   "Head of pancreas",
+   "Body of pancreas",
+   "Tail of pancreas",
+   "Pancreatic duct",
+   "Islets of Langerhans",
+   "Other specified parts of pancreas",
+   "Overlapping lesion of pancreas",
+   "Pancreas, NOS"
+  ],
+  "rationale": "Calcitonin-secreting (calcitoninoma) functioning NETs are pancreatic-origin tumours; ENETS covers these functioning syndromes with the primary tumour originating in the pancreas. Restricting to the pancreatic codes excludes the ampulla-of-Vater code (C241) that is also in the ceiling, so it is a proper subset.",
+  "source_name": "ENETS 2023 guidance paper for functioning pancreatic NET syndromes (J Neuroendocrinol)"
+ },
+ {
+  "code": "8158/3",
+  "term": "Cholecystokinin-producing pancreatic neuroendocrine tumor",
+  "subset_codes": [
+   "C250",
+   "C251",
+   "C252",
+   "C253",
+   "C254",
+   "C257",
+   "C258",
+   "C259"
+  ],
+  "subset_sites": [
+   "Head of pancreas",
+   "Body of pancreas",
+   "Tail of pancreas",
+   "Pancreatic duct",
+   "Islets of Langerhans",
+   "Other specified parts of pancreas",
+   "Overlapping lesion of pancreas",
+   "Pancreas, NOS"
+  ],
+  "rationale": "CCK-producing functioning NET is a pancreatic NET among the rare functioning pancreatic syndromes; confining to pancreatic codes excludes the ampulla (C241) in the ceiling, making it a proper subset.",
+  "source_name": "ENETS 2023 guidance paper for functioning pancreatic NET syndromes (J Neuroendocrinol)"
+ },
+ {
+  "code": "8158/3",
+  "term": "CRH-producing pancreatic neuroendocrine tumor",
+  "subset_codes": [
+   "C250",
+   "C251",
+   "C252",
+   "C253",
+   "C254",
+   "C257",
+   "C258",
+   "C259"
+  ],
+  "subset_sites": [
+   "Head of pancreas",
+   "Body of pancreas",
+   "Tail of pancreas",
+   "Pancreatic duct",
+   "Islets of Langerhans",
+   "Other specified parts of pancreas",
+   "Overlapping lesion of pancreas",
+   "Pancreas, NOS"
+  ],
+  "rationale": "CRH/ACTH-producing functioning NETs of this class are pancreatic-origin tumours (pancreatic NETs), so confining usage to the pancreatic codes excludes the ampulla-of-Vater code (C241) in the ceiling, forming a proper subset.",
+  "source_name": "Ann Hepatobiliary Pancreat Surg (PMC5353908): ACTH-producing neuroendocrine tumor of the pancreas"
+ },
+ {
+  "code": "8158/3",
+  "term": "Erythropoietin-producing pancreatic neuroendocrine tumor",
+  "subset_codes": [
+   "C250",
+   "C251",
+   "C252",
+   "C253",
+   "C254",
+   "C257",
+   "C258",
+   "C259"
+  ],
+  "subset_sites": [
+   "Head of pancreas",
+   "Body of pancreas",
+   "Tail of pancreas",
+   "Pancreatic duct",
+   "Islets of Langerhans",
+   "Other specified parts of pancreas",
+   "Overlapping lesion of pancreas",
+   "Pancreas, NOS"
+  ],
+  "rationale": "An erythropoietin-producing functioning NET of this group is a pancreatic NET; restricting to the pancreatic codes excludes the ampulla (C241) in the ceiling, so it occupies a proper subset.",
+  "source_name": "ENETS 2023 guidance paper for functioning pancreatic NET syndromes (J Neuroendocrinol)"
+ },
+ {
+  "code": "8158/3",
+  "term": "Ghrelin-producing pancreatic neuroendocrine tumor",
+  "subset_codes": [
+   "C250",
+   "C251",
+   "C252",
+   "C253",
+   "C254",
+   "C257",
+   "C258",
+   "C259"
+  ],
+  "subset_sites": [
+   "Head of pancreas",
+   "Body of pancreas",
+   "Tail of pancreas",
+   "Pancreatic duct",
+   "Islets of Langerhans",
+   "Other specified parts of pancreas",
+   "Overlapping lesion of pancreas",
+   "Pancreas, NOS"
+  ],
+  "rationale": "Ghrelin-producing functioning NET (pancreatic ghrelinoma) is a pancreatic-origin tumour; confining to pancreatic codes excludes the ceiling's ampulla code (C241), making it a proper subset.",
+  "source_name": "Neupsy Key: Pancreatic NETs producing GHRH, GH, ghrelin, PTH or PTHrP"
+ },
+ {
+  "code": "8158/3",
+  "term": "GHRH-producing pancreatic neuroendocrine tumor",
+  "subset_codes": [
+   "C250",
+   "C251",
+   "C252",
+   "C253",
+   "C254",
+   "C257",
+   "C258",
+   "C259"
+  ],
+  "subset_sites": [
+   "Head of pancreas",
+   "Body of pancreas",
+   "Tail of pancreas",
+   "Pancreatic duct",
+   "Islets of Langerhans",
+   "Other specified parts of pancreas",
+   "Overlapping lesion of pancreas",
+   "Pancreas, NOS"
+  ],
+  "rationale": "GHRH-producing functioning NETs of this type arise in the pancreas (pancreatic NETs causing ectopic acromegaly); restricting to pancreatic codes excludes the ampulla (C241) in the ceiling, so it forms a proper subset.",
+  "source_name": "Neupsy Key: Pancreatic NETs producing GHRH, GH, ghrelin, PTH or PTHrP"
+ },
+ {
+  "code": "8158/3",
+  "term": "PTH/PTHrP-producing pancreatic neuroendocrine tumor",
+  "subset_codes": [
+   "C250",
+   "C251",
+   "C252",
+   "C253",
+   "C254",
+   "C257",
+   "C258",
+   "C259"
+  ],
+  "subset_sites": [
+   "Head of pancreas",
+   "Body of pancreas",
+   "Tail of pancreas",
+   "Pancreatic duct",
+   "Islets of Langerhans",
+   "Other specified parts of pancreas",
+   "Overlapping lesion of pancreas",
+   "Pancreas, NOS"
+  ],
+  "rationale": "PTH/PTHrP-producing functioning NETs (PTHrPoma) are pancreatic-origin tumours; confining to the pancreatic codes excludes the ceiling's ampulla-of-Vater code (C241), making it a proper subset.",
+  "source_name": "ENETS 2023 guidance paper for functioning pancreatic NET syndromes (J Neuroendocrinol)"
+ },
+ {
+  "code": "8158/3",
+  "term": "Vasopressin-producing pancreatic neuroendocrine tumor",
+  "subset_codes": [
+   "C250",
+   "C251",
+   "C252",
+   "C253",
+   "C254",
+   "C257",
+   "C258",
+   "C259"
+  ],
+  "subset_sites": [
+   "Head of pancreas",
+   "Body of pancreas",
+   "Tail of pancreas",
+   "Pancreatic duct",
+   "Islets of Langerhans",
+   "Other specified parts of pancreas",
+   "Overlapping lesion of pancreas",
+   "Pancreas, NOS"
+  ],
+  "rationale": "A vasopressin-producing functioning NET of this group is a pancreatic NET; restricting to the pancreatic codes excludes the ampulla (C241) in the ceiling, so its real usage is a proper subset.",
+  "source_name": "ENETS 2023 guidance paper for functioning pancreatic NET syndromes (J Neuroendocrinol)"
+ },
+ {
+  "code": "8552/3",
+  "term": "Mixed acinar-ductal carcinoma",
+  "subset_codes": [
+   "C250",
+   "C251",
+   "C252",
+   "C253",
+   "C254",
+   "C257",
+   "C258",
+   "C259"
+  ],
+  "subset_sites": [
+   "Head of pancreas",
+   "Body of pancreas",
+   "Tail of pancreas",
+   "Pancreatic duct",
+   "Islets of Langerhans",
+   "Other specified parts of pancreas",
+   "Overlapping lesion of pancreas",
+   "Pancreas, NOS"
+  ],
+  "rationale": "Mixed (ductal-)acinar cell carcinoma is a pancreatic exocrine neoplasm defined by coexisting acinar and ductal components within a pancreatic tumour; confining usage to the pancreatic codes excludes the prostate code (C619) that is also in the ceiling, so it is a proper subset.",
+  "source_name": "Mol Clin Oncol (PMC6449909): Mixed ductal-acinar cell carcinoma of the pancreas"
+ },
+ {
+  "code": "8160/3",
+  "term": "Bile duct adenocarcinoma",
+  "subset_codes": [
+   "C221",
+   "C240",
+   "C248",
+   "C249"
+  ],
+  "subset_sites": [
+   "Intrahepatic bile duct",
+   "Extrahepatic bile duct",
+   "Overlapping lesion of biliary tract",
+   "Biliary tract, NOS"
+  ],
+  "rationale": "Bile duct adenocarcinoma arises from the bile-duct epithelium (intrahepatic and extrahepatic biliary tree); gallbladder cancer is classified as a separate biliary tract cancer, so bile-duct adenocarcinoma excludes the gallbladder code (C239) in the ceiling and occupies a proper subset.",
+  "source_name": "Wikipedia: Cholangiocarcinoma (bile duct cancer; gallbladder cancer is a separate biliary tract cancer)"
+ },
+ {
+  "code": "8160/3",
+  "term": "Bile duct carcinoma",
+  "subset_codes": [
+   "C221",
+   "C240",
+   "C248",
+   "C249"
+  ],
+  "subset_sites": [
+   "Intrahepatic bile duct",
+   "Extrahepatic bile duct",
+   "Overlapping lesion of biliary tract",
+   "Biliary tract, NOS"
+  ],
+  "rationale": "Bile duct carcinoma is cancer of the bile-duct epithelium throughout the intra/extrahepatic biliary tree; because gallbladder cancer is a distinct biliary tract entity, the term excludes the gallbladder code (C239) in the ceiling and therefore occupies a proper subset.",
+  "source_name": "Wikipedia: Cholangiocarcinoma (bile duct cancer; gallbladder cancer is a separate biliary tract cancer)"
+ },
+ {
+  "code": "8160/3",
+  "term": "Carcinoma of extrahepatic bile ducts",
+  "subset_codes": [
+   "C240"
+  ],
+  "subset_sites": [
+   "Extrahepatic bile duct"
+  ],
+  "rationale": "WHO 5th ed uses 'carcinoma of extrahepatic bile ducts' specifically for tumors arising in the extrahepatic biliary tree, distinct from intrahepatic cholangiocarcinoma and gallbladder carcinoma. This restricts the term to the extrahepatic bile duct subset of the code's biliary SMVL sites.",
+  "source_name": "PMC - Pathology of Cholangiocarcinoma (WHO: carcinoma of extrahepatic bile ducts)"
+ },
+ {
+  "code": "8160/3",
+  "term": "Carcinoma of the extrahepatics bile ducts",
+  "subset_codes": [
+   "C240"
+  ],
+  "subset_sites": [
+   "Extrahepatic bile duct"
+  ],
+  "rationale": "This is the WHO term for carcinoma arising in the extrahepatic bile ducts (a typographic variant of 'carcinoma of the extrahepatic bile ducts'), distinct from intrahepatic and gallbladder carcinoma. It restricts to the extrahepatic bile duct subset of the code's biliary SMVL sites.",
+  "source_name": "PMC - Pathology of Cholangiocarcinoma (WHO: carcinoma of extrahepatic bile ducts)"
+ },
+ {
+  "code": "8160/3",
+  "term": "Cholangiocarcinoma",
+  "subset_codes": [
+   "C221",
+   "C240",
+   "C248",
+   "C249"
+  ],
+  "subset_sites": [
+   "Intrahepatic bile duct",
+   "Extrahepatic bile duct",
+   "Overlapping lesion of biliary tract",
+   "Biliary tract, NOS"
+  ],
+  "rationale": "Cholangiocarcinoma is bile-duct cancer arising anywhere along the bile ducts (intrahepatic, perihilar, distal/extrahepatic); gallbladder cancer is explicitly a separate biliary tract cancer, so cholangiocarcinoma excludes the gallbladder code (C239) in the ceiling and is a proper subset.",
+  "source_name": "Wikipedia: Cholangiocarcinoma (intrahepatic/perihilar/distal bile ducts; gallbladder cancer separate)"
+ },
+ {
+  "code": "8160/3",
+  "term": "Cholangiocarcinoma, large duct",
+  "subset_codes": [
+   "C221"
+  ],
+  "subset_sites": [
+   "Intrahepatic bile duct"
+  ],
+  "rationale": "The large-duct type is a WHO 5th ed histological subtype specific to intrahepatic cholangiocarcinoma (arising from large intrahepatic ducts near the hilum). This restricts the term to the intrahepatic bile duct subset of the code's biliary SMVL sites.",
+  "source_name": "Cancers - Recent Advances in Pathology of Intrahepatic Cholangiocarcinoma (WHO 5th ed small/large duct)"
+ },
+ {
+  "code": "8160/3",
+  "term": "Cholangiocarcinoma, small duct",
+  "subset_codes": [
+   "C221"
+  ],
+  "subset_sites": [
+   "Intrahepatic bile duct"
+  ],
+  "rationale": "The small-duct type is a WHO 5th ed histological subtype specific to intrahepatic cholangiocarcinoma (peripheral, arising from small intrahepatic ducts). This restricts the term to the intrahepatic bile duct subset of the code's biliary SMVL sites.",
+  "source_name": "Cancers - Recent Advances in Pathology of Intrahepatic Cholangiocarcinoma (WHO 5th ed small/large duct)"
+ },
+ {
+  "code": "8160/3",
+  "term": "Intrahepatic cholangiocarcinoma",
+  "subset_codes": [
+   "C221"
+  ],
+  "subset_sites": [
+   "Intrahepatic bile duct"
+  ],
+  "rationale": "Intrahepatic cholangiocarcinoma by definition arises within the intrahepatic biliary tree; WHO 5th ed reserves this term for the intrahepatic ducts, distinct from extrahepatic and gallbladder carcinoma. This restricts it to the intrahepatic bile duct subset of the code's biliary SMVL sites.",
+  "source_name": "Cancers - Recent Advances in Pathology of Intrahepatic Cholangiocarcinoma"
+ },
+ {
+  "code": "8160/3",
+  "term": "Large duct intrahepatic cholangiocarcinoma",
+  "subset_codes": [
+   "C221"
+  ],
+  "subset_sites": [
+   "Intrahepatic bile duct"
+  ],
+  "rationale": "Large-duct intrahepatic cholangiocarcinoma is a WHO 5th ed subtype arising from large intrahepatic bile ducts near the hilum; by definition it is intrahepatic, restricting it to the intrahepatic bile duct subset of the code's biliary SMVL sites.",
+  "source_name": "Cancers - Recent Advances in Pathology of Intrahepatic Cholangiocarcinoma (WHO 5th ed small/large duct)"
+ },
+ {
+  "code": "8160/3",
+  "term": "Small duct intrahepatic cholangiocarcinoma",
+  "subset_codes": [
+   "C221"
+  ],
+  "subset_sites": [
+   "Intrahepatic bile duct"
+  ],
+  "rationale": "Small-duct intrahepatic cholangiocarcinoma is a WHO 5th ed subtype arising peripherally from small intrahepatic bile ducts; by definition it is intrahepatic, restricting it to the intrahepatic bile duct subset of the code's biliary SMVL sites.",
+  "source_name": "Cancers - Recent Advances in Pathology of Intrahepatic Cholangiocarcinoma (WHO 5th ed small/large duct)"
+ },
+ {
+  "code": "8215/3",
+  "term": "Adenocarcinoma of anal ducts",
+  "subset_codes": [
+   "C211"
+  ],
+  "subset_sites": [
+   "Anal canal"
+  ],
+  "rationale": "Anal gland/duct adenocarcinoma originates from the anal glands and ducts and is centred in the anal canal wall (between anal margin and ~2 cm above the dentate line); this localises it to the anal canal (C211), a proper subset of the four-code ceiling (which also includes anus NOS, cloacogenic zone and anorectal-overlapping).",
+  "source_name": "Frontiers in Oncology 2026: Clinicopathology of adenocarcinoma originating from the anal gland"
+ },
+ {
+  "code": "8215/3",
+  "term": "Adenocarcinoma of anal glands",
+  "subset_codes": [
+   "C211"
+  ],
+  "subset_sites": [
+   "Anal canal"
+  ],
+  "rationale": "Anal gland adenocarcinoma is an extramucosal adenocarcinoma arising from the anal glands/ducts, which lie within the wall of the anal canal and open near the dentate line; it is restricted to the anal canal rather than the full code ceiling (anus NOS/anal margin, cloacogenic zone, anorectum-overlapping).",
+  "source_name": "Frontiers in Oncology PMC13019455 (clinicopathology of anal gland adenocarcinoma) + Wikipedia Anal gland anatomy"
+ },
+ {
+  "code": "8015/3",
+  "term": "Glassy cell carcinoma",
+  "subset_codes": [
+   "C529",
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "subset_sites": [
+   "Vagina, NOS",
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri"
+  ],
+  "rationale": "Glassy cell carcinoma is defined in the literature as a rare poorly-differentiated adenosquamous carcinoma of the female genital tract, overwhelmingly the uterine cervix (rarely endometrium/vagina). Within its broad 24-site ceiling only the female-genital codes apply, i.e. cervix and vagina, a proper subset.",
+  "source_name": "Glassy cell carcinoma of cervix, Translational Cancer Research (PMC8799286)"
+ },
+ {
+  "code": "8270/0",
+  "term": "Chromophobe adenoma",
+  "subset_codes": [
+   "C751"
+  ],
+  "subset_sites": [
+   "Pituitary gland"
+  ],
+  "rationale": "Chromophobe adenoma/carcinoma is a classic tinctorial category of anterior-pituitary (adenohypophyseal, C751) tumours; it is not a craniopharyngeal-duct (C752) lesion, so it is restricted to the pituitary gland within the ceiling.",
+  "source_name": "Pituitary Adenoma, EyeWiki (AAO) - acidophil/basophil/chromophobe tinctorial classification"
+ },
+ {
+  "code": "8270/3",
+  "term": "Chromophobe adenocarcinoma",
+  "subset_codes": [
+   "C751"
+  ],
+  "subset_sites": [
+   "Pituitary gland"
+  ],
+  "rationale": "Chromophobe adenoma/carcinoma is a classic tinctorial category of anterior-pituitary (adenohypophyseal, C751) tumours; it is not a craniopharyngeal-duct (C752) lesion, so it is restricted to the pituitary gland within the ceiling.",
+  "source_name": "Pituitary Adenoma, EyeWiki (AAO) - acidophil/basophil/chromophobe tinctorial classification"
+ },
+ {
+  "code": "8270/3",
+  "term": "Chromophobe adenoma of pituitary",
+  "subset_codes": [
+   "C751"
+  ],
+  "subset_sites": [
+   "Pituitary gland"
+  ],
+  "rationale": "Explicitly a chromophobe adenoma of the pituitary gland (adenohypophysis, C751); does not arise from the craniopharyngeal duct (C752), so it is restricted to the pituitary gland within the ceiling.",
+  "source_name": "WHO Classification of Tumours 5th ed, Endocrine and Neuroendocrine Tumours (pituitary gland section)"
+ },
+ {
+  "code": "8270/3",
+  "term": "Chromophobe carcinoma",
+  "subset_codes": [
+   "C751"
+  ],
+  "subset_sites": [
+   "Pituitary gland"
+  ],
+  "rationale": "Chromophobe adenoma/carcinoma is a classic tinctorial category of anterior-pituitary (adenohypophyseal, C751) tumours; it is not a craniopharyngeal-duct (C752) lesion, so it is restricted to the pituitary gland within the ceiling.",
+  "source_name": "Pituitary Adenoma, EyeWiki (AAO) - acidophil/basophil/chromophobe tinctorial classification"
+ },
+ {
+  "code": "8271/0",
+  "term": "Prolactinoma",
+  "subset_codes": [
+   "C751"
+  ],
+  "subset_sites": [
+   "Pituitary gland"
+  ],
+  "rationale": "Prolactinoma (lactotroph PitNET/adenoma) is a well-differentiated tumour of anterior-pituitary (adenohypophyseal, C751) cells; it does not arise from the craniopharyngeal duct (C752), so it is restricted to the pituitary gland within the ceiling.",
+  "source_name": "Overview of the 2022 WHO Classification of Pituitary Tumors, PubMed PMID 35291028"
+ },
+ {
+  "code": "8272/0",
+  "term": "Pituitary adenoma, NOS",
+  "subset_codes": [
+   "C751"
+  ],
+  "subset_sites": [
+   "Pituitary gland"
+  ],
+  "rationale": "Pituitary adenoma (PitNET) is by definition a neoplasm of the anterior pituitary gland (adenohypophysis, C751); it does not arise from the craniopharyngeal duct (C752), so it is restricted to the pituitary gland within the ceiling.",
+  "source_name": "Pituitary Adenoma, StatPearls (NCBI Bookshelf)"
+ },
+ {
+  "code": "8273/3",
+  "term": "Pituitary blastoma",
+  "subset_codes": [
+   "C751"
+  ],
+  "subset_sites": [
+   "Pituitary gland"
+  ],
+  "rationale": "Pituitary blastoma is a rare early-childhood tumour of the pituitary gland (C751) associated with DICER1; it does not arise from the craniopharyngeal duct (C752), so it is restricted to the pituitary gland within the ceiling. 'Pituitary embryoma' is a synonym.",
+  "source_name": "Pituitary blastoma: DICER1 syndrome, Acta Neuropathologica (PMC4129448)"
+ },
+ {
+  "code": "8273/3",
+  "term": "Pituitary embryoma",
+  "subset_codes": [
+   "C751"
+  ],
+  "subset_sites": [
+   "Pituitary gland"
+  ],
+  "rationale": "Pituitary blastoma is a rare early-childhood tumour of the pituitary gland (C751) associated with DICER1; it does not arise from the craniopharyngeal duct (C752), so it is restricted to the pituitary gland within the ceiling. 'Pituitary embryoma' is a synonym.",
+  "source_name": "Pituitary blastoma: DICER1 syndrome, Acta Neuropathologica (PMC4129448)"
+ },
+ {
+  "code": "8280/0",
+  "term": "Acidophil adenoma",
+  "subset_codes": [
+   "C751"
+  ],
+  "subset_sites": [
+   "Pituitary gland"
+  ],
+  "rationale": "Acidophil/eosinophil adenoma is a classic tinctorial category of anterior-pituitary (adenohypophyseal, C751) adenomas (e.g. somatotroph/lactotroph tumours); it is not a craniopharyngeal-duct (C752) entity, so it is restricted to the pituitary gland within the ceiling.",
+  "source_name": "Pituitary Adenoma, EyeWiki (AAO) - acidophil/basophil/chromophobe tinctorial classification"
+ },
+ {
+  "code": "8280/0",
+  "term": "Eosinophil adenoma",
+  "subset_codes": [
+   "C751"
+  ],
+  "subset_sites": [
+   "Pituitary gland"
+  ],
+  "rationale": "Acidophil/eosinophil adenoma is a classic tinctorial category of anterior-pituitary (adenohypophyseal, C751) adenomas (e.g. somatotroph/lactotroph tumours); it is not a craniopharyngeal-duct (C752) entity, so it is restricted to the pituitary gland within the ceiling.",
+  "source_name": "Pituitary Adenoma, EyeWiki (AAO) - acidophil/basophil/chromophobe tinctorial classification"
+ },
+ {
+  "code": "8280/3",
+  "term": "Acidophil adenocarcinoma",
+  "subset_codes": [
+   "C751"
+  ],
+  "subset_sites": [
+   "Pituitary gland"
+  ],
+  "rationale": "Acidophil/eosinophil adenoma is a classic tinctorial category of anterior-pituitary (adenohypophyseal, C751) adenomas (e.g. somatotroph/lactotroph tumours); it is not a craniopharyngeal-duct (C752) entity, so it is restricted to the pituitary gland within the ceiling.",
+  "source_name": "Pituitary Adenoma, EyeWiki (AAO) - acidophil/basophil/chromophobe tinctorial classification"
+ },
+ {
+  "code": "8280/3",
+  "term": "Acidophil adenoma",
+  "subset_codes": [
+   "C751"
+  ],
+  "subset_sites": [
+   "Pituitary gland"
+  ],
+  "rationale": "Acidophil/eosinophil adenoma is a classic tinctorial category of anterior-pituitary (adenohypophyseal, C751) adenomas (e.g. somatotroph/lactotroph tumours); it is not a craniopharyngeal-duct (C752) entity, so it is restricted to the pituitary gland within the ceiling.",
+  "source_name": "Pituitary Adenoma, EyeWiki (AAO) - acidophil/basophil/chromophobe tinctorial classification"
+ },
+ {
+  "code": "8280/3",
+  "term": "Acidophil carcinoma",
+  "subset_codes": [
+   "C751"
+  ],
+  "subset_sites": [
+   "Pituitary gland"
+  ],
+  "rationale": "Acidophil/eosinophil adenoma is a classic tinctorial category of anterior-pituitary (adenohypophyseal, C751) adenomas (e.g. somatotroph/lactotroph tumours); it is not a craniopharyngeal-duct (C752) entity, so it is restricted to the pituitary gland within the ceiling.",
+  "source_name": "Pituitary Adenoma, EyeWiki (AAO) - acidophil/basophil/chromophobe tinctorial classification"
+ },
+ {
+  "code": "8290/3",
+  "term": "Encapsulated angioinvasive oncocytic carcinoma",
+  "subset_codes": [
+   "C739"
+  ],
+  "subset_sites": [
+   "Thyroid gland"
+  ],
+  "rationale": "Encapsulated angioinvasive oncocytic carcinoma is a WHO 2022 invasion subtype of oncocytic carcinoma of the thyroid gland, a follicular-cell-derived thyroid malignancy; it does not arise at the other ceiling sites (salivary, breast, eye, adrenal, pituitary), so it is restricted to the thyroid (C739).",
+  "source_name": "MyPathologyReport: Oncocytic Carcinoma of the Thyroid Gland (WHO 2022 subtypes)"
+ },
+ {
+  "code": "8290/3",
+  "term": "Encapsulated angioinvasive oncocytic carcinoma of the thyroid gland",
+  "subset_codes": [
+   "C739"
+  ],
+  "subset_sites": [
+   "Thyroid gland"
+  ],
+  "rationale": "Encapsulated angioinvasive oncocytic carcinoma is a WHO 2022 invasion subtype of oncocytic carcinoma of the thyroid gland, a follicular-cell-derived thyroid malignancy; it does not arise at the other ceiling sites (salivary, breast, eye, adrenal, pituitary), so it is restricted to the thyroid (C739).",
+  "source_name": "MyPathologyReport: Oncocytic Carcinoma of the Thyroid Gland (WHO 2022 subtypes)"
+ },
+ {
+  "code": "8290/3",
+  "term": "Follicular carcinoma, H\u00fcrthle cell type",
+  "subset_codes": [
+   "C739"
+  ],
+  "subset_sites": [
+   "Thyroid gland"
+  ],
+  "rationale": "H\u00fcrthle cell (oncocytic) carcinoma / oncocytic follicular carcinoma is a rare thyroid cancer originating from oncocytic (H\u00fcrthle) follicular thyroid cells; it is not described at the other ceiling sites, so it is restricted to the thyroid (C739).",
+  "source_name": "StatPearls: Oncocytic (H\u00fcrthle Cell) Thyroid Carcinoma (NCBI Bookshelf NBK568736)"
+ },
+ {
+  "code": "8290/3",
+  "term": "Follicular carcinoma, oncocytic type",
+  "subset_codes": [
+   "C739"
+  ],
+  "subset_sites": [
+   "Thyroid gland"
+  ],
+  "rationale": "H\u00fcrthle cell (oncocytic) carcinoma / oncocytic follicular carcinoma is a rare thyroid cancer originating from oncocytic (H\u00fcrthle) follicular thyroid cells; it is not described at the other ceiling sites, so it is restricted to the thyroid (C739).",
+  "source_name": "StatPearls: Oncocytic (H\u00fcrthle Cell) Thyroid Carcinoma (NCBI Bookshelf NBK568736)"
+ },
+ {
+  "code": "8290/3",
+  "term": "Follicular carcinoma, oxyphilic cell",
+  "subset_codes": [
+   "C739"
+  ],
+  "subset_sites": [
+   "Thyroid gland"
+  ],
+  "rationale": "H\u00fcrthle cell (oncocytic) carcinoma / oncocytic follicular carcinoma is a rare thyroid cancer originating from oncocytic (H\u00fcrthle) follicular thyroid cells; it is not described at the other ceiling sites, so it is restricted to the thyroid (C739).",
+  "source_name": "StatPearls: Oncocytic (H\u00fcrthle Cell) Thyroid Carcinoma (NCBI Bookshelf NBK568736)"
+ },
+ {
+  "code": "8290/3",
+  "term": "Hurthle cell adenocarcinoma",
+  "subset_codes": [
+   "C739"
+  ],
+  "subset_sites": [
+   "Thyroid gland"
+  ],
+  "rationale": "H\u00fcrthle cell (oncocytic) carcinoma / oncocytic follicular carcinoma is a rare thyroid cancer originating from oncocytic (H\u00fcrthle) follicular thyroid cells; it is not described at the other ceiling sites, so it is restricted to the thyroid (C739).",
+  "source_name": "StatPearls: Oncocytic (H\u00fcrthle Cell) Thyroid Carcinoma (NCBI Bookshelf NBK568736)"
+ },
+ {
+  "code": "8290/3",
+  "term": "Hurthle cell carcinoma",
+  "subset_codes": [
+   "C739"
+  ],
+  "subset_sites": [
+   "Thyroid gland"
+  ],
+  "rationale": "H\u00fcrthle cell (oncocytic) carcinoma / oncocytic follicular carcinoma is a rare thyroid cancer originating from oncocytic (H\u00fcrthle) follicular thyroid cells; it is not described at the other ceiling sites, so it is restricted to the thyroid (C739).",
+  "source_name": "StatPearls: Oncocytic (H\u00fcrthle Cell) Thyroid Carcinoma (NCBI Bookshelf NBK568736)"
+ },
+ {
+  "code": "8290/3",
+  "term": "H\u00fcrthle cell adenocarcinoma",
+  "subset_codes": [
+   "C739"
+  ],
+  "subset_sites": [
+   "Thyroid gland"
+  ],
+  "rationale": "H\u00fcrthle cell (oncocytic) carcinoma / oncocytic follicular carcinoma is a rare thyroid cancer originating from oncocytic (H\u00fcrthle) follicular thyroid cells; it is not described at the other ceiling sites, so it is restricted to the thyroid (C739).",
+  "source_name": "StatPearls: Oncocytic (H\u00fcrthle Cell) Thyroid Carcinoma (NCBI Bookshelf NBK568736)"
+ },
+ {
+  "code": "8290/3",
+  "term": "H\u00fcrthle cell carcinoma",
+  "subset_codes": [
+   "C739"
+  ],
+  "subset_sites": [
+   "Thyroid gland"
+  ],
+  "rationale": "Per WHO 2022 thyroid classification, 'H\u00fcrthle cell carcinoma' is the historical name for oncocytic carcinoma of the thyroid, a follicular-cell-derived thyroid entity restricted to the thyroid gland.",
+  "source_name": "PMC9633223 - Update from the 2022 WHO Classification of Thyroid Tumors (Endocrinology and Metabolism)"
+ },
+ {
+  "code": "8290/3",
+  "term": "Minimally invasive oncocytic carcinoma",
+  "subset_codes": [
+   "C739"
+  ],
+  "subset_sites": [
+   "Thyroid gland"
+  ],
+  "rationale": "Minimally/widely invasive grading of oncocytic carcinoma is a thyroid-specific (follicular-derived) staging scheme; minimally invasive oncocytic carcinoma denotes an oncocytic thyroid carcinoma with capsular invasion only.",
+  "source_name": "J Clin Endocrinol Metab - Approach to the patient: Oncocytic thyroid cancer (MI/EA/WI-OTC subtypes)"
+ },
+ {
+  "code": "8290/3",
+  "term": "Minimally invasive oncocytic carcinoma of the thyroid gland (capsular invasion only)",
+  "subset_codes": [
+   "C739"
+  ],
+  "subset_sites": [
+   "Thyroid gland"
+  ],
+  "rationale": "Term explicitly names the thyroid gland; it is an oncocytic thyroid carcinoma with capsular invasion only, restricted to the thyroid.",
+  "source_name": "MyPathologyReport - Minimally invasive oncocytic carcinoma of the thyroid gland"
+ },
+ {
+  "code": "8290/3",
+  "term": "Oncocytic carcinoma of the thyroid gland",
+  "subset_codes": [
+   "C739"
+  ],
+  "subset_sites": [
+   "Thyroid gland"
+  ],
+  "rationale": "WHO 2022 designates 'oncocytic carcinoma of the thyroid' as the follicular-cell-derived thyroid entity (former H\u00fcrthle cell carcinoma), restricted to the thyroid.",
+  "source_name": "PMC9633223 - Update from the 2022 WHO Classification of Thyroid Tumors (Endocrinology and Metabolism)"
+ },
+ {
+  "code": "8290/3",
+  "term": "Oncocytic salivary duct carcinoma",
+  "subset_codes": [
+   "C079",
+   "C080",
+   "C081",
+   "C088",
+   "C089"
+  ],
+  "subset_sites": [
+   "Parotid gland",
+   "Submandibular gland",
+   "Sublingual gland",
+   "Overlapping lesion of major salivary glands",
+   "Major salivary gland, NOS"
+  ],
+  "rationale": "Oncocytic (oncocytoid) salivary duct carcinoma is a salivary-gland carcinoma variant, restricted to the major/minor salivary glands within the code ceiling.",
+  "source_name": "Head and Neck Pathology PMC9424456 - Oncocytoid/Oncocytic variant of salivary duct carcinoma"
+ },
+ {
+  "code": "8290/3",
+  "term": "Widely invasive oncocytic carcinoma",
+  "subset_codes": [
+   "C739"
+  ],
+  "subset_sites": [
+   "Thyroid gland"
+  ],
+  "rationale": "Widely invasive grading of oncocytic carcinoma is a thyroid-specific follicular-derived staging scheme (WI-OTC), denoting an oncocytic thyroid carcinoma with extensive invasion.",
+  "source_name": "J Clin Endocrinol Metab - Approach to the patient: Oncocytic thyroid cancer (MI/EA/WI-OTC subtypes)"
+ },
+ {
+  "code": "8290/3",
+  "term": "Widely invasive oncocytic carcinoma of the thyroid gland",
+  "subset_codes": [
+   "C739"
+  ],
+  "subset_sites": [
+   "Thyroid gland"
+  ],
+  "rationale": "Term explicitly names the thyroid gland; widely invasive oncocytic thyroid carcinoma is restricted to the thyroid.",
+  "source_name": "J Clin Endocrinol Metab - Approach to the patient: Oncocytic thyroid cancer (MI/EA/WI-OTC subtypes)"
+ },
+ {
+  "code": "8370/3",
+  "term": "Adrenal cortical adenocarcinoma",
+  "subset_codes": [
+   "C740",
+   "C749"
+  ],
+  "subset_sites": [
+   "Cortex of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "WHO defines adrenal cortical carcinoma (and all its subtypes) as a malignant epithelial tumour originating from adrenal cortical cells; it is confined to the adrenal cortex (C740) / adrenal gland NOS (C749) and does not arise from the adrenal medulla (C741, origin of pheochromocytoma).",
+  "source_name": "WHO Blue Book (Endocrine & NE Tumours 5th ed) - Adrenal cortical carcinoma 8370/3 definition"
+ },
+ {
+  "code": "8370/3",
+  "term": "Adrenal cortical carcinoma",
+  "subset_codes": [
+   "C740",
+   "C749"
+  ],
+  "subset_sites": [
+   "Cortex of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "WHO defines adrenal cortical carcinoma (and all its subtypes) as a malignant epithelial tumour originating from adrenal cortical cells; it is confined to the adrenal cortex (C740) / adrenal gland NOS (C749) and does not arise from the adrenal medulla (C741, origin of pheochromocytoma).",
+  "source_name": "WHO Blue Book (Endocrine & NE Tumours 5th ed) - Adrenal cortical carcinoma 8370/3 definition"
+ },
+ {
+  "code": "8370/3",
+  "term": "Adrenal cortical carcinoma, conventional",
+  "subset_codes": [
+   "C740",
+   "C749"
+  ],
+  "subset_sites": [
+   "Cortex of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "WHO defines adrenal cortical carcinoma (and all its subtypes) as a malignant epithelial tumour originating from adrenal cortical cells; it is confined to the adrenal cortex (C740) / adrenal gland NOS (C749) and does not arise from the adrenal medulla (C741, origin of pheochromocytoma).",
+  "source_name": "WHO Blue Book (Endocrine & NE Tumours 5th ed) - Adrenal cortical carcinoma 8370/3 definition"
+ },
+ {
+  "code": "8370/3",
+  "term": "Adrenal cortical carcinoma, oncocytic",
+  "subset_codes": [
+   "C740",
+   "C749"
+  ],
+  "subset_sites": [
+   "Cortex of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "WHO defines adrenal cortical carcinoma (and all its subtypes) as a malignant epithelial tumour originating from adrenal cortical cells; it is confined to the adrenal cortex (C740) / adrenal gland NOS (C749) and does not arise from the adrenal medulla (C741, origin of pheochromocytoma).",
+  "source_name": "WHO Blue Book (Endocrine & NE Tumours 5th ed) - Adrenal cortical carcinoma 8370/3 definition"
+ },
+ {
+  "code": "8370/3",
+  "term": "Adrenal cortical tumor, malignant",
+  "subset_codes": [
+   "C740",
+   "C749"
+  ],
+  "subset_sites": [
+   "Cortex of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "WHO defines adrenal cortical carcinoma (and all its subtypes) as a malignant epithelial tumour originating from adrenal cortical cells; it is confined to the adrenal cortex (C740) / adrenal gland NOS (C749) and does not arise from the adrenal medulla (C741, origin of pheochromocytoma).",
+  "source_name": "WHO Blue Book (Endocrine & NE Tumours 5th ed) - Adrenal cortical carcinoma 8370/3 definition"
+ },
+ {
+  "code": "8370/3",
+  "term": "Adrenocortical carcinoma, NOS",
+  "subset_codes": [
+   "C740",
+   "C749"
+  ],
+  "subset_sites": [
+   "Cortex of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "WHO defines adrenal cortical carcinoma (and all its subtypes) as a malignant epithelial tumour originating from adrenal cortical cells; it is confined to the adrenal cortex (C740) / adrenal gland NOS (C749) and does not arise from the adrenal medulla (C741, origin of pheochromocytoma).",
+  "source_name": "WHO Blue Book (Endocrine & NE Tumours 5th ed) - Adrenal cortical carcinoma 8370/3 definition"
+ },
+ {
+  "code": "8370/3",
+  "term": "Conventional adrenal cortical carcinoma",
+  "subset_codes": [
+   "C740",
+   "C749"
+  ],
+  "subset_sites": [
+   "Cortex of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "WHO defines adrenal cortical carcinoma (and all its subtypes) as a malignant epithelial tumour originating from adrenal cortical cells; it is confined to the adrenal cortex (C740) / adrenal gland NOS (C749) and does not arise from the adrenal medulla (C741, origin of pheochromocytoma).",
+  "source_name": "WHO Blue Book (Endocrine & NE Tumours 5th ed) - Adrenal cortical carcinoma 8370/3 definition"
+ },
+ {
+  "code": "8370/3",
+  "term": "Myxoid adrenal cortical carcinoma",
+  "subset_codes": [
+   "C740",
+   "C749"
+  ],
+  "subset_sites": [
+   "Cortex of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "WHO defines adrenal cortical carcinoma (and all its subtypes) as a malignant epithelial tumour originating from adrenal cortical cells; it is confined to the adrenal cortex (C740) / adrenal gland NOS (C749) and does not arise from the adrenal medulla (C741, origin of pheochromocytoma).",
+  "source_name": "WHO Blue Book (Endocrine & NE Tumours 5th ed) - Adrenal cortical carcinoma 8370/3 definition"
+ },
+ {
+  "code": "8370/3",
+  "term": "Oncocytic adrenal cortical carcinoma",
+  "subset_codes": [
+   "C740",
+   "C749"
+  ],
+  "subset_sites": [
+   "Cortex of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "WHO defines adrenal cortical carcinoma (and all its subtypes) as a malignant epithelial tumour originating from adrenal cortical cells; it is confined to the adrenal cortex (C740) / adrenal gland NOS (C749) and does not arise from the adrenal medulla (C741, origin of pheochromocytoma).",
+  "source_name": "WHO Blue Book (Endocrine & NE Tumours 5th ed) - Adrenal cortical carcinoma 8370/3 definition"
+ },
+ {
+  "code": "8370/3",
+  "term": "Sarcomatoid adrenal cortical carcinoma",
+  "subset_codes": [
+   "C740",
+   "C749"
+  ],
+  "subset_sites": [
+   "Cortex of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "WHO defines adrenal cortical carcinoma (and all its subtypes) as a malignant epithelial tumour originating from adrenal cortical cells; it is confined to the adrenal cortex (C740) / adrenal gland NOS (C749) and does not arise from the adrenal medulla (C741, origin of pheochromocytoma).",
+  "source_name": "WHO Blue Book (Endocrine & NE Tumours 5th ed) - Adrenal cortical carcinoma 8370/3 definition"
+ },
+ {
+  "code": "9060/3",
+  "term": "Dysgerminoma",
+  "subset_codes": [
+   "C569"
+  ],
+  "subset_sites": [
+   "Ovary"
+  ],
+  "rationale": "Dysgerminoma is the ovary-specific germinoma (female equivalent of testicular seminoma); the analogous tumors are termed seminoma in testis and germinoma in the CNS, so the dysgerminoma nomenclature is restricted to the ovary within this ceiling.",
+  "source_name": "Diagn Interv Radiol PMC10679589 - Ovarian dysgerminoma (female equivalent of testicular seminoma)"
+ },
+ {
+  "code": "9060/3",
+  "term": "Dysgerminoma with syncytiotrophoblast cells",
+  "subset_codes": [
+   "C569"
+  ],
+  "subset_sites": [
+   "Ovary"
+  ],
+  "rationale": "Dysgerminoma is the ovary-specific germinoma (female equivalent of testicular seminoma); the analogous tumors are termed seminoma in testis and germinoma in the CNS, so the dysgerminoma nomenclature is restricted to the ovary within this ceiling.",
+  "source_name": "Diagn Interv Radiol PMC10679589 - Ovarian dysgerminoma (female equivalent of testicular seminoma)"
+ },
+ {
+  "code": "9060/3",
+  "term": "Germinoma of ovary",
+  "subset_codes": [
+   "C569"
+  ],
+  "subset_sites": [
+   "Ovary"
+  ],
+  "rationale": "Dysgerminoma is the ovary-specific germinoma (female equivalent of testicular seminoma); the analogous tumors are termed seminoma in testis and germinoma in the CNS, so the dysgerminoma nomenclature is restricted to the ovary within this ceiling.",
+  "source_name": "Diagn Interv Radiol PMC10679589 - Ovarian dysgerminoma (female equivalent of testicular seminoma)"
+ },
+ {
+  "code": "9081/3",
+  "term": "Teratocarcinosarcoma",
+  "subset_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319",
+   "C569"
+  ],
+  "subset_sites": [
+   "Nasal cavity",
+   "Maxillary sinus",
+   "Ethmoid sinus",
+   "Frontal sinus",
+   "Sphenoid sinus",
+   "Overlapping lesion of accessory sinuses",
+   "Accessory sinus, NOS",
+   "Ovary"
+  ],
+  "rationale": "Teratocarcinosarcoma (WHO sinonasal teratocarcinosarcoma) most frequently arises in the nasal cavity and paranasal sinuses, with rarer reports in the ovary; within the ceiling it is confined to the sinonasal sites and ovary and does not involve thymus, mediastinum, CNS or endocrine sites.",
+  "source_name": "J Int Med Res PMC7754799 - Sinonasal teratocarcinosarcoma (WHO term coined 2005)"
+ },
+ {
+  "code": "9432/1",
+  "term": "Pituicytoma",
+  "subset_codes": [
+   "C751"
+  ],
+  "subset_sites": [
+   "Pituitary gland"
+  ],
+  "rationale": "Pituicytoma arises specifically from pituicytes of the neurohypophysis (posterior pituitary) and infundibulum, i.e. the pituitary gland (C751); it does not originate from craniopharyngeal-duct/Rathke remnants (C752), so it is restricted to a proper subset of its ceiling.",
+  "source_name": "Surgical Neurology International 2020 (PMC7265469) \u2014 pituicyte/neurohypophysis lineage of sellar-region posterior-pituitary tumors"
+ },
+ {
+  "code": "9501/3",
+  "term": "Diktyoma, malignant",
+  "subset_codes": [
+   "C481",
+   "C482",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717"
+  ],
+  "subset_sites": [
+   "Specified parts of peritoneum",
+   "Peritoneum, NOS",
+   "Cerebrum",
+   "Frontal lobe",
+   "Temporal lobe",
+   "Parietal lobe",
+   "Occipital lobe",
+   "Ventricle, NOS",
+   "Cerebellum, NOS",
+   "Brain stem"
+  ],
+  "rationale": "Medulloepithelioma (diktyoma) is an embryonal neural-tube tumor arising supratentorially/intraventricularly, infratentorially, in the cauda and extraneurally along nerve roots; within this ceiling it maps to brain and retroperitoneal/paraspinal sites and never to endocrine glands (adrenal, parathyroid, pituitary, craniopharyngeal duct, pineal, carotid body, paraganglia).",
+  "source_name": "NCI PDQ Childhood CNS Embryonal Tumors summary (PeaceHealth mirror) \u2014 medulloepithelioma arises supratentorially/intraventricularly, infratentorially, cauda, extraneural nerve roots"
+ },
+ {
+  "code": "9501/3",
+  "term": "Malignant non-teratoid medulloepithelioma",
+  "subset_codes": [
+   "C481",
+   "C482",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717"
+  ],
+  "subset_sites": [
+   "Specified parts of peritoneum",
+   "Peritoneum, NOS",
+   "Cerebrum",
+   "Frontal lobe",
+   "Temporal lobe",
+   "Parietal lobe",
+   "Occipital lobe",
+   "Ventricle, NOS",
+   "Cerebellum, NOS",
+   "Brain stem"
+  ],
+  "rationale": "Non-teratoid medulloepithelioma is an embryonal neural-tube tumor of the CNS (supratentorial/intraventricular, infratentorial, cauda, extraneural nerve roots); it does not arise in endocrine glands, restricting it to the brain and retroperitoneal/paraspinal subset of the ceiling.",
+  "source_name": "NCI PDQ Childhood CNS Embryonal Tumors summary (PeaceHealth mirror) \u2014 medulloepithelioma CNS/extraneural distribution"
+ },
+ {
+  "code": "9501/3",
+  "term": "Medulloepithelioma, NOS",
+  "subset_codes": [
+   "C481",
+   "C482",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717"
+  ],
+  "subset_sites": [
+   "Specified parts of peritoneum",
+   "Peritoneum, NOS",
+   "Cerebrum",
+   "Frontal lobe",
+   "Temporal lobe",
+   "Parietal lobe",
+   "Occipital lobe",
+   "Ventricle, NOS",
+   "Cerebellum, NOS",
+   "Brain stem"
+  ],
+  "rationale": "Medulloepithelioma is an embryonal neural-tube tumor arising in the CNS (supratentorial/intraventricular, infratentorial), cauda and extraneurally along nerve roots; within this ceiling it is confined to brain and retroperitoneal/paraspinal sites, not to any endocrine gland.",
+  "source_name": "NCI PDQ Childhood CNS Embryonal Tumors summary (PeaceHealth mirror) \u2014 medulloepithelioma CNS/extraneural distribution"
+ },
+ {
+  "code": "9501/3",
+  "term": "Medulloepithelioma, malignant",
+  "subset_codes": [
+   "C481",
+   "C482",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717"
+  ],
+  "subset_sites": [
+   "Specified parts of peritoneum",
+   "Peritoneum, NOS",
+   "Cerebrum",
+   "Frontal lobe",
+   "Temporal lobe",
+   "Parietal lobe",
+   "Occipital lobe",
+   "Ventricle, NOS",
+   "Cerebellum, NOS",
+   "Brain stem"
+  ],
+  "rationale": "Malignant medulloepithelioma is an embryonal neural-tube CNS tumor arising supratentorially/intraventricularly, infratentorially and extraneurally; it does not occur in endocrine glands, restricting it to the brain and retroperitoneal/paraspinal subset of the ceiling.",
+  "source_name": "NCI PDQ Childhood CNS Embryonal Tumors summary (PeaceHealth mirror) \u2014 medulloepithelioma CNS/extraneural distribution"
+ },
+ {
+  "code": "9501/3",
+  "term": "Non-teratoid medulloepithelioma, malignant",
+  "subset_codes": [
+   "C481",
+   "C482",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717"
+  ],
+  "subset_sites": [
+   "Specified parts of peritoneum",
+   "Peritoneum, NOS",
+   "Cerebrum",
+   "Frontal lobe",
+   "Temporal lobe",
+   "Parietal lobe",
+   "Occipital lobe",
+   "Ventricle, NOS",
+   "Cerebellum, NOS",
+   "Brain stem"
+  ],
+  "rationale": "Non-teratoid malignant medulloepithelioma is an embryonal neural-tube CNS tumor arising supratentorially/intraventricularly, infratentorially, cauda and extraneurally; it does not arise in endocrine glands, restricting it to the brain and retroperitoneal/paraspinal subset.",
+  "source_name": "NCI PDQ Childhood CNS Embryonal Tumors summary (PeaceHealth mirror) \u2014 medulloepithelioma CNS/extraneural distribution"
+ },
+ {
+  "code": "9502/3",
+  "term": "Malignant teratoid medulloepithelioma",
+  "subset_codes": [
+   "C481",
+   "C482",
+   "C715",
+   "C716",
+   "C717"
+  ],
+  "subset_sites": [
+   "Specified parts of peritoneum",
+   "Peritoneum, NOS",
+   "Ventricle, NOS",
+   "Cerebellum, NOS",
+   "Brain stem"
+  ],
+  "rationale": "Teratoid medulloepithelioma is an embryonal neuroepithelial tumor of the CNS/neural-tube derivatives (and eye, which is outside this ceiling); within this ceiling it maps to ventricular/cerebellar/brainstem CNS sites and cauda/extraneural retroperitoneal-paraspinal locations, and does not arise in endocrine glands (adrenal, parathyroid, pituitary, pineal, carotid body, paraganglia).",
+  "source_name": "NCI PDQ Childhood CNS Embryonal Tumors summary (PeaceHealth mirror) \u2014 medulloepithelioma CNS/extraneural distribution"
+ },
+ {
+  "code": "9502/3",
+  "term": "Teratoid medulloepithelioma, NOS",
+  "subset_codes": [
+   "C481",
+   "C482",
+   "C715",
+   "C716",
+   "C717"
+  ],
+  "subset_sites": [
+   "Specified parts of peritoneum",
+   "Peritoneum, NOS",
+   "Ventricle, NOS",
+   "Cerebellum, NOS",
+   "Brain stem"
+  ],
+  "rationale": "Teratoid medulloepithelioma is an embryonal neuroepithelial tumor arising in CNS neural-tube derivatives (and eye, outside this ceiling); within the ceiling it is confined to ventricular/cerebellar/brainstem and cauda/extraneural retroperitoneal-paraspinal sites, not to endocrine glands.",
+  "source_name": "NCI PDQ Childhood CNS Embryonal Tumors summary (PeaceHealth mirror) \u2014 medulloepithelioma CNS/extraneural distribution"
+ },
+ {
+  "code": "9502/3",
+  "term": "Teratoid medulloepithelioma, malignant",
+  "subset_codes": [
+   "C481",
+   "C482",
+   "C715",
+   "C716",
+   "C717"
+  ],
+  "subset_sites": [
+   "Specified parts of peritoneum",
+   "Peritoneum, NOS",
+   "Ventricle, NOS",
+   "Cerebellum, NOS",
+   "Brain stem"
+  ],
+  "rationale": "Malignant teratoid medulloepithelioma is an embryonal neuroepithelial tumor of CNS neural-tube derivatives (and eye, outside this ceiling); within the ceiling it maps to ventricular/cerebellar/brainstem and cauda/extraneural retroperitoneal-paraspinal sites and not to endocrine glands.",
+  "source_name": "NCI PDQ Childhood CNS Embryonal Tumors summary (PeaceHealth mirror) \u2014 medulloepithelioma CNS/extraneural distribution"
+ },
+ {
+  "code": "9582/0",
+  "term": "Granular cell pituicytoma",
+  "subset_codes": [
+   "C751"
+  ],
+  "subset_sites": [
+   "Pituitary gland"
+  ],
+  "rationale": "Granular cell tumor of the sellar region / granular cell pituicytoma originates from the neurohypophysis (posterior pituitary and pituitary stalk/infundibulum), i.e. the pituitary gland (C751); it does not arise from craniopharyngeal-duct/Rathke remnants (C752), restricting it to a proper subset of its ceiling.",
+  "source_name": "Surgical Neurology International 2020 (PMC7265469) \u2014 GCT of sellar region originates from the neurohypophysis / posterior pituitary"
+ },
+ {
+  "code": "9582/0",
+  "term": "Granular cell tumor of sellar region",
+  "subset_codes": [
+   "C751"
+  ],
+  "subset_sites": [
+   "Pituitary gland"
+  ],
+  "rationale": "Granular cell tumor of the sellar region originates specifically from the neurohypophysis (posterior pituitary or its stalk/infundibulum), the pituitary gland (C751), and not from the craniopharyngeal duct (C752), restricting it to a proper subset of its ceiling.",
+  "source_name": "Surgical Neurology International 2020 (PMC7265469) \u2014 GCT of sellar region originates from the neurohypophysis / posterior pituitary"
+ },
+ {
+  "code": "9582/0",
+  "term": "Granular cell tumor of the sellar region / granular cell pituicytoma",
+  "subset_codes": [
+   "C751"
+  ],
+  "subset_sites": [
+   "Pituitary gland"
+  ],
+  "rationale": "This neurohypophyseal granular cell tumor arises from the posterior pituitary/pituitary stalk (pituicytes), i.e. the pituitary gland (C751), and not from craniopharyngeal-duct remnants (C752), restricting it to a proper subset of its ceiling.",
+  "source_name": "Surgical Neurology International 2020 (PMC7265469) \u2014 GCT of sellar region originates from the neurohypophysis / posterior pituitary"
+ }
+]

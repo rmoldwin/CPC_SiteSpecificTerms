@@ -1,0 +1,578 @@
+[
+ {
+  "code": "8290/3",
+  "term": "H\u00fcrthle cell carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C739"
+  ],
+  "site_subset_labels": [
+   "Thyroid gland"
+  ],
+  "rationale": "Per WHO 2022 thyroid classification, 'H\u00fcrthle cell carcinoma' is the historical name for oncocytic carcinoma of the thyroid, a follicular-cell-derived thyroid entity restricted to the thyroid gland.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9633223/",
+  "source_name": "PMC9633223 - Update from the 2022 WHO Classification of Thyroid Tumors (Endocrinology and Metabolism)"
+ },
+ {
+  "code": "8290/3",
+  "term": "Minimally invasive oncocytic carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C739"
+  ],
+  "site_subset_labels": [
+   "Thyroid gland"
+  ],
+  "rationale": "Minimally/widely invasive grading of oncocytic carcinoma is a thyroid-specific (follicular-derived) staging scheme; minimally invasive oncocytic carcinoma denotes an oncocytic thyroid carcinoma with capsular invasion only.",
+  "source": "https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgag025/8443041",
+  "source_name": "J Clin Endocrinol Metab - Approach to the patient: Oncocytic thyroid cancer (MI/EA/WI-OTC subtypes)"
+ },
+ {
+  "code": "8290/3",
+  "term": "Minimally invasive oncocytic carcinoma of the thyroid gland (capsular invasion only)",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C739"
+  ],
+  "site_subset_labels": [
+   "Thyroid gland"
+  ],
+  "rationale": "Term explicitly names the thyroid gland; it is an oncocytic thyroid carcinoma with capsular invasion only, restricted to the thyroid.",
+  "source": "https://www.mypathologyreport.ca/diagnosis-library/minimally-invasive-oncocytic-carcinoma-thyroid-gland/",
+  "source_name": "MyPathologyReport - Minimally invasive oncocytic carcinoma of the thyroid gland"
+ },
+ {
+  "code": "8290/3",
+  "term": "Oncocytic adenocarcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic oncocytic (oxyphilic) adenocarcinoma descriptor; oncocytic change occurs across many code-eligible sites (salivary gland, breast, adrenal, thyroid, eye), so not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9424456/",
+  "source_name": "Head and Neck Pathology PMC9424456 - Oncocytoid/Oncocytic variant of salivary duct carcinoma"
+ },
+ {
+  "code": "8290/3",
+  "term": "Oncocytic carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic oncocytic carcinoma descriptor; oncocytic carcinomas are recognized across salivary gland, thyroid, adrenal and other code-eligible sites, so not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9424456/",
+  "source_name": "Head and Neck Pathology PMC9424456 - Oncocytoid/Oncocytic variant of salivary duct carcinoma"
+ },
+ {
+  "code": "8290/3",
+  "term": "Oncocytic carcinoma of the thyroid gland",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C739"
+  ],
+  "site_subset_labels": [
+   "Thyroid gland"
+  ],
+  "rationale": "WHO 2022 designates 'oncocytic carcinoma of the thyroid' as the follicular-cell-derived thyroid entity (former H\u00fcrthle cell carcinoma), restricted to the thyroid.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9633223/",
+  "source_name": "PMC9633223 - Update from the 2022 WHO Classification of Thyroid Tumors (Endocrinology and Metabolism)"
+ },
+ {
+  "code": "8290/3",
+  "term": "Oncocytic salivary duct carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C079",
+   "C080",
+   "C081",
+   "C088",
+   "C089"
+  ],
+  "site_subset_labels": [
+   "Parotid gland",
+   "Submandibular gland",
+   "Sublingual gland",
+   "Overlapping lesion of major salivary glands",
+   "Major salivary gland, NOS"
+  ],
+  "rationale": "Oncocytic (oncocytoid) salivary duct carcinoma is a salivary-gland carcinoma variant, restricted to the major/minor salivary glands within the code ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9424456/",
+  "source_name": "Head and Neck Pathology PMC9424456 - Oncocytoid/Oncocytic variant of salivary duct carcinoma"
+ },
+ {
+  "code": "8290/3",
+  "term": "Oxyphilic adenocarcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Oxyphilic/oncocytic adenocarcinoma is a generic morphologic descriptor of oxyphilic (mitochondria-rich) tumors occurring across multiple code-eligible sites; not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9424456/",
+  "source_name": "Head and Neck Pathology PMC9424456 - Oncocytoid/Oncocytic variant of salivary duct carcinoma"
+ },
+ {
+  "code": "8290/3",
+  "term": "Widely invasive oncocytic carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C739"
+  ],
+  "site_subset_labels": [
+   "Thyroid gland"
+  ],
+  "rationale": "Widely invasive grading of oncocytic carcinoma is a thyroid-specific follicular-derived staging scheme (WI-OTC), denoting an oncocytic thyroid carcinoma with extensive invasion.",
+  "source": "https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgag025/8443041",
+  "source_name": "J Clin Endocrinol Metab - Approach to the patient: Oncocytic thyroid cancer (MI/EA/WI-OTC subtypes)"
+ },
+ {
+  "code": "8290/3",
+  "term": "Widely invasive oncocytic carcinoma of the thyroid gland",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C739"
+  ],
+  "site_subset_labels": [
+   "Thyroid gland"
+  ],
+  "rationale": "Term explicitly names the thyroid gland; widely invasive oncocytic thyroid carcinoma is restricted to the thyroid.",
+  "source": "https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgag025/8443041",
+  "source_name": "J Clin Endocrinol Metab - Approach to the patient: Oncocytic thyroid cancer (MI/EA/WI-OTC subtypes)"
+ },
+ {
+  "code": "8300/0",
+  "term": "Basophil adenoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Code ceiling is already limited to the pituitary region (pituitary gland C751 and craniopharyngeal duct C752); this pituitary adenoma/carcinoma term applies across the entire ceiling, so it is not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11261174/",
+  "source_name": "J Pathol Transl Med PMC11261174 - What's new in adrenal gland pathology: WHO 5th edition"
+ },
+ {
+  "code": "8300/0",
+  "term": "Mucoid cell adenoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Code ceiling is already limited to the pituitary region (pituitary gland C751 and craniopharyngeal duct C752); this pituitary adenoma/carcinoma term applies across the entire ceiling, so it is not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11261174/",
+  "source_name": "J Pathol Transl Med PMC11261174 - What's new in adrenal gland pathology: WHO 5th edition"
+ },
+ {
+  "code": "8300/3",
+  "term": "Basophil adenocarcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Code ceiling is already limited to the pituitary region (pituitary gland C751 and craniopharyngeal duct C752); this pituitary adenoma/carcinoma term applies across the entire ceiling, so it is not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11261174/",
+  "source_name": "J Pathol Transl Med PMC11261174 - What's new in adrenal gland pathology: WHO 5th edition"
+ },
+ {
+  "code": "8300/3",
+  "term": "Basophil adenoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Code ceiling is already limited to the pituitary region (pituitary gland C751 and craniopharyngeal duct C752); this pituitary adenoma/carcinoma term applies across the entire ceiling, so it is not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11261174/",
+  "source_name": "J Pathol Transl Med PMC11261174 - What's new in adrenal gland pathology: WHO 5th edition"
+ },
+ {
+  "code": "8300/3",
+  "term": "Basophil carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Code ceiling is already limited to the pituitary region (pituitary gland C751 and craniopharyngeal duct C752); this pituitary adenoma/carcinoma term applies across the entire ceiling, so it is not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11261174/",
+  "source_name": "J Pathol Transl Med PMC11261174 - What's new in adrenal gland pathology: WHO 5th edition"
+ },
+ {
+  "code": "8300/3",
+  "term": "Mucoid cell adenocarcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Code ceiling is already limited to the pituitary region (pituitary gland C751 and craniopharyngeal duct C752); this pituitary adenoma/carcinoma term applies across the entire ceiling, so it is not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11261174/",
+  "source_name": "J Pathol Transl Med PMC11261174 - What's new in adrenal gland pathology: WHO 5th edition"
+ },
+ {
+  "code": "8300/3",
+  "term": "Mucoid cell adenoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Code ceiling is already limited to the pituitary region (pituitary gland C751 and craniopharyngeal duct C752); this pituitary adenoma/carcinoma term applies across the entire ceiling, so it is not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11261174/",
+  "source_name": "J Pathol Transl Med PMC11261174 - What's new in adrenal gland pathology: WHO 5th edition"
+ },
+ {
+  "code": "8310/0",
+  "term": "Clear cell adenoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Code ceiling is already limited to the pituitary region (pituitary gland C751 and craniopharyngeal duct C752); this pituitary adenoma/carcinoma term applies across the entire ceiling, so it is not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11261174/",
+  "source_name": "J Pathol Transl Med PMC11261174 - What's new in adrenal gland pathology: WHO 5th edition"
+ },
+ {
+  "code": "8320/3",
+  "term": "Granular cell adenocarcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic granular-cell (oncocytic/granular cytoplasm) carcinoma descriptor spanning multiple endocrine and ovarian code-eligible sites; no published restriction to a proper subset of the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11261174/",
+  "source_name": "J Pathol Transl Med PMC11261174 - What's new in adrenal gland pathology: WHO 5th edition"
+ },
+ {
+  "code": "8320/3",
+  "term": "Granular cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic granular-cell (oncocytic/granular cytoplasm) carcinoma descriptor spanning multiple endocrine and ovarian code-eligible sites; no published restriction to a proper subset of the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11261174/",
+  "source_name": "J Pathol Transl Med PMC11261174 - What's new in adrenal gland pathology: WHO 5th edition"
+ },
+ {
+  "code": "8323/0",
+  "term": "Mixed cell adenoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Code ceiling is already limited to the pituitary region (pituitary gland C751 and craniopharyngeal duct C752); this pituitary adenoma term applies across the entire ceiling, so it is not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11261174/",
+  "source_name": "J Pathol Transl Med PMC11261174 - What's new in adrenal gland pathology: WHO 5th edition"
+ },
+ {
+  "code": "8370/3",
+  "term": "Adrenal cortical adenocarcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C740",
+   "C749"
+  ],
+  "site_subset_labels": [
+   "Cortex of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "WHO defines adrenal cortical carcinoma (and all its subtypes) as a malignant epithelial tumour originating from adrenal cortical cells; it is confined to the adrenal cortex (C740) / adrenal gland NOS (C749) and does not arise from the adrenal medulla (C741, origin of pheochromocytoma).",
+  "source": "http://www.kcpathsociety.org/wp-content/uploads/2023/01/WHO-paragraph.pdf",
+  "source_name": "WHO Blue Book (Endocrine & NE Tumours 5th ed) - Adrenal cortical carcinoma 8370/3 definition"
+ },
+ {
+  "code": "8370/3",
+  "term": "Adrenal cortical carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C740",
+   "C749"
+  ],
+  "site_subset_labels": [
+   "Cortex of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "WHO defines adrenal cortical carcinoma (and all its subtypes) as a malignant epithelial tumour originating from adrenal cortical cells; it is confined to the adrenal cortex (C740) / adrenal gland NOS (C749) and does not arise from the adrenal medulla (C741, origin of pheochromocytoma).",
+  "source": "http://www.kcpathsociety.org/wp-content/uploads/2023/01/WHO-paragraph.pdf",
+  "source_name": "WHO Blue Book (Endocrine & NE Tumours 5th ed) - Adrenal cortical carcinoma 8370/3 definition"
+ },
+ {
+  "code": "8370/3",
+  "term": "Adrenal cortical carcinoma, conventional",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C740",
+   "C749"
+  ],
+  "site_subset_labels": [
+   "Cortex of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "WHO defines adrenal cortical carcinoma (and all its subtypes) as a malignant epithelial tumour originating from adrenal cortical cells; it is confined to the adrenal cortex (C740) / adrenal gland NOS (C749) and does not arise from the adrenal medulla (C741, origin of pheochromocytoma).",
+  "source": "http://www.kcpathsociety.org/wp-content/uploads/2023/01/WHO-paragraph.pdf",
+  "source_name": "WHO Blue Book (Endocrine & NE Tumours 5th ed) - Adrenal cortical carcinoma 8370/3 definition"
+ },
+ {
+  "code": "8370/3",
+  "term": "Adrenal cortical carcinoma, oncocytic",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C740",
+   "C749"
+  ],
+  "site_subset_labels": [
+   "Cortex of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "WHO defines adrenal cortical carcinoma (and all its subtypes) as a malignant epithelial tumour originating from adrenal cortical cells; it is confined to the adrenal cortex (C740) / adrenal gland NOS (C749) and does not arise from the adrenal medulla (C741, origin of pheochromocytoma).",
+  "source": "http://www.kcpathsociety.org/wp-content/uploads/2023/01/WHO-paragraph.pdf",
+  "source_name": "WHO Blue Book (Endocrine & NE Tumours 5th ed) - Adrenal cortical carcinoma 8370/3 definition"
+ },
+ {
+  "code": "8370/3",
+  "term": "Adrenal cortical tumor, malignant",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C740",
+   "C749"
+  ],
+  "site_subset_labels": [
+   "Cortex of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "WHO defines adrenal cortical carcinoma (and all its subtypes) as a malignant epithelial tumour originating from adrenal cortical cells; it is confined to the adrenal cortex (C740) / adrenal gland NOS (C749) and does not arise from the adrenal medulla (C741, origin of pheochromocytoma).",
+  "source": "http://www.kcpathsociety.org/wp-content/uploads/2023/01/WHO-paragraph.pdf",
+  "source_name": "WHO Blue Book (Endocrine & NE Tumours 5th ed) - Adrenal cortical carcinoma 8370/3 definition"
+ },
+ {
+  "code": "8370/3",
+  "term": "Adrenocortical carcinoma, NOS",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C740",
+   "C749"
+  ],
+  "site_subset_labels": [
+   "Cortex of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "WHO defines adrenal cortical carcinoma (and all its subtypes) as a malignant epithelial tumour originating from adrenal cortical cells; it is confined to the adrenal cortex (C740) / adrenal gland NOS (C749) and does not arise from the adrenal medulla (C741, origin of pheochromocytoma).",
+  "source": "http://www.kcpathsociety.org/wp-content/uploads/2023/01/WHO-paragraph.pdf",
+  "source_name": "WHO Blue Book (Endocrine & NE Tumours 5th ed) - Adrenal cortical carcinoma 8370/3 definition"
+ },
+ {
+  "code": "8370/3",
+  "term": "Conventional adrenal cortical carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C740",
+   "C749"
+  ],
+  "site_subset_labels": [
+   "Cortex of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "WHO defines adrenal cortical carcinoma (and all its subtypes) as a malignant epithelial tumour originating from adrenal cortical cells; it is confined to the adrenal cortex (C740) / adrenal gland NOS (C749) and does not arise from the adrenal medulla (C741, origin of pheochromocytoma).",
+  "source": "http://www.kcpathsociety.org/wp-content/uploads/2023/01/WHO-paragraph.pdf",
+  "source_name": "WHO Blue Book (Endocrine & NE Tumours 5th ed) - Adrenal cortical carcinoma 8370/3 definition"
+ },
+ {
+  "code": "8370/3",
+  "term": "Myxoid adrenal cortical carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C740",
+   "C749"
+  ],
+  "site_subset_labels": [
+   "Cortex of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "WHO defines adrenal cortical carcinoma (and all its subtypes) as a malignant epithelial tumour originating from adrenal cortical cells; it is confined to the adrenal cortex (C740) / adrenal gland NOS (C749) and does not arise from the adrenal medulla (C741, origin of pheochromocytoma).",
+  "source": "http://www.kcpathsociety.org/wp-content/uploads/2023/01/WHO-paragraph.pdf",
+  "source_name": "WHO Blue Book (Endocrine & NE Tumours 5th ed) - Adrenal cortical carcinoma 8370/3 definition"
+ },
+ {
+  "code": "8370/3",
+  "term": "Oncocytic adrenal cortical carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C740",
+   "C749"
+  ],
+  "site_subset_labels": [
+   "Cortex of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "WHO defines adrenal cortical carcinoma (and all its subtypes) as a malignant epithelial tumour originating from adrenal cortical cells; it is confined to the adrenal cortex (C740) / adrenal gland NOS (C749) and does not arise from the adrenal medulla (C741, origin of pheochromocytoma).",
+  "source": "http://www.kcpathsociety.org/wp-content/uploads/2023/01/WHO-paragraph.pdf",
+  "source_name": "WHO Blue Book (Endocrine & NE Tumours 5th ed) - Adrenal cortical carcinoma 8370/3 definition"
+ },
+ {
+  "code": "8370/3",
+  "term": "Sarcomatoid adrenal cortical carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C740",
+   "C749"
+  ],
+  "site_subset_labels": [
+   "Cortex of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "WHO defines adrenal cortical carcinoma (and all its subtypes) as a malignant epithelial tumour originating from adrenal cortical cells; it is confined to the adrenal cortex (C740) / adrenal gland NOS (C749) and does not arise from the adrenal medulla (C741, origin of pheochromocytoma).",
+  "source": "http://www.kcpathsociety.org/wp-content/uploads/2023/01/WHO-paragraph.pdf",
+  "source_name": "WHO Blue Book (Endocrine & NE Tumours 5th ed) - Adrenal cortical carcinoma 8370/3 definition"
+ },
+ {
+  "code": "8450/3",
+  "term": "Papillary cystadenocarcinoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic papillary cystadenocarcinoma architectural descriptor occurring at both ceiling sites (ovary and thyroid) and elsewhere; not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10679589/",
+  "source_name": "Diagn Interv Radiol PMC10679589 - Ovarian dysgerminoma (female equivalent of testicular seminoma)"
+ },
+ {
+  "code": "8450/3",
+  "term": "Papillocystic adenocarcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic papillary cystadenocarcinoma architectural descriptor occurring at both ceiling sites (ovary and thyroid) and elsewhere; not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10679589/",
+  "source_name": "Diagn Interv Radiol PMC10679589 - Ovarian dysgerminoma (female equivalent of testicular seminoma)"
+ },
+ {
+  "code": "9060/3",
+  "term": "Dysgerminoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C569"
+  ],
+  "site_subset_labels": [
+   "Ovary"
+  ],
+  "rationale": "Dysgerminoma is the ovary-specific germinoma (female equivalent of testicular seminoma); the analogous tumors are termed seminoma in testis and germinoma in the CNS, so the dysgerminoma nomenclature is restricted to the ovary within this ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10679589/",
+  "source_name": "Diagn Interv Radiol PMC10679589 - Ovarian dysgerminoma (female equivalent of testicular seminoma)"
+ },
+ {
+  "code": "9060/3",
+  "term": "Dysgerminoma with syncytiotrophoblast cells",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C569"
+  ],
+  "site_subset_labels": [
+   "Ovary"
+  ],
+  "rationale": "Dysgerminoma is the ovary-specific germinoma (female equivalent of testicular seminoma); the analogous tumors are termed seminoma in testis and germinoma in the CNS, so the dysgerminoma nomenclature is restricted to the ovary within this ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10679589/",
+  "source_name": "Diagn Interv Radiol PMC10679589 - Ovarian dysgerminoma (female equivalent of testicular seminoma)"
+ },
+ {
+  "code": "9060/3",
+  "term": "Germinoma of ovary",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C569"
+  ],
+  "site_subset_labels": [
+   "Ovary"
+  ],
+  "rationale": "Dysgerminoma is the ovary-specific germinoma (female equivalent of testicular seminoma); the analogous tumors are termed seminoma in testis and germinoma in the CNS, so the dysgerminoma nomenclature is restricted to the ovary within this ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10679589/",
+  "source_name": "Diagn Interv Radiol PMC10679589 - Ovarian dysgerminoma (female equivalent of testicular seminoma)"
+ },
+ {
+  "code": "9070/3",
+  "term": "Embryonal adenocarcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Embryonal carcinoma is a germ cell tumor type occurring across gonadal (testis, ovary) and extragonadal midline/CNS sites; it is not restricted to a proper subset of the code ceiling.",
+  "source": "https://en.wikipedia.org/wiki/Embryonal_carcinoma",
+  "source_name": "Embryonal carcinoma - occurs in ovaries, testes and extragonadal sites"
+ },
+ {
+  "code": "9070/3",
+  "term": "Embryonal carcinoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Embryonal carcinoma is a germ cell tumor type occurring across gonadal (testis, ovary) and extragonadal midline/CNS sites; it is not restricted to a proper subset of the code ceiling.",
+  "source": "https://en.wikipedia.org/wiki/Embryonal_carcinoma",
+  "source_name": "Embryonal carcinoma - occurs in ovaries, testes and extragonadal sites"
+ },
+ {
+  "code": "9072/3",
+  "term": "Embryonal carcinoma, polyembryonal type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Polyembryoma is a rare germ cell tumor described in both gonadal (testis) and extragonadal (retroperitoneal) locations; within this ceiling it is not confined to a demonstrable proper subset.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/28429716/",
+  "source_name": "PubMed 28429716 - Polyembryoma in testicular mixed germ cell tumors"
+ },
+ {
+  "code": "9072/3",
+  "term": "Polyembryoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Polyembryoma is a rare germ cell tumor described in both gonadal (testis) and extragonadal (retroperitoneal) locations; within this ceiling it is not confined to a demonstrable proper subset.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/28429716/",
+  "source_name": "PubMed 28429716 - Polyembryoma in testicular mixed germ cell tumors"
+ },
+ {
+  "code": "9081/3",
+  "term": "Mixed embryonal carcinoma and teratoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mixed embryonal carcinoma and teratoma is a generic mixed germ cell tumor occurring across gonadal and extragonadal germ-cell sites; not restricted to a proper subset.",
+  "source": "https://en.wikipedia.org/wiki/Germ_cell_tumor",
+  "source_name": "Germ cell tumor - gonadal and extragonadal distribution"
+ },
+ {
+  "code": "9081/3",
+  "term": "Teratocarcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Teratocarcinoma (mixed teratoma plus embryonal carcinoma) is a generic germ cell tumor occurring across gonadal and extragonadal sites; not restricted to a proper subset.",
+  "source": "https://en.wikipedia.org/wiki/Germ_cell_tumor",
+  "source_name": "Germ cell tumor - gonadal and extragonadal distribution"
+ },
+ {
+  "code": "9081/3",
+  "term": "Teratocarcinosarcoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319",
+   "C569"
+  ],
+  "site_subset_labels": [
+   "Nasal cavity",
+   "Maxillary sinus",
+   "Ethmoid sinus",
+   "Frontal sinus",
+   "Sphenoid sinus",
+   "Overlapping lesion of accessory sinuses",
+   "Accessory sinus, NOS",
+   "Ovary"
+  ],
+  "rationale": "Teratocarcinosarcoma (WHO sinonasal teratocarcinosarcoma) most frequently arises in the nasal cavity and paranasal sinuses, with rarer reports in the ovary; within the ceiling it is confined to the sinonasal sites and ovary and does not involve thymus, mediastinum, CNS or endocrine sites.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7754799/",
+  "source_name": "J Int Med Res PMC7754799 - Sinonasal teratocarcinosarcoma (WHO term coined 2005)"
+ },
+ {
+  "code": "9082/3",
+  "term": "Malignant teratoma, anaplastic",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "These are legacy British (BTTPR) classification terms for undifferentiated malignant teratoma (largely a testicular/gonadal concept); the code ceiling here (retroperitoneum, CNS, endocrine) excludes the gonads, and no source clearly restricts the term to a proper subset of these specific ceiling sites.",
+  "source": "https://assets.publishing.service.gov.uk/media/5a7ea711e5274a2e8ab47562/testicular_cancer.pdf",
+  "source_name": "GOV.UK Testicular cancer - BTTPR malignant teratoma undifferentiated terminology"
+ },
+ {
+  "code": "9082/3",
+  "term": "Malignant teratoma, undifferentiated",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "These are legacy British (BTTPR) classification terms for undifferentiated malignant teratoma (largely a testicular/gonadal concept); the code ceiling here (retroperitoneum, CNS, endocrine) excludes the gonads, and no source clearly restricts the term to a proper subset of these specific ceiling sites.",
+  "source": "https://assets.publishing.service.gov.uk/media/5a7ea711e5274a2e8ab47562/testicular_cancer.pdf",
+  "source_name": "GOV.UK Testicular cancer - BTTPR malignant teratoma undifferentiated terminology"
+ }
+]

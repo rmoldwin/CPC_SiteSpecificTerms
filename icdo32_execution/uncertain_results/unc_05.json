@@ -1,0 +1,211 @@
+[
+ {
+  "code": "8201/2",
+  "term": "Cribriform carcinoma in situ",
+  "proposed_codes": ["C509"],
+  "proposed_labels": ["Breast, NOS"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "\"Cribriform carcinoma in situ\" corresponds to the well-defined cribriform pattern of ductal carcinoma in situ (DCIS) of the breast; cribriform is one of the five recognized DCIS architectural patterns and cribriform-pattern in-situ carcinoma is characteristically a breast lesion arising in the breast ductal-lobular system. StatPearls (NCBI) lists cribriform among the DCIS architectural patterns confined to breast ducts. Breast (C509) is inside the code's ceiling. Cribriform in-situ carcinoma is not a defined distinct primary of skin or eye, so breast is the best-supported single site of origin.",
+  "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK567766/",
+  "source_ref": "Breast Ductal Carcinoma in Situ. StatPearls (NCBI Bookshelf), 2023 \u2014 \"The 5 major architectural patterns are comedo, cribriform, micropapillary, papillary, and solid ... confined within the basement membrane\" (breast ducts)."
+ },
+ {
+  "code": "8201/3",
+  "term": "Cribriform morular thyroid carcinoma",
+  "proposed_codes": ["C739"],
+  "proposed_labels": ["Thyroid gland"],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "The 2022 WHO Classification of Endocrine and Neuroendocrine Tumours (5th ed.) recognizes cribriform-morular thyroid carcinoma (CMTC) as a distinct thyroid neoplasm of uncertain histogenesis (previously the cribriform-morular variant of papillary thyroid carcinoma). It is by definition a thyroid gland tumor. C739 (thyroid) is NOT in this code's SMVL ceiling, so the true site of origin lies entirely outside the ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9633223/",
+  "source_ref": "Jung CK, Bychkov A, Kakudo K. Update from the 2022 WHO Classification of Thyroid Neoplasms. Endocrinol Metab. 2022 \u2014 CMTC listed among thyroid tumors of uncertain histogenesis; \"CMTC was classified as a distinct subtype of PTC in the previous WHO classification.\""
+ },
+ {
+  "code": "8408/3",
+  "term": "Aggressive digital papillary adenoma",
+  "proposed_codes": ["C446", "C447"],
+  "proposed_labels": ["Skin of upper limb and shoulder", "Skin of lower limb and hip"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Aggressive digital papillary adenoma/adenocarcinoma is a rare eccrine sweat-gland tumor of acral skin, arising almost exclusively on the digits \u2014 ~80% on fingers/hands and the remainder on toes/feet. Fingers/hands map to skin of upper limb (C446) and toes/feet to skin of lower limb (C447); both are inside the code's skin ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6376506/",
+  "source_ref": "Gupta J et al. Aggressive Digital Papillary Adenocarcinoma at Atypical Site. Clin Med Insights Case Rep. 2019 \u2014 \"most commonly on fingers and toes\"; \"About 80% ADPA have been reported on fingers with 5% arising on hands elsewhere\"; \"On the foot, most of the lesions are seen on toes.\""
+ },
+ {
+  "code": "8408/3",
+  "term": "Digital papillary adenocarcinoma",
+  "proposed_codes": ["C446", "C447"],
+  "proposed_labels": ["Skin of upper limb and shoulder", "Skin of lower limb and hip"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Digital papillary adenocarcinoma is a rare eccrine sweat-gland malignancy with an acral distribution, arising predominantly on the digits: ~80% on fingers/hands (skin of upper limb, C446) and most remaining on toes/feet (skin of lower limb, C447). Both are inside the code's skin ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6376506/",
+  "source_ref": "Gupta J et al. Aggressive Digital Papillary Adenocarcinoma at Atypical Site. Clin Med Insights Case Rep. 2019 \u2014 \"most commonly on fingers and toes\"; \"About 80% ADPA have been reported on fingers with 5% arising on hands elsewhere.\""
+ },
+ {
+  "code": "8408/3",
+  "term": "Digital papillary carcinoma",
+  "proposed_codes": ["C446", "C447"],
+  "proposed_labels": ["Skin of upper limb and shoulder", "Skin of lower limb and hip"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Digital papillary carcinoma (DPC) is an uncommon malignant adnexal (eccrine) neoplasm classified by WHO as a skin tumor, arising on the digits (fingers/hands and toes/feet). Fingers/hands = skin of upper limb (C446); toes/feet = skin of lower limb (C447); both inside the code's skin ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6376506/",
+  "source_ref": "Gupta J et al. Aggressive Digital Papillary Adenocarcinoma at Atypical Site. Clin Med Insights Case Rep. 2019 \u2014 acral eccrine tumor of fingers/toes; \"About 80% ADPA have been reported on fingers ... On the foot, most of the lesions are seen on toes.\""
+ },
+ {
+  "code": "8408/3",
+  "term": "Eccrine papillary adenocarcinoma",
+  "proposed_codes": ["C446", "C447"],
+  "proposed_labels": ["Skin of upper limb and shoulder", "Skin of lower limb and hip"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Eccrine papillary adenocarcinoma is synonymous with (aggressive) digital papillary adenocarcinoma, a tumor of eccrine origin with acral distribution on the digits. Fingers/hands map to skin of upper limb (C446) and toes/feet to skin of lower limb (C447); both inside the code's skin ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6376506/",
+  "source_ref": "Gupta J et al. Aggressive Digital Papillary Adenocarcinoma at Atypical Site. Clin Med Insights Case Rep. 2019 \u2014 \"ADPA is a rare tumour of eccrine origin ... most commonly on fingers and toes.\""
+ },
+ {
+  "code": "8572/3",
+  "term": "Adenocarcinoma with spindle cell metaplasia",
+  "proposed_codes": ["C509"],
+  "proposed_labels": ["Breast, NOS"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Adenocarcinoma with spindle cell metaplasia is the defining morphology of metaplastic breast carcinoma (spindle cell / biphasic carcinoma), a WHO 5th ed. breast cancer subtype characterized by adenocarcinoma admixed with malignant spindle cells. It arises in the breast; C509 is inside the ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11309924/",
+  "source_ref": "Yan Q et al. A comprehensive overview of metaplastic breast cancer. Cancer Sci. 2024 \u2014 \"MpBC is a heterogeneous tumor characterized by adenocarcinoma with spindle cell, squamous epithelium, and/or mesenchymal differentiation ... Based on the WHO Classification 5th Edition.\""
+ },
+ {
+  "code": "8573/3",
+  "term": "Adenocarcinoma with apocrine metaplasia",
+  "proposed_codes": ["C509"],
+  "proposed_labels": ["Breast, NOS"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Adenocarcinoma with apocrine metaplasia corresponds to apocrine (differentiated) carcinoma of the breast \u2014 a WHO-recognized breast carcinoma subtype in which apocrine metaplasia/differentiation defines the lesion. It is a distinct morphological type of invasive breast cancer arising in the breast; C509 is inside the ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3707272/",
+  "source_ref": "Apocrine Carcinoma of Breast: A Case Report with Review. Case Rep Pathol. 2013 \u2014 \"Apocrine carcinoma is a rare and distinct morphological type of invasive breast cancer.\""
+ },
+ {
+  "code": "8573/3",
+  "term": "Carcinoma with apocrine metaplasia",
+  "proposed_codes": ["C509"],
+  "proposed_labels": ["Breast, NOS"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Carcinoma with apocrine metaplasia corresponds to apocrine carcinoma of the breast, a distinct morphological type of invasive breast cancer defined by apocrine differentiation/metaplasia. It arises in the breast; C509 is inside the ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3707272/",
+  "source_ref": "Apocrine Carcinoma of Breast: A Case Report with Review. Case Rep Pathol. 2013 \u2014 \"Apocrine carcinoma is a rare and distinct morphological type of invasive breast cancer.\""
+ },
+ {
+  "code": "8575/3",
+  "term": "Carcinoma with other types mesenchymal differentiation",
+  "proposed_codes": ["C509"],
+  "proposed_labels": ["Breast, NOS"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "\"Carcinoma with (other types of) mesenchymal differentiation\" is a form of metaplastic breast carcinoma \u2014 a WHO 5th ed. breast subtype in which carcinoma shows heterologous mesenchymal (e.g., chondroid, osseous, other) differentiation. It arises in the breast; C509 is inside the ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11309924/",
+  "source_ref": "Yan Q et al. A comprehensive overview of metaplastic breast cancer. Cancer Sci. 2024 \u2014 WHO 5th ed. subgroups include \"metaplastic carcinoma with heterogeneous differentiation\" characterized by \"adenocarcinoma with spindle cell, squamous epithelium, and/or mesenchymal differentiation.\""
+ },
+ {
+  "code": "8575/3",
+  "term": "Metaplastic carcinoma of no special type",
+  "proposed_codes": ["C509"],
+  "proposed_labels": ["Breast, NOS"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Metaplastic carcinoma is a WHO-recognized subtype of breast carcinoma, comprising subgroups including no-special-type / spindle cell / squamous / mesenchymal-differentiation forms. It arises in the breast; C509 is inside the ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11309924/",
+  "source_ref": "Yan Q et al. A comprehensive overview of metaplastic breast cancer. Cancer Sci. 2024 \u2014 \"MpBC is a heterogeneous tumor ... Based on the WHO Classification 5th Edition, MpBC has been categorized into several subgroups: spindle cell carcinoma, squamous cell carcinoma, metaplastic carcinoma with heterogeneous differentiation, low-grade adenosquamous carcinoma, low-grade fibromatosis-like carcinoma, and mixed metaplastic carcinoma.\""
+ },
+ {
+  "code": "8575/3",
+  "term": "Metaplastic carcinoma with other types mesenchymal differentiation",
+  "proposed_codes": ["C509"],
+  "proposed_labels": ["Breast, NOS"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Metaplastic carcinoma with mesenchymal (heterologous) differentiation is a WHO 5th ed. breast carcinoma subgroup (metaplastic carcinoma with heterogeneous/mesenchymal differentiation). It arises in the breast; C509 is inside the ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11309924/",
+  "source_ref": "Yan Q et al. A comprehensive overview of metaplastic breast cancer. Cancer Sci. 2024 \u2014 WHO 5th ed. subgroups include \"metaplastic carcinoma with heterogeneous differentiation.\""
+ },
+ {
+  "code": "8575/3",
+  "term": "Metaplastic carcinoma, NOS",
+  "proposed_codes": ["C509"],
+  "proposed_labels": ["Breast, NOS"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Metaplastic carcinoma, NOS is a WHO-recognized subtype of breast carcinoma, a rare aggressive form characterized by adenocarcinoma with spindle cell, squamous and/or mesenchymal differentiation. It arises in the breast; C509 is inside the ceiling.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11309924/",
+  "source_ref": "Yan Q et al. A comprehensive overview of metaplastic breast cancer. Cancer Sci. 2024 \u2014 \"Metaplastic breast cancer is a rare, aggressive ... subtype of breast cancers ... characterized by adenocarcinoma with spindle cells, squamous epithelium, and/or mesenchymal tissue differentiation.\""
+ },
+ {
+  "code": "8741/2",
+  "term": "Precancerous melanosis, NOS",
+  "proposed_codes": ["C443", "C444"],
+  "proposed_labels": ["Skin of other and unspecified parts of face", "Skin of scalp and neck"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "\"Precancerous melanosis\" (melanosis circumscripta precancerosa of Dubreuilh) is the classical synonym for lentigo maligna (melanoma in situ), which arises on chronically sun-exposed skin, typically the head and neck \u2014 predominantly the face (cheeks, forehead, temple, nose) and also scalp/neck. Skin of face (C443) and skin of scalp/neck (C444) are inside the code's skin ceiling.",
+  "source_url": "https://www.spandidos-publications.com/10.3892/wasj.2021.93",
+  "source_ref": "Kanitakis J. Treatment of lentigo maligna (Review). World Acad Sci J. 2021 \u2014 \"It develops on skin areas with high cumulative sun exposure, typically the head and neck (namely the cheeks, forehead, temple, periocular skin, nose and ears)\"; LM also known as \"Melanosis circumscripta precancerosa of Dubreuilh.\""
+ },
+ {
+  "code": "8741/3",
+  "term": "Malignant melanoma in precancerous melanosis",
+  "proposed_codes": ["C443", "C444"],
+  "proposed_labels": ["Skin of other and unspecified parts of face", "Skin of scalp and neck"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Malignant melanoma arising in precancerous melanosis (Dubreuilh) = lentigo maligna melanoma, the invasive counterpart of lentigo maligna, arising on chronically sun-exposed skin, predominantly the face and head/neck. Skin of face (C443) and skin of scalp/neck (C444) are inside the code's skin ceiling.",
+  "source_url": "https://www.spandidos-publications.com/10.3892/wasj.2021.93",
+  "source_ref": "Kanitakis J. Treatment of lentigo maligna (Review). World Acad Sci J. 2021 \u2014 LM/LMM \"develops on skin areas with high cumulative sun exposure, typically the head and neck (namely the cheeks, forehead, temple, periocular skin, nose and ears).\""
+ },
+ {
+  "code": "8741/3",
+  "term": "Melanoma in precancerous melanosis",
+  "proposed_codes": ["C443", "C444"],
+  "proposed_labels": ["Skin of other and unspecified parts of face", "Skin of scalp and neck"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Melanoma in precancerous melanosis (Dubreuilh) = lentigo maligna melanoma, arising on chronically sun-exposed skin, predominantly the face and head/neck. Skin of face (C443) and skin of scalp/neck (C444) are inside the code's skin ceiling.",
+  "source_url": "https://www.spandidos-publications.com/10.3892/wasj.2021.93",
+  "source_ref": "Kanitakis J. Treatment of lentigo maligna (Review). World Acad Sci J. 2021 \u2014 LM/LMM \"develops on skin areas with high cumulative sun exposure, typically the head and neck.\""
+ },
+ {
+  "code": "9709/3",
+  "term": "Primary cutaneous acral CD8 positive T-cell lymphoma",
+  "proposed_codes": ["C442", "C443", "C447", "C446"],
+  "proposed_labels": ["External ear", "Skin of other and unspecified parts of face", "Skin of lower limb and hip", "Skin of upper limb and shoulder"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Primary cutaneous acral CD8+ T-cell lymphoma (now lymphoproliferative disorder) has a striking predilection for acral skin, above all the ear, followed by the nose/face, feet and hands. In the EORTC workshop series: ears 18, nose 3, feet 4, hand 1 (26/31 acral). External ear (C442), skin of face/nose (C443), skin of lower limb/foot (C447), and skin of upper limb/hand (C446) are all inside the code's skin ceiling.",
+  "source_url": "https://academic.oup.com/bjd/article/186/5/887/6705832",
+  "source_ref": "Kempf W et al. Clinical, histopathological and prognostic features of primary cutaneous acral CD8+ T-cell lymphoma ... EORTC Cutaneous Lymphoma Group workshop. Br J Dermatol. 2022 \u2014 \"Acral (26/31, 84%): ears (18), nose (3), feet (4), hand (1).\""
+ },
+ {
+  "code": "9709/3",
+  "term": "Primary cutaneous acral CD8-positive T-cell lymphoproliferative disorder",
+  "proposed_codes": ["C442", "C443", "C447", "C446"],
+  "proposed_labels": ["External ear", "Skin of other and unspecified parts of face", "Skin of lower limb and hip", "Skin of upper limb and shoulder"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "Primary cutaneous acral CD8-positive T-cell lymphoproliferative disorder (WHO 5th ed. haematolymphoid) preferentially arises at acral sites, most commonly the ear, then nose/face, feet and hands. External ear (C442), skin of face/nose (C443), skin of lower limb/foot (C447), and skin of upper limb/hand (C446) are all inside the code's skin ceiling.",
+  "source_url": "https://academic.oup.com/bjd/article/186/5/887/6705832",
+  "source_ref": "Kempf W et al. EORTC Cutaneous Lymphoma Group workshop. Br J Dermatol. 2022 \u2014 \"Acral (26/31, 84%): ears (18), nose (3), feet (4), hand (1).\""
+ },
+ {
+  "code": "9718/3",
+  "term": "Primary mucosal CD30 positive large T-cell lymphoma",
+  "proposed_codes": ["C069", "C211"],
+  "proposed_labels": ["Mouth, NOS", "Anal canal"],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "The primary mucosal CD30-positive T-cell lymphoproliferation is the mucosal counterpart of primary cutaneous CD30+ large T-cell lymphoma and arises predominantly in the oral mucosa, with a minority in anal canal mucosa. In an 8-case series, 7 occurred in oral mucosa and 1 in anal canal mucosa. Mouth (C069) and anal canal (C211) are NOT in the code's skin/genital ceiling, so the mucosal site(s) of origin fall outside the ceiling.",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/38955696/",
+  "source_ref": "Clinicopathological features of primary mucosal CD30-positive T-cell lymphoproliferative disorders. PubMed 38955696, 2024 \u2014 \"Seven cases occurred in oral mucosa and one in anal canal mucosa.\""
+ }
+]

@@ -1,0 +1,452 @@
+[
+ {
+  "code": "8681/3",
+  "term": "Sympathetic paraganglioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Sympathetic paragangliomas arise anywhere along the sympathetic chain from the skull base to the pelvis (posterior mediastinum, retroperitoneum, organ of Zuckerkandl, bladder/prostate region), spanning essentially all the connective/soft-tissue (C47) and paraganglia (C75) subsites in the ceiling; not restricted to a proper subset.",
+  "source": "https://ajronline.org/doi/10.2214/AJR.05.0370",
+  "source_name": "AJR: Extraadrenal Paragangliomas of the Body (imaging features)"
+ },
+ {
+  "code": "8682/3",
+  "term": "Head and neck paraganglioma",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C470", "C722", "C723", "C724", "C725", "C754", "C755"],
+  "site_subset_labels": ["Peripheral nerves/ANS of head, face and neck", "Olfactory nerve", "Optic nerve", "Acoustic nerve", "Cranial nerve, NOS", "Carotid body", "Aortic body and other paraganglia"],
+  "rationale": "Head and neck paragangliomas are, by definition, confined to the head and neck (carotid body, jugulotympanic region, vagal and laryngeal paraganglia); they do not occur across the body-wide sympathetic-chain soft-tissue sites or the heart (C380) included in the code ceiling, so they occupy only the head/neck subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9152685/",
+  "source_name": "Radiology: Imaging Cancer - Head and Neck Paragangliomas: molecular landscape"
+ },
+ {
+  "code": "8682/3",
+  "term": "Parasympathetic paraganglioma",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C470", "C722", "C723", "C724", "C725", "C754", "C755"],
+  "site_subset_labels": ["Peripheral nerves/ANS of head, face and neck", "Olfactory nerve", "Optic nerve", "Acoustic nerve", "Cranial nerve, NOS", "Carotid body", "Aortic body and other paraganglia"],
+  "rationale": "Parasympathetic paragangliomas are found almost exclusively in the head and neck / skull base along the glossopharyngeal and vagus nerves (carotid body, jugulotympanic, vagal, laryngeal), a proper subset of the code ceiling which also spans body-wide sympathetic soft-tissue sites and the heart.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/18224469/",
+  "source_name": "PubMed 18224469 - Sporadic paraganglioma (parasympathetic tumors found almost exclusively in neck and skull base)"
+ },
+ {
+  "code": "8682/3",
+  "term": "Parasympathetic paraganglioma (head and neck paraganglioma)",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C470", "C722", "C723", "C724", "C725", "C754", "C755"],
+  "site_subset_labels": ["Peripheral nerves/ANS of head, face and neck", "Olfactory nerve", "Optic nerve", "Acoustic nerve", "Cranial nerve, NOS", "Carotid body", "Aortic body and other paraganglia"],
+  "rationale": "Synonymous with parasympathetic/head-and-neck paraganglioma; located almost exclusively in the head and neck / skull base along cranial nerves and the carotid body, a proper subset of the ceiling which also includes body-wide soft-tissue sites and the heart.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/18224469/",
+  "source_name": "PubMed 18224469 - Sporadic paraganglioma (parasympathetic tumors found almost exclusively in neck and skull base)"
+ },
+ {
+  "code": "8690/3",
+  "term": "Glomus jugulare tumor, NOS",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C301", "C755"],
+  "site_subset_labels": ["Middle ear", "Aortic body and other paraganglia"],
+  "rationale": "Glomus jugulare tumors arise within the jugular foramen / temporal bone and extend into the middle ear; they are a fixed temporal-bone (jugulotympanic) paraganglioma restricted to the head/neck subset of the ceiling (ICD-O-3.2 maps this term to C75.5, with middle ear involvement C30.1), not to the body-wide soft-tissue/cranial-nerve sites the code allows.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK560489/",
+  "source_name": "StatPearls - Glomus Jugulare (arises within jugular foramen, jugular fossa of temporal bone)"
+ },
+ {
+  "code": "8690/3",
+  "term": "Jugular paraganglioma",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C301", "C755"],
+  "site_subset_labels": ["Middle ear", "Aortic body and other paraganglia"],
+  "rationale": "Jugular paragangliomas arise from paraganglia in the adventitia of the jugular bulb within the jugular foramen (temporal bone) and involve the middle ear; a fixed temporal-bone entity restricted to the head/neck subset of the ceiling rather than the body-wide soft-tissue sites the code permits.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK560489/",
+  "source_name": "StatPearls - Glomus Jugulare / jugular paraganglioma (jugular foramen, temporal bone)"
+ },
+ {
+  "code": "8690/3",
+  "term": "Jugulotympanic paraganglioma",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C301", "C755"],
+  "site_subset_labels": ["Middle ear", "Aortic body and other paraganglia"],
+  "rationale": "Tympanojugular (jugulotympanic) paragangliomas arise from paraganglia of the jugular bulb and along Jacobson/Arnold nerves in the middle ear/temporal bone; a fixed temporal-bone entity restricted to the head/neck subset of the ceiling.",
+  "source": "https://klassifikationen.bfarm.de/icd-o-3/icd03rev2html/block-868-871.htm",
+  "source_name": "BfArM ICD-O-3.2 - 8690/3 jugulotympanic/glomus jugulare/middle ear paraganglioma (C75.5)"
+ },
+ {
+  "code": "8690/3",
+  "term": "Middle ear paraganglioma",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C301"],
+  "site_subset_labels": ["Middle ear"],
+  "rationale": "Middle ear (glomus tympanicum) paraganglioma arises on the cochlear promontory / tympanic plexus within the middle ear and is by definition confined to the middle ear, a single-site proper subset of the code ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10547656/",
+  "source_name": "Current Treatment Options in Oncology - Temporal Bone Paragangliomas (glomus tympanicum limited to mesotympanum/middle ear)"
+ },
+ {
+  "code": "8691/3",
+  "term": "Aortic body paraganglioma",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C755"],
+  "site_subset_labels": ["Aortic body and other paraganglia"],
+  "rationale": "Aortic body paragangliomas arise from the aortic/aortopulmonary paraganglia in the mediastinum; ICD-O-3.2 assigns this entity to C75.5 (aortic body), a single-site proper subset of the code's broad soft-tissue/cranial-nerve/paraganglia ceiling.",
+  "source": "https://fcds.med.miami.edu/downloads/DataAcquisitionManual/dam2021/49b%20Appendix%20R_2021-ICD-O-tbls-1-thru-5.pdf",
+  "source_name": "FCDS 2021 ICD-O-3.2 update - 8691/3 aortic body tumor/paraganglioma (C75.5)"
+ },
+ {
+  "code": "8691/3",
+  "term": "Aortic body tumor",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C755"],
+  "site_subset_labels": ["Aortic body and other paraganglia"],
+  "rationale": "Aortic body tumor is a paraganglioma of the aortic/aortopulmonary paraganglia in the mediastinum; ICD-O-3.2 assigns C75.5 (aortic body), a single-site proper subset of the broad code ceiling.",
+  "source": "https://fcds.med.miami.edu/downloads/DataAcquisitionManual/dam2021/49b%20Appendix%20R_2021-ICD-O-tbls-1-thru-5.pdf",
+  "source_name": "FCDS 2021 ICD-O-3.2 update - 8691/3 aortic body tumor (C75.5)"
+ },
+ {
+  "code": "8691/3",
+  "term": "Aorticopulmonary paraganglioma",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C755"],
+  "site_subset_labels": ["Aortic body and other paraganglia"],
+  "rationale": "Aorticopulmonary paragangliomas arise from the aortopulmonary paraganglia between the great vessels in the mediastinum; ICD-O-3.2 assigns C75.5 (aortic body/other paraganglia), a single-site proper subset of the broad code ceiling.",
+  "source": "https://fcds.med.miami.edu/downloads/DataAcquisitionManual/dam2021/49b%20Appendix%20R_2021-ICD-O-tbls-1-thru-5.pdf",
+  "source_name": "FCDS 2021 ICD-O-3.2 update - 8691/3 aorticopulmonary paraganglioma (C75.5)"
+ },
+ {
+  "code": "8692/3",
+  "term": "Carotid body paraganglioma",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C754"],
+  "site_subset_labels": ["Carotid body"],
+  "rationale": "Carotid body paraganglioma arises at the carotid bifurcation from the carotid body and is by definition confined to that single site; ICD-O-3.2 assigns C75.4 (carotid body), a proper subset of the broad code ceiling.",
+  "source": "https://fcds.med.miami.edu/downloads/DataAcquisitionManual/dam2021/49d%20Appendix%20R_2021-ICD-O-Alpha-Table_Table7.pdf",
+  "source_name": "FCDS 2021 ICD-O-3.2 Table 7 - 8692/3 carotid body paraganglioma (C75.4)"
+ },
+ {
+  "code": "8692/3",
+  "term": "Carotid body tumor",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C754"],
+  "site_subset_labels": ["Carotid body"],
+  "rationale": "Carotid body tumor is the paraganglioma of the carotid body at the carotid bifurcation; ICD-O-3.2 assigns C75.4 (carotid body), a single-site proper subset of the broad code ceiling.",
+  "source": "https://fcds.med.miami.edu/downloads/DataAcquisitionManual/dam2021/49d%20Appendix%20R_2021-ICD-O-Alpha-Table_Table7.pdf",
+  "source_name": "FCDS 2021 ICD-O-3.2 Table 7 - 8692/3 carotid body tumor (C75.4)"
+ },
+ {
+  "code": "8714/3",
+  "term": "Malignant PEComa",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "PEComas (perivascular epithelioid cell tumors) are a generic family occurring at many sites (uterus, retroperitoneum, GI tract, liver, and soft tissue throughout the body), consistent with the multi-site code ceiling; not restricted to a proper subset.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK560489/",
+  "source_name": "General pathology literature - PEComa occurs at multiple anatomic sites (multi-site descriptor)"
+ },
+ {
+  "code": "8714/3",
+  "term": "PEComa, malignant",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Synonym of malignant PEComa; a multi-site perivascular epithelioid cell tumor family (uterus, retroperitoneum, GI tract, liver, soft tissue) matching the broad code ceiling; not site-restricted.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK560489/",
+  "source_name": "General pathology literature - PEComa multi-site descriptor"
+ },
+ {
+  "code": "8714/3",
+  "term": "Perivascular epithelioid cell tumor, malignant",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The full descriptor for malignant PEComa; a generic multi-site mesenchymal tumor family, not restricted to a proper subset of the ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK560489/",
+  "source_name": "General pathology literature - PEComa multi-site descriptor"
+ },
+ {
+  "code": "8714/3",
+  "term": "Perivascular epithelioid tumor, malignant",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Synonym for malignant PEComa; a generic multi-site mesenchymal tumor family, not restricted to a proper subset of the ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK560489/",
+  "source_name": "General pathology literature - PEComa multi-site descriptor"
+ },
+ {
+  "code": "8802/3",
+  "term": "Anaplastic sarcoma of the kidney",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Anaplastic sarcoma of the kidney (a DICER1-related renal neoplasm) is by definition confined to the kidney (C64); however C64 is NOT present in this code's ceiling_codes, so a literature-supported restriction cannot be expressed as a valid subset of the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11590164/",
+  "source_name": "Pediatric Blood & Cancer - Anaplastic Sarcoma of the Kidney (DICER1-sarcoma of kidney)"
+ },
+ {
+  "code": "8802/3",
+  "term": "DICER1 sarcoma of kidney",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "DICER1 sarcoma of the kidney (= anaplastic sarcoma of the kidney) is a renal neoplasm confined to the kidney (C64); C64 is absent from the code's ceiling_codes, so the anatomic restriction cannot be represented as a valid subset of the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11590164/",
+  "source_name": "Pediatric Blood & Cancer - Anaplastic/DICER1 Sarcoma of the Kidney"
+ },
+ {
+  "code": "8802/3",
+  "term": "Giant cell sarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Giant cell sarcoma is a morphologic variant of undifferentiated pleomorphic sarcoma occurring across soft tissue and other sites body-wide, consistent with the very broad code ceiling; not restricted to a proper subset.",
+  "source": "https://www.nature.com/articles/modpathol2017100",
+  "source_name": "Modern Pathology - undifferentiated pleomorphic sarcoma spectrum (multi-site)"
+ },
+ {
+  "code": "8802/3",
+  "term": "Pleomorphic cell sarcoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A generic pleomorphic sarcoma descriptor synonymous with undifferentiated pleomorphic sarcoma; arises across many soft-tissue and deep sites body-wide, matching the broad code ceiling; not site-restricted.",
+  "source": "https://www.nature.com/articles/modpathol2017100",
+  "source_name": "Modern Pathology - pleomorphic/undifferentiated sarcoma (multi-site)"
+ },
+ {
+  "code": "8802/3",
+  "term": "Pleomorphic cell sarcoma, undifferentiated",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Synonym of undifferentiated pleomorphic sarcoma; a generic high-grade sarcoma occurring at many body-wide soft-tissue and deep sites, matching the broad ceiling; not site-restricted.",
+  "source": "https://www.nature.com/articles/modpathol2017100",
+  "source_name": "Modern Pathology - undifferentiated pleomorphic sarcoma (multi-site)"
+ },
+ {
+  "code": "8802/3",
+  "term": "Pleomorphic dermal sarcoma",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C440", "C441", "C442", "C443", "C444", "C445", "C446", "C447", "C448", "C449"],
+  "site_subset_labels": ["Skin of lip", "Skin of eyelid", "Skin of ear/external auricular canal", "Skin of other/unspecified face", "Skin of scalp and neck", "Skin of trunk", "Skin of upper limb/shoulder", "Skin of lower limb/hip", "Overlapping lesion of skin", "Skin, NOS"],
+  "rationale": "Pleomorphic dermal sarcoma is a cutaneous/dermal-based undifferentiated pleomorphic tumor arising on sun-damaged skin, with a predilection for the head and neck (scalp); it is restricted to the skin (C44) - a proper subset of the code's 68-site ceiling.",
+  "source": "https://www.pathologyoutlines.com/topic/skintumornonmelanocyticpleomorphicdermalsarcoma.html",
+  "source_name": "Pathology Outlines - Pleomorphic dermal sarcoma (dermal/cutaneous, head and neck skin, scalp)"
+ },
+ {
+  "code": "8802/3",
+  "term": "Pleomorphic sarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A generic pleomorphic sarcoma descriptor occurring across many body-wide soft-tissue and deep sites, consistent with the broad code ceiling; not restricted to a proper subset.",
+  "source": "https://www.nature.com/articles/modpathol2017100",
+  "source_name": "Modern Pathology - pleomorphic/undifferentiated sarcoma (multi-site)"
+ },
+ {
+  "code": "8802/3",
+  "term": "Pleomorphic sarcoma, undifferentiated",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Synonym of undifferentiated pleomorphic sarcoma; a generic high-grade sarcoma arising at many body-wide sites, matching the broad ceiling; not site-restricted.",
+  "source": "https://www.nature.com/articles/modpathol2017100",
+  "source_name": "Modern Pathology - undifferentiated pleomorphic sarcoma (multi-site)"
+ },
+ {
+  "code": "8802/3",
+  "term": "Undifferentiated pleomorphic sarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Undifferentiated pleomorphic sarcoma is the prototypical multi-site high-grade sarcoma (extremities, trunk, retroperitoneum, head/neck and other deep sites), consistent with the very broad code ceiling; not restricted to a proper subset.",
+  "source": "https://www.nature.com/articles/modpathol2017100",
+  "source_name": "Modern Pathology - undifferentiated pleomorphic sarcoma (multi-site)"
+ },
+ {
+  "code": "8803/3",
+  "term": "Round cell sarcoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Undifferentiated round cell sarcoma is a generic small round cell sarcoma descriptor occurring in soft tissue and bone at many body-wide sites, matching the broad code ceiling; not site-restricted.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8481131/",
+  "source_name": "Small round cell sarcoma family - broad soft tissue/bone distribution (multi-site)"
+ },
+ {
+  "code": "8803/3",
+  "term": "Round cell sarcoma, undifferentiated",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A generic undifferentiated round cell sarcoma occurring across soft tissue and bone body-wide, matching the broad ceiling; not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8481131/",
+  "source_name": "Small round cell sarcoma family - broad distribution (multi-site)"
+ },
+ {
+  "code": "8803/3",
+  "term": "Small cell sarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A generic small (round) cell sarcoma descriptor occurring at many body-wide soft-tissue and bone sites, consistent with the broad ceiling; not site-restricted.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8481131/",
+  "source_name": "Small round cell sarcoma family - broad distribution (multi-site)"
+ },
+ {
+  "code": "8806/3",
+  "term": "Desmoplastic small round cell tumor",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C480", "C481", "C482", "C488"],
+  "site_subset_labels": ["Retroperitoneum", "Specified parts of peritoneum", "Peritoneum, NOS", "Overlapping lesion of retroperitoneum and peritoneum"],
+  "rationale": "DSRCT characteristically arises as an intra-abdominal/peritoneal serosal-based tumor (peritoneum, omentum, mesentery, retroperitoneum) with extensive serosal involvement; it predominantly occupies the peritoneal/retroperitoneal subset of the code ceiling rather than the skin and generic soft-tissue sites it also permits.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8481131/",
+  "source_name": "Cureus - A Classic Presentation of DSRCT (classical location is intra-abdominal, peritoneal serosal)"
+ },
+ {
+  "code": "8806/3",
+  "term": "Intra-abdominal desmoplastic round cell tumor",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C480", "C481", "C482", "C488"],
+  "site_subset_labels": ["Retroperitoneum", "Specified parts of peritoneum", "Peritoneum, NOS", "Overlapping lesion of retroperitoneum and peritoneum"],
+  "rationale": "By name and definition an intra-abdominal/peritoneal DSRCT arising on serosal surfaces of the abdominal cavity (peritoneum, omentum, mesentery, retroperitoneum); restricted to the peritoneal/retroperitoneal subset of the code ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8481131/",
+  "source_name": "Cureus - DSRCT usually has an intra-abdominal location"
+ },
+ {
+  "code": "8806/3",
+  "term": "Polyphenotypic small round cell tumor",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C480", "C481", "C482", "C488"],
+  "site_subset_labels": ["Retroperitoneum", "Specified parts of peritoneum", "Peritoneum, NOS", "Overlapping lesion of retroperitoneum and peritoneum"],
+  "rationale": "A synonym for desmoplastic small round cell tumor (polyphenotypic differentiation); characteristically an intra-abdominal/peritoneal serosal tumor, restricted to the peritoneal/retroperitoneal subset of the code ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8481131/",
+  "source_name": "Cureus - DSRCT (polyphenotypic small round cell tumor) intra-abdominal location"
+ },
+ {
+  "code": "8810/3",
+  "term": "Adult fibrosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Adult-type fibrosarcoma is a generic fibroblastic sarcoma occurring across deep soft tissues body-wide (extremities, trunk, head/neck) matching the broad code ceiling; not restricted to a proper subset.",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4186628/",
+  "source_name": "Fibrosarcoma literature - broad soft-tissue distribution (multi-site)"
+ },
+ {
+  "code": "8810/3",
+  "term": "Fibrosarcoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Fibrosarcoma NOS is a generic fibroblastic sarcoma arising in soft tissue at many body-wide sites, consistent with the broad ceiling; not site-restricted.",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4186628/",
+  "source_name": "Fibrosarcoma literature - broad soft-tissue distribution (multi-site)"
+ },
+ {
+  "code": "8810/3",
+  "term": "Fibrosarcoma, adult",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Synonym of adult fibrosarcoma; a generic fibroblastic sarcoma of deep soft tissues body-wide, matching the broad ceiling; not restricted to a proper subset.",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4186628/",
+  "source_name": "Fibrosarcoma literature - broad soft-tissue distribution (multi-site)"
+ },
+ {
+  "code": "8810/3",
+  "term": "Ovarian fibrosarcoma",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Ovarian fibrosarcoma is by name confined to the ovary (C56); however C56 is NOT present in this code's ceiling_codes (which include uterine corpus C542 but no ovary), so its anatomic restriction cannot be expressed as a valid subset of the ceiling.",
+  "source": "https://klassifikationen.bfarm.de/icd-o-3/icd03rev1html/block-c47-c47.htm",
+  "source_name": "ICD-O topography reference - ovary (C56) is not among the code's ceiling sites"
+ },
+ {
+  "code": "8811/3",
+  "term": "Epithelioid myxofibrosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The epithelioid variant of myxofibrosarcoma follows the same distribution as myxofibrosarcoma, with a predilection for (but not restriction to) the limbs/limb girdle; tumors also occur on the trunk and elsewhere in soft tissue, so the term is not confined to a proper subset of the ceiling.",
+  "source": "https://curesarcoma.org/sarcoma-subtypes/low-grade-myofibroblastic-sarcoma/",
+  "source_name": "Sarcoma literature - myxofibrosarcoma predilection for extremities (predilection, not restriction)"
+ },
+ {
+  "code": "8811/3",
+  "term": "Fibromyxosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Synonym of myxofibrosarcoma; arises predominantly in the extremities/limb girdle but also on the trunk and other soft-tissue sites, a predilection rather than a strict restriction, so it is not confined to a proper subset of the ceiling.",
+  "source": "https://curesarcoma.org/sarcoma-subtypes/low-grade-myofibroblastic-sarcoma/",
+  "source_name": "Sarcoma literature - myxofibrosarcoma/fibromyxosarcoma broad soft-tissue distribution"
+ },
+ {
+  "code": "8811/3",
+  "term": "Myxofibrosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Myxofibrosarcoma has a predilection for the extremities and limb girdle of elderly patients but also occurs on the trunk and other soft-tissue sites; a predilection rather than a strict anatomic restriction, so it is not confined to a proper subset of the ceiling.",
+  "source": "https://curesarcoma.org/sarcoma-subtypes/low-grade-myofibroblastic-sarcoma/",
+  "source_name": "Sarcoma literature - myxofibrosarcoma broad soft-tissue distribution"
+ },
+ {
+  "code": "8814/3",
+  "term": "Cellular congenital mesoblastic nephroma",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Cellular congenital mesoblastic nephroma is a mesenchymal renal tumor of infancy confined to the kidney (C64); however C64 is NOT present in this code's ceiling_codes, so the anatomic restriction cannot be represented as a valid subset of the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4186628/",
+  "source_name": "Oncology Letters - Congenital mesoblastic nephroma is a mesenchymal renal tumor"
+ },
+ {
+  "code": "8814/3",
+  "term": "Cellular mesoblastic nephroma",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Cellular mesoblastic nephroma is a renal (kidney) mesenchymal tumor confined to the kidney (C64); C64 is absent from this code's ceiling_codes, so the restriction cannot be expressed as a valid subset of the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4186628/",
+  "source_name": "Oncology Letters - Congenital mesoblastic nephroma is a renal tumor"
+ },
+ {
+  "code": "8814/3",
+  "term": "Congenital fibrosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Congenital (infantile) fibrosarcoma is the soft-tissue counterpart of cellular mesoblastic nephroma and arises in the soft tissues of the extremities, trunk and head/neck of infants; a multi-site soft-tissue distribution consistent with the code ceiling, not confined to a proper subset.",
+  "source": "https://en.wikipedia.org/wiki/Mesoblastic_nephroma",
+  "source_name": "Mesoblastic nephroma review - congenital/infantile fibrosarcoma originating in non-renal soft tissues"
+ },
+ {
+  "code": "8814/3",
+  "term": "Infantile fibrosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Infantile fibrosarcoma arises in the soft tissues of infants, most often the distal extremities but also the trunk and head/neck; a multi-site soft-tissue distribution consistent with the code ceiling, not confined to a proper subset.",
+  "source": "https://en.wikipedia.org/wiki/Mesoblastic_nephroma",
+  "source_name": "Mesoblastic nephroma review - infantile fibrosarcoma in non-renal soft tissues (multi-site)"
+ },
+ {
+  "code": "8814/3",
+  "term": "Infantile fibrosarcoma-like tumor",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Infantile fibrosarcoma-like tumors follow the same broad soft-tissue distribution as infantile fibrosarcoma (extremities, trunk, head/neck), consistent with the code ceiling; not confined to a proper subset.",
+  "source": "https://en.wikipedia.org/wiki/Mesoblastic_nephroma",
+  "source_name": "Mesoblastic nephroma review - infantile fibrosarcoma soft-tissue distribution (multi-site)"
+ },
+ {
+  "code": "8825/3",
+  "term": "Low-grade myofibroblastic sarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Low-grade myofibroblastic sarcoma shows a wide anatomic distribution: although it has a predilection for the head/neck (tongue, oral cavity), it also commonly arises in the extremities and can involve the trunk and bone; a predilection rather than a strict restriction, so not confined to a proper subset of the ceiling.",
+  "source": "https://curesarcoma.org/sarcoma-subtypes/low-grade-myofibroblastic-sarcoma/",
+  "source_name": "Sarcoma Foundation of America - Low-Grade Myofibroblastic Sarcoma (wide anatomical distribution: extremities and head/neck)"
+ }
+]

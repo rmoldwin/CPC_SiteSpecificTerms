@@ -1,0 +1,666 @@
+[
+ {
+  "code": "8071/3",
+  "term": "Squamous cell carcinoma, large cell, keratinizing",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad squamous cell carcinoma morphologic descriptor. Literature documents this variant across many anatomic sites (skin, oral cavity, larynx/upper aerodigestive tract, lung, esophagus, anogenital tract, etc.), matching essentially the full code ceiling; it is not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9425732/",
+  "source_name": "Virchows Archiv 2021 (head & neck spindle cell SCC clinicopathology) / Iris Publishers Arch Clin Rev 2019 (acantholytic SCC of uncommon sites)"
+ },
+ {
+  "code": "8074/3",
+  "term": "Epidermoid carcinoma, spindle cell",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad squamous cell carcinoma morphologic descriptor. Literature documents this variant across many anatomic sites (skin, oral cavity, larynx/upper aerodigestive tract, lung, esophagus, anogenital tract, etc.), matching essentially the full code ceiling; it is not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9425732/",
+  "source_name": "Virchows Archiv 2021 (head & neck spindle cell SCC clinicopathology) / Iris Publishers Arch Clin Rev 2019 (acantholytic SCC of uncommon sites)"
+ },
+ {
+  "code": "8074/3",
+  "term": "Pseudovascular squamous cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad squamous cell carcinoma morphologic descriptor. Literature documents this variant across many anatomic sites (skin, oral cavity, larynx/upper aerodigestive tract, lung, esophagus, anogenital tract, etc.), matching essentially the full code ceiling; it is not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9425732/",
+  "source_name": "Virchows Archiv 2021 (head & neck spindle cell SCC clinicopathology) / Iris Publishers Arch Clin Rev 2019 (acantholytic SCC of uncommon sites)"
+ },
+ {
+  "code": "8074/3",
+  "term": "Sarcomatoid squamous cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad squamous cell carcinoma morphologic descriptor. Literature documents this variant across many anatomic sites (skin, oral cavity, larynx/upper aerodigestive tract, lung, esophagus, anogenital tract, etc.), matching essentially the full code ceiling; it is not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9425732/",
+  "source_name": "Virchows Archiv 2021 (head & neck spindle cell SCC clinicopathology) / Iris Publishers Arch Clin Rev 2019 (acantholytic SCC of uncommon sites)"
+ },
+ {
+  "code": "8074/3",
+  "term": "Spindle cell squamous cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad squamous cell carcinoma morphologic descriptor. Literature documents this variant across many anatomic sites (skin, oral cavity, larynx/upper aerodigestive tract, lung, esophagus, anogenital tract, etc.), matching essentially the full code ceiling; it is not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9425732/",
+  "source_name": "Virchows Archiv 2021 (head & neck spindle cell SCC clinicopathology) / Iris Publishers Arch Clin Rev 2019 (acantholytic SCC of uncommon sites)"
+ },
+ {
+  "code": "8074/3",
+  "term": "Squamous cell carcinoma with a spindle cell component",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad squamous cell carcinoma morphologic descriptor. Literature documents this variant across many anatomic sites (skin, oral cavity, larynx/upper aerodigestive tract, lung, esophagus, anogenital tract, etc.), matching essentially the full code ceiling; it is not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9425732/",
+  "source_name": "Virchows Archiv 2021 (head & neck spindle cell SCC clinicopathology) / Iris Publishers Arch Clin Rev 2019 (acantholytic SCC of uncommon sites)"
+ },
+ {
+  "code": "8074/3",
+  "term": "Squamous cell carcinoma with sarcomatoid differentiation",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad squamous cell carcinoma morphologic descriptor. Literature documents this variant across many anatomic sites (skin, oral cavity, larynx/upper aerodigestive tract, lung, esophagus, anogenital tract, etc.), matching essentially the full code ceiling; it is not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9425732/",
+  "source_name": "Virchows Archiv 2021 (head & neck spindle cell SCC clinicopathology) / Iris Publishers Arch Clin Rev 2019 (acantholytic SCC of uncommon sites)"
+ },
+ {
+  "code": "8074/3",
+  "term": "Squamous cell carcinoma, pseudosarcomatous",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad squamous cell carcinoma morphologic descriptor. Literature documents this variant across many anatomic sites (skin, oral cavity, larynx/upper aerodigestive tract, lung, esophagus, anogenital tract, etc.), matching essentially the full code ceiling; it is not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9425732/",
+  "source_name": "Virchows Archiv 2021 (head & neck spindle cell SCC clinicopathology) / Iris Publishers Arch Clin Rev 2019 (acantholytic SCC of uncommon sites)"
+ },
+ {
+  "code": "8074/3",
+  "term": "Squamous cell carcinoma, sarcomatoid",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad squamous cell carcinoma morphologic descriptor. Literature documents this variant across many anatomic sites (skin, oral cavity, larynx/upper aerodigestive tract, lung, esophagus, anogenital tract, etc.), matching essentially the full code ceiling; it is not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9425732/",
+  "source_name": "Virchows Archiv 2021 (head & neck spindle cell SCC clinicopathology) / Iris Publishers Arch Clin Rev 2019 (acantholytic SCC of uncommon sites)"
+ },
+ {
+  "code": "8074/3",
+  "term": "Squamous cell carcinoma, spindle cell",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad squamous cell carcinoma morphologic descriptor. Literature documents this variant across many anatomic sites (skin, oral cavity, larynx/upper aerodigestive tract, lung, esophagus, anogenital tract, etc.), matching essentially the full code ceiling; it is not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9425732/",
+  "source_name": "Virchows Archiv 2021 (head & neck spindle cell SCC clinicopathology) / Iris Publishers Arch Clin Rev 2019 (acantholytic SCC of uncommon sites)"
+ },
+ {
+  "code": "8075/3",
+  "term": "Acantholytic squamous cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad squamous cell carcinoma morphologic descriptor. Literature documents this variant across many anatomic sites (skin, oral cavity, larynx/upper aerodigestive tract, lung, esophagus, anogenital tract, etc.), matching essentially the full code ceiling; it is not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9425732/",
+  "source_name": "Virchows Archiv 2021 (head & neck spindle cell SCC clinicopathology) / Iris Publishers Arch Clin Rev 2019 (acantholytic SCC of uncommon sites)"
+ },
+ {
+  "code": "8075/3",
+  "term": "Adenoid squamous cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad squamous cell carcinoma morphologic descriptor. Literature documents this variant across many anatomic sites (skin, oral cavity, larynx/upper aerodigestive tract, lung, esophagus, anogenital tract, etc.), matching essentially the full code ceiling; it is not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9425732/",
+  "source_name": "Virchows Archiv 2021 (head & neck spindle cell SCC clinicopathology) / Iris Publishers Arch Clin Rev 2019 (acantholytic SCC of uncommon sites)"
+ },
+ {
+  "code": "8075/3",
+  "term": "Squamous cell carcinoma, acantholytic",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad squamous cell carcinoma morphologic descriptor. Literature documents this variant across many anatomic sites (skin, oral cavity, larynx/upper aerodigestive tract, lung, esophagus, anogenital tract, etc.), matching essentially the full code ceiling; it is not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9425732/",
+  "source_name": "Virchows Archiv 2021 (head & neck spindle cell SCC clinicopathology) / Iris Publishers Arch Clin Rev 2019 (acantholytic SCC of uncommon sites)"
+ },
+ {
+  "code": "8075/3",
+  "term": "Squamous cell carcinoma, adenoid",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad squamous cell carcinoma morphologic descriptor. Literature documents this variant across many anatomic sites (skin, oral cavity, larynx/upper aerodigestive tract, lung, esophagus, anogenital tract, etc.), matching essentially the full code ceiling; it is not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9425732/",
+  "source_name": "Virchows Archiv 2021 (head & neck spindle cell SCC clinicopathology) / Iris Publishers Arch Clin Rev 2019 (acantholytic SCC of uncommon sites)"
+ },
+ {
+  "code": "8075/3",
+  "term": "Squamous cell carcinoma, pseudoglandular",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad squamous cell carcinoma morphologic descriptor. Literature documents this variant across many anatomic sites (skin, oral cavity, larynx/upper aerodigestive tract, lung, esophagus, anogenital tract, etc.), matching essentially the full code ceiling; it is not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9425732/",
+  "source_name": "Virchows Archiv 2021 (head & neck spindle cell SCC clinicopathology) / Iris Publishers Arch Clin Rev 2019 (acantholytic SCC of uncommon sites)"
+ },
+ {
+  "code": "8076/2",
+  "term": "Epidermoid carcinoma in situ with questionable stromal invasion",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad squamous cell carcinoma morphologic descriptor. Literature documents this variant across many anatomic sites (skin, oral cavity, larynx/upper aerodigestive tract, lung, esophagus, anogenital tract, etc.), matching essentially the full code ceiling; it is not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9425732/",
+  "source_name": "Virchows Archiv 2021 (head & neck spindle cell SCC clinicopathology) / Iris Publishers Arch Clin Rev 2019 (acantholytic SCC of uncommon sites)"
+ },
+ {
+  "code": "8076/2",
+  "term": "Squamous cell carcinoma in situ with questionable stromal invasion",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad squamous cell carcinoma morphologic descriptor. Literature documents this variant across many anatomic sites (skin, oral cavity, larynx/upper aerodigestive tract, lung, esophagus, anogenital tract, etc.), matching essentially the full code ceiling; it is not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9425732/",
+  "source_name": "Virchows Archiv 2021 (head & neck spindle cell SCC clinicopathology) / Iris Publishers Arch Clin Rev 2019 (acantholytic SCC of uncommon sites)"
+ },
+ {
+  "code": "8076/3",
+  "term": "Squamous cell carcinoma, microinvasive",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad squamous cell carcinoma morphologic descriptor. Literature documents this variant across many anatomic sites (skin, oral cavity, larynx/upper aerodigestive tract, lung, esophagus, anogenital tract, etc.), matching essentially the full code ceiling; it is not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9425732/",
+  "source_name": "Virchows Archiv 2021 (head & neck spindle cell SCC clinicopathology) / Iris Publishers Arch Clin Rev 2019 (acantholytic SCC of uncommon sites)"
+ },
+ {
+  "code": "8077/2",
+  "term": "AIN 2",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C210",
+   "C211",
+   "C212",
+   "C218"
+  ],
+  "site_subset_labels": [
+   "Anus NOS",
+   "Anal canal",
+   "Cloacogenic zone",
+   "Overlapping lesion of rectum, anus and anal canal"
+  ],
+  "rationale": "Anal intraepithelial neoplasia (AIN) is, by definition and nomenclature, a squamous precursor lesion of the anal canal/anus; the term is anatomically specific to the anus, a proper subset of the code ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6214808/",
+  "source_name": "Clinics in Colon and Rectal Surgery 2018 (AIN from a pathologist's point of view)"
+ },
+ {
+  "code": "8077/2",
+  "term": "AIN 3",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C210",
+   "C211",
+   "C212",
+   "C218"
+  ],
+  "site_subset_labels": [
+   "Anus NOS",
+   "Anal canal",
+   "Cloacogenic zone",
+   "Overlapping lesion of rectum, anus and anal canal"
+  ],
+  "rationale": "Anal intraepithelial neoplasia (AIN) is, by definition and nomenclature, a squamous precursor lesion of the anal canal/anus; the term is anatomically specific to the anus, a proper subset of the code ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6214808/",
+  "source_name": "Clinics in Colon and Rectal Surgery 2018 (AIN from a pathologist's point of view)"
+ },
+ {
+  "code": "8077/2",
+  "term": "AIN III",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C210",
+   "C211",
+   "C212",
+   "C218"
+  ],
+  "site_subset_labels": [
+   "Anus NOS",
+   "Anal canal",
+   "Cloacogenic zone",
+   "Overlapping lesion of rectum, anus and anal canal"
+  ],
+  "rationale": "Anal intraepithelial neoplasia (AIN) is, by definition and nomenclature, a squamous precursor lesion of the anal canal/anus; the term is anatomically specific to the anus, a proper subset of the code ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6214808/",
+  "source_name": "Clinics in Colon and Rectal Surgery 2018 (AIN from a pathologist's point of view)"
+ },
+ {
+  "code": "8077/2",
+  "term": "Anal intraepithelial neoplasia, grade 2",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C210",
+   "C211",
+   "C212",
+   "C218"
+  ],
+  "site_subset_labels": [
+   "Anus NOS",
+   "Anal canal",
+   "Cloacogenic zone",
+   "Overlapping lesion of rectum, anus and anal canal"
+  ],
+  "rationale": "Anal intraepithelial neoplasia (AIN) is, by definition and nomenclature, a squamous precursor lesion of the anal canal/anus; the term is anatomically specific to the anus, a proper subset of the code ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6214808/",
+  "source_name": "Clinics in Colon and Rectal Surgery 2018 (AIN from a pathologist's point of view)"
+ },
+ {
+  "code": "8077/2",
+  "term": "Anal intraepithelial neoplasia, grade III",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C210",
+   "C211",
+   "C212",
+   "C218"
+  ],
+  "site_subset_labels": [
+   "Anus NOS",
+   "Anal canal",
+   "Cloacogenic zone",
+   "Overlapping lesion of rectum, anus and anal canal"
+  ],
+  "rationale": "Anal intraepithelial neoplasia (AIN) is, by definition and nomenclature, a squamous precursor lesion of the anal canal/anus; the term is anatomically specific to the anus, a proper subset of the code ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6214808/",
+  "source_name": "Clinics in Colon and Rectal Surgery 2018 (AIN from a pathologist's point of view)"
+ },
+ {
+  "code": "8077/2",
+  "term": "Anal intraepithelial neoplasia, high-grade",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C210",
+   "C211",
+   "C212",
+   "C218"
+  ],
+  "site_subset_labels": [
+   "Anus NOS",
+   "Anal canal",
+   "Cloacogenic zone",
+   "Overlapping lesion of rectum, anus and anal canal"
+  ],
+  "rationale": "Anal intraepithelial neoplasia (AIN) is, by definition and nomenclature, a squamous precursor lesion of the anal canal/anus; the term is anatomically specific to the anus, a proper subset of the code ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6214808/",
+  "source_name": "Clinics in Colon and Rectal Surgery 2018 (AIN from a pathologist's point of view)"
+ },
+ {
+  "code": "8077/2",
+  "term": "CIN 2",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "site_subset_labels": [
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri"
+  ],
+  "rationale": "Cervical intraepithelial neoplasia (CIN) is by definition a premalignant squamous lesion located in the uterine cervix; the term is anatomically specific to the cervix, a proper subset of the code ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK544371/",
+  "source_name": "StatPearls: Cervical Intraepithelial Neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "CIN 3 with severe dysplasia",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "site_subset_labels": [
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri"
+  ],
+  "rationale": "Cervical intraepithelial neoplasia (CIN) is by definition a premalignant squamous lesion located in the uterine cervix; the term is anatomically specific to the cervix, a proper subset of the code ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK544371/",
+  "source_name": "StatPearls: Cervical Intraepithelial Neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "CIN 3, NOS",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "site_subset_labels": [
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri"
+  ],
+  "rationale": "Cervical intraepithelial neoplasia (CIN) is by definition a premalignant squamous lesion located in the uterine cervix; the term is anatomically specific to the cervix, a proper subset of the code ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK544371/",
+  "source_name": "StatPearls: Cervical Intraepithelial Neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "CIN III with severe dysplasia",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "site_subset_labels": [
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri"
+  ],
+  "rationale": "Cervical intraepithelial neoplasia (CIN) is by definition a premalignant squamous lesion located in the uterine cervix; the term is anatomically specific to the cervix, a proper subset of the code ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK544371/",
+  "source_name": "StatPearls: Cervical Intraepithelial Neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "CIN III, NOS",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "site_subset_labels": [
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri"
+  ],
+  "rationale": "Cervical intraepithelial neoplasia (CIN) is by definition a premalignant squamous lesion located in the uterine cervix; the term is anatomically specific to the cervix, a proper subset of the code ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK544371/",
+  "source_name": "StatPearls: Cervical Intraepithelial Neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "Cervical intraepithelial neoplasia, grade 2",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "site_subset_labels": [
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri"
+  ],
+  "rationale": "Cervical intraepithelial neoplasia (CIN) is by definition a premalignant squamous lesion located in the uterine cervix; the term is anatomically specific to the cervix, a proper subset of the code ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK544371/",
+  "source_name": "StatPearls: Cervical Intraepithelial Neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "Cervical intraepithelial neoplasia, grade III",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "site_subset_labels": [
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri"
+  ],
+  "rationale": "Cervical intraepithelial neoplasia (CIN) is by definition a premalignant squamous lesion located in the uterine cervix; the term is anatomically specific to the cervix, a proper subset of the code ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK544371/",
+  "source_name": "StatPearls: Cervical Intraepithelial Neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "Cervical intraepithelial neoplasia, high-grade",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "site_subset_labels": [
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri"
+  ],
+  "rationale": "Cervical intraepithelial neoplasia (CIN) is by definition a premalignant squamous lesion located in the uterine cervix; the term is anatomically specific to the cervix, a proper subset of the code ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK544371/",
+  "source_name": "StatPearls: Cervical Intraepithelial Neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "Conjunctival squamous intraepithelial neoplasia, moderate dysplasia",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Conjunctival squamous intraepithelial neoplasia is anatomically restricted to the conjunctiva/ocular surface (C69), but the conjunctiva is not among this code's ceiling_codes, so no valid proper subset of the ceiling can be assigned; the restriction cannot be expressed within the ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/medgen/1882874",
+  "source_name": "NCI/MedGen: Conjunctival squamous intraepithelial neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "Conjunctival squamous intraepithelial neoplasia, severe dysplasia",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Conjunctival squamous intraepithelial neoplasia is anatomically restricted to the conjunctiva/ocular surface (C69), but the conjunctiva is not among this code's ceiling_codes, so no valid proper subset of the ceiling can be assigned; the restriction cannot be expressed within the ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/medgen/1882874",
+  "source_name": "NCI/MedGen: Conjunctival squamous intraepithelial neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "High grade squamous intraepithelial lesion",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic high-grade squamous intraepithelial lesion / squamous dysplasia descriptor. The two-tier LSIL/HSIL and grade II/III squamous dysplasia terminology is applied across the entire spectrum of squamous mucosal sites (anogenital tract and upper aerodigestive tract), not restricted to a proper subset of the code ceiling.",
+  "source": "https://www.prolekare.cz/casopisy/cesko-slovenska-patologie/2022-4-14/nadorove-leze-penisu-a-skrota-dle-who-klasifikace-2022-132931",
+  "source_name": "Cesko-Slovenska Patologie 2022 (WHO 2022: LSIL/HSIL terminology unified across the whole anogenital area)"
+ },
+ {
+  "code": "8077/2",
+  "term": "High-grade oral epithelial dysplasia",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C000",
+   "C001",
+   "C002",
+   "C003",
+   "C004",
+   "C005",
+   "C006",
+   "C008",
+   "C009",
+   "C020",
+   "C021",
+   "C022",
+   "C023",
+   "C028",
+   "C029",
+   "C030",
+   "C031",
+   "C039",
+   "C040",
+   "C041",
+   "C048",
+   "C049",
+   "C050",
+   "C058",
+   "C059",
+   "C060",
+   "C061",
+   "C062",
+   "C068",
+   "C069"
+  ],
+  "site_subset_labels": [
+   "External upper lip",
+   "External lower lip",
+   "External lip NOS",
+   "Mucosa of upper lip",
+   "Mucosa of lower lip",
+   "Mucosa of lip NOS",
+   "Commissure of lip",
+   "Overlapping lesion of lip",
+   "Lip NOS",
+   "Dorsal surface of tongue",
+   "Border of tongue",
+   "Ventral surface of tongue",
+   "Anterior 2/3 of tongue NOS",
+   "Overlapping lesion of tongue",
+   "Tongue NOS",
+   "Upper gum",
+   "Lower gum",
+   "Gum NOS",
+   "Anterior floor of mouth",
+   "Lateral floor of mouth",
+   "Overlapping lesion of floor of mouth",
+   "Floor of mouth NOS",
+   "Hard palate",
+   "Overlapping lesion of palate",
+   "Palate NOS",
+   "Cheek mucosa",
+   "Vestibule of mouth",
+   "Retromolar area",
+   "Overlapping lesion of mouth",
+   "Mouth NOS"
+  ],
+  "rationale": "Oral epithelial dysplasia is by definition a precursor lesion of the oral cavity mucosa (lip, tongue, gingiva, floor of mouth, palate, buccal mucosa); the term is anatomically specific to oral cavity subsites, a proper subset of the code ceiling.",
+  "source": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/oral-epithelial-dysplasia",
+  "source_name": "NCI Dictionary of Cancer Terms: oral epithelial dysplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "High-grade squamous dysplasia",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic high-grade squamous intraepithelial lesion / squamous dysplasia descriptor. The two-tier LSIL/HSIL and grade II/III squamous dysplasia terminology is applied across the entire spectrum of squamous mucosal sites (anogenital tract and upper aerodigestive tract), not restricted to a proper subset of the code ceiling.",
+  "source": "https://www.prolekare.cz/casopisy/cesko-slovenska-patologie/2022-4-14/nadorove-leze-penisu-a-skrota-dle-who-klasifikace-2022-132931",
+  "source_name": "Cesko-Slovenska Patologie 2022 (WHO 2022: LSIL/HSIL terminology unified across the whole anogenital area)"
+ },
+ {
+  "code": "8077/2",
+  "term": "High-grade squamous intraepithelial lesion, HPV-associated",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic high-grade squamous intraepithelial lesion / squamous dysplasia descriptor. The two-tier LSIL/HSIL and grade II/III squamous dysplasia terminology is applied across the entire spectrum of squamous mucosal sites (anogenital tract and upper aerodigestive tract), not restricted to a proper subset of the code ceiling.",
+  "source": "https://www.prolekare.cz/casopisy/cesko-slovenska-patologie/2022-4-14/nadorove-leze-penisu-a-skrota-dle-who-klasifikace-2022-132931",
+  "source_name": "Cesko-Slovenska Patologie 2022 (WHO 2022: LSIL/HSIL terminology unified across the whole anogenital area)"
+ },
+ {
+  "code": "8077/2",
+  "term": "Moderate squamous dysplasia",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic high-grade squamous intraepithelial lesion / squamous dysplasia descriptor. The two-tier LSIL/HSIL and grade II/III squamous dysplasia terminology is applied across the entire spectrum of squamous mucosal sites (anogenital tract and upper aerodigestive tract), not restricted to a proper subset of the code ceiling.",
+  "source": "https://www.prolekare.cz/casopisy/cesko-slovenska-patologie/2022-4-14/nadorove-leze-penisu-a-skrota-dle-who-klasifikace-2022-132931",
+  "source_name": "Cesko-Slovenska Patologie 2022 (WHO 2022: LSIL/HSIL terminology unified across the whole anogenital area)"
+ },
+ {
+  "code": "8077/2",
+  "term": "Penile intraepithelial neoplasia, HPV-associated, high-grade",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609"
+  ],
+  "site_subset_labels": [
+   "Prepuce",
+   "Glans penis",
+   "Body of penis",
+   "Overlapping lesion of penis",
+   "Penis NOS"
+  ],
+  "rationale": "Penile intraepithelial neoplasia (PeIN) is by definition the squamous precursor lesion of the penis (penile epithelium/glans/prepuce); the term is anatomically specific to the penis, a proper subset of the code ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10361939/",
+  "source_name": "Journal of General Internal Medicine 2023 (Penile Intraepithelial Neoplasia)"
+ },
+ {
+  "code": "8077/2",
+  "term": "Severe squamous dysplasia",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic high-grade squamous intraepithelial lesion / squamous dysplasia descriptor. The two-tier LSIL/HSIL and grade II/III squamous dysplasia terminology is applied across the entire spectrum of squamous mucosal sites (anogenital tract and upper aerodigestive tract), not restricted to a proper subset of the code ceiling.",
+  "source": "https://www.prolekare.cz/casopisy/cesko-slovenska-patologie/2022-4-14/nadorove-leze-penisu-a-skrota-dle-who-klasifikace-2022-132931",
+  "source_name": "Cesko-Slovenska Patologie 2022 (WHO 2022: LSIL/HSIL terminology unified across the whole anogenital area)"
+ },
+ {
+  "code": "8077/2",
+  "term": "Squamous dysplasia, high grade",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic high-grade squamous intraepithelial lesion / squamous dysplasia descriptor. The two-tier LSIL/HSIL and grade II/III squamous dysplasia terminology is applied across the entire spectrum of squamous mucosal sites (anogenital tract and upper aerodigestive tract), not restricted to a proper subset of the code ceiling.",
+  "source": "https://www.prolekare.cz/casopisy/cesko-slovenska-patologie/2022-4-14/nadorove-leze-penisu-a-skrota-dle-who-klasifikace-2022-132931",
+  "source_name": "Cesko-Slovenska Patologie 2022 (WHO 2022: LSIL/HSIL terminology unified across the whole anogenital area)"
+ },
+ {
+  "code": "8077/2",
+  "term": "Squamous intraepithelial neoplasia, grade II",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic high-grade squamous intraepithelial lesion / squamous dysplasia descriptor. The two-tier LSIL/HSIL and grade II/III squamous dysplasia terminology is applied across the entire spectrum of squamous mucosal sites (anogenital tract and upper aerodigestive tract), not restricted to a proper subset of the code ceiling.",
+  "source": "https://www.prolekare.cz/casopisy/cesko-slovenska-patologie/2022-4-14/nadorove-leze-penisu-a-skrota-dle-who-klasifikace-2022-132931",
+  "source_name": "Cesko-Slovenska Patologie 2022 (WHO 2022: LSIL/HSIL terminology unified across the whole anogenital area)"
+ },
+ {
+  "code": "8077/2",
+  "term": "Squamous intraepithelial neoplasia, grade III",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic high-grade squamous intraepithelial lesion / squamous dysplasia descriptor. The two-tier LSIL/HSIL and grade II/III squamous dysplasia terminology is applied across the entire spectrum of squamous mucosal sites (anogenital tract and upper aerodigestive tract), not restricted to a proper subset of the code ceiling.",
+  "source": "https://www.prolekare.cz/casopisy/cesko-slovenska-patologie/2022-4-14/nadorove-leze-penisu-a-skrota-dle-who-klasifikace-2022-132931",
+  "source_name": "Cesko-Slovenska Patologie 2022 (WHO 2022: LSIL/HSIL terminology unified across the whole anogenital area)"
+ },
+ {
+  "code": "8077/2",
+  "term": "Squamous intraepithelial neoplasia, high grade",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic high-grade squamous intraepithelial lesion / squamous dysplasia descriptor. The two-tier LSIL/HSIL and grade II/III squamous dysplasia terminology is applied across the entire spectrum of squamous mucosal sites (anogenital tract and upper aerodigestive tract), not restricted to a proper subset of the code ceiling.",
+  "source": "https://www.prolekare.cz/casopisy/cesko-slovenska-patologie/2022-4-14/nadorove-leze-penisu-a-skrota-dle-who-klasifikace-2022-132931",
+  "source_name": "Cesko-Slovenska Patologie 2022 (WHO 2022: LSIL/HSIL terminology unified across the whole anogenital area)"
+ }
+]

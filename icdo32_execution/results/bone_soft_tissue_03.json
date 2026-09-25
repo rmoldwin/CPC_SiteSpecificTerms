@@ -1,0 +1,452 @@
+[
+ {
+  "code": "8963/3",
+  "term": "Rhabdoid tumor of soft tissue",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C480", "C488", "C490", "C491", "C492", "C493", "C494", "C495", "C496", "C498", "C499"],
+  "site_subset_labels": ["Retroperitoneum", "Peritoneum, NOS/overlapping", "Connective/soft tissue of head, face and neck", "Connective/soft tissue of upper limb and shoulder", "Connective/soft tissue of lower limb and hip", "Connective/soft tissue of thorax", "Connective/soft tissue of abdomen", "Connective/soft tissue of pelvis", "Connective/soft tissue of trunk, NOS", "Connective/soft tissue overlapping lesion", "Connective/soft tissue, NOS"],
+  "rationale": "This specific term denotes the extrarenal (soft tissue/visceral) form of rhabdoid tumor; the WHO 5th ed Soft Tissue & Bone volume names 8963/3 'Extra-renal rhabdoid tumour', so by definition it is restricted to soft tissue/peritoneal sites and excludes the kidney (C649), a proper subset of the code's ceiling.",
+  "source": "https://curesarcoma.org/sarcoma-subtypes/extrarenal-rhabdoid-tumor/",
+  "source_name": "Sarcoma Foundation of America - Extrarenal Rhabdoid Tumor (WHO Soft Tissue classification)"
+ },
+ {
+  "code": "8963/3",
+  "term": "Rhabdoid tumor, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Rhabdoid tumor, NOS is a generic term applying to renal, extrarenal and soft tissue rhabdoid tumors; it occurs across the kidney and soft tissue sites spanning the full ceiling and is not anatomically restricted.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8982/3",
+  "term": "Malignant myoepithelioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Malignant myoepithelial tumors of soft tissue/skin/bone/viscera occur over a broad anatomic distribution (extremities, trunk, head and neck, bone, breast, viscera, skin), matching essentially the full ceiling; not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8982/3",
+  "term": "Myoepithelial carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Soft tissue myoepithelial carcinoma has a wide anatomic distribution (limbs/limb girdles predominate but trunk, head/neck, bone, breast, viscera and skin all reported), consistent with the broad ceiling; not anatomically restricted.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8982/3",
+  "term": "Myoepithelioma, infiltrating",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Infiltrating myoepithelioma is a morphologic descriptor of the same broadly distributed soft tissue/skin/bone/visceral myoepithelial neoplasm family; not restricted to a proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8990/3",
+  "term": "Mesenchymoma, malignant",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Malignant mesenchymoma is a generic mixed-mesenchymal sarcoma descriptor arising across bone and soft tissue sites; it is not restricted to a proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8990/3",
+  "term": "Mixed mesenchymal sarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic multi-site mixed mesenchymal sarcoma descriptor occurring across bone and soft tissue; not anatomically restricted.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8990/3",
+  "term": "Phosphaturic mesenchymal tumor, malignant",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Phosphaturic mesenchymal tumor arises in BOTH bone (~53%) and soft tissue (~45%) across the body (extremities, appendicular/axial skeleton, head and neck), spanning both the bone and soft tissue portions of the ceiling; it is not confined to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9040/3",
+  "term": "Poorly differentiated synovial sarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A histologic-grade variant of synovial sarcoma, which arises at a wide range of sites (extremities, trunk, head/neck, lung, mediastinum, kidney); the subtype is not anatomically restricted relative to the code ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9040/3",
+  "term": "Synovial sarcoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Synovial sarcoma, NOS occurs across all validated deep soft tissue and visceral sites; generic descriptor, not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9040/3",
+  "term": "Synovial sarcoma, poorly differentiated",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Poorly differentiated is a histologic descriptor of synovial sarcoma; the entity spans the full ceiling of sites and the subtype is not anatomically restricted.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9040/3",
+  "term": "Synovioma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Synovioma, NOS is a synonym for synovial sarcoma, which occurs across the full ceiling of soft tissue and visceral sites; not restricted.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9040/3",
+  "term": "Synovioma, malignant",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Malignant synovioma is a synonym for synovial sarcoma with the same broad site distribution; not anatomically restricted.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9041/3",
+  "term": "Monophasic synovial sarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Monophasic is a histologic subtype of synovial sarcoma; it occurs across the full range of synovial sarcoma sites and is not anatomically restricted.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9041/3",
+  "term": "Synovial sarcoma, monophasic",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Histologic subtype descriptor of synovial sarcoma with the same broad anatomic distribution; not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9041/3",
+  "term": "Synovial sarcoma, monophasic fibrous",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A histologic pattern descriptor of monophasic synovial sarcoma; not anatomically restricted relative to the code ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9041/3",
+  "term": "Synovial sarcoma, monophasic spindle cell",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Histologic pattern descriptor of monophasic synovial sarcoma; occurs across the full ceiling of sites, not anatomically restricted.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9041/3",
+  "term": "Synovial sarcoma, spindle cell",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Spindle cell (monophasic) morphologic descriptor of synovial sarcoma; not restricted to a proper subset of sites.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9043/3",
+  "term": "Biphasic synovial sarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Biphasic is a histologic subtype of synovial sarcoma; it occurs across the full range of synovial sarcoma sites and is not anatomically restricted.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9043/3",
+  "term": "Synovial sarcoma, biphasic",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Histologic subtype descriptor of synovial sarcoma with the same broad anatomic distribution; not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9044/3",
+  "term": "CRTC1::TRIM11\u00a0cutaneous tumor",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a cutaneous (dermal/skin) entity restricted to the skin, but skin (C44) is not among this code's ceiling_codes (which are retroperitoneum/peritoneum/connective-soft tissue C48-C49); the restriction cannot be expressed as a valid subset of the provided ceiling, so classification within the ceiling is indeterminate.",
+  "source": "https://curesarcoma.org/sarcoma-subtypes/clear-cell-sarcoma-of-soft-tissue/",
+  "source_name": "Sarcoma Foundation of America - Clear Cell Sarcoma of Soft Tissue"
+ },
+ {
+  "code": "9044/3",
+  "term": "Clear cell sarcoma of soft tissue",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The defining entity for this code; it occurs across deep soft tissue sites of the body (extremities predominate but trunk, head/neck and retroperitoneum are reported), spanning the connective/soft tissue ceiling; not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9044/3",
+  "term": "Clear cell sarcoma of tendons and aponeuroses",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Synonym for clear cell sarcoma of soft tissue; although it favors distal extremity tendons/aponeuroses, cases across trunk, head/neck, retroperitoneum and other soft tissue sites are documented, so it is not confined to a proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9044/3",
+  "term": "Clear cell sarcoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic term for clear cell sarcoma of soft tissue occurring across soft tissue sites; not anatomically restricted.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9044/3",
+  "term": "Dermal clear cell sarcoma",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A rare dermis/skin-localized variant restricted to the skin; skin (C44) is not among this code's ceiling_codes (retroperitoneum/peritoneum/connective-soft tissue), so the restriction cannot be expressed as a valid subset of the provided ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9798674/",
+  "source_name": "Cureus - Clear-Cell Sarcoma With an Unusual Presentation (dermal localization)"
+ },
+ {
+  "code": "9044/3",
+  "term": "Gastrointestinal clear cell sarcoma / malignant gastrointestinal neuroectodermal tumor",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This GI-tract entity (GNET/CCSLGT) arises within the wall of the gastrointestinal tract (most often small intestine, stomach, colon); however GI-tract C-codes are not present in this code's ceiling_codes (retroperitoneum/peritoneum/connective-soft tissue C48-C49), so the restriction cannot be expressed as a valid subset of the provided ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7479544/",
+  "source_name": "Am J Surg Pathol - Malignant Gastrointestinal Neuroectodermal Tumor"
+ },
+ {
+  "code": "9044/3",
+  "term": "Malignant gastrointestinal neuroectodermal tumor",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "MGNET/GNET arises exclusively within the wall of the gastrointestinal tract (predominantly small intestine); however GI-tract C-codes are not present in this code's ceiling_codes (retroperitoneum/peritoneum/connective-soft tissue), so a valid ceiling subset cannot be constructed.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6425295/",
+  "source_name": "Oncology Letters - Primary malignant gastrointestinal neuroectodermal tumor"
+ },
+ {
+  "code": "9044/3",
+  "term": "Malignant melanoma of soft parts",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Synonym for clear cell sarcoma of soft tissue; occurs across deep soft tissue sites of the body and is not confined to a proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9044/3",
+  "term": "Melanoma of soft parts",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Synonym for clear cell sarcoma of soft tissue with the same broad soft tissue distribution; not anatomically restricted.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9050/2",
+  "term": "Mesothelioma in situ",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mesothelioma in situ was introduced in the WHO Thoracic volume primarily as a preinvasive pleural lesion, but peritoneal in-situ mesothelioma is increasingly recognized; the evidence does not cleanly restrict it to a single proper subset of the pleura/pericardium/peritoneum ceiling.",
+  "source": "https://www.pulmonarypath.org/cotm/2024/nov/cotm_2411.html",
+  "source_name": "Pulmonary Pathology Society - Mesothelioma in situ (WHO Thoracic Tumors)"
+ },
+ {
+  "code": "9051/3",
+  "term": "Desmoplastic mesothelioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Desmoplastic mesothelioma is a sarcomatoid subtype occurring predominantly in the pleura but with documented peritoneal (and rare pericardial) cases; it is not confined to a single proper subset within the serosal-cavity ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9051/3",
+  "term": "Fibrous mesothelioma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Fibrous (sarcomatoid/spindled) mesothelioma occurs across pleural and peritoneal serosal sites; not restricted to a proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9051/3",
+  "term": "Fibrous mesothelioma, malignant",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Malignant fibrous (sarcomatoid) mesothelioma occurs in both pleura and peritoneum; not anatomically restricted within the serosal-cavity ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9051/3",
+  "term": "Sarcomatoid mesothelioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Sarcomatoid mesothelioma is predominantly pleural (~98%) but arises in the peritoneum as well; it spans multiple serosal sites of the ceiling and is not confined to a single proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9051/3",
+  "term": "Spindled mesothelioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Spindled (sarcomatoid) mesothelioma occurs at both pleural and peritoneal sites; not restricted to a proper subset of the serosal-cavity ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9064/3",
+  "term": "Germ cell tumor, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic germ cell tumor descriptor arising across gonadal, mediastinal, CNS, retroperitoneal and other midline/extragonadal sites spanning the broad ceiling; not anatomically restricted.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9064/3",
+  "term": "Germinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Germinoma is the term for seminomatous-type germ cell tumors at extragonadal/CNS/mediastinal and gonadal sites, covering the broad ceiling of germ cell sites; not restricted to a proper subset by substantive evidence.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9064/3",
+  "term": "Germinoma with syncytiotrophoblast cells",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A histologic variant of germinoma occurring across the same broad germ cell tumor sites; not anatomically restricted.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9065/3",
+  "term": "Germ cell tumor, nonseminomatous",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic nonseminomatous germ cell tumor descriptor arising across gonadal, mediastinal, CNS, retroperitoneal and other extragonadal sites spanning the ceiling; not anatomically restricted.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9080/3",
+  "term": "Embryonal teratoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A generic malignant teratoma descriptor; malignant teratomas arise across gonadal, mediastinal, CNS, sacrococcygeal, head/neck and other midline sites spanning the broad ceiling, and are not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9080/3",
+  "term": "Immature teratoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Immature teratoma occurs across gonadal and multiple extragonadal midline sites (mediastinum, CNS, sacrococcygeal, head/neck); generic descriptor spanning the ceiling, not anatomically restricted.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9080/3",
+  "term": "Immature teratoma, malignant",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Malignant immature teratoma occurs across gonadal and extragonadal midline sites; generic descriptor spanning the ceiling, not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9080/3",
+  "term": "Postpubertal-type teratoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Postpubertal-type teratoma is a category applied to gonadal (testis/ovary) and extragonadal germ cell sites; it is not confined to a single proper subset of the code's broad ceiling by substantive evidence.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9080/3",
+  "term": "Teratoblastoma, malignant",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A generic synonym for malignant teratoma occurring across gonadal and extragonadal midline sites; not anatomically restricted.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9080/3",
+  "term": "Teratoma, malignant, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic malignant teratoma descriptor arising across gonadal, mediastinal, CNS, sacrococcygeal and other midline sites spanning the ceiling; not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ }
+]

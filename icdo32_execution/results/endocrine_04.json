@@ -1,0 +1,202 @@
+[
+ {
+  "code": "9083/3",
+  "term": "Malignant teratoma, intermediate",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A generic germ-cell/teratoma descriptor (British testicular teratoma terminology) that occurs across many midline and gonadal sites; within this ceiling it is not restricted to a defined proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9352/1",
+  "term": "Craniopharyngioma, papillary",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Papillary craniopharyngioma arises from craniopharyngeal-duct (Rathke pouch) epithelial remnants in the sellar/suprasellar-infundibulotuberal region, occupying both the pituitary (C751) and craniopharyngeal duct (C752) codes; not restricted to a proper subset of its 2-code ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9352/1",
+  "term": "Papillary craniopharyngioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Synonym of craniopharyngioma, papillary; a craniopharyngeal-duct/sellar tumor occupying both C751 and C752, so not restricted to a proper subset of its ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9432/1",
+  "term": "Pituicytoma",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C751"],
+  "site_subset_labels": ["Pituitary gland"],
+  "rationale": "Pituicytoma arises specifically from pituicytes of the neurohypophysis (posterior pituitary) and infundibulum, i.e. the pituitary gland (C751); it does not originate from craniopharyngeal-duct/Rathke remnants (C752), so it is restricted to a proper subset of its ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7265469/",
+  "source_name": "Surgical Neurology International 2020 (PMC7265469) — pituicyte/neurohypophysis lineage of sellar-region posterior-pituitary tumors"
+ },
+ {
+  "code": "9501/3",
+  "term": "Diktyoma, malignant",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C481", "C482", "C710", "C711", "C712", "C713", "C714", "C715", "C716", "C717"],
+  "site_subset_labels": ["Retroperitoneum", "Peritoneum", "Cerebrum", "Frontal lobe", "Temporal lobe", "Parietal lobe", "Occipital lobe", "Ventricle", "Cerebellum", "Brain stem"],
+  "rationale": "Medulloepithelioma (diktyoma) is an embryonal neural-tube tumor arising supratentorially/intraventricularly, infratentorially, in the cauda and extraneurally along nerve roots; within this ceiling it maps to brain and retroperitoneal/paraspinal sites and never to endocrine glands (adrenal, parathyroid, pituitary, craniopharyngeal duct, pineal, carotid body, paraganglia).",
+  "source": "https://www.peacehealth.org/medical-topics/id/ncicdr0000548358",
+  "source_name": "NCI PDQ Childhood CNS Embryonal Tumors summary (PeaceHealth mirror) — medulloepithelioma arises supratentorially/intraventricularly, infratentorially, cauda, extraneural nerve roots"
+ },
+ {
+  "code": "9501/3",
+  "term": "Malignant non-teratoid medulloepithelioma",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C481", "C482", "C710", "C711", "C712", "C713", "C714", "C715", "C716", "C717"],
+  "site_subset_labels": ["Retroperitoneum", "Peritoneum", "Cerebrum", "Frontal lobe", "Temporal lobe", "Parietal lobe", "Occipital lobe", "Ventricle", "Cerebellum", "Brain stem"],
+  "rationale": "Non-teratoid medulloepithelioma is an embryonal neural-tube tumor of the CNS (supratentorial/intraventricular, infratentorial, cauda, extraneural nerve roots); it does not arise in endocrine glands, restricting it to the brain and retroperitoneal/paraspinal subset of the ceiling.",
+  "source": "https://www.peacehealth.org/medical-topics/id/ncicdr0000548358",
+  "source_name": "NCI PDQ Childhood CNS Embryonal Tumors summary (PeaceHealth mirror) — medulloepithelioma CNS/extraneural distribution"
+ },
+ {
+  "code": "9501/3",
+  "term": "Medulloepithelioma, NOS",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C481", "C482", "C710", "C711", "C712", "C713", "C714", "C715", "C716", "C717"],
+  "site_subset_labels": ["Retroperitoneum", "Peritoneum", "Cerebrum", "Frontal lobe", "Temporal lobe", "Parietal lobe", "Occipital lobe", "Ventricle", "Cerebellum", "Brain stem"],
+  "rationale": "Medulloepithelioma is an embryonal neural-tube tumor arising in the CNS (supratentorial/intraventricular, infratentorial), cauda and extraneurally along nerve roots; within this ceiling it is confined to brain and retroperitoneal/paraspinal sites, not to any endocrine gland.",
+  "source": "https://www.peacehealth.org/medical-topics/id/ncicdr0000548358",
+  "source_name": "NCI PDQ Childhood CNS Embryonal Tumors summary (PeaceHealth mirror) — medulloepithelioma CNS/extraneural distribution"
+ },
+ {
+  "code": "9501/3",
+  "term": "Medulloepithelioma, malignant",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C481", "C482", "C710", "C711", "C712", "C713", "C714", "C715", "C716", "C717"],
+  "site_subset_labels": ["Retroperitoneum", "Peritoneum", "Cerebrum", "Frontal lobe", "Temporal lobe", "Parietal lobe", "Occipital lobe", "Ventricle", "Cerebellum", "Brain stem"],
+  "rationale": "Malignant medulloepithelioma is an embryonal neural-tube CNS tumor arising supratentorially/intraventricularly, infratentorially and extraneurally; it does not occur in endocrine glands, restricting it to the brain and retroperitoneal/paraspinal subset of the ceiling.",
+  "source": "https://www.peacehealth.org/medical-topics/id/ncicdr0000548358",
+  "source_name": "NCI PDQ Childhood CNS Embryonal Tumors summary (PeaceHealth mirror) — medulloepithelioma CNS/extraneural distribution"
+ },
+ {
+  "code": "9501/3",
+  "term": "Non-teratoid medulloepithelioma, malignant",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C481", "C482", "C710", "C711", "C712", "C713", "C714", "C715", "C716", "C717"],
+  "site_subset_labels": ["Retroperitoneum", "Peritoneum", "Cerebrum", "Frontal lobe", "Temporal lobe", "Parietal lobe", "Occipital lobe", "Ventricle", "Cerebellum", "Brain stem"],
+  "rationale": "Non-teratoid malignant medulloepithelioma is an embryonal neural-tube CNS tumor arising supratentorially/intraventricularly, infratentorially, cauda and extraneurally; it does not arise in endocrine glands, restricting it to the brain and retroperitoneal/paraspinal subset.",
+  "source": "https://www.peacehealth.org/medical-topics/id/ncicdr0000548358",
+  "source_name": "NCI PDQ Childhood CNS Embryonal Tumors summary (PeaceHealth mirror) — medulloepithelioma CNS/extraneural distribution"
+ },
+ {
+  "code": "9502/3",
+  "term": "Malignant teratoid medulloepithelioma",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C481", "C482", "C715", "C716", "C717"],
+  "site_subset_labels": ["Retroperitoneum", "Peritoneum", "Ventricle", "Cerebellum", "Brain stem"],
+  "rationale": "Teratoid medulloepithelioma is an embryonal neuroepithelial tumor of the CNS/neural-tube derivatives (and eye, which is outside this ceiling); within this ceiling it maps to ventricular/cerebellar/brainstem CNS sites and cauda/extraneural retroperitoneal-paraspinal locations, and does not arise in endocrine glands (adrenal, parathyroid, pituitary, pineal, carotid body, paraganglia).",
+  "source": "https://www.peacehealth.org/medical-topics/id/ncicdr0000548358",
+  "source_name": "NCI PDQ Childhood CNS Embryonal Tumors summary (PeaceHealth mirror) — medulloepithelioma CNS/extraneural distribution"
+ },
+ {
+  "code": "9502/3",
+  "term": "Teratoid medulloepithelioma, NOS",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C481", "C482", "C715", "C716", "C717"],
+  "site_subset_labels": ["Retroperitoneum", "Peritoneum", "Ventricle", "Cerebellum", "Brain stem"],
+  "rationale": "Teratoid medulloepithelioma is an embryonal neuroepithelial tumor arising in CNS neural-tube derivatives (and eye, outside this ceiling); within the ceiling it is confined to ventricular/cerebellar/brainstem and cauda/extraneural retroperitoneal-paraspinal sites, not to endocrine glands.",
+  "source": "https://www.peacehealth.org/medical-topics/id/ncicdr0000548358",
+  "source_name": "NCI PDQ Childhood CNS Embryonal Tumors summary (PeaceHealth mirror) — medulloepithelioma CNS/extraneural distribution"
+ },
+ {
+  "code": "9502/3",
+  "term": "Teratoid medulloepithelioma, malignant",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C481", "C482", "C715", "C716", "C717"],
+  "site_subset_labels": ["Retroperitoneum", "Peritoneum", "Ventricle", "Cerebellum", "Brain stem"],
+  "rationale": "Malignant teratoid medulloepithelioma is an embryonal neuroepithelial tumor of CNS neural-tube derivatives (and eye, outside this ceiling); within the ceiling it maps to ventricular/cerebellar/brainstem and cauda/extraneural retroperitoneal-paraspinal sites and not to endocrine glands.",
+  "source": "https://www.peacehealth.org/medical-topics/id/ncicdr0000548358",
+  "source_name": "NCI PDQ Childhood CNS Embryonal Tumors summary (PeaceHealth mirror) — medulloepithelioma CNS/extraneural distribution"
+ },
+ {
+  "code": "9503/3",
+  "term": "Neuroepithelioma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A generic neuroectodermal descriptor (peripheral/CNS neuroepithelioma of the primitive-neuroectodermal family) occurring across CNS, retroperitoneal and paraspinal/adrenal soft-tissue sites; not restricted to a defined proper subset within this ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9504/3",
+  "term": "Spongioneuroblastoma",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "An obscure/archaic neuroblastic term with insufficient dedicated modern literature to establish a specific anatomic restriction; while neuroblastic tumors favor adrenal and sympathetic paraganglia/retroperitoneal sites, a defensible strict subset of this ceiling could not be verified from a fetched source.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9580/0",
+  "term": "Granular cell myoblastoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Granular cell myoblastoma/tumor NOS is a generic soft-tissue entity occurring throughout the body; the NOS term is not anatomically restricted to a specific sellar subset and is treated as a generic multi-site descriptor.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9580/0",
+  "term": "Granular cell tumor, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Granular cell tumor NOS is a generic soft-tissue neoplasm arising at many body sites (tongue, skin, breast, etc.); the NOS descriptor is not restricted to a defined proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9582/0",
+  "term": "Granular cell pituicytoma",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C751"],
+  "site_subset_labels": ["Pituitary gland"],
+  "rationale": "Granular cell tumor of the sellar region / granular cell pituicytoma originates from the neurohypophysis (posterior pituitary and pituitary stalk/infundibulum), i.e. the pituitary gland (C751); it does not arise from craniopharyngeal-duct/Rathke remnants (C752), restricting it to a proper subset of its ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7265469/",
+  "source_name": "Surgical Neurology International 2020 (PMC7265469) — GCT of sellar region originates from the neurohypophysis / posterior pituitary"
+ },
+ {
+  "code": "9582/0",
+  "term": "Granular cell tumor of sellar region",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C751"],
+  "site_subset_labels": ["Pituitary gland"],
+  "rationale": "Granular cell tumor of the sellar region originates specifically from the neurohypophysis (posterior pituitary or its stalk/infundibulum), the pituitary gland (C751), and not from the craniopharyngeal duct (C752), restricting it to a proper subset of its ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7265469/",
+  "source_name": "Surgical Neurology International 2020 (PMC7265469) — GCT of sellar region originates from the neurohypophysis / posterior pituitary"
+ },
+ {
+  "code": "9582/0",
+  "term": "Granular cell tumor of the sellar region / granular cell pituicytoma",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C751"],
+  "site_subset_labels": ["Pituitary gland"],
+  "rationale": "This neurohypophyseal granular cell tumor arises from the posterior pituitary/pituitary stalk (pituicytes), i.e. the pituitary gland (C751), and not from craniopharyngeal-duct remnants (C752), restricting it to a proper subset of its ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7265469/",
+  "source_name": "Surgical Neurology International 2020 (PMC7265469) — GCT of sellar region originates from the neurohypophysis / posterior pituitary"
+ },
+ {
+  "code": "9582/0",
+  "term": "Pituicytoma with granular features",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C751"],
+  "site_subset_labels": ["Pituitary gland"],
+  "rationale": "A granular-cell variant within the neurohypophyseal pituicyte-lineage tumor family, arising from the posterior pituitary/infundibulum (pituitary gland, C751) rather than the craniopharyngeal duct (C752), restricting it to a proper subset of its ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7265469/",
+  "source_name": "Surgical Neurology International 2020 (PMC7265469) — pituicyte/neurohypophysis lineage of sellar-region posterior-pituitary tumors"
+ }
+]

@@ -1,0 +1,722 @@
+[
+ {
+  "code": "8500/3",
+  "term": "Invasive breast carcinoma of no special type",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8500/3",
+  "term": "Invasive breast carcinoma, NOS",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8500/3",
+  "term": "Invasive carcinoma of male breast",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8500/3",
+  "term": "Salivary duct carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8540/3",
+  "term": "Mammary Paget disease",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8540/3",
+  "term": "Paget disease of breast",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8540/3",
+  "term": "Paget disease of the nipple",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8540/3",
+  "term": "Paget disease, mammary",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9020/3",
+  "term": "Periductal stromal tumor, low grade",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8728/0",
+  "term": "Diffuse melanocytosis",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8728/0",
+  "term": "Meningeal melanocytosis",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8728/1",
+  "term": "Meningeal melanocytoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8815/1",
+  "term": "Fat-forming (lipomatous) solitary fibrous tumor",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8815/1",
+  "term": "Giant cell\u2013rich solitary fibrous tumor",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8815/1",
+  "term": "Hemangiopericytic meningioma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8815/1",
+  "term": "Hemangiopericytoma, NOS",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8815/1",
+  "term": "Lipomatous solitary fibrous tumor",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8815/1",
+  "term": "Localized fibrous tumor",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8815/1",
+  "term": "Solitary fibrous tumor, NOS",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8815/1",
+  "term": "Solitary fibrous tumor, fat-forming",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8815/1",
+  "term": "Solitary fibrous tumor, giant cell-rich",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8815/1",
+  "term": "Solitary fibrous tumor, grade 2",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8815/1",
+  "term": "Solitary fibrous tumor, lipomatous",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "8815/1",
+  "term": "Solitary fibrous tumor/Hemangiopericytoma, grade 2",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9350/1",
+  "term": "Craniopharyngioma, NOS",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9350/1",
+  "term": "Rathke pouch tumor",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9351/1",
+  "term": "Adamantinomatous craniopharyngioma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9351/1",
+  "term": "Craniopharyngioma, adamantinomatous",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9362/3",
+  "term": "Mixed pineal tumor",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9362/3",
+  "term": "Mixed pineocytoma-pineoblastoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9362/3",
+  "term": "Pineal parenchymal tumor of intermediate differentiation",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9362/3",
+  "term": "Pineoblastoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9362/3",
+  "term": "Pineoblastoma with lobules",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9362/3",
+  "term": "Pineoblastoma, MYC/FOXR2-activated",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9362/3",
+  "term": "Pineoblastoma, RB1-altered (pineal retinoblastoma)",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9362/3",
+  "term": "Pineoblastoma, miRNA processing-altered_1",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9362/3",
+  "term": "Pineoblastoma, miRNA processing-altered_2",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9362/3",
+  "term": "Pineocytoma with anaplasia",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9362/3",
+  "term": "Pineocytoma, malignant",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9362/3",
+  "term": "Transitional pineal tumor",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9383/1",
+  "term": "Mixed subependymoma-ependymoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9383/1",
+  "term": "Subependymal astrocytoma, NOS",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9383/1",
+  "term": "Subependymal glioma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9383/1",
+  "term": "Subependymoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9384/1",
+  "term": "Subependymal giant cell astrocytoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse hemispheric glioma, H3 G34-mutant",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse intrinsic pontine glioma, H3 K27M-mutant",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse intrinsic pontine glioma, NOS",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse midline glioma, EGFR-mutant",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse midline glioma, H3 K27-altered",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse midline glioma, H3 K27M-mutant",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse midline glioma, H3-wildtype with EZHIP overexpression",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse midline glioma, H3.1 or H3.2 K27\u2013mutant",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse midline glioma, H3.3 K27\u2013mutant",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse midline glioma, NOS",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9385/3",
+  "term": "Infant-type hemispheric glioma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9385/3",
+  "term": "Infant-type hemispheric glioma, ALK-altered",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9385/3",
+  "term": "Infant-type hemispheric glioma, MET-altered",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9385/3",
+  "term": "Infant-type hemispheric glioma, NTRK-altered",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9385/3",
+  "term": "Infant-type hemispheric glioma, ROS1-altered",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9390/0",
+  "term": "Choroid plexus papilloma, NOS",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9390/1",
+  "term": "Atypical choroid plexus papilloma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9390/3",
+  "term": "Choroid plexus carcinoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9390/3",
+  "term": "Choroid plexus papilloma, anaplastic",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9390/3",
+  "term": "Choroid plexus papilloma, malignant",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9391/3",
+  "term": "Ependymoma, posterior fossa",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9391/3",
+  "term": "Ependymoma, spinal",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9391/3",
+  "term": "Ependymoma, supratentorial",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9391/3",
+  "term": "Posterior fossa ependymoma, NOS",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9391/3",
+  "term": "Spinal ependymoma, NOS",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9391/3",
+  "term": "Supratentorial ependymoma, NOS",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9394/1",
+  "term": "Myxopapillary ependymoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9413/0",
+  "term": "Polymorphous low-grade neuroepithelial tumor of the young",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9413/0",
+  "term": "Polymorphous low-grade neuroepithelial tumor of young (PLNTY)",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9421/1",
+  "term": "Diffuse astrocytoma, MYB- or MYBL1-altered",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9421/1",
+  "term": "Diffuse astrocytoma, MYB-altered",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9421/1",
+  "term": "Diffuse astrocytoma, MYBL1-altered",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9421/1",
+  "term": "Diffuse low-grade glioma, BRAF p.V600E\u2013mutant",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9421/1",
+  "term": "Diffuse low-grade glioma, FGFR1 tyrosine kinase domain\u2013duplicated",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9421/1",
+  "term": "Diffuse low-grade glioma, FGFR1-mutant",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9421/1",
+  "term": "Diffuse low-grade glioma, MAPK pathway\u2013altered",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9444/1",
+  "term": "Chordoid glioma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9444/1",
+  "term": "Chordoid glioma of third ventricle",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9505/3",
+  "term": "Ganglioglioma, anaplastic",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9506/1",
+  "term": "Central neurocytoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9506/1",
+  "term": "Cerebellar liponeurocytoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9506/1",
+  "term": "Extraventricular neurocytoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9506/1",
+  "term": "Lipomatous medulloblastoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9506/1",
+  "term": "Medullocytoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ },
+ {
+  "code": "9506/1",
+  "term": "Neurolipocytoma",
+  "audit": "OK",
+  "corrected_codes": [],
+  "correction_reason": "",
+  "source": ""
+ }
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "code": "9751/3",
+  "term": "Langerhans cell granulomatosis",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a general synonym for Langerhans cell histiocytosis, a histiocytic neoplasm that involves a wide range of anatomic sites including bone, skin, lung, soft tissue, lymph nodes, liver, spleen and CNS. It is not restricted to a proper subset of the code's ceiling sites.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK430885/",
+  "source_name": "StatPearls (NCBI Bookshelf) - Langerhans Cell Histiocytosis"
+ },
+ {
+  "code": "9751/3",
+  "term": "Langerhans cell histiocytosis, disseminated",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "By definition the disseminated/multisystem form of LCH involves multiple organ systems (bone marrow, liver, spleen, skin, lung, lymph nodes, GI tract, CNS, bone), making it the least anatomically restricted form; it is not confined to a proper subset of the code's ceiling sites.",
+  "source": "https://escholarship.org/content/qt3f95d3hj/qt3f95d3hj_noSplash_a22f68146a2fa469d0f5cdd3bb7fbcb4.pdf?t=s7rkk3",
+  "source_name": "eScholarship (UC) - Letterer-Siwe/disseminated LCH case report"
+ },
+ {
+  "code": "9751/3",
+  "term": "Letterer-Siwe disease",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Letterer-Siwe disease is the severe acute multisystemic form of LCH affecting high-risk organs (bone marrow, liver, spleen) plus skin, lymph nodes, GI tract, CNS, lung and bone; it is the most widely disseminated variant and is not restricted to a proper subset of the code's ceiling sites.",
+  "source": "https://escholarship.org/content/qt3f95d3hj/qt3f95d3hj_noSplash_a22f68146a2fa469d0f5cdd3bb7fbcb4.pdf?t=s7rkk3",
+  "source_name": "eScholarship (UC) - Letterer-Siwe disease case report"
+ },
+ {
+  "code": "9751/3",
+  "term": "Nonlipid reticuloendotheliosis",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Nonlipid reticuloendotheliosis is an older synonym for Letterer-Siwe disease / disseminated LCH, the acute multisystem form involving multiple organ systems (bone marrow, liver, spleen, skin, lymph nodes, lung, bone, CNS); it is not confined to a proper subset of the code's ceiling sites.",
+  "source": "https://escholarship.org/content/qt3f95d3hj/qt3f95d3hj_noSplash_a22f68146a2fa469d0f5cdd3bb7fbcb4.pdf?t=s7rkk3",
+  "source_name": "eScholarship (UC) - Letterer-Siwe/disseminated LCH case report"
+ }
+]

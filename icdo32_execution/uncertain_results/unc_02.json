@@ -1,0 +1,211 @@
+[
+  {
+    "code": "8509/2",
+    "term": "Endocrine mucin-producing sweat gland carcinoma in situ",
+    "proposed_codes": ["C441"],
+    "proposed_labels": ["Skin of eyelid"],
+    "site_status": "outside_ceiling",
+    "resolution": "resolved",
+    "rationale": "EMPSGC is a low-grade cutaneous adnexal (sweat gland) neuroendocrine carcinoma with a strong predilection for the skin of the eyelid/periocular region; the in situ form is the noninvasive precursor of the same eyelid-skin tumor. WHO/literature: 'EMPSGC is a low-grade neuroendocrine glandular tumor of the eyelid'; Zembowicz series found the most common site was the lower eyelid. Skin of eyelid (C441) is outside this code's breast-only ceiling.",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/16160476/",
+    "source_ref": "Zembowicz A et al. Endocrine mucin-producing sweat gland carcinoma: twelve new cases suggest a distinct entity. Am J Surg Pathol. 2005 (PMID 16160476) - 'predilection to the eyelid ... most common site was the lower eyelid'"
+  },
+  {
+    "code": "8509/3",
+    "term": "Endocrine mucin-producing sweat gland carcinoma",
+    "proposed_codes": ["C441"],
+    "proposed_labels": ["Skin of eyelid"],
+    "site_status": "outside_ceiling",
+    "resolution": "resolved",
+    "rationale": "EMPSGC is a rare low-grade cutaneous adnexal carcinoma of sweat-gland origin arising in the skin, with marked predilection for the eyelid/periocular region (>90% of cases eyelid or periorbital). It is analogous to solid-papillary/endocrine DCIS of the breast but its true anatomic home is eyelid skin (C441), outside this code's breast-only ceiling.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9627720/",
+    "source_ref": "Bishop JA / Mudhar et al. NGS analysis of EMPSGC (PMC9627720) - 'EMPSGC is a low-grade neuroendocrine glandular tumor of the eyelid ... eyelid or periorbital tumors (>90%)'"
+  },
+  {
+    "code": "8541/3",
+    "term": "Paget disease and infiltrating duct carcinoma of breast",
+    "proposed_codes": ["C500", "C509"],
+    "proposed_labels": ["Nipple", "Breast, NOS"],
+    "site_status": "in_ceiling",
+    "resolution": "resolved",
+    "rationale": "Combined entity: mammary Paget disease is nipple-anchored (arises in the epidermis of the nipple-areolar complex) while the associated infiltrating duct (invasive ductal) carcinoma arises in breast parenchyma of any quadrant. Both nipple (C500) and breast NOS (C509) are within the code's breast ceiling; site of origin is the breast, with the Paget component at the nipple.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6669392/",
+    "source_ref": "Karakas C et al./review on mammary Paget disease (PMC6669392) - Paget disease of the nipple with underlying invasive/in situ ductal carcinoma of the breast"
+  },
+  {
+    "code": "8541/3",
+    "term": "Paget disease and infiltrating lobular carcinoma of breast",
+    "proposed_codes": ["C500", "C509"],
+    "proposed_labels": ["Nipple", "Breast, NOS"],
+    "site_status": "in_ceiling",
+    "resolution": "resolved",
+    "rationale": "Mammary Paget disease is nipple-anchored (nipple-areolar epidermis) and the associated invasive lobular carcinoma arises in breast parenchyma of any quadrant. Site of origin is the breast (C509) with the Paget component at the nipple (C500); both are within this code's breast ceiling.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6669392/",
+    "source_ref": "Review of mammary Paget disease (PMC6669392) - Paget disease of the nipple associated with underlying breast carcinoma"
+  },
+  {
+    "code": "8541/3",
+    "term": "Paget disease with infiltrating duct carcinoma and lobular carcinoma of breast",
+    "proposed_codes": ["C500", "C509"],
+    "proposed_labels": ["Nipple", "Breast, NOS"],
+    "site_status": "in_ceiling",
+    "resolution": "resolved",
+    "rationale": "Combined mammary entity: Paget disease is nipple-anchored (nipple-areolar epidermis) while the associated invasive ductal and lobular carcinomas arise in breast parenchyma of any quadrant. Site of origin is the breast (C509) with the Paget component at the nipple (C500); both codes are within the breast ceiling.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6669392/",
+    "source_ref": "Review of mammary Paget disease (PMC6669392) - Paget disease of the nipple with underlying invasive breast carcinoma"
+  },
+  {
+    "code": "8543/3",
+    "term": "Paget disease and intraductal carcinoma of breast",
+    "proposed_codes": ["C500", "C509"],
+    "proposed_labels": ["Nipple", "Breast, NOS"],
+    "site_status": "in_ceiling",
+    "resolution": "resolved",
+    "rationale": "Mammary Paget disease is nipple-anchored (nipple-areolar epidermis) and the associated intraductal carcinoma (DCIS) arises within the ductal system of the breast, potentially any quadrant. Site of origin is the breast (C509) with the Paget component at the nipple (C500); both are within the code's breast ceiling.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6669392/",
+    "source_ref": "Review of mammary Paget disease (PMC6669392) - Paget disease of the nipple with underlying intraductal carcinoma (DCIS)"
+  },
+  {
+    "code": "8850/0",
+    "term": "Lipoadenoma, oncocytic",
+    "proposed_codes": ["C079", "C089"],
+    "proposed_labels": ["Parotid gland", "Major salivary gland, NOS"],
+    "site_status": "outside_ceiling",
+    "resolution": "resolved",
+    "rationale": "Oncocytic lipoadenoma (oncocytic variant of lipoadenoma) is a benign salivary gland neoplasm, most commonly reported in the parotid gland, occasionally other salivary glands. Its anatomic home is salivary gland (C079 parotid / C089 major salivary gland NOS), entirely outside this code's CNS-only ceiling.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3484499/",
+    "source_ref": "Agaimy A et al. Oncocytic lipoadenoma of the parotid gland (PMC3484499) - benign tumor arising in the parotid/salivary gland"
+  },
+  {
+    "code": "8850/0",
+    "term": "Lipomatous hypertrophy of atrial septum",
+    "proposed_codes": ["C380"],
+    "proposed_labels": ["Heart"],
+    "site_status": "outside_ceiling",
+    "resolution": "resolved",
+    "rationale": "Lipomatous hypertrophy of the atrial (interatrial) septum is a benign non-neoplastic fatty lesion of the heart, arising as massive fat deposition within the interatrial septum. Its anatomic site is the heart (C380), outside this code's CNS-only ceiling.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6064128/",
+    "source_ref": "Case report on LHAS (PMC6064128) - 'Lipomatous hypertrophy of the atrial septum is a rare but increasingly recognized non-neoplastic benign abnormality of the heart'"
+  },
+  {
+    "code": "8850/0",
+    "term": "Oncocytic lipoadenoma",
+    "proposed_codes": ["C079", "C089"],
+    "proposed_labels": ["Parotid gland", "Major salivary gland, NOS"],
+    "site_status": "outside_ceiling",
+    "resolution": "resolved",
+    "rationale": "Oncocytic lipoadenoma is a benign salivary gland neoplasm most commonly reported in the parotid gland, with rarer cases in submandibular/minor salivary glands. Anatomic site is salivary gland (C079 parotid / C089 major salivary gland NOS), outside this code's CNS-only ceiling.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4382475/",
+    "source_ref": "Oncocytic Lipoadenoma of the Salivary Gland, Head and Neck Pathol (PMC4382475) - salivary gland origin"
+  },
+  {
+    "code": "8850/0",
+    "term": "Sialolipoma",
+    "proposed_codes": ["C079", "C089", "C083"],
+    "proposed_labels": ["Parotid gland", "Major salivary gland, NOS", "Minor salivary gland, NOS"],
+    "site_status": "outside_ceiling",
+    "resolution": "resolved",
+    "rationale": "Sialolipoma is a defined benign salivary gland neoplasm (lipoma variant) composed of mature adipose tissue admixed with salivary gland components; reported in major salivary glands (predominantly parotid) and minor salivary glands. Anatomic site is salivary gland (C079/C089 major; C083 minor), outside this code's CNS-only ceiling. (C083 = 'Minor salivary gland, NOS' in ICD-O-3 topography.)",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/11135044/",
+    "source_ref": "Nagao T et al. Sialolipoma: a report of seven cases of a new variant of salivary gland lipoma. Histopathology. 2001 (PMID 11135044)"
+  },
+  {
+    "code": "8850/0",
+    "term": "Thymolipoma",
+    "proposed_codes": ["C379"],
+    "proposed_labels": ["Thymus"],
+    "site_status": "outside_ceiling",
+    "resolution": "resolved",
+    "rationale": "Thymolipoma is a benign thymic tumor composed of mature adipose tissue and thymic tissue, arising in the thymus and presenting as an anterior mediastinal mass. Anatomic site of origin is the thymus (C379), outside this code's CNS-only ceiling.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7338678/",
+    "source_ref": "Rare cause of large anterior mediastinal mass - Thymolipoma, Radiol Case Rep (PMC7338678) - benign thymic tumor of the anterior mediastinum"
+  },
+  {
+    "code": "9384/1",
+    "term": "Giant cell astrocytoma of retina",
+    "proposed_codes": ["C692"],
+    "proposed_labels": ["Retina"],
+    "site_status": "outside_ceiling",
+    "resolution": "resolved",
+    "rationale": "Giant cell astrocytoma of the retina is a retinal astrocytic tumor (a variant/aggressive form of retinal astrocytic hamartoma), arising in the retina, often associated with tuberous sclerosis. Anatomic site is retina (C692); the code's ceiling (C710-C715) contains only brain subsites, so this is outside the ceiling.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3040785/",
+    "source_ref": "Giant Cell Astrocytoma of the Retina in One Month Old Infant (PMC3040785) - 'a retinal giant cell astrocytoma ... The diagnosis was giant cell astrocytoma of the retina'"
+  },
+  {
+    "code": "9384/1",
+    "term": "Retinal astrocytic hamartoma",
+    "proposed_codes": ["C692"],
+    "proposed_labels": ["Retina"],
+    "site_status": "outside_ceiling",
+    "resolution": "resolved",
+    "rationale": "Retinal astrocytic hamartoma is by definition a benign glial (astrocytic) tumor originating from the glial cells of the retina, arising in the retinal nerve fiber layer. Anatomic site is retina (C692); the ceiling (C710-C715) has no retina/eye code, so this is outside the ceiling.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12659833/",
+    "source_ref": "Retinal astrocytic hamartoma with/without tuberous sclerosis, Indian J Ophthalmol (PMC12659833) - 'Retinal astrocytic hamartoma (RAH) is a benign tumor originating from the glial cells of the retina'"
+  },
+  {
+    "code": "9391/3",
+    "term": "Sellar ependymoma",
+    "proposed_codes": ["C751"],
+    "proposed_labels": ["Pituitary gland"],
+    "site_status": "outside_ceiling",
+    "resolution": "resolved",
+    "rationale": "Sellar (pituitary/intrasellar) ependymoma is an extremely rare ectopic ependymoma arising in the sellar/suprasellar region, i.e. the pituitary gland region. Best-fit ICD-O topography is pituitary gland (C751), which is NOT among this code's ceiling (ovary + supratentorial brain + spinal cord codes), so outside the ceiling.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8218727/",
+    "source_ref": "Zhao L et al. Case Report: Sellar Ependymomas, Front Endocrinol. 2021 (PMC8218727) - 'a case of ependymoma located at the pituitary region ... mass located in the sellar and suprasellar region'"
+  },
+  {
+    "code": "9392/3",
+    "term": "Ependymoblastoma",
+    "proposed_codes": ["C710"],
+    "proposed_labels": ["Cerebrum"],
+    "site_status": "in_ceiling",
+    "resolution": "resolved",
+    "rationale": "Ependymoblastoma (an obsolete embryonal tumor term, now within embryonal tumor with multilayered rosettes) most commonly arises supratentorially in the cerebral hemispheres (majority of cases hemispheric/supratentorial, followed by infratentorial and spinal). Best-fit site of origin is cerebrum (C710), which is within this code's ceiling (C710-C721).",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7966246/",
+    "source_ref": "MRI Characteristics of Ependymoblastoma, AJNR (PMC7966246) - 'Most of the tumors are located supratentorially ... Most EBLs were located supratentorially (16 of 22 cases)'"
+  },
+  {
+    "code": "9396/3",
+    "term": "Posterior fossa group A (PFA) ependymoma",
+    "proposed_codes": ["C716", "C715", "C717"],
+    "proposed_labels": ["Cerebellum, NOS", "Ventricle, NOS (fourth ventricle)", "Brain stem"],
+    "site_status": "outside_ceiling",
+    "resolution": "resolved",
+    "rationale": "PFA ependymoma is by definition a posterior-fossa tumor arising in and around the fourth ventricle (cerebellum/brainstem region), tending to involve the roof/lateral aspects of the fourth ventricle with extension into the foramen of Luschka. Sites of origin: cerebellum (C716), fourth ventricle (C715 = Ventricle NOS), brain stem (C717) - all outside this code's supratentorial-only ceiling (C710-C715). Note C715 is within the listed ceiling but represents supratentorial 'Ventricle NOS'; the true 4th-ventricle posterior-fossa location is not represented, hence overall outside_ceiling.",
+    "source_url": "https://www.frontiersin.org/journals/pediatrics/articles/10.3389/fped.2023.1181211/full",
+    "source_ref": "Classification and neuroimaging of ependymal tumors, Front Pediatr. 2023 - 'Posterior fossa group A tumors ... tend to involve the roof or lateral aspects of the fourth ventricle with extension into the foramen of Luschka'"
+  },
+  {
+    "code": "9396/3",
+    "term": "Posterior fossa group B (PFB) ependymoma",
+    "proposed_codes": ["C716", "C715", "C717"],
+    "proposed_labels": ["Cerebellum, NOS", "Ventricle, NOS (fourth ventricle)", "Brain stem"],
+    "site_status": "outside_ceiling",
+    "resolution": "resolved",
+    "rationale": "PFB ependymoma is by definition a posterior-fossa tumor, tending to arise from the floor of the fourth ventricle in the midline (cerebellum/brainstem region). Sites of origin: cerebellum (C716), fourth ventricle (C715), brain stem (C717) - the true posterior-fossa location is outside this code's supratentorial-only ceiling (C710-C715).",
+    "source_url": "https://www.frontiersin.org/journals/pediatrics/articles/10.3389/fped.2023.1181211/full",
+    "source_ref": "Classification and neuroimaging of ependymal tumors, Front Pediatr. 2023 - 'These lesions tend to arise from the floor of the fourth ventricle in the midline'"
+  },
+  {
+    "code": "9396/3",
+    "term": "Spinal ependymoma, MYCN-amplified",
+    "proposed_codes": ["C720"],
+    "proposed_labels": ["Spinal cord"],
+    "site_status": "outside_ceiling",
+    "resolution": "resolved",
+    "rationale": "Spinal ependymoma, MYCN-amplified (SP-EPN-MYCN) is defined by obligatory spinal localization, arising with intradural (extramedullary) localization mostly within the thoracic and cervical spine and infiltrating the spinal cord. Site of origin is spinal cord (C720), outside this code's supratentorial-only ceiling (C710-C715).",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6851394/",
+    "source_ref": "Ghasemi DR et al. MYCN amplification drives an aggressive form of spinal ependymoma, Acta Neuropathol. 2019 (PMC6851394) - 'SP-EPN-MYCN tumors showed distinct growth patterns with intradural, extramedullary localization mostly within the thoracic and cervical spine ... infiltrative invasion of the spinal cord'"
+  },
+  {
+    "code": "9490/0",
+    "term": "Ganglioneuroma of the choroid",
+    "proposed_codes": ["C693"],
+    "proposed_labels": ["Choroid"],
+    "site_status": "outside_ceiling",
+    "resolution": "resolved",
+    "rationale": "Choroidal ganglioneuroma is an ocular lesion arising in the choroid (reported in neurofibromatosis type 1), with the choroid replaced by tumor containing spindle cells and ganglion cells. Anatomic site is choroid (C693), which is not among this code's ceiling (brain stem, spinal cord, cauda equina, nervous system NOS), so outside the ceiling.",
+    "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4847662/",
+    "source_ref": "Mbagwu M et al. Unsuspected Ganglioneuroma of the Choroid Diagnosed after Enucleation (PMC4847662) - 'Approximately 50% of the choroid was replaced with tumor containing cells with spindle shaped nuclei and scattered ganglion cells'"
+  }
+]

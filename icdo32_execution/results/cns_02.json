@@ -1,0 +1,452 @@
+[
+  {
+    "code": "9080/0",
+    "term": "Mature teratoma, NOS",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic teratoma/germ-cell descriptor; intracranial teratomas/GCTs occur broadly across the CNS ceiling (pineal, suprasellar/pituitary region, cerebral hemispheres and lobes, ventricles, cerebellum, spinal cord), so the term is not restricted to a proper subset of its ceiling.",
+    "source": "https://radiopaedia.org/articles/intracranial-germ-cell-tumours?lang=us",
+    "source_name": "Radiopaedia: Intracranial germ cell tumors"
+  },
+  {
+    "code": "9080/0",
+    "term": "Monodermal cystic teratoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic teratoma/germ-cell descriptor; intracranial teratomas/GCTs occur broadly across the CNS ceiling (pineal, suprasellar/pituitary region, cerebral hemispheres and lobes, ventricles, cerebellum, spinal cord), so the term is not restricted to a proper subset of its ceiling.",
+    "source": "https://radiopaedia.org/articles/intracranial-germ-cell-tumours?lang=us",
+    "source_name": "Radiopaedia: Intracranial germ cell tumors"
+  },
+  {
+    "code": "9080/0",
+    "term": "Teratoma, benign",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic teratoma/germ-cell descriptor; intracranial teratomas/GCTs occur broadly across the CNS ceiling (pineal, suprasellar/pituitary region, cerebral hemispheres and lobes, ventricles, cerebellum, spinal cord), so the term is not restricted to a proper subset of its ceiling.",
+    "source": "https://radiopaedia.org/articles/intracranial-germ-cell-tumours?lang=us",
+    "source_name": "Radiopaedia: Intracranial germ cell tumors"
+  },
+  {
+    "code": "9080/0",
+    "term": "Teratoma, differentiated",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic teratoma/germ-cell descriptor; intracranial teratomas/GCTs occur broadly across the CNS ceiling (pineal, suprasellar/pituitary region, cerebral hemispheres and lobes, ventricles, cerebellum, spinal cord), so the term is not restricted to a proper subset of its ceiling.",
+    "source": "https://radiopaedia.org/articles/intracranial-germ-cell-tumours?lang=us",
+    "source_name": "Radiopaedia: Intracranial germ cell tumors"
+  },
+  {
+    "code": "9080/1",
+    "term": "Germ cell tumor, burnt-out",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Burnt-out/regressed germ cell tumor (9080/1) is defined by WHO/SEER as a spontaneously regressed germ cell tumor of the TESTIS; the testis is not in this code's CNS ceiling, so no valid ceiling subset can be reported.",
+    "source": "https://seer.cancer.gov/seer-inquiry/inquiry-detail/20190029/",
+    "source_name": "SEER Inquiry 20190029 / WHO Urinary & Male Genital Organs"
+  },
+  {
+    "code": "9080/1",
+    "term": "Germ cell tumor, regressed",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Burnt-out/regressed germ cell tumor (9080/1) is defined by WHO/SEER as a spontaneously regressed germ cell tumor of the TESTIS; the testis is not in this code's CNS ceiling, so no valid ceiling subset can be reported.",
+    "source": "https://seer.cancer.gov/seer-inquiry/inquiry-detail/20190029/",
+    "source_name": "SEER Inquiry 20190029 / WHO Urinary & Male Genital Organs"
+  },
+  {
+    "code": "9080/1",
+    "term": "Immature teratoma of lung",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "This is an organ-of-origin synonym naming a non-CNS site (lung, mediastinum, thymus, thyroid, or orbit/eye) that is not among the code's CNS ceiling C-codes; no valid proper subset of the CNS ceiling can be reported.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "9080/1",
+    "term": "Immature teratoma of mediastinum",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "This is an organ-of-origin synonym naming a non-CNS site (lung, mediastinum, thymus, thyroid, or orbit/eye) that is not among the code's CNS ceiling C-codes; no valid proper subset of the CNS ceiling can be reported.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "9080/1",
+    "term": "Immature teratoma of orbit/eye",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "This is an organ-of-origin synonym naming a non-CNS site (lung, mediastinum, thymus, thyroid, or orbit/eye) that is not among the code's CNS ceiling C-codes; no valid proper subset of the CNS ceiling can be reported.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "9080/1",
+    "term": "Immature teratoma of thymus",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "This is an organ-of-origin synonym naming a non-CNS site (lung, mediastinum, thymus, thyroid, or orbit/eye) that is not among the code's CNS ceiling C-codes; no valid proper subset of the CNS ceiling can be reported.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "9080/1",
+    "term": "Immature teratoma of thyroid",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "This is an organ-of-origin synonym naming a non-CNS site (lung, mediastinum, thymus, thyroid, or orbit/eye) that is not among the code's CNS ceiling C-codes; no valid proper subset of the CNS ceiling can be reported.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "9080/1",
+    "term": "Regressed germ cell tumors",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Burnt-out/regressed germ cell tumor (9080/1) is defined by WHO/SEER as a spontaneously regressed germ cell tumor of the TESTIS; the testis is not in this code's CNS ceiling, so no valid ceiling subset can be reported.",
+    "source": "https://seer.cancer.gov/seer-inquiry/inquiry-detail/20190029/",
+    "source_name": "SEER Inquiry 20190029 / WHO Urinary & Male Genital Organs"
+  },
+  {
+    "code": "9080/1",
+    "term": "Solid teratoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic teratoma/germ-cell descriptor; intracranial teratomas/GCTs occur broadly across the CNS ceiling (pineal, suprasellar/pituitary region, cerebral hemispheres and lobes, ventricles, cerebellum, spinal cord), so the term is not restricted to a proper subset of its ceiling.",
+    "source": "https://radiopaedia.org/articles/intracranial-germ-cell-tumours?lang=us",
+    "source_name": "Radiopaedia: Intracranial germ cell tumors"
+  },
+  {
+    "code": "9080/1",
+    "term": "Teratoma, NOS",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic teratoma/germ-cell descriptor; intracranial teratomas/GCTs occur broadly across the CNS ceiling (pineal, suprasellar/pituitary region, cerebral hemispheres and lobes, ventricles, cerebellum, spinal cord), so the term is not restricted to a proper subset of its ceiling.",
+    "source": "https://radiopaedia.org/articles/intracranial-germ-cell-tumours?lang=us",
+    "source_name": "Radiopaedia: Intracranial germ cell tumors"
+  },
+  {
+    "code": "9084/0",
+    "term": "Benign postpubertal testicular teratoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Explicitly a testicular germ-cell/teratoma entity (prepubertal-type / postpubertal testicular teratoma / type I GCT of testis); the testis is not in the code's CNS ceiling, so no valid ceiling subset can be reported.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "9084/0",
+    "term": "Dermoid cyst, NOS",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Intracranial dermoid cysts, while midline-predilected, occur across CNS ceiling sites (suprasellar/parasellar, frontal, posterior fossa/cerebellum, spinal cord); the term is not restricted to a proper subset of its CNS ceiling.",
+    "source": "https://radiopaedia.org/articles/intracranial-dermoid-cyst-1?lang=us",
+    "source_name": "Radiopaedia: Intracranial dermoid cyst"
+  },
+  {
+    "code": "9084/0",
+    "term": "Dermoid, NOS",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Intracranial dermoid cysts, while midline-predilected, occur across CNS ceiling sites (suprasellar/parasellar, frontal, posterior fossa/cerebellum, spinal cord); the term is not restricted to a proper subset of its CNS ceiling.",
+    "source": "https://radiopaedia.org/articles/intracranial-dermoid-cyst-1?lang=us",
+    "source_name": "Radiopaedia: Intracranial dermoid cyst"
+  },
+  {
+    "code": "9084/0",
+    "term": "Epidermoid cyst",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Intracranial epidermoid cysts occur across multiple CNS ceiling sites (cerebellopontine-angle region, parasellar, cerebral hemispheres/lobes, ventricle, spinal cord, meninges); not restricted to a proper subset of the ceiling.",
+    "source": "https://radiopaedia.org/articles/intracranial-epidermoid-cyst?lang=us",
+    "source_name": "Radiopaedia: Intracranial epidermoid cyst"
+  },
+  {
+    "code": "9084/0",
+    "term": "Prepubertal-type teratoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Prepubertal-type teratoma is a germ-cell entity defined primarily for the testis/gonad; as a generic teratoma synonym under a CNS ceiling it is not supported as restricted to a proper subset of the CNS ceiling.",
+    "source": "https://radiopaedia.org/articles/intracranial-germ-cell-tumours?lang=us",
+    "source_name": "Radiopaedia: Intracranial germ cell tumors"
+  },
+  {
+    "code": "9084/0",
+    "term": "Prepubertal-type testicular teratoma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Explicitly a testicular germ-cell/teratoma entity (prepubertal-type / postpubertal testicular teratoma / type I GCT of testis); the testis is not in the code's CNS ceiling, so no valid ceiling subset can be reported.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "9084/0",
+    "term": "Teratoma, mature, prepubertal-type",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Prepubertal-type teratoma is a germ-cell entity defined primarily for the testis/gonad; as a generic teratoma synonym under a CNS ceiling it is not supported as restricted to a proper subset of the CNS ceiling.",
+    "source": "https://radiopaedia.org/articles/intracranial-germ-cell-tumours?lang=us",
+    "source_name": "Radiopaedia: Intracranial germ cell tumors"
+  },
+  {
+    "code": "9084/0",
+    "term": "Teratoma, prepubertal-type",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Prepubertal-type teratoma is a germ-cell entity defined primarily for the testis/gonad; as a generic teratoma synonym under a CNS ceiling it is not supported as restricted to a proper subset of the CNS ceiling.",
+    "source": "https://radiopaedia.org/articles/intracranial-germ-cell-tumours?lang=us",
+    "source_name": "Radiopaedia: Intracranial germ cell tumors"
+  },
+  {
+    "code": "9084/0",
+    "term": "Type I germ cell tumor of testis",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Explicitly a testicular germ-cell/teratoma entity (prepubertal-type / postpubertal testicular teratoma / type I GCT of testis); the testis is not in the code's CNS ceiling, so no valid ceiling subset can be reported.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "9102/3",
+    "term": "Malignant teratoma, trophoblastic",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic malignant/trophoblastic teratoma descriptor; intracranial germ cell tumors with these elements occur broadly across brain ceiling sites (pineal, suprasellar region, cerebral hemispheres/lobes, cerebellum), so not restricted to a proper subset of the ceiling.",
+    "source": "https://radiopaedia.org/articles/intracranial-germ-cell-tumours?lang=us",
+    "source_name": "Radiopaedia: Intracranial germ cell tumors"
+  },
+  {
+    "code": "9120/0",
+    "term": "Acquired elastotic hemangioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Named benign hemangioma variant that is not anatomically restricted within the CNS ceiling; described across cutaneous/soft-tissue/visceral sites rather than a specific proper subset of the CNS ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "9120/0",
+    "term": "Anastomising hemangioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic benign vascular descriptor (angioma/hemangioma/angiomatosis/vascular malformation) that occurs at many sites and is not restricted to a proper subset of this code's CNS ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "9120/0",
+    "term": "Anastomosing hemangioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Named benign hemangioma variant that is not anatomically restricted within the CNS ceiling; described across cutaneous/soft-tissue/visceral sites rather than a specific proper subset of the CNS ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "9120/0",
+    "term": "Angiodysplasia",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic benign vascular descriptor (angioma/hemangioma/angiomatosis/vascular malformation) that occurs at many sites and is not restricted to a proper subset of this code's CNS ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "9120/0",
+    "term": "Angioma, NOS",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic benign vascular descriptor (angioma/hemangioma/angiomatosis/vascular malformation) that occurs at many sites and is not restricted to a proper subset of this code's CNS ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "9120/0",
+    "term": "Angiomatosis",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic benign vascular descriptor (angioma/hemangioma/angiomatosis/vascular malformation) that occurs at many sites and is not restricted to a proper subset of this code's CNS ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "9120/0",
+    "term": "Cherry hemangioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Cherry hemangioma is a cutaneous vascular lesion; skin (C44) is not in this code's CNS ceiling, so no valid ceiling subset can be reported.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "9120/0",
+    "term": "Chorioangioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Chorioangioma is a placental vascular tumor; the placenta (C58) is not in this code's CNS ceiling, so no valid ceiling subset can be reported.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "9120/0",
+    "term": "Cystic angiomatosis",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic benign vascular descriptor (angioma/hemangioma/angiomatosis/vascular malformation) that occurs at many sites and is not restricted to a proper subset of this code's CNS ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "9120/0",
+    "term": "Dieulafoy lesion",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Gastrointestinal vascular lesion (gastric antral vascular ectasia / Dieulafoy lesion); the stomach/GI tract is not in this code's CNS ceiling, so no valid ceiling subset can be reported.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "9120/0",
+    "term": "Diffuse hepatic hemangiomatosis",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Hepatic vascular lesion; the liver (C22) is not in this code's CNS ceiling, so no valid ceiling subset can be reported.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "9120/0",
+    "term": "Gastric antral vascular ectasia (GAVE)",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Gastrointestinal vascular lesion (gastric antral vascular ectasia / Dieulafoy lesion); the stomach/GI tract is not in this code's CNS ceiling, so no valid ceiling subset can be reported.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "9120/0",
+    "term": "Glomeruloid hemangioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Named benign hemangioma variant that is not anatomically restricted within the CNS ceiling; described across cutaneous/soft-tissue/visceral sites rather than a specific proper subset of the CNS ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "9120/0",
+    "term": "Gorham-Stout syndrome",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Names a bone/skeletal vascular entity (hemangioma of bone / massive osteolysis / Gorham-Stout); bone (C40/C41) is not in this code's CNS ceiling, so no valid ceiling subset can be reported.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "9120/0",
+    "term": "Hemangioma of bone",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Names a bone/skeletal vascular entity (hemangioma of bone / massive osteolysis / Gorham-Stout); bone (C40/C41) is not in this code's CNS ceiling, so no valid ceiling subset can be reported.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "9120/0",
+    "term": "Hemangioma, NOS",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Generic benign vascular descriptor (angioma/hemangioma/angiomatosis/vascular malformation) that occurs at many sites and is not restricted to a proper subset of this code's CNS ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "9120/0",
+    "term": "Hemangioma, anastomosing",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Named benign hemangioma variant that is not anatomically restricted within the CNS ceiling; described across cutaneous/soft-tissue/visceral sites rather than a specific proper subset of the CNS ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "9120/0",
+    "term": "Hepatic small vessel neoplasm",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Hepatic vascular lesion; the liver (C22) is not in this code's CNS ceiling, so no valid ceiling subset can be reported.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "9120/0",
+    "term": "Hobnail hemangioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Named benign hemangioma variant that is not anatomically restricted within the CNS ceiling; described across cutaneous/soft-tissue/visceral sites rather than a specific proper subset of the CNS ceiling.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "9120/0",
+    "term": "Littoral cell angioma",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Littoral cell angioma is a splenic vascular tumor; the spleen (C42.2) is not in this code's CNS ceiling, so no valid ceiling subset can be reported.",
+    "source": "",
+    "source_name": ""
+  },
+  {
+    "code": "9120/0",
+    "term": "Massive osteolysis",
+    "site_specific": "No",
+    "site_subset_codes": [],
+    "site_subset_labels": [],
+    "rationale": "Names a bone/skeletal vascular entity (hemangioma of bone / massive osteolysis / Gorham-Stout); bone (C40/C41) is not in this code's CNS ceiling, so no valid ceiling subset can be reported.",
+    "source": "",
+    "source_name": ""
+  }
+]

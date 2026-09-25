@@ -1,0 +1,142 @@
+[
+ {
+  "code": "9827/3",
+  "term": "Adult T-cell leukemia/lymphoma",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C421",
+   "C728",
+   "C729"
+  ]
+ },
+ {
+  "code": "9827/3",
+  "term": "Adult T-cell leukemia/lymphoma (HTLV-1 positive)",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C421",
+   "C728",
+   "C729"
+  ]
+ },
+ {
+  "code": "9827/3",
+  "term": "Adult T-cell leukemia/lymphoma, HTLV-1 associated",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C421",
+   "C728",
+   "C729"
+  ]
+ },
+ {
+  "code": "9827/3",
+  "term": "Adult T-cell lymphoma",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C421",
+   "C728",
+   "C729"
+  ]
+ },
+ {
+  "code": "9827/3",
+  "term": "Adult T-cell lymphoma/leukemia",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C421",
+   "C728",
+   "C729"
+  ]
+ },
+ {
+  "code": "9827/3",
+  "term": "Adult T-cell lymphoma/leukemia, acute",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C421",
+   "C728",
+   "C729"
+  ]
+ },
+ {
+  "code": "9827/3",
+  "term": "Adult T-cell lymphoma/leukemia, chronic",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C421",
+   "C728",
+   "C729"
+  ]
+ },
+ {
+  "code": "9827/3",
+  "term": "Adult T-cell lymphoma/leukemia, lymphoma",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C421",
+   "C728",
+   "C729"
+  ]
+ },
+ {
+  "code": "9827/3",
+  "term": "Adult T-cell lymphoma/leukemia, lymphomatous",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C421",
+   "C728",
+   "C729"
+  ]
+ },
+ {
+  "code": "9827/3",
+  "term": "Adult T-cell lymphoma/leukemia, smoldering",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C421",
+   "C728",
+   "C729"
+  ]
+ },
+ {
+  "code": "9827/3",
+  "term": "Chronic adult T-cell leukemia/lymphoma",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C421",
+   "C728",
+   "C729"
+  ]
+ },
+ {
+  "code": "9827/3",
+  "term": "Cutaneous adult T-cell leukemia/lymphoma",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C421",
+   "C728",
+   "C729"
+  ]
+ },
+ {
+  "code": "9827/3",
+  "term": "Lymphomatous adult T-cell leukemia/lymphoma",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C421",
+   "C728",
+   "C729"
+  ]
+ },
+ {
+  "code": "9827/3",
+  "term": "Smouldering adult T-cell leukemia/lymphoma",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C421",
+   "C728",
+   "C729"
+  ]
+ }
+]

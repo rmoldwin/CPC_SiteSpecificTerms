@@ -1,0 +1,464 @@
+[
+ {
+  "code": "8005/0",
+  "term": "Clear cell tumor, NOS",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8010/0",
+  "term": "Epithelial tumor, benign",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C751",
+   "C752",
+   "C753"
+  ]
+ },
+ {
+  "code": "8011/3",
+  "term": "Epithelioma, NOS",
+  "ceiling_count": 19,
+  "ceiling_codes": [
+   "C632",
+   "C690",
+   "C691",
+   "C692",
+   "C693",
+   "C694",
+   "C695",
+   "C696",
+   "C698",
+   "C699",
+   "C739",
+   "C740",
+   "C741",
+   "C749",
+   "C750",
+   "C754",
+   "C755",
+   "C758",
+   "C759"
+  ]
+ },
+ {
+  "code": "8011/3",
+  "term": "Epithelioma, malignant",
+  "ceiling_count": 19,
+  "ceiling_codes": [
+   "C632",
+   "C690",
+   "C691",
+   "C692",
+   "C693",
+   "C694",
+   "C695",
+   "C696",
+   "C698",
+   "C699",
+   "C739",
+   "C740",
+   "C741",
+   "C749",
+   "C750",
+   "C754",
+   "C755",
+   "C758",
+   "C759"
+  ]
+ },
+ {
+  "code": "8015/3",
+  "term": "Glassy cell carcinoma",
+  "ceiling_count": 24,
+  "ceiling_codes": [
+   "C529",
+   "C530",
+   "C531",
+   "C538",
+   "C539",
+   "C632",
+   "C690",
+   "C691",
+   "C692",
+   "C693",
+   "C694",
+   "C695",
+   "C696",
+   "C698",
+   "C699",
+   "C739",
+   "C740",
+   "C741",
+   "C749",
+   "C750",
+   "C754",
+   "C755",
+   "C758",
+   "C759"
+  ]
+ },
+ {
+  "code": "8140/0",
+  "term": "Adenoma, NOS",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8140/0",
+  "term": "Bartholin gland adenoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8140/0",
+  "term": "Bronchiolar adenoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8140/0",
+  "term": "Bronchiolar adenoma/ciliated muconodular papillary tumor",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8140/0",
+  "term": "Chief cell-predominant polyp, NOS",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8140/0",
+  "term": "Chief cell-predominant polyp, low-grade",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8140/0",
+  "term": "Ciliated muconodular papillary tumor",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8140/0",
+  "term": "Oxyntic gland adenoma, NOS",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8140/0",
+  "term": "Oxyntic gland adenoma, low-grade",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8140/0",
+  "term": "Oxyntic gland polyp, NOS",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8140/0",
+  "term": "Oxyntic gland polyp, low-grade",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8140/0",
+  "term": "Parathyroid adenoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8140/0",
+  "term": "Pyloric gland adenoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8140/0",
+  "term": "Pyloric gland adenoma, low-grade",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8140/0",
+  "term": "Pyloric gland intracystic papillary neoplasm, NOS",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8140/0",
+  "term": "Pyloric gland intracystic papillary neoplasm, low-grade",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8140/0",
+  "term": "Pyloric gland tubular adenoma, NOS",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8140/0",
+  "term": "Pyloric gland tubular adenoma, low-grade",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8140/0",
+  "term": "Pyloric gland-type adenoma, NOS",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8140/0",
+  "term": "Pyloric gland-type adenoma, low grade",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8140/0",
+  "term": "Sclerosing polycystic adenoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8146/0",
+  "term": "Monomorphic adenoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8260/0",
+  "term": "Glandular papilloma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8260/0",
+  "term": "Papillary adenoma, NOS",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8260/0",
+  "term": "Renal papillary adenoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8260/0",
+  "term": "Renal tubulopapillary adenoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8260/0",
+  "term": "Tubulopapillary adenoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8270/0",
+  "term": "Chromophobe adenoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8270/3",
+  "term": "Chromophobe adenocarcinoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8270/3",
+  "term": "Chromophobe adenoma of pituitary",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8270/3",
+  "term": "Chromophobe carcinoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8271/0",
+  "term": "Prolactinoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8272/0",
+  "term": "Pituitary adenoma, NOS",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8273/3",
+  "term": "Pituitary blastoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8273/3",
+  "term": "Pituitary embryoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8280/0",
+  "term": "Acidophil adenoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8280/0",
+  "term": "Eosinophil adenoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8280/3",
+  "term": "Acidophil adenocarcinoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8280/3",
+  "term": "Acidophil adenoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8280/3",
+  "term": "Acidophil carcinoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ }
+]

@@ -1,0 +1,663 @@
+[
+ {
+  "code": "8280/3",
+  "term": "Acidophil stem cell PitNET",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8280/3",
+  "term": "Acidophil stem cell PitNET/adenoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8280/3",
+  "term": "Acidophil stem cell tumor",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8280/3",
+  "term": "Densely granulated somatotroph and sparsely granulated lactotroph PitNET/adenoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8280/3",
+  "term": "Densely granulated somatotroph and sparsely granulated lactotroph tumor",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8280/3",
+  "term": "Eosinophil adenocarcinoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8280/3",
+  "term": "Eosinophil adenoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8280/3",
+  "term": "Eosinophil carcinoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8280/3",
+  "term": "Mammosomatotroph PitNET",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8280/3",
+  "term": "Mammosomatotroph PitNET/adenoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8280/3",
+  "term": "Mammosomatotroph tumor",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8280/3",
+  "term": "Mixed somatotroph-lactotroph tumor",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8280/3",
+  "term": "Mixed somatotroph\u2013lactotroph PitNET/adenoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8280/3",
+  "term": "Sparsely granulated somatotroph and sparsely granulated lactotroph PitNET/adenoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8280/3",
+  "term": "Sparsely granulated somatotroph and sparsely granulated lactotroph tumor",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8281/0",
+  "term": "Mixed acidophil-basophil adenoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8281/3",
+  "term": "Mixed acidophil-basophil adenoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8281/3",
+  "term": "Mixed acidophil-basophil carcinoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8290/0",
+  "term": "Clear cell oncocytoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8290/0",
+  "term": "Follicular adenoma, oxyphilic cell",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8290/0",
+  "term": "Hurthle cell adenoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8290/0",
+  "term": "Hurthle cell tumor",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8290/0",
+  "term": "H\u00fcrthle cell adenoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8290/0",
+  "term": "H\u00fcrthle cell tumor",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8290/0",
+  "term": "Oncocytic (oxyphil cell) parathyroid adenoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8290/0",
+  "term": "Oncocytic adenoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8290/0",
+  "term": "Oncocytic adenoma of the thyroid",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8290/0",
+  "term": "Oncocytic adenoma of the thyroid gland",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8290/0",
+  "term": "Oncocytic papillary cystadenoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8290/0",
+  "term": "Oncocytic pituicytoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8290/0",
+  "term": "Oncocytoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8290/0",
+  "term": "Oncocytoma, clear cell",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8290/0",
+  "term": "Oxyphilic adenoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8290/0",
+  "term": "Pituicytoma with oncocytic features",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8290/0",
+  "term": "Spindle cell oncocytoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8290/0",
+  "term": "Spindle cell oncocytoma / oncocytic pituicytoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8290/0",
+  "term": "Spindle cell oncocytoma of adenohypophysis",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "8290/3",
+  "term": "Encapsulated angioinvasive oncocytic carcinoma",
+  "ceiling_count": 34,
+  "ceiling_codes": [
+   "C079",
+   "C080",
+   "C081",
+   "C088",
+   "C089",
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509",
+   "C690",
+   "C691",
+   "C692",
+   "C693",
+   "C694",
+   "C695",
+   "C696",
+   "C698",
+   "C699",
+   "C739",
+   "C740",
+   "C741",
+   "C749",
+   "C750",
+   "C751",
+   "C752",
+   "C754",
+   "C755",
+   "C758",
+   "C759"
+  ]
+ },
+ {
+  "code": "8290/3",
+  "term": "Encapsulated angioinvasive oncocytic carcinoma of the thyroid gland",
+  "ceiling_count": 34,
+  "ceiling_codes": [
+   "C079",
+   "C080",
+   "C081",
+   "C088",
+   "C089",
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509",
+   "C690",
+   "C691",
+   "C692",
+   "C693",
+   "C694",
+   "C695",
+   "C696",
+   "C698",
+   "C699",
+   "C739",
+   "C740",
+   "C741",
+   "C749",
+   "C750",
+   "C751",
+   "C752",
+   "C754",
+   "C755",
+   "C758",
+   "C759"
+  ]
+ },
+ {
+  "code": "8290/3",
+  "term": "Follicular carcinoma, H\u00fcrthle cell type",
+  "ceiling_count": 34,
+  "ceiling_codes": [
+   "C079",
+   "C080",
+   "C081",
+   "C088",
+   "C089",
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509",
+   "C690",
+   "C691",
+   "C692",
+   "C693",
+   "C694",
+   "C695",
+   "C696",
+   "C698",
+   "C699",
+   "C739",
+   "C740",
+   "C741",
+   "C749",
+   "C750",
+   "C751",
+   "C752",
+   "C754",
+   "C755",
+   "C758",
+   "C759"
+  ]
+ },
+ {
+  "code": "8290/3",
+  "term": "Follicular carcinoma, oncocytic type",
+  "ceiling_count": 34,
+  "ceiling_codes": [
+   "C079",
+   "C080",
+   "C081",
+   "C088",
+   "C089",
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509",
+   "C690",
+   "C691",
+   "C692",
+   "C693",
+   "C694",
+   "C695",
+   "C696",
+   "C698",
+   "C699",
+   "C739",
+   "C740",
+   "C741",
+   "C749",
+   "C750",
+   "C751",
+   "C752",
+   "C754",
+   "C755",
+   "C758",
+   "C759"
+  ]
+ },
+ {
+  "code": "8290/3",
+  "term": "Follicular carcinoma, oxyphilic cell",
+  "ceiling_count": 34,
+  "ceiling_codes": [
+   "C079",
+   "C080",
+   "C081",
+   "C088",
+   "C089",
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509",
+   "C690",
+   "C691",
+   "C692",
+   "C693",
+   "C694",
+   "C695",
+   "C696",
+   "C698",
+   "C699",
+   "C739",
+   "C740",
+   "C741",
+   "C749",
+   "C750",
+   "C751",
+   "C752",
+   "C754",
+   "C755",
+   "C758",
+   "C759"
+  ]
+ },
+ {
+  "code": "8290/3",
+  "term": "Hurthle cell adenocarcinoma",
+  "ceiling_count": 34,
+  "ceiling_codes": [
+   "C079",
+   "C080",
+   "C081",
+   "C088",
+   "C089",
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509",
+   "C690",
+   "C691",
+   "C692",
+   "C693",
+   "C694",
+   "C695",
+   "C696",
+   "C698",
+   "C699",
+   "C739",
+   "C740",
+   "C741",
+   "C749",
+   "C750",
+   "C751",
+   "C752",
+   "C754",
+   "C755",
+   "C758",
+   "C759"
+  ]
+ },
+ {
+  "code": "8290/3",
+  "term": "Hurthle cell carcinoma",
+  "ceiling_count": 34,
+  "ceiling_codes": [
+   "C079",
+   "C080",
+   "C081",
+   "C088",
+   "C089",
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509",
+   "C690",
+   "C691",
+   "C692",
+   "C693",
+   "C694",
+   "C695",
+   "C696",
+   "C698",
+   "C699",
+   "C739",
+   "C740",
+   "C741",
+   "C749",
+   "C750",
+   "C751",
+   "C752",
+   "C754",
+   "C755",
+   "C758",
+   "C759"
+  ]
+ },
+ {
+  "code": "8290/3",
+  "term": "H\u00fcrthle cell adenocarcinoma",
+  "ceiling_count": 34,
+  "ceiling_codes": [
+   "C079",
+   "C080",
+   "C081",
+   "C088",
+   "C089",
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509",
+   "C690",
+   "C691",
+   "C692",
+   "C693",
+   "C694",
+   "C695",
+   "C696",
+   "C698",
+   "C699",
+   "C739",
+   "C740",
+   "C741",
+   "C749",
+   "C750",
+   "C751",
+   "C752",
+   "C754",
+   "C755",
+   "C758",
+   "C759"
+  ]
+ }
+]

@@ -1,0 +1,515 @@
+[
+ {
+  "code": "8580/3",
+  "term": "Metaplastic thymoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C379",
+   "C380"
+  ]
+ },
+ {
+  "code": "8580/3",
+  "term": "Sclerosing thymoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C379",
+   "C380"
+  ]
+ },
+ {
+  "code": "8580/3",
+  "term": "Thymoma, NOS",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C379",
+   "C380"
+  ]
+ },
+ {
+  "code": "8581/3",
+  "term": "Atypical type A thymoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C379",
+   "C380"
+  ]
+ },
+ {
+  "code": "8581/3",
+  "term": "Thymoma, medullary",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C379",
+   "C380"
+  ]
+ },
+ {
+  "code": "8581/3",
+  "term": "Thymoma, spindle cell",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C379",
+   "C380"
+  ]
+ },
+ {
+  "code": "8581/3",
+  "term": "Thymoma, type A",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C379",
+   "C380"
+  ]
+ },
+ {
+  "code": "8581/3",
+  "term": "Thymoma, type A, malignant",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C379",
+   "C380"
+  ]
+ },
+ {
+  "code": "8582/3",
+  "term": "Thymoma, mixed type",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C379",
+   "C380"
+  ]
+ },
+ {
+  "code": "8582/3",
+  "term": "Thymoma, type AB",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C379",
+   "C380"
+  ]
+ },
+ {
+  "code": "8582/3",
+  "term": "Thymoma, type AB, malignant",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C379",
+   "C380"
+  ]
+ },
+ {
+  "code": "8583/3",
+  "term": "Thymoma, lymphocyte-rich",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C379",
+   "C380"
+  ]
+ },
+ {
+  "code": "8583/3",
+  "term": "Thymoma, lymphocytic",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C379",
+   "C380"
+  ]
+ },
+ {
+  "code": "8583/3",
+  "term": "Thymoma, organoid",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C379",
+   "C380"
+  ]
+ },
+ {
+  "code": "8583/3",
+  "term": "Thymoma, predominantly cortical",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C379",
+   "C380"
+  ]
+ },
+ {
+  "code": "8583/3",
+  "term": "Thymoma, type B1",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C379",
+   "C380"
+  ]
+ },
+ {
+  "code": "8583/3",
+  "term": "Thymoma, type B1, malignant",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C379",
+   "C380"
+  ]
+ },
+ {
+  "code": "8584/3",
+  "term": "Thymoma, cortical",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C379",
+   "C380"
+  ]
+ },
+ {
+  "code": "8584/3",
+  "term": "Thymoma, type B2",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C379",
+   "C380"
+  ]
+ },
+ {
+  "code": "8584/3",
+  "term": "Thymoma, type B2, malignant",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C379",
+   "C380"
+  ]
+ },
+ {
+  "code": "8585/3",
+  "term": "Thymoma, atypical",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C379",
+   "C380"
+  ]
+ },
+ {
+  "code": "8585/3",
+  "term": "Thymoma, epithelial",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C379",
+   "C380"
+  ]
+ },
+ {
+  "code": "8585/3",
+  "term": "Thymoma, type B3",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C379",
+   "C380"
+  ]
+ },
+ {
+  "code": "8585/3",
+  "term": "Thymoma, type B3, malignant",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C379",
+   "C380"
+  ]
+ },
+ {
+  "code": "8585/3",
+  "term": "Well differentiated thymic carcinoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C379",
+   "C380"
+  ]
+ },
+ {
+  "code": "8586/3",
+  "term": "Thymic carcinoma, NOS",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C379",
+   "C380"
+  ]
+ },
+ {
+  "code": "8586/3",
+  "term": "Thymoma, type C",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C379",
+   "C380"
+  ]
+ },
+ {
+  "code": "8700/3",
+  "term": "Adrenal composite paraganglion tumor",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C381",
+   "C382",
+   "C383",
+   "C388",
+   "C398",
+   "C740",
+   "C741",
+   "C749"
+  ]
+ },
+ {
+  "code": "8700/3",
+  "term": "Adrenal composite pheochromocytoma-paraganglioma",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C381",
+   "C382",
+   "C383",
+   "C388",
+   "C398",
+   "C740",
+   "C741",
+   "C749"
+  ]
+ },
+ {
+  "code": "8700/3",
+  "term": "Adrenal medullary paraganglioma",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C381",
+   "C382",
+   "C383",
+   "C388",
+   "C398",
+   "C740",
+   "C741",
+   "C749"
+  ]
+ },
+ {
+  "code": "8700/3",
+  "term": "Chromaffin paraganglioma",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C381",
+   "C382",
+   "C383",
+   "C388",
+   "C398",
+   "C740",
+   "C741",
+   "C749"
+  ]
+ },
+ {
+  "code": "8700/3",
+  "term": "Chromaffin tumor",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C381",
+   "C382",
+   "C383",
+   "C388",
+   "C398",
+   "C740",
+   "C741",
+   "C749"
+  ]
+ },
+ {
+  "code": "8700/3",
+  "term": "Chromaffinoma",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C381",
+   "C382",
+   "C383",
+   "C388",
+   "C398",
+   "C740",
+   "C741",
+   "C749"
+  ]
+ },
+ {
+  "code": "8700/3",
+  "term": "Composite paraganglion tumor, NOS",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C381",
+   "C382",
+   "C383",
+   "C388",
+   "C398",
+   "C740",
+   "C741",
+   "C749"
+  ]
+ },
+ {
+  "code": "8700/3",
+  "term": "Composite paraganglion tumors",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C381",
+   "C382",
+   "C383",
+   "C388",
+   "C398",
+   "C740",
+   "C741",
+   "C749"
+  ]
+ },
+ {
+  "code": "8700/3",
+  "term": "Composite pheochromocytoma",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C381",
+   "C382",
+   "C383",
+   "C388",
+   "C398",
+   "C740",
+   "C741",
+   "C749"
+  ]
+ },
+ {
+  "code": "8700/3",
+  "term": "Composite pheochromocytoma-ganglioneuroblastoma",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C381",
+   "C382",
+   "C383",
+   "C388",
+   "C398",
+   "C740",
+   "C741",
+   "C749"
+  ]
+ },
+ {
+  "code": "8700/3",
+  "term": "Composite pheochromocytoma-ganglioneuroma",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C381",
+   "C382",
+   "C383",
+   "C388",
+   "C398",
+   "C740",
+   "C741",
+   "C749"
+  ]
+ },
+ {
+  "code": "8700/3",
+  "term": "Composite pheochromocytoma-neuroblastoma",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C381",
+   "C382",
+   "C383",
+   "C388",
+   "C398",
+   "C740",
+   "C741",
+   "C749"
+  ]
+ },
+ {
+  "code": "8700/3",
+  "term": "Composite pheochromocytoma\u2013malignant peripheral nerve sheath tumor",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C381",
+   "C382",
+   "C383",
+   "C388",
+   "C398",
+   "C740",
+   "C741",
+   "C749"
+  ]
+ },
+ {
+  "code": "8700/3",
+  "term": "Composite pheochromocytoma\u2013peripheral nerve sheath tumor",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C381",
+   "C382",
+   "C383",
+   "C388",
+   "C398",
+   "C740",
+   "C741",
+   "C749"
+  ]
+ },
+ {
+  "code": "8700/3",
+  "term": "Paraganglioma, adrenal sympathetic",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C381",
+   "C382",
+   "C383",
+   "C388",
+   "C398",
+   "C740",
+   "C741",
+   "C749"
+  ]
+ },
+ {
+  "code": "8700/3",
+  "term": "Paraganglioma, adrenal, NOS",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C381",
+   "C382",
+   "C383",
+   "C388",
+   "C398",
+   "C740",
+   "C741",
+   "C749"
+  ]
+ },
+ {
+  "code": "8700/3",
+  "term": "Paraganglioma, intra-adrenal",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C381",
+   "C382",
+   "C383",
+   "C388",
+   "C398",
+   "C740",
+   "C741",
+   "C749"
+  ]
+ },
+ {
+  "code": "8700/3",
+  "term": "Pheochromoblastoma",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C381",
+   "C382",
+   "C383",
+   "C388",
+   "C398",
+   "C740",
+   "C741",
+   "C749"
+  ]
+ }
+]

@@ -1,0 +1,1596 @@
+[
+ {
+  "code": "9699/3",
+  "term": "Skin-associated lymphoid tissue lymphoma",
+  "subset_codes": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "subset_sites": [
+   "Skin of lip, NOS",
+   "Eyelid",
+   "External ear",
+   "Skin of other and unspecified parts of face",
+   "Skin of scalp and neck",
+   "Skin of trunk",
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip",
+   "Overlapping lesion of skin",
+   "Skin, NOS"
+  ],
+  "rationale": "Primary cutaneous marginal zone lymphoma (including its heavy-chain class-switched, non-class-switched/IgM subtypes and the SALT synonym) is recognized in WHO-HAEM5 as a distinct entity confined to the skin, restricted to skin at diagnosis with rare extracutaneous spread.",
+  "source_name": "WHO-HAEM5 (Alaggio et al., Leukemia 2022) - PCMZL designated a separate skin-restricted entity"
+ },
+ {
+  "code": "9699/3",
+  "term": "pediatric nodal marginal zone lymphoma",
+  "subset_codes": [
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ],
+  "subset_sites": [
+   "Lymph nodes of head, face and neck",
+   "Intrathoracic lymph nodes",
+   "Intra-abdominal lymph nodes",
+   "Lymph nodes of axilla or arm",
+   "Lymph nodes of inguinal region or leg",
+   "Pelvic lymph nodes",
+   "Lymph nodes of multiple regions",
+   "Lymph node, NOS"
+  ],
+  "rationale": "Nodal marginal zone lymphoma (and its pediatric variant) is defined by WHO as a primary NODAL B-cell lymphoma presenting in lymph nodes without extranodal or splenic disease; restricted to lymph nodes, a proper subset of the ceiling.",
+  "source_name": "CancerNetwork/WHO - NMZL is a primary nodal lymphoma localized to lymph nodes"
+ },
+ {
+  "code": "8620/3",
+  "term": "Adult granulosa cell tumor of ovary",
+  "subset_codes": [
+   "C569"
+  ],
+  "subset_sites": [
+   "Ovary"
+  ],
+  "rationale": "'Adult granulosa cell tumor of ovary' names the ovarian entity specifically; the literature treats ovarian AGCT (FOXL2 p.Cys134Trp-driven, most common ovarian sex cord-stromal tumour) as distinct from the testicular counterpart in the code's ceiling, restricting this named term to the ovary (a proper subset of ovary+testis).",
+  "source_name": "Ricci et al., Histopathology 2025 (PMC12891927), WHO 5th ed male genital tumours"
+ },
+ {
+  "code": "8620/3",
+  "term": "Granulosa cell tumor of ovary, NOS",
+  "subset_codes": [
+   "C569"
+  ],
+  "subset_sites": [
+   "Ovary"
+  ],
+  "rationale": "The qualifier 'of ovary' anatomically restricts this term to the ovary; ovarian granulosa cell tumour is a distinct entity separate from the testicular counterpart, so the term maps to a proper subset (ovary) of the code's ovary+testis ceiling.",
+  "source_name": "Ricci et al., Histopathology 2025 (PMC12891927), WHO 5th ed male genital tumours"
+ },
+ {
+  "code": "9061/3",
+  "term": "Germinoma of testis",
+  "subset_codes": [
+   "C620",
+   "C621",
+   "C629"
+  ],
+  "subset_sites": [
+   "Undescended testis",
+   "Descended testis",
+   "Testis, NOS"
+  ],
+  "rationale": "The named entity 'germinoma of testis' is by definition confined to the testis, a proper subset of the code's ceiling, which also spans extragonadal sites (thymus C379, mediastinum C381-C383) and paratesticular sites (epididymis C630, spermatic cord C631).",
+  "source_name": "Weidner N, Germ-cell tumors of the mediastinum, PMID 10355653 (establishes seminoma/germinoma family also occurs extragonadally)"
+ },
+ {
+  "code": "9063/3",
+  "term": "Spermatocytic seminoma",
+  "subset_codes": [
+   "C620",
+   "C621",
+   "C629"
+  ],
+  "subset_sites": [
+   "Undescended testis",
+   "Descended testis",
+   "Testis, NOS"
+  ],
+  "rationale": "WHO/EAU and pathology literature establish that spermatocytic tumor occurs exclusively in the testis with no extragonadal or paratesticular counterpart; this excludes epididymis (C630), spermatic cord (C631) and overlapping male-genital (C637) sites in the ceiling, leaving only the testis codes.",
+  "source_name": "EAU Guidelines on Testicular Cancer: 'Spermatocytic tumours ... occur exclusively in the testis'"
+ },
+ {
+  "code": "9063/3",
+  "term": "Spermatocytic tumor",
+  "subset_codes": [
+   "C620",
+   "C621",
+   "C629"
+  ],
+  "subset_sites": [
+   "Undescended testis",
+   "Descended testis",
+   "Testis, NOS"
+  ],
+  "rationale": "WHO/EAU and pathology literature establish that spermatocytic tumor occurs exclusively in the testis with no extragonadal or paratesticular counterpart; this excludes epididymis (C630), spermatic cord (C631) and overlapping male-genital (C637) sites in the ceiling, leaving only the testis codes.",
+  "source_name": "EAU Guidelines on Testicular Cancer: 'Spermatocytic tumours ... occur exclusively in the testis'"
+ },
+ {
+  "code": "9063/3",
+  "term": "Spermatocytic tumor with sarcomatous differentiation",
+  "subset_codes": [
+   "C620",
+   "C621",
+   "C629"
+  ],
+  "subset_sites": [
+   "Undescended testis",
+   "Descended testis",
+   "Testis, NOS"
+  ],
+  "rationale": "WHO/EAU and pathology literature establish that spermatocytic tumor occurs exclusively in the testis with no extragonadal or paratesticular counterpart; this excludes epididymis (C630), spermatic cord (C631) and overlapping male-genital (C637) sites in the ceiling, leaving only the testis codes.",
+  "source_name": "EAU Guidelines on Testicular Cancer: 'Spermatocytic tumours ... occur exclusively in the testis'"
+ },
+ {
+  "code": "9063/3",
+  "term": "Spermatocytoma",
+  "subset_codes": [
+   "C620",
+   "C621",
+   "C629"
+  ],
+  "subset_sites": [
+   "Undescended testis",
+   "Descended testis",
+   "Testis, NOS"
+  ],
+  "rationale": "WHO/EAU and pathology literature establish that spermatocytic tumor occurs exclusively in the testis with no extragonadal or paratesticular counterpart; this excludes epididymis (C630), spermatic cord (C631) and overlapping male-genital (C637) sites in the ceiling, leaving only the testis codes.",
+  "source_name": "EAU Guidelines on Testicular Cancer: 'Spermatocytic tumours ... occur exclusively in the testis'"
+ },
+ {
+  "code": "8044/3",
+  "term": "SMARCA4-deficient carcinoma of ovary",
+  "subset_codes": [
+   "C569"
+  ],
+  "subset_sites": [
+   "Ovary"
+  ],
+  "rationale": "Term explicitly names the ovary; SMARCA4-deficient ovarian carcinoma (SCCOHT) is an ovarian entity in WHO Female Genital Tumours, restricted to the ovary within the ceiling.",
+  "source_name": "Nature Genetics 2014 (PMC4332808) SMARCA4 in SCCOHT"
+ },
+ {
+  "code": "8044/3",
+  "term": "SMARCA4-deficient sinonasal carcinoma",
+  "subset_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319"
+  ],
+  "subset_sites": [
+   "Nasal cavity",
+   "Maxillary sinus",
+   "Ethmoid sinus",
+   "Frontal sinus",
+   "Sphenoid sinus",
+   "Overlapping lesion of accessory sinuses",
+   "Accessory sinus, NOS"
+  ],
+  "rationale": "SWI/SNF (SMARCB1/SMARCA4)-deficient sinonasal carcinoma is defined as a sinonasal tract entity in WHO Head & Neck Tumours 5th ed; restricted to nasal cavity and paranasal sinuses within the ceiling.",
+  "source_name": "PubMed PMC12078905 (Head Neck Pathol 2025) citing WHO Head & Neck Tumours 5th ed"
+ },
+ {
+  "code": "8044/3",
+  "term": "SMARCA4-deficient undifferentiated sinonasal carcinoma",
+  "subset_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319"
+  ],
+  "subset_sites": [
+   "Nasal cavity",
+   "Maxillary sinus",
+   "Ethmoid sinus",
+   "Frontal sinus",
+   "Sphenoid sinus",
+   "Overlapping lesion of accessory sinuses",
+   "Accessory sinus, NOS"
+  ],
+  "rationale": "SWI/SNF (SMARCB1/SMARCA4)-deficient sinonasal carcinoma is defined as a sinonasal tract entity in WHO Head & Neck Tumours 5th ed; restricted to nasal cavity and paranasal sinuses within the ceiling.",
+  "source_name": "PubMed PMC12078905 (Head Neck Pathol 2025) citing WHO Head & Neck Tumours 5th ed"
+ },
+ {
+  "code": "8044/3",
+  "term": "SMARCB1-deficient sinonasal adenocarcinoma",
+  "subset_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319"
+  ],
+  "subset_sites": [
+   "Nasal cavity",
+   "Maxillary sinus",
+   "Ethmoid sinus",
+   "Frontal sinus",
+   "Sphenoid sinus",
+   "Overlapping lesion of accessory sinuses",
+   "Accessory sinus, NOS"
+  ],
+  "rationale": "SWI/SNF (SMARCB1/SMARCA4)-deficient sinonasal carcinoma is defined as a sinonasal tract entity in WHO Head & Neck Tumours 5th ed; restricted to nasal cavity and paranasal sinuses within the ceiling.",
+  "source_name": "PubMed PMC12078905 (Head Neck Pathol 2025) citing WHO Head & Neck Tumours 5th ed"
+ },
+ {
+  "code": "8044/3",
+  "term": "SMARCB1-deficient sinonasal carcinoma",
+  "subset_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319"
+  ],
+  "subset_sites": [
+   "Nasal cavity",
+   "Maxillary sinus",
+   "Ethmoid sinus",
+   "Frontal sinus",
+   "Sphenoid sinus",
+   "Overlapping lesion of accessory sinuses",
+   "Accessory sinus, NOS"
+  ],
+  "rationale": "SWI/SNF (SMARCB1/SMARCA4)-deficient sinonasal carcinoma is defined as a sinonasal tract entity in WHO Head & Neck Tumours 5th ed; restricted to nasal cavity and paranasal sinuses within the ceiling.",
+  "source_name": "PubMed PMC12078905 (Head Neck Pathol 2025) citing WHO Head & Neck Tumours 5th ed"
+ },
+ {
+  "code": "8044/3",
+  "term": "SMARCB1-deficient undifferentiated sinonasal carcinoma",
+  "subset_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319"
+  ],
+  "subset_sites": [
+   "Nasal cavity",
+   "Maxillary sinus",
+   "Ethmoid sinus",
+   "Frontal sinus",
+   "Sphenoid sinus",
+   "Overlapping lesion of accessory sinuses",
+   "Accessory sinus, NOS"
+  ],
+  "rationale": "SWI/SNF (SMARCB1/SMARCA4)-deficient sinonasal carcinoma is defined as a sinonasal tract entity in WHO Head & Neck Tumours 5th ed; restricted to nasal cavity and paranasal sinuses within the ceiling.",
+  "source_name": "PubMed PMC12078905 (Head Neck Pathol 2025) citing WHO Head & Neck Tumours 5th ed"
+ },
+ {
+  "code": "8044/3",
+  "term": "SWI/SNF complex-deficient sinonasal carcinoma",
+  "subset_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319"
+  ],
+  "subset_sites": [
+   "Nasal cavity",
+   "Maxillary sinus",
+   "Ethmoid sinus",
+   "Frontal sinus",
+   "Sphenoid sinus",
+   "Overlapping lesion of accessory sinuses",
+   "Accessory sinus, NOS"
+  ],
+  "rationale": "SWI/SNF (SMARCB1/SMARCA4)-deficient sinonasal carcinoma is defined as a sinonasal tract entity in WHO Head & Neck Tumours 5th ed; restricted to nasal cavity and paranasal sinuses within the ceiling.",
+  "source_name": "PubMed PMC12078905 (Head Neck Pathol 2025) citing WHO Head & Neck Tumours 5th ed"
+ },
+ {
+  "code": "8044/3",
+  "term": "Small cell carcinoma of the ovary, hypercalcemic type",
+  "subset_codes": [
+   "C569"
+  ],
+  "subset_sites": [
+   "Ovary"
+  ],
+  "rationale": "Hypercalcemic-type small cell carcinoma (SCCOHT), including its large-cell/rhabdoid variant, is definitionally an ovarian tumor per WHO Female Genital Tumours; restricted to the ovary within the ceiling.",
+  "source_name": "PubMed / J Cancer 2019 (SCCOHT review); WHO Female Genital Tumours"
+ },
+ {
+  "code": "8044/3",
+  "term": "Small cell carcinoma of the ovary, hypercalcemic type, large cell subtype",
+  "subset_codes": [
+   "C569"
+  ],
+  "subset_sites": [
+   "Ovary"
+  ],
+  "rationale": "Hypercalcemic-type small cell carcinoma (SCCOHT), including its large-cell/rhabdoid variant, is definitionally an ovarian tumor per WHO Female Genital Tumours; restricted to the ovary within the ceiling.",
+  "source_name": "PubMed / J Cancer 2019 (SCCOHT review); WHO Female Genital Tumours"
+ },
+ {
+  "code": "8044/3",
+  "term": "Small cell carcinoma, hypercalcemic type",
+  "subset_codes": [
+   "C569"
+  ],
+  "subset_sites": [
+   "Ovary"
+  ],
+  "rationale": "Hypercalcemic-type small cell carcinoma (SCCOHT), including its large-cell/rhabdoid variant, is definitionally an ovarian tumor per WHO Female Genital Tumours; restricted to the ovary within the ceiling.",
+  "source_name": "PubMed / J Cancer 2019 (SCCOHT review); WHO Female Genital Tumours"
+ },
+ {
+  "code": "8044/3",
+  "term": "Small cell carcinoma, hypercalcemic type, large cell subtype",
+  "subset_codes": [
+   "C569"
+  ],
+  "subset_sites": [
+   "Ovary"
+  ],
+  "rationale": "Hypercalcemic-type small cell carcinoma (SCCOHT), including its large-cell/rhabdoid variant, is definitionally an ovarian tumor per WHO Female Genital Tumours; restricted to the ovary within the ceiling.",
+  "source_name": "PubMed / J Cancer 2019 (SCCOHT review); WHO Female Genital Tumours"
+ },
+ {
+  "code": "8044/3",
+  "term": "Small cell carcinoma, intermediate cell",
+  "subset_codes": [
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390"
+  ],
+  "subset_sites": [
+   "Trachea",
+   "Main bronchus",
+   "Upper lobe, lung",
+   "Middle lobe, lung",
+   "Lower lobe, lung",
+   "Overlapping lesion of lung",
+   "Lung, NOS",
+   "Upper respiratory tract, NOS"
+  ],
+  "rationale": "'Intermediate cell' small cell carcinoma is a small cell lung cancer morphologic descriptor (SEER lists intermediate cell carcinoma among small cell lung cancers); used in the lower respiratory tract, not the ovary/sinonasal, so restricted to the thoracic/respiratory codes within the ceiling.",
+  "source_name": "SEER Training \u2014 Lung morphology (small cell/intermediate cell lung cancer)"
+ },
+ {
+  "code": "8044/3",
+  "term": "Small cell carcinoma, large cell subtype",
+  "subset_codes": [
+   "C569"
+  ],
+  "subset_sites": [
+   "Ovary"
+  ],
+  "rationale": "Hypercalcemic-type small cell carcinoma (SCCOHT), including its large-cell/rhabdoid variant, is definitionally an ovarian tumor per WHO Female Genital Tumours; restricted to the ovary within the ceiling.",
+  "source_name": "PubMed / J Cancer 2019 (SCCOHT review); WHO Female Genital Tumours"
+ },
+ {
+  "code": "8044/3",
+  "term": "Small cell carcinoma, large cell variant",
+  "subset_codes": [
+   "C569"
+  ],
+  "subset_sites": [
+   "Ovary"
+  ],
+  "rationale": "Hypercalcemic-type small cell carcinoma (SCCOHT), including its large-cell/rhabdoid variant, is definitionally an ovarian tumor per WHO Female Genital Tumours; restricted to the ovary within the ceiling.",
+  "source_name": "PubMed / J Cancer 2019 (SCCOHT review); WHO Female Genital Tumours"
+ },
+ {
+  "code": "8044/3",
+  "term": "Thoracic SMARCA4-deficient undifferentiated tumor",
+  "subset_codes": [
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390"
+  ],
+  "subset_sites": [
+   "Trachea",
+   "Main bronchus",
+   "Upper lobe, lung",
+   "Middle lobe, lung",
+   "Lower lobe, lung",
+   "Overlapping lesion of lung",
+   "Lung, NOS",
+   "Upper respiratory tract, NOS"
+  ],
+  "rationale": "Thoracic SMARCA4-deficient undifferentiated tumor is defined in WHO Thoracic Tumours 5th ed (2021) as a thoracic/lung entity under 'other epithelial tumours of the lung'; restricted to the thoracic/respiratory codes within the ceiling.",
+  "source_name": "Jpn J Clin Oncol 2024 citing WHO Classification of Thoracic Tumours 5th ed 2021"
+ },
+ {
+  "code": "8333/3",
+  "term": "Fetal adenocarcinoma",
+  "subset_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349"
+  ],
+  "subset_sites": [
+   "Main bronchus",
+   "Upper lobe, lung",
+   "Middle lobe, lung",
+   "Lower lobe, lung",
+   "Overlapping lesion of lung",
+   "Lung, NOS"
+  ],
+  "rationale": "Fetal adenocarcinoma (8333/3) is defined as a lung tumor ('fetal adenocarcinoma of the lung') in WHO Thoracic Tumours 5th ed; restricted to lung, excluding the thyroid (C739) code in the ceiling.",
+  "source_name": "WHO Blue Books \u2014 Thoracic Tumours 5th ed (Fetal adenocarcinoma of the lung)"
+ },
+ {
+  "code": "8483/3",
+  "term": "Adenocarcinoma, HPV-associated",
+  "subset_codes": [
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "subset_sites": [
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri"
+  ],
+  "rationale": "'Adenocarcinoma, HPV-associated' (8483/3) is the HPV-associated endocervical adenocarcinoma of WHO Female Genital Tumours, valid for uterine cervix; restricted to the cervix codes within the ceiling.",
+  "source_name": "ICCR Carcinoma of the Cervix Reporting Guide 5th ed (WHO Female Genital Tumours)"
+ },
+ {
+  "code": "8483/3",
+  "term": "HPV-associated multiphenotypic sinonasal carcinoma",
+  "subset_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319"
+  ],
+  "subset_sites": [
+   "Nasal cavity",
+   "Maxillary sinus",
+   "Ethmoid sinus",
+   "Frontal sinus",
+   "Sphenoid sinus",
+   "Overlapping lesion of accessory sinuses",
+   "Accessory sinus, NOS"
+  ],
+  "rationale": "HPV-related multiphenotypic sinonasal carcinoma is described in WHO Head & Neck Tumours 5th ed as seemingly restricted to the sinonasal tract; restricted to nasal cavity and paranasal sinuses within the ceiling.",
+  "source_name": "Thompson & Bishop, Head Neck Pathol 2022 \u2014 WHO Head & Neck 5th ed update"
+ },
+ {
+  "code": "8483/3",
+  "term": "HPV-related multiphenotypic sinonasal carcinoma",
+  "subset_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319"
+  ],
+  "subset_sites": [
+   "Nasal cavity",
+   "Maxillary sinus",
+   "Ethmoid sinus",
+   "Frontal sinus",
+   "Sphenoid sinus",
+   "Overlapping lesion of accessory sinuses",
+   "Accessory sinus, NOS"
+  ],
+  "rationale": "HPV-related multiphenotypic sinonasal carcinoma is described in WHO Head & Neck Tumours 5th ed as seemingly restricted to the sinonasal tract; restricted to nasal cavity and paranasal sinuses within the ceiling.",
+  "source_name": "Thompson & Bishop, Head Neck Pathol 2022 \u2014 WHO Head & Neck 5th ed update"
+ },
+ {
+  "code": "8700/3",
+  "term": "Adrenal composite paraganglion tumor",
+  "subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "subset_sites": [
+   "Cortex of adrenal gland",
+   "Medulla of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source_name": "Guilmette & Sadow, WHO 2017 Endocrine classification review (PMC7403630)"
+ },
+ {
+  "code": "8700/3",
+  "term": "Adrenal composite pheochromocytoma-paraganglioma",
+  "subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "subset_sites": [
+   "Cortex of adrenal gland",
+   "Medulla of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source_name": "Tischler, WHO definition: pheochromocytoma = intra-adrenal sympathetic paraganglioma (PubMed 18684026)"
+ },
+ {
+  "code": "8700/3",
+  "term": "Adrenal medullary paraganglioma",
+  "subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "subset_sites": [
+   "Cortex of adrenal gland",
+   "Medulla of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source_name": "Guilmette & Sadow, WHO 2017 Endocrine classification review (PMC7403630)"
+ },
+ {
+  "code": "8700/3",
+  "term": "Chromaffin paraganglioma",
+  "subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "subset_sites": [
+   "Cortex of adrenal gland",
+   "Medulla of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source_name": "Pheochromocytoma (Wikipedia) - adrenal medullary/chromaffin cell tumor synonyms"
+ },
+ {
+  "code": "8700/3",
+  "term": "Chromaffin tumor",
+  "subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "subset_sites": [
+   "Cortex of adrenal gland",
+   "Medulla of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source_name": "Pheochromocytoma (Wikipedia) - adrenal medullary/chromaffin cell tumor synonyms"
+ },
+ {
+  "code": "8700/3",
+  "term": "Chromaffinoma",
+  "subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "subset_sites": [
+   "Cortex of adrenal gland",
+   "Medulla of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source_name": "Pheochromocytoma (Wikipedia) - adrenal medullary/chromaffin cell tumor synonyms"
+ },
+ {
+  "code": "8700/3",
+  "term": "Composite pheochromocytoma",
+  "subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "subset_sites": [
+   "Cortex of adrenal gland",
+   "Medulla of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source_name": "Tischler, WHO definition: pheochromocytoma = intra-adrenal sympathetic paraganglioma (PubMed 18684026)"
+ },
+ {
+  "code": "8700/3",
+  "term": "Composite pheochromocytoma-ganglioneuroblastoma",
+  "subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "subset_sites": [
+   "Cortex of adrenal gland",
+   "Medulla of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source_name": "Tischler, WHO definition: pheochromocytoma = intra-adrenal sympathetic paraganglioma (PubMed 18684026)"
+ },
+ {
+  "code": "8700/3",
+  "term": "Composite pheochromocytoma-ganglioneuroma",
+  "subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "subset_sites": [
+   "Cortex of adrenal gland",
+   "Medulla of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source_name": "Tischler, WHO definition: pheochromocytoma = intra-adrenal sympathetic paraganglioma (PubMed 18684026)"
+ },
+ {
+  "code": "8700/3",
+  "term": "Composite pheochromocytoma-neuroblastoma",
+  "subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "subset_sites": [
+   "Cortex of adrenal gland",
+   "Medulla of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source_name": "Tischler, WHO definition: pheochromocytoma = intra-adrenal sympathetic paraganglioma (PubMed 18684026)"
+ },
+ {
+  "code": "8700/3",
+  "term": "Composite pheochromocytoma\u2013malignant peripheral nerve sheath tumor",
+  "subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "subset_sites": [
+   "Cortex of adrenal gland",
+   "Medulla of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source_name": "Tischler, WHO definition: pheochromocytoma = intra-adrenal sympathetic paraganglioma (PubMed 18684026)"
+ },
+ {
+  "code": "8700/3",
+  "term": "Composite pheochromocytoma\u2013peripheral nerve sheath tumor",
+  "subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "subset_sites": [
+   "Cortex of adrenal gland",
+   "Medulla of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source_name": "Tischler, WHO definition: pheochromocytoma = intra-adrenal sympathetic paraganglioma (PubMed 18684026)"
+ },
+ {
+  "code": "8700/3",
+  "term": "Paraganglioma, adrenal sympathetic",
+  "subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "subset_sites": [
+   "Cortex of adrenal gland",
+   "Medulla of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source_name": "Guilmette & Sadow, WHO 2017 Endocrine classification review (PMC7403630)"
+ },
+ {
+  "code": "8700/3",
+  "term": "Paraganglioma, adrenal, NOS",
+  "subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "subset_sites": [
+   "Cortex of adrenal gland",
+   "Medulla of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source_name": "Guilmette & Sadow, WHO 2017 Endocrine classification review (PMC7403630)"
+ },
+ {
+  "code": "8700/3",
+  "term": "Paraganglioma, intra-adrenal",
+  "subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "subset_sites": [
+   "Cortex of adrenal gland",
+   "Medulla of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source_name": "Guilmette & Sadow, WHO 2017 Endocrine classification review (PMC7403630)"
+ },
+ {
+  "code": "8700/3",
+  "term": "Pheochromoblastoma",
+  "subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "subset_sites": [
+   "Cortex of adrenal gland",
+   "Medulla of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "Per the WHO classification, 'pheochromocytoma' (and its adrenal/chromaffin/intra-adrenal synonyms) is reserved for tumors of the adrenal medulla; extra-adrenal counterparts are instead termed paragangliomas. This term is therefore restricted to the adrenal gland, a proper subset of the code's ceiling (which also includes mediastinal/thoracic sympathetic paraganglioma sites C381/C382/C383/C388/C398).",
+  "source_name": "Tischler, WHO definition: pheochromocytoma = intra-adrenal sympathetic paraganglioma (PubMed 18684026)"
+ },
+ {
+  "code": "8700/3",
+  "term": "Pheochromocytoma, NOS",
+  "subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "subset_sites": [
+   "Cortex of adrenal gland",
+   "Medulla of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "WHO reserves the term pheochromocytoma exclusively for intra-adrenal (adrenal medulla) chromaffin-cell tumors; morphologically identical tumors in extra-adrenal/mediastinal paraganglia are termed extra-adrenal paragangliomas. The term is therefore restricted to the adrenal gland, a proper subset of the ceiling (excludes mediastinal codes C381-C398).",
+  "source_name": "Arch Pathol Lab Med (Tischler), summarizing WHO classification"
+ },
+ {
+  "code": "8700/3",
+  "term": "Pheochromocytoma, malignant",
+  "subset_codes": [
+   "C740",
+   "C741",
+   "C749"
+  ],
+  "subset_sites": [
+   "Cortex of adrenal gland",
+   "Medulla of adrenal gland",
+   "Adrenal gland, NOS"
+  ],
+  "rationale": "As with pheochromocytoma NOS, WHO defines pheochromocytoma (including metastatic/malignant) as an intra-adrenal sympathetic paraganglioma; extra-adrenal/mediastinal tumors are paragangliomas. The named entity is restricted to the adrenal gland, a proper subset of the ceiling.",
+  "source_name": "Arch Pathol Lab Med (Tischler), summarizing WHO classification"
+ },
+ {
+  "code": "8972/3",
+  "term": "Pneumoblastoma",
+  "subset_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349"
+  ],
+  "subset_sites": [
+   "Main bronchus",
+   "Upper lobe, lung",
+   "Middle lobe, lung",
+   "Lower lobe, lung",
+   "Overlapping lesion of lung",
+   "Lung, NOS"
+  ],
+  "rationale": "Pulmonary blastoma (pneumoblastoma) is defined by WHO Thoracic Tumours 5th ed as a rare subtype of lung cancer (biphasic tumor of the lung); it is a bronchopulmonary parenchymal tumor and is not a tracheal entity. It is thus restricted to lung/bronchus, a proper subset of the ceiling (excludes trachea C339 and respiratory NOS C390).",
+  "source_name": "J Natl Cancer Center 2024 (citing WHO Thoracic Tumours 5th ed)"
+ },
+ {
+  "code": "8972/3",
+  "term": "Pulmonary blastoma",
+  "subset_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349"
+  ],
+  "subset_sites": [
+   "Main bronchus",
+   "Upper lobe, lung",
+   "Middle lobe, lung",
+   "Lower lobe, lung",
+   "Overlapping lesion of lung",
+   "Lung, NOS"
+  ],
+  "rationale": "WHO Thoracic Tumours 5th ed defines pulmonary blastoma as a rare biphasic subtype of lung cancer arising in the lung; it is a bronchopulmonary tumor, not a tracheal one. Restricted to lung/bronchus, a proper subset of the ceiling (excludes trachea C339 and respiratory NOS C390).",
+  "source_name": "J Natl Cancer Center 2024 (citing WHO Thoracic Tumours 5th ed)"
+ },
+ {
+  "code": "9522/3",
+  "term": "Esthesioneuroblastoma",
+  "subset_codes": [
+   "C300",
+   "C311",
+   "C722"
+  ],
+  "subset_sites": [
+   "Nasal cavity",
+   "Ethmoid sinus",
+   "Olfactory nerve"
+  ],
+  "rationale": "Esthesioneuroblastoma arises from the specialized olfactory neuroepithelium of the upper nasal cavity, cribriform plate/ethmoid region, and olfactory nerve; ectopic occurrence in paranasal sinuses other than the ethmoid is vanishingly rare. It is therefore restricted to nasal cavity, ethmoid sinus, and olfactory nerve, a proper subset of the ceiling (excludes maxillary C310, frontal C312, sphenoid C313 sinuses and other cranial nerves).",
+  "source_name": "Head Neck Pathol 2009 (Thompson, Olfactory Neuroblastoma)"
+ },
+ {
+  "code": "9522/3",
+  "term": "Olfactory neuroblastoma",
+  "subset_codes": [
+   "C300",
+   "C311",
+   "C722"
+  ],
+  "subset_sites": [
+   "Nasal cavity",
+   "Ethmoid sinus",
+   "Olfactory nerve"
+  ],
+  "rationale": "Olfactory neuroblastoma (a synonym for esthesioneuroblastoma) arises from olfactory neuroepithelium in the upper nasal cavity, cribriform plate/ethmoid, and olfactory nerve; ectopic paranasal-sinus (non-ethmoid) tumors are vanishingly rare. Restricted to a proper subset of the ceiling (excludes maxillary, frontal, sphenoid sinuses and non-olfactory cranial nerves).",
+  "source_name": "Head Neck Pathol 2009 (Thompson, Olfactory Neuroblastoma)"
+ },
+ {
+  "code": "9678/3",
+  "term": "Fluid overload-associated large B-cell lymphoma",
+  "subset_codes": [
+   "C380",
+   "C384"
+  ],
+  "subset_sites": [
+   "Heart",
+   "Pleura, NOS"
+  ],
+  "rationale": "Fluid overload-associated LBCL presents as serous body-cavity effusions without detectable tumor masses, lymphadenopathy, or organ involvement, occurring in the pleural (majority), pericardial, and peritoneal cavities. Within this ceiling it is confined to pleura (C384) and pericardium (C380); peritoneum is not in the ceiling, and it does not involve the lung parenchyma, mediastinal tissue, bone marrow, spleen, or lymph nodes, so it is restricted to a proper subset.",
+  "source_name": "SEER Hematopoietic Project (WHO 5th ed) - FO-LBCL"
+ },
+ {
+  "code": "9678/3",
+  "term": "Fluid-overload effusion lymphoma",
+  "subset_codes": [
+   "C380",
+   "C384"
+  ],
+  "subset_sites": [
+   "Heart",
+   "Pleura, NOS"
+  ],
+  "rationale": "A synonym for fluid overload-associated LBCL, which presents as serous effusions confined to body cavities (pleural, pericardial, peritoneal) without tumor masses or organ involvement. Within this ceiling it is confined to pleura (C384) and pericardium (C380), a proper subset (excludes lung parenchyma, mediastinal tissue, bone marrow, spleen, lymph nodes).",
+  "source_name": "SEER Hematopoietic Project (WHO 5th ed) - FO-LBCL"
+ },
+ {
+  "code": "9678/3",
+  "term": "KSHV/HHV8-negative effusion-based lymphoma",
+  "subset_codes": [
+   "C380",
+   "C384"
+  ],
+  "subset_sites": [
+   "Heart",
+   "Pleura, NOS"
+  ],
+  "rationale": "This is the WHO/ICC synonym for fluid overload-associated LBCL, an HHV8-negative effusion-based large B-cell lymphoma confined to serous body cavities (pleural, pericardial, peritoneal) without masses or organ involvement. Within this ceiling it is confined to pleura (C384) and pericardium (C380), a proper subset.",
+  "source_name": "SEER Hematopoietic Project (WHO 5th ed) - FO-LBCL/effusion-based"
+ },
+ {
+  "code": "8201/2",
+  "term": "Ductal carcinoma in situ, cribriform type",
+  "subset_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ],
+  "subset_sites": [
+   "Nipple",
+   "Central portion of breast",
+   "Upper-inner quadrant of breast",
+   "Lower-inner quadrant of breast",
+   "Upper-outer quadrant of breast",
+   "Lower-outer quadrant of breast",
+   "Axillary tail of breast",
+   "Overlapping lesion of breast",
+   "Breast, NOS"
+  ],
+  "rationale": "Ductal carcinoma in situ (intraductal carcinoma) is, by definition, a non-invasive carcinoma confined to the breast ducts/lobules; the 'ductal' cribriform-type in situ entity is a breast lesion, a proper subset of this code's ceiling which also spans skin and eye.",
+  "source_name": "American Cancer Society \u2014 Understanding Your Pathology Report: Ductal Carcinoma In Situ (DCIS)"
+ },
+ {
+  "code": "8230/2",
+  "term": "Ductal carcinoma in situ, solid type",
+  "subset_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ],
+  "subset_sites": [
+   "Nipple",
+   "Central portion of breast",
+   "Upper-inner quadrant of breast",
+   "Lower-inner quadrant of breast",
+   "Upper-outer quadrant of breast",
+   "Lower-outer quadrant of breast",
+   "Axillary tail of breast",
+   "Overlapping lesion of breast",
+   "Breast, NOS"
+  ],
+  "rationale": "Ductal carcinoma in situ, solid type is by definition a breast entity (malignant cells confined within breast ducts/lobules); it is anatomically restricted to the breast, a proper subset of this code's ceiling that also includes skin and thyroid.",
+  "source_name": "American Cancer Society \u2014 Understanding Your Pathology Report: Ductal Carcinoma In Situ (DCIS)"
+ },
+ {
+  "code": "8230/2",
+  "term": "Intraductal carcinoma, solid type",
+  "subset_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ],
+  "subset_sites": [
+   "Nipple",
+   "Central portion of breast",
+   "Upper-inner quadrant of breast",
+   "Lower-inner quadrant of breast",
+   "Upper-outer quadrant of breast",
+   "Lower-outer quadrant of breast",
+   "Axillary tail of breast",
+   "Overlapping lesion of breast",
+   "Breast, NOS"
+  ],
+  "rationale": "Intraductal carcinoma is the direct synonym of ductal carcinoma in situ, a breast-duct-confined entity; the solid-type intraductal carcinoma is restricted to the breast, a proper subset of this code's ceiling that also includes skin and thyroid.",
+  "source_name": "American Cancer Society \u2014 Understanding Your Pathology Report: Ductal Carcinoma In Situ (DCIS)"
+ },
+ {
+  "code": "8420/3",
+  "term": "Ceruminous adenocarcinoma",
+  "subset_codes": [
+   "C301"
+  ],
+  "subset_sites": [
+   "Middle ear"
+  ],
+  "rationale": "Ceruminous carcinomas arise from ceruminous glands, which exist only in the outer external auditory canal; the tumour by definition affects only that site (diagnosis is questioned if the EAC is uninvolved), a proper subset of the ceiling (EAC + skin).",
+  "source_name": "Ceruminous adenocarcinoma (external auditory canal only); corroborated by Head & Neck Pathol 2018 PMC6081286"
+ },
+ {
+  "code": "8420/3",
+  "term": "Ceruminous adenoid cystic carcinoma",
+  "subset_codes": [
+   "C301"
+  ],
+  "subset_sites": [
+   "Middle ear"
+  ],
+  "rationale": "Ceruminous carcinomas arise from ceruminous glands, which exist only in the outer external auditory canal; the tumour by definition affects only that site (diagnosis is questioned if the EAC is uninvolved), a proper subset of the ceiling (EAC + skin).",
+  "source_name": "Ceruminous adenocarcinoma (external auditory canal only); corroborated by Head & Neck Pathol 2018 PMC6081286"
+ },
+ {
+  "code": "8420/3",
+  "term": "Ceruminous carcinoma",
+  "subset_codes": [
+   "C301"
+  ],
+  "subset_sites": [
+   "Middle ear"
+  ],
+  "rationale": "Ceruminous carcinomas arise from ceruminous glands, which exist only in the outer external auditory canal; the tumour by definition affects only that site (diagnosis is questioned if the EAC is uninvolved), a proper subset of the ceiling (EAC + skin).",
+  "source_name": "Ceruminous adenocarcinoma (external auditory canal only); corroborated by Head & Neck Pathol 2018 PMC6081286"
+ },
+ {
+  "code": "8420/3",
+  "term": "Ceruminous mucoepidermoid carcinoma",
+  "subset_codes": [
+   "C301"
+  ],
+  "subset_sites": [
+   "Middle ear"
+  ],
+  "rationale": "Ceruminous carcinomas arise from ceruminous glands, which exist only in the outer external auditory canal; the tumour by definition affects only that site (diagnosis is questioned if the EAC is uninvolved), a proper subset of the ceiling (EAC + skin).",
+  "source_name": "Ceruminous adenocarcinoma (external auditory canal only); corroborated by Head & Neck Pathol 2018 PMC6081286"
+ },
+ {
+  "code": "8572/3",
+  "term": "Fibromatosis-like metaplastic carcinoma",
+  "subset_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ],
+  "subset_sites": [
+   "Nipple",
+   "Central portion of breast",
+   "Upper-inner quadrant of breast",
+   "Lower-inner quadrant of breast",
+   "Upper-outer quadrant of breast",
+   "Lower-outer quadrant of breast",
+   "Axillary tail of breast",
+   "Overlapping lesion of breast",
+   "Breast, NOS"
+  ],
+  "rationale": "Fibromatosis-like metaplastic carcinoma is a WHO Classification of Breast Tumours (5th ed) entity defined exclusively in the breast; it is restricted to the breast, a proper subset of the code ceiling.",
+  "source_name": "Fibromatosis-like metaplastic carcinoma of the breast, WHO 5th ed (World J Clin Cases 2023, PMC10336999)"
+ },
+ {
+  "code": "8742/2",
+  "term": "Hutchinson melanotic freckle, NOS",
+  "subset_codes": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "subset_sites": [
+   "Skin of lip, NOS",
+   "Eyelid",
+   "External ear",
+   "Skin of other and unspecified parts of face",
+   "Skin of scalp and neck",
+   "Skin of trunk",
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip",
+   "Overlapping lesion of skin",
+   "Skin, NOS"
+  ],
+  "rationale": "Lentigo maligna / Hutchinson melanotic freckle is by definition melanoma in situ on chronically sun-damaged skin (86% head & neck, predilection for face); it is confined to cutaneous sites and does not arise on the lip mucosa, vulva, penis or scrotum included in the ceiling, so it is restricted to the skin subset.",
+  "source_name": "Lentigo Maligna Melanoma, StatPearls (NBK482163)"
+ },
+ {
+  "code": "8742/2",
+  "term": "Lentigo maligna",
+  "subset_codes": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "subset_sites": [
+   "Skin of lip, NOS",
+   "Eyelid",
+   "External ear",
+   "Skin of other and unspecified parts of face",
+   "Skin of scalp and neck",
+   "Skin of trunk",
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip",
+   "Overlapping lesion of skin",
+   "Skin, NOS"
+  ],
+  "rationale": "Lentigo maligna / Hutchinson melanotic freckle is by definition melanoma in situ on chronically sun-damaged skin (86% head & neck, predilection for face); it is confined to cutaneous sites and does not arise on the lip mucosa, vulva, penis or scrotum included in the ceiling, so it is restricted to the skin subset.",
+  "source_name": "Lentigo Maligna Melanoma, StatPearls (NBK482163)"
+ },
+ {
+  "code": "8742/2",
+  "term": "Lentigo maligna melanoma in situ",
+  "subset_codes": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "subset_sites": [
+   "Skin of lip, NOS",
+   "Eyelid",
+   "External ear",
+   "Skin of other and unspecified parts of face",
+   "Skin of scalp and neck",
+   "Skin of trunk",
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip",
+   "Overlapping lesion of skin",
+   "Skin, NOS"
+  ],
+  "rationale": "Lentigo maligna / Hutchinson melanotic freckle is by definition melanoma in situ on chronically sun-damaged skin (86% head & neck, predilection for face); it is confined to cutaneous sites and does not arise on the lip mucosa, vulva, penis or scrotum included in the ceiling, so it is restricted to the skin subset.",
+  "source_name": "Lentigo Maligna Melanoma, StatPearls (NBK482163)"
+ },
+ {
+  "code": "8742/3",
+  "term": "High cumulative sun damage melanoma",
+  "subset_codes": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "subset_sites": [
+   "Skin of lip, NOS",
+   "Eyelid",
+   "External ear",
+   "Skin of other and unspecified parts of face",
+   "Skin of scalp and neck",
+   "Skin of trunk",
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip",
+   "Overlapping lesion of skin",
+   "Skin, NOS"
+  ],
+  "rationale": "High cumulative sun damage (high-CSD) melanoma is the WHO 5th-ed pathway defined on chronically sun-exposed skin (head/neck and dorsal extremities); it is a cutaneous entity and does not arise on the lip mucosa, vulva, penis or scrotum in the ceiling, so it is restricted to the skin subset.",
+  "source_name": "WHO 2018 Classification of Melanoma (high-CSD), PMID 32057276"
+ },
+ {
+  "code": "8742/3",
+  "term": "High-CSD melanoma",
+  "subset_codes": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "subset_sites": [
+   "Skin of lip, NOS",
+   "Eyelid",
+   "External ear",
+   "Skin of other and unspecified parts of face",
+   "Skin of scalp and neck",
+   "Skin of trunk",
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip",
+   "Overlapping lesion of skin",
+   "Skin, NOS"
+  ],
+  "rationale": "High cumulative sun damage (high-CSD) melanoma is the WHO 5th-ed pathway defined on chronically sun-exposed skin (head/neck and dorsal extremities); it is a cutaneous entity and does not arise on the lip mucosa, vulva, penis or scrotum in the ceiling, so it is restricted to the skin subset.",
+  "source_name": "WHO 2018 Classification of Melanoma (high-CSD), PMID 32057276"
+ },
+ {
+  "code": "8742/3",
+  "term": "Lentigo maligna melanoma",
+  "subset_codes": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "subset_sites": [
+   "Skin of lip, NOS",
+   "Eyelid",
+   "External ear",
+   "Skin of other and unspecified parts of face",
+   "Skin of scalp and neck",
+   "Skin of trunk",
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip",
+   "Overlapping lesion of skin",
+   "Skin, NOS"
+  ],
+  "rationale": "Lentigo maligna melanoma (Hutchinson melanotic freckle) is by definition a melanoma of chronically sun-damaged CUTANEOUS skin, overwhelmingly on the head and neck; it does not arise on the lip mucosa or on the sun-shielded genital sites (vulva, penis, scrotum) that the code ceiling also spans, so it is restricted to the cutaneous (C44) subset.",
+  "source_name": "StatPearls: Lentigo Maligna Melanoma - chronically sun-damaged skin, ~86% head and neck"
+ },
+ {
+  "code": "8742/3",
+  "term": "Malignant melanoma in Hutchinson melanotic freckle",
+  "subset_codes": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "subset_sites": [
+   "Skin of lip, NOS",
+   "Eyelid",
+   "External ear",
+   "Skin of other and unspecified parts of face",
+   "Skin of scalp and neck",
+   "Skin of trunk",
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip",
+   "Overlapping lesion of skin",
+   "Skin, NOS"
+  ],
+  "rationale": "Lentigo maligna melanoma (Hutchinson melanotic freckle) is by definition a melanoma of chronically sun-damaged CUTANEOUS skin, overwhelmingly on the head and neck; it does not arise on the lip mucosa or on the sun-shielded genital sites (vulva, penis, scrotum) that the code ceiling also spans, so it is restricted to the cutaneous (C44) subset.",
+  "source_name": "StatPearls: Lentigo Maligna Melanoma - chronically sun-damaged skin, ~86% head and neck"
+ },
+ {
+  "code": "8742/3",
+  "term": "Melanoma in Hutchinson melanotic freckle",
+  "subset_codes": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "subset_sites": [
+   "Skin of lip, NOS",
+   "Eyelid",
+   "External ear",
+   "Skin of other and unspecified parts of face",
+   "Skin of scalp and neck",
+   "Skin of trunk",
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip",
+   "Overlapping lesion of skin",
+   "Skin, NOS"
+  ],
+  "rationale": "Lentigo maligna melanoma (Hutchinson melanotic freckle) is by definition a melanoma of chronically sun-damaged CUTANEOUS skin, overwhelmingly on the head and neck; it does not arise on the lip mucosa or on the sun-shielded genital sites (vulva, penis, scrotum) that the code ceiling also spans, so it is restricted to the cutaneous (C44) subset.",
+  "source_name": "StatPearls: Lentigo Maligna Melanoma - chronically sun-damaged skin, ~86% head and neck"
+ },
+ {
+  "code": "8743/2",
+  "term": "Low cumulative sun damage melanoma in situ",
+  "subset_codes": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "subset_sites": [
+   "Skin of lip, NOS",
+   "Eyelid",
+   "External ear",
+   "Skin of other and unspecified parts of face",
+   "Skin of scalp and neck",
+   "Skin of trunk",
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip",
+   "Overlapping lesion of skin",
+   "Skin, NOS"
+  ],
+  "rationale": "Low-CSD (superficial spreading) melanoma in situ is a CUTANEOUS melanoma of intermittently sun-exposed skin (trunk and extremities); it does not arise on the vaginal or female-genital-tract mucosa included in the code ceiling (those are mucosal lentiginous melanomas), so it is restricted to the cutaneous (C44) subset.",
+  "source_name": "Br J Dermatol 2021 (PMC9292921) Melanoma Pathology 2.0 - low-CSD/superficial spreading melanoma arises on trunk and extremities"
+ },
+ {
+  "code": "8743/2",
+  "term": "Low-CSD melanoma in\u00a0situ",
+  "subset_codes": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "subset_sites": [
+   "Skin of lip, NOS",
+   "Eyelid",
+   "External ear",
+   "Skin of other and unspecified parts of face",
+   "Skin of scalp and neck",
+   "Skin of trunk",
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip",
+   "Overlapping lesion of skin",
+   "Skin, NOS"
+  ],
+  "rationale": "Low-CSD (superficial spreading) melanoma in situ is a CUTANEOUS melanoma of intermittently sun-exposed skin (trunk and extremities); it does not arise on the vaginal or female-genital-tract mucosa included in the code ceiling (those are mucosal lentiginous melanomas), so it is restricted to the cutaneous (C44) subset.",
+  "source_name": "Br J Dermatol 2021 (PMC9292921) Melanoma Pathology 2.0 - low-CSD/superficial spreading melanoma arises on trunk and extremities"
+ },
+ {
+  "code": "8743/2",
+  "term": "Superficial spreading melanoma in situ",
+  "subset_codes": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "subset_sites": [
+   "Skin of lip, NOS",
+   "Eyelid",
+   "External ear",
+   "Skin of other and unspecified parts of face",
+   "Skin of scalp and neck",
+   "Skin of trunk",
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip",
+   "Overlapping lesion of skin",
+   "Skin, NOS"
+  ],
+  "rationale": "Low-CSD (superficial spreading) melanoma in situ is a CUTANEOUS melanoma of intermittently sun-exposed skin (trunk and extremities); it does not arise on the vaginal or female-genital-tract mucosa included in the code ceiling (those are mucosal lentiginous melanomas), so it is restricted to the cutaneous (C44) subset.",
+  "source_name": "Br J Dermatol 2021 (PMC9292921) Melanoma Pathology 2.0 - low-CSD/superficial spreading melanoma arises on trunk and extremities"
+ },
+ {
+  "code": "8744/3",
+  "term": "Acral lentiginous melanoma, NOS",
+  "subset_codes": [
+   "C446",
+   "C447"
+  ],
+  "subset_sites": [
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip"
+  ],
+  "rationale": "Acral (lentiginous/subungual/nail-apparatus) melanoma is defined by the WHO as melanoma of glabrous skin of the extremities - palms, soles and nail units of the hands and feet; it does not occur on lip, eyelid, ear, face, scalp/neck or trunk skin, so it is restricted to the skin of the upper limb/hand (C446) and lower limb/foot (C447).",
+  "source_name": "J Pathol Clin Res 2021 (PMC8503895) - WHO defines acral melanoma as glabrous skin of the extremities: palms, soles, nail apparatus"
+ },
+ {
+  "code": "8744/3",
+  "term": "Acral lentiginous melanoma, malignant",
+  "subset_codes": [
+   "C446",
+   "C447"
+  ],
+  "subset_sites": [
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip"
+  ],
+  "rationale": "Acral (lentiginous/subungual/nail-apparatus) melanoma is defined by the WHO as melanoma of glabrous skin of the extremities - palms, soles and nail units of the hands and feet; it does not occur on lip, eyelid, ear, face, scalp/neck or trunk skin, so it is restricted to the skin of the upper limb/hand (C446) and lower limb/foot (C447).",
+  "source_name": "J Pathol Clin Res 2021 (PMC8503895) - WHO defines acral melanoma as glabrous skin of the extremities: palms, soles, nail apparatus"
+ },
+ {
+  "code": "8744/3",
+  "term": "Acral melanoma",
+  "subset_codes": [
+   "C446",
+   "C447"
+  ],
+  "subset_sites": [
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip"
+  ],
+  "rationale": "Acral (lentiginous/subungual/nail-apparatus) melanoma is defined by the WHO as melanoma of glabrous skin of the extremities - palms, soles and nail units of the hands and feet; it does not occur on lip, eyelid, ear, face, scalp/neck or trunk skin, so it is restricted to the skin of the upper limb/hand (C446) and lower limb/foot (C447).",
+  "source_name": "J Pathol Clin Res 2021 (PMC8503895) - WHO defines acral melanoma as glabrous skin of the extremities: palms, soles, nail apparatus"
+ },
+ {
+  "code": "8744/3",
+  "term": "Acral melanoma, desmoplastic",
+  "subset_codes": [
+   "C446",
+   "C447"
+  ],
+  "subset_sites": [
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip"
+  ],
+  "rationale": "Acral (lentiginous/subungual/nail-apparatus) melanoma is defined by the WHO as melanoma of glabrous skin of the extremities - palms, soles and nail units of the hands and feet; it does not occur on lip, eyelid, ear, face, scalp/neck or trunk skin, so it is restricted to the skin of the upper limb/hand (C446) and lower limb/foot (C447).",
+  "source_name": "J Pathol Clin Res 2021 (PMC8503895) - WHO defines acral melanoma as glabrous skin of the extremities: palms, soles, nail apparatus"
+ },
+ {
+  "code": "8744/3",
+  "term": "Desmoplastic acral melanoma",
+  "subset_codes": [
+   "C446",
+   "C447"
+  ],
+  "subset_sites": [
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip"
+  ],
+  "rationale": "Acral (lentiginous/subungual/nail-apparatus) melanoma is defined by the WHO as melanoma of glabrous skin of the extremities - palms, soles and nail units of the hands and feet; it does not occur on lip, eyelid, ear, face, scalp/neck or trunk skin, so it is restricted to the skin of the upper limb/hand (C446) and lower limb/foot (C447).",
+  "source_name": "J Pathol Clin Res 2021 (PMC8503895) - WHO defines acral melanoma as glabrous skin of the extremities: palms, soles, nail apparatus"
+ },
+ {
+  "code": "8744/3",
+  "term": "Melanoma, nail apparatus",
+  "subset_codes": [
+   "C446",
+   "C447"
+  ],
+  "subset_sites": [
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip"
+  ],
+  "rationale": "Acral (lentiginous/subungual/nail-apparatus) melanoma is defined by the WHO as melanoma of glabrous skin of the extremities - palms, soles and nail units of the hands and feet; it does not occur on lip, eyelid, ear, face, scalp/neck or trunk skin, so it is restricted to the skin of the upper limb/hand (C446) and lower limb/foot (C447).",
+  "source_name": "J Pathol Clin Res 2021 (PMC8503895) - WHO defines acral melanoma as glabrous skin of the extremities: palms, soles, nail apparatus"
+ },
+ {
+  "code": "8744/3",
+  "term": "Melanoma, subungual",
+  "subset_codes": [
+   "C446",
+   "C447"
+  ],
+  "subset_sites": [
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip"
+  ],
+  "rationale": "Acral (lentiginous/subungual/nail-apparatus) melanoma is defined by the WHO as melanoma of glabrous skin of the extremities - palms, soles and nail units of the hands and feet; it does not occur on lip, eyelid, ear, face, scalp/neck or trunk skin, so it is restricted to the skin of the upper limb/hand (C446) and lower limb/foot (C447).",
+  "source_name": "J Pathol Clin Res 2021 (PMC8503895) - WHO defines acral melanoma as glabrous skin of the extremities: palms, soles, nail apparatus"
+ },
+ {
+  "code": "8744/3",
+  "term": "Subungual melanoma",
+  "subset_codes": [
+   "C446",
+   "C447"
+  ],
+  "subset_sites": [
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip"
+  ],
+  "rationale": "Acral (lentiginous/subungual/nail-apparatus) melanoma is defined by the WHO as melanoma of glabrous skin of the extremities - palms, soles and nail units of the hands and feet; it does not occur on lip, eyelid, ear, face, scalp/neck or trunk skin, so it is restricted to the skin of the upper limb/hand (C446) and lower limb/foot (C447).",
+  "source_name": "J Pathol Clin Res 2021 (PMC8503895) - WHO defines acral melanoma as glabrous skin of the extremities: palms, soles, nail apparatus"
+ },
+ {
+  "code": "8770/3",
+  "term": "Mixed epithelioid and spindle cell uveal melanoma",
+  "subset_codes": [
+   "C693",
+   "C694"
+  ],
+  "subset_sites": [
+   "Choroid",
+   "Ciliary body"
+  ],
+  "rationale": "A uveal melanoma is by definition an intraocular melanoma of the uveal tract (choroid, ciliary body, iris) of the eye; it does not arise on lip, skin or scrotum, so it is restricted to the intraocular (choroid C693 / ciliary body C694) subset of the ceiling.",
+  "source_name": "NCI PDQ Intraocular (Uveal) Melanoma - uvea (iris, ciliary body, choroid) middle layer of the eye"
+ },
+ {
+  "code": "9718/3",
+  "term": "Ocular adnexal T-cell lymphoma",
+  "subset_codes": [
+   "C441"
+  ],
+  "subset_sites": [
+   "Eyelid"
+  ],
+  "rationale": "By definition this lymphoma arises in the ocular adnexa (conjunctiva, orbit, lacrimal gland/drainage apparatus, and eyelid); the only ocular-adnexal skin site within its C44-based cutaneous ceiling is the skin of the eyelid (C441), a strict proper subset.",
+  "source_name": "College of American Pathologists Ocular Adnexal Lymphoma protocol"
+ },
+ {
+  "code": "8120/3",
+  "term": "Diverticular carcinoma",
+  "subset_codes": [
+   "C670",
+   "C671",
+   "C672",
+   "C673",
+   "C674",
+   "C675",
+   "C676",
+   "C677",
+   "C678",
+   "C679",
+   "C680"
+  ],
+  "subset_sites": [
+   "Trigone of bladder",
+   "Dome of bladder",
+   "Lateral wall of bladder",
+   "Anterior wall of bladder",
+   "Posterior wall of bladder",
+   "Bladder neck",
+   "Ureteric orifice",
+   "Urachus",
+   "Overlapping lesion of bladder",
+   "Bladder, NOS",
+   "Urethra"
+  ],
+  "rationale": "Diverticular carcinoma arises within diverticula, which in the urinary tract occur as bladder diverticula and urethral diverticula; WHO 5th ed treats diverticular tumors as a separate site-specific entity. It does not arise in renal pelvis, ureter, or the female genital sites also in the code ceiling.",
+  "source_name": "WHO 2022 bladder tumor classification news (diverticular tumors in specific section)"
+ }
+]

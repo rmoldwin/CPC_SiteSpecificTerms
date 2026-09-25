@@ -1,0 +1,262 @@
+[
+ {
+  "code": "8700/3",
+  "term": "Pheochromocytoma, NOS",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C740", "C741", "C749"],
+  "site_subset_labels": ["Adrenal cortex", "Adrenal medulla", "Adrenal gland, NOS"],
+  "rationale": "WHO reserves the term pheochromocytoma exclusively for intra-adrenal (adrenal medulla) chromaffin-cell tumors; morphologically identical tumors in extra-adrenal/mediastinal paraganglia are termed extra-adrenal paragangliomas. The term is therefore restricted to the adrenal gland, a proper subset of the ceiling (excludes mediastinal codes C381-C398).",
+  "source": "https://meridian.allenpress.com/aplm/article/132/8/1272/460544/Pheochromocytoma-and-Extra-adrenal-Paraganglioma",
+  "source_name": "Arch Pathol Lab Med (Tischler), summarizing WHO classification"
+ },
+ {
+  "code": "8700/3",
+  "term": "Pheochromocytoma, malignant",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C740", "C741", "C749"],
+  "site_subset_labels": ["Adrenal cortex", "Adrenal medulla", "Adrenal gland, NOS"],
+  "rationale": "As with pheochromocytoma NOS, WHO defines pheochromocytoma (including metastatic/malignant) as an intra-adrenal sympathetic paraganglioma; extra-adrenal/mediastinal tumors are paragangliomas. The named entity is restricted to the adrenal gland, a proper subset of the ceiling.",
+  "source": "https://meridian.allenpress.com/aplm/article/132/8/1272/460544/Pheochromocytoma-and-Extra-adrenal-Paraganglioma",
+  "source_name": "Arch Pathol Lab Med (Tischler), summarizing WHO classification"
+ },
+ {
+  "code": "8972/3",
+  "term": "Pneumoblastoma",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C340", "C341", "C342", "C343", "C348", "C349"],
+  "site_subset_labels": ["Main bronchus", "Upper lobe, lung", "Lower lobe, lung", "Middle lobe, lung", "Overlapping lesion of lung", "Lung, NOS"],
+  "rationale": "Pulmonary blastoma (pneumoblastoma) is defined by WHO Thoracic Tumours 5th ed as a rare subtype of lung cancer (biphasic tumor of the lung); it is a bronchopulmonary parenchymal tumor and is not a tracheal entity. It is thus restricted to lung/bronchus, a proper subset of the ceiling (excludes trachea C339 and respiratory NOS C390).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11873630/",
+  "source_name": "J Natl Cancer Center 2024 (citing WHO Thoracic Tumours 5th ed)"
+ },
+ {
+  "code": "8972/3",
+  "term": "Pulmonary blastoma",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C340", "C341", "C342", "C343", "C348", "C349"],
+  "site_subset_labels": ["Main bronchus", "Upper lobe, lung", "Lower lobe, lung", "Middle lobe, lung", "Overlapping lesion of lung", "Lung, NOS"],
+  "rationale": "WHO Thoracic Tumours 5th ed defines pulmonary blastoma as a rare biphasic subtype of lung cancer arising in the lung; it is a bronchopulmonary tumor, not a tracheal one. Restricted to lung/bronchus, a proper subset of the ceiling (excludes trachea C339 and respiratory NOS C390).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11873630/",
+  "source_name": "J Natl Cancer Center 2024 (citing WHO Thoracic Tumours 5th ed)"
+ },
+ {
+  "code": "8973/3",
+  "term": "Pleuropulmonary blastoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Pleuropulmonary blastoma originates from either the lung or pleura in children. The code's ceiling consists entirely of lung/bronchus subsites (C340-C349); PPB occurs across these lung sites, so no proper-subset restriction exists within the ceiling.",
+  "source": "https://applications.emro.who.int/imemrf/Iran_J_Cancer_Prevention/Iran_J_Cancer_Prevention_2012_5_2_105_107.pdf",
+  "source_name": "Iran J Cancer Prevention 2012 (PPB review)"
+ },
+ {
+  "code": "8973/3",
+  "term": "Pleuropulmonary blastoma, type I",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "PPB type I (cystic) arises in the lung/pleura of young children; it shares the same lung anatomic distribution as the parent entity. The ceiling is entirely lung/bronchus subsites, so the type-specific term is not restricted to a proper subset.",
+  "source": "https://applications.emro.who.int/imemrf/Iran_J_Cancer_Prevention/Iran_J_Cancer_Prevention_2012_5_2_105_107.pdf",
+  "source_name": "Iran J Cancer Prevention 2012 (PPB review)"
+ },
+ {
+  "code": "8973/3",
+  "term": "Pleuropulmonary blastoma, type II",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "PPB type II (mixed cystic/solid) is a histologic progression variant with the same lung/pleura anatomic distribution as the parent entity. The ceiling is entirely lung/bronchus subsites, so no proper-subset restriction applies.",
+  "source": "https://applications.emro.who.int/imemrf/Iran_J_Cancer_Prevention/Iran_J_Cancer_Prevention_2012_5_2_105_107.pdf",
+  "source_name": "Iran J Cancer Prevention 2012 (PPB review)"
+ },
+ {
+  "code": "8973/3",
+  "term": "Pleuropulmonary blastoma, type III",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "PPB type III (solid) is a histologic-grade variant with the same lung/pleura distribution as the parent entity. The ceiling is entirely lung/bronchus subsites, so no proper-subset restriction applies.",
+  "source": "https://applications.emro.who.int/imemrf/Iran_J_Cancer_Prevention/Iran_J_Cancer_Prevention_2012_5_2_105_107.pdf",
+  "source_name": "Iran J Cancer Prevention 2012 (PPB review)"
+ },
+ {
+  "code": "8973/3",
+  "term": "Pleuropulmonary blastoma, type Ir",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "PPB type Ir (type I regressed) is a histologic variant with the same lung/pleura anatomic distribution as the parent entity. The ceiling is entirely lung/bronchus subsites, so no proper-subset restriction applies.",
+  "source": "https://applications.emro.who.int/imemrf/Iran_J_Cancer_Prevention/Iran_J_Cancer_Prevention_2012_5_2_105_107.pdf",
+  "source_name": "Iran J Cancer Prevention 2012 (PPB review)"
+ },
+ {
+  "code": "8973/3",
+  "term": "Pleuropulmonary blastoma, type Ir (type I regressed)",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "PPB type Ir (type I regressed) is a histologic variant with the same lung/pleura anatomic distribution as the parent entity. The ceiling is entirely lung/bronchus subsites, so no proper-subset restriction applies.",
+  "source": "https://applications.emro.who.int/imemrf/Iran_J_Cancer_Prevention/Iran_J_Cancer_Prevention_2012_5_2_105_107.pdf",
+  "source_name": "Iran J Cancer Prevention 2012 (PPB review)"
+ },
+ {
+  "code": "9042/3",
+  "term": "Synovial sarcoma, epithelioid cell",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Synovial sarcoma (including epithelioid/monophasic patterns) is a translocation-associated soft tissue sarcoma that can arise as a primary tumor at all sites in this ceiling (lung, mediastinum, prostate, kidney). The epithelioid-cell descriptor is a morphologic pattern, not an anatomic restriction; no proper-subset limitation is supported.",
+  "source": "https://whobluebooks.iarc.who.int/structures/thoracic-tumours/",
+  "source_name": "WHO Blue Books, Thoracic Tumours 5th ed (structures)"
+ },
+ {
+  "code": "9086/3",
+  "term": "Germ cell tumor with associated hematological malignancy",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This entity is a recognized phenomenon of mediastinal (thymic/mediastinum) germ cell tumors, and the code's ceiling is confined to thymus and mediastinum (C379, C381-C383). The term occurs across essentially the entire mediastinal ceiling, so there is no proper-subset restriction within it.",
+  "source": "https://whobluebooks.iarc.who.int/structures/thoracic-tumours/",
+  "source_name": "WHO Blue Books, Thoracic Tumours 5th ed (structures)"
+ },
+ {
+  "code": "9174/3",
+  "term": "Lymphangioleiomyomatosis",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Lymphangioleiomyomatosis is a diffuse pulmonary neoplastic process; the code's ceiling is composed entirely of lung/bronchus subsites (C340-C349). Because it involves the lung broadly, there is no proper-subset restriction within the ceiling.",
+  "source": "https://whobluebooks.iarc.who.int/structures/thoracic-tumours/",
+  "source_name": "WHO Blue Books, Thoracic Tumours 5th ed (structures)"
+ },
+ {
+  "code": "9174/3",
+  "term": "Lymphangiomyomatosis",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Lymphangiomyomatosis is a synonym for lymphangioleiomyomatosis, a diffuse pulmonary process; the ceiling is entirely lung/bronchus subsites (C340-C349), so no proper-subset restriction applies.",
+  "source": "https://whobluebooks.iarc.who.int/structures/thoracic-tumours/",
+  "source_name": "WHO Blue Books, Thoracic Tumours 5th ed (structures)"
+ },
+ {
+  "code": "9522/3",
+  "term": "Esthesioneuroblastoma",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C300", "C311", "C722"],
+  "site_subset_labels": ["Nasal cavity", "Ethmoid sinus", "Olfactory nerve"],
+  "rationale": "Esthesioneuroblastoma arises from the specialized olfactory neuroepithelium of the upper nasal cavity, cribriform plate/ethmoid region, and olfactory nerve; ectopic occurrence in paranasal sinuses other than the ethmoid is vanishingly rare. It is therefore restricted to nasal cavity, ethmoid sinus, and olfactory nerve, a proper subset of the ceiling (excludes maxillary C310, frontal C312, sphenoid C313 sinuses and other cranial nerves).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2811627/",
+  "source_name": "Head Neck Pathol 2009 (Thompson, Olfactory Neuroblastoma)"
+ },
+ {
+  "code": "9522/3",
+  "term": "Olfactory neuroblastoma",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C300", "C311", "C722"],
+  "site_subset_labels": ["Nasal cavity", "Ethmoid sinus", "Olfactory nerve"],
+  "rationale": "Olfactory neuroblastoma (a synonym for esthesioneuroblastoma) arises from olfactory neuroepithelium in the upper nasal cavity, cribriform plate/ethmoid, and olfactory nerve; ectopic paranasal-sinus (non-ethmoid) tumors are vanishingly rare. Restricted to a proper subset of the ceiling (excludes maxillary, frontal, sphenoid sinuses and non-olfactory cranial nerves).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2811627/",
+  "source_name": "Head Neck Pathol 2009 (Thompson, Olfactory Neuroblastoma)"
+ },
+ {
+  "code": "9678/3",
+  "term": "Extracavitary primary effusion lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Extracavitary PEL presents as solid tumor masses in lymph nodes and extranodal sites including GI tract, skin, lung, and CNS. Within this ceiling it involves lung (C340-C349) and lymph nodes (C770-C779) among others, spreading across ceiling sites rather than being confined to a proper subset.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5378/",
+  "source_name": "SEER Hematopoietic Project (WHO 5th ed) - PEL/EC-PEL"
+ },
+ {
+  "code": "9678/3",
+  "term": "Fibrin-associated diffuse large B-cell lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Fibrin-associated LBCL is defined by its microenvironment (chronic fibrin deposition) rather than by anatomic site, arising throughout the body at cardiac myxomas/valves, cysts and pseudocysts (spleen, kidney, adrenal, ovary), breast implants, hematomas, and endovascular grafts. As a microenvironment-defined, multi-site entity it is not restricted to a proper anatomic subset.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5378/",
+  "source_name": "SEER Hematopoietic Project (WHO 5th ed) - FA-LBCL"
+ },
+ {
+  "code": "9678/3",
+  "term": "Fibrin-associated large B-cell lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Fibrin-associated LBCL arises at sites of chronic fibrin deposition throughout the body (cardiac myxomas/valves, cysts/pseudocysts, breast implants, hematomas, endovascular grafts); it is defined by its fibrinous microenvironment, not by anatomic location, so it is not restricted to a proper anatomic subset.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5378/",
+  "source_name": "SEER Hematopoietic Project (WHO 5th ed) - FA-LBCL"
+ },
+ {
+  "code": "9678/3",
+  "term": "Fluid overload-associated large B-cell lymphoma",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C380", "C384"],
+  "site_subset_labels": ["Heart, mediastinum and pleura (pericardium)", "Pleura"],
+  "rationale": "Fluid overload-associated LBCL presents as serous body-cavity effusions without detectable tumor masses, lymphadenopathy, or organ involvement, occurring in the pleural (majority), pericardial, and peritoneal cavities. Within this ceiling it is confined to pleura (C384) and pericardium (C380); peritoneum is not in the ceiling, and it does not involve the lung parenchyma, mediastinal tissue, bone marrow, spleen, or lymph nodes, so it is restricted to a proper subset.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5378/",
+  "source_name": "SEER Hematopoietic Project (WHO 5th ed) - FO-LBCL"
+ },
+ {
+  "code": "9678/3",
+  "term": "Fluid-overload effusion lymphoma",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C380", "C384"],
+  "site_subset_labels": ["Heart, mediastinum and pleura (pericardium)", "Pleura"],
+  "rationale": "A synonym for fluid overload-associated LBCL, which presents as serous effusions confined to body cavities (pleural, pericardial, peritoneal) without tumor masses or organ involvement. Within this ceiling it is confined to pleura (C384) and pericardium (C380), a proper subset (excludes lung parenchyma, mediastinal tissue, bone marrow, spleen, lymph nodes).",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5378/",
+  "source_name": "SEER Hematopoietic Project (WHO 5th ed) - FO-LBCL"
+ },
+ {
+  "code": "9678/3",
+  "term": "KSHV/HHV8-negative effusion-based lymphoma",
+  "site_specific": "Yes",
+  "site_subset_codes": ["C380", "C384"],
+  "site_subset_labels": ["Heart, mediastinum and pleura (pericardium)", "Pleura"],
+  "rationale": "This is the WHO/ICC synonym for fluid overload-associated LBCL, an HHV8-negative effusion-based large B-cell lymphoma confined to serous body cavities (pleural, pericardial, peritoneal) without masses or organ involvement. Within this ceiling it is confined to pleura (C384) and pericardium (C380), a proper subset.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5378/",
+  "source_name": "SEER Hematopoietic Project (WHO 5th ed) - FO-LBCL/effusion-based"
+ },
+ {
+  "code": "9678/3",
+  "term": "Primary effusion lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Classic PEL presents as body-cavity effusions but disseminates, and extracavitary lesions occur in the lung, lymph nodes, GI tract, skin, and CNS. Because documented PEL involvement within this ceiling includes lung (C340-C349) and lymph nodes (C770-C779) in addition to serous cavities, the umbrella term is not confined to a proper subset.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5378/",
+  "source_name": "SEER Hematopoietic Project (WHO 5th ed) - PEL"
+ },
+ {
+  "code": "9679/3",
+  "term": "Mediastinal large B-cell lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Primary mediastinal (thymic) large B-cell lymphoma arises from thymic B cells in the anterior mediastinum; SEER codes it to thymus (C379) or mediastinum (C383). The code's ceiling is confined to thymus and mediastinum (C379, C381-C383), which is exactly this entity's home, so there is no proper-subset restriction within the ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf56e3e27c3994bd5318/",
+  "source_name": "SEER Hematopoietic Project (WHO 5th ed) - PMBL"
+ },
+ {
+  "code": "9679/3",
+  "term": "Primary mediastinal large B-cell lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "PMBL arises from thymic B cells and is coded to thymus (C379) or mediastinum (C383) per SEER. The ceiling is confined to thymus and mediastinum (C379, C381-C383), matching the entity's anatomic home, so no proper-subset restriction exists within the ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf56e3e27c3994bd5318/",
+  "source_name": "SEER Hematopoietic Project (WHO 5th ed) - PMBL"
+ },
+ {
+  "code": "9679/3",
+  "term": "Thymic large B-cell lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Thymic (primary mediastinal) large B-cell lymphoma is of putative thymic B-cell origin arising in the mediastinum, coded to thymus (C379) or mediastinum (C383). The ceiling is confined to thymus and mediastinum (C379, C381-C383), matching the entity's home, so there is no proper-subset restriction within the ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf56e3e27c3994bd5318/",
+  "source_name": "SEER Hematopoietic Project (WHO 5th ed) - PMBL/thymic LBCL"
+ }
+]

@@ -1,0 +1,38 @@
+# TASK: Audit ICD-O-3.2 site-specific term assignments for anatomic MISAPPLICATION
+
+You are QA-reviewing prior decisions that flagged certain ICD-O-3.2 morphology TERMS as
+"site-specific" (used at only a proper subset of their code's SMVL-valid sites). Each record has:
+  - `code`, `term`
+  - `subset_codes` = the specific 4-digit ICD-O-3.2 topography codes previously assigned as the term's restricted site(s)
+  - `subset_sites` = the human-readable site label for each subset code (authoritative 4-digit ICD-O-3.2 definitions)
+  - `rationale`, `source_name` from the prior pass
+
+## What you are checking (ONE question per term)
+Do the assigned `subset_codes` correctly represent the anatomic site(s) where THIS term actually
+arises, per authoritative pathology sources? You are hunting for MISAPPLICATIONS where the assigned
+site is the WRONG organ — e.g. a bile-duct tumor assigned to liver parenchyma, a tumor assigned to a
+parent-organ code when it belongs to a specific subsite, or a site that contradicts the tumor's
+defined organ of origin.
+
+Key reference facts (ICD-O-3.2 4-digit topography):
+- C220 = Liver (hepatic parenchyma) — hepatocellular tumors
+- C221 = Intrahepatic bile duct — intrahepatic cholangiocarcinoma
+- C239 = Gallbladder
+- C240 = Extrahepatic bile duct; C241 = Ampulla of Vater; C248/C249 = biliary tract overlapping/NOS
+- Cholangiocarcinoma / bile duct carcinoma arise in the BILIARY tree (C221 intrahepatic, C240 extrahepatic), NOT liver parenchyma (C220).
+- "Adrenal" = C740/C741/C749 (NOT renal/kidney C649). "Choroid plexus" = brain ventricle C715 (NOT eye choroid C693). "Gastric-type" cervical/endometrial carcinomas arise in the female genital tract (mimicry), not stomach.
+
+## Decision for each record — output field `audit`:
+- "OK" — assigned subset_codes are anatomically correct for this term.
+- "WRONG_SITE" — the assigned site is the wrong organ/subsite. Provide `corrected_codes` (a list of the
+  correct 4-digit ICD-O-3.2 codes) and a one-sentence `correction_reason` with a fetched source URL in `source`.
+- "UNSURE" — cannot confirm; explain in `correction_reason`.
+
+IMPORTANT: You are ONLY checking anatomic correctness of the assigned sites. Do NOT re-litigate whether
+the term is site-specific at all. Assume the Yes stands; just verify the SITES are the right organ.
+Most assignments will be "OK" — only flag genuine wrong-organ errors. Beware naive string matching
+(e.g. "adrenal" contains "renal" but is NOT kidney; "Askin" contains "skin" but is a chest-wall tumor).
+
+## Output schema (one object per input record, same order, same length)
+{"code":"8160/3","term":"Cholangiocarcinoma","audit":"OK","corrected_codes":[],"correction_reason":"","source":""}
+For WRONG_SITE include corrected_codes + correction_reason + source (fetched URL).

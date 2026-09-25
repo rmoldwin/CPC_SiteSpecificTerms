@@ -1,0 +1,720 @@
+[
+ {
+  "code": "8077/2",
+  "term": "Squamous intraepithelial neoplasia, moderate dysplasia",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic squamous intraepithelial neoplasia/dysplasia descriptor (not named for one site); applies across the many squamous mucosal sites in the code's ceiling.",
+  "source": "https://en.wikipedia.org/wiki/Vaginal_intraepithelial_neoplasia",
+  "source_name": "Reference (generic squamous dysplasia descriptor)"
+ },
+ {
+  "code": "8077/2",
+  "term": "Squamous intraepithelial neoplasia, severe dysplasia",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic squamous intraepithelial neoplasia/dysplasia descriptor (not named for one site); applies across the many squamous mucosal sites in the code's ceiling.",
+  "source": "https://en.wikipedia.org/wiki/Vaginal_intraepithelial_neoplasia",
+  "source_name": "Reference (generic squamous dysplasia descriptor)"
+ },
+ {
+  "code": "8077/2",
+  "term": "VAIN 2",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C529"
+  ],
+  "site_subset_labels": [
+   "Vagina"
+  ],
+  "rationale": "VAIN (vaginal intraepithelial neoplasia) is by definition a squamous intraepithelial lesion of the vagina, so this named term is restricted to the vagina, a proper subset of the code's 66-site ceiling.",
+  "source": "https://en.wikipedia.org/wiki/Vaginal_intraepithelial_neoplasia",
+  "source_name": "Wikipedia: Vaginal intraepithelial neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "VAIN 3",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C529"
+  ],
+  "site_subset_labels": [
+   "Vagina"
+  ],
+  "rationale": "VAIN (vaginal intraepithelial neoplasia) is by definition a squamous intraepithelial lesion of the vagina, so this named term is restricted to the vagina, a proper subset of the code's 66-site ceiling.",
+  "source": "https://en.wikipedia.org/wiki/Vaginal_intraepithelial_neoplasia",
+  "source_name": "Wikipedia: Vaginal intraepithelial neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "VAIN III",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C529"
+  ],
+  "site_subset_labels": [
+   "Vagina"
+  ],
+  "rationale": "VAIN (vaginal intraepithelial neoplasia) is by definition a squamous intraepithelial lesion of the vagina, so this named term is restricted to the vagina, a proper subset of the code's 66-site ceiling.",
+  "source": "https://en.wikipedia.org/wiki/Vaginal_intraepithelial_neoplasia",
+  "source_name": "Wikipedia: Vaginal intraepithelial neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "VIN 2",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519"
+  ],
+  "site_subset_labels": [
+   "Labium majus",
+   "Labium minus",
+   "Clitoris",
+   "Overlapping lesion of vulva",
+   "Vulva, NOS"
+  ],
+  "rationale": "VIN (vulvar intraepithelial neoplasia) is by definition a squamous intraepithelial lesion of the vulva, restricting this named term to vulvar sites, a proper subset of the code's ceiling.",
+  "source": "https://en.wikipedia.org/wiki/Vulvar_intraepithelial_neoplasia",
+  "source_name": "Wikipedia: Vulvar intraepithelial neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "VIN 3",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519"
+  ],
+  "site_subset_labels": [
+   "Labium majus",
+   "Labium minus",
+   "Clitoris",
+   "Overlapping lesion of vulva",
+   "Vulva, NOS"
+  ],
+  "rationale": "VIN (vulvar intraepithelial neoplasia) is by definition a squamous intraepithelial lesion of the vulva, restricting this named term to vulvar sites, a proper subset of the code's ceiling.",
+  "source": "https://en.wikipedia.org/wiki/Vulvar_intraepithelial_neoplasia",
+  "source_name": "Wikipedia: Vulvar intraepithelial neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "VIN III",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519"
+  ],
+  "site_subset_labels": [
+   "Labium majus",
+   "Labium minus",
+   "Clitoris",
+   "Overlapping lesion of vulva",
+   "Vulva, NOS"
+  ],
+  "rationale": "VIN (vulvar intraepithelial neoplasia) is by definition a squamous intraepithelial lesion of the vulva, restricting this named term to vulvar sites, a proper subset of the code's ceiling.",
+  "source": "https://en.wikipedia.org/wiki/Vulvar_intraepithelial_neoplasia",
+  "source_name": "Wikipedia: Vulvar intraepithelial neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "Vaginal intraepithelial neoplasia, grade 2",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C529"
+  ],
+  "site_subset_labels": [
+   "Vagina"
+  ],
+  "rationale": "VAIN (vaginal intraepithelial neoplasia) is by definition a squamous intraepithelial lesion of the vagina, so this named term is restricted to the vagina, a proper subset of the code's 66-site ceiling.",
+  "source": "https://en.wikipedia.org/wiki/Vaginal_intraepithelial_neoplasia",
+  "source_name": "Wikipedia: Vaginal intraepithelial neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "Vaginal intraepithelial neoplasia, grade III",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C529"
+  ],
+  "site_subset_labels": [
+   "Vagina"
+  ],
+  "rationale": "VAIN (vaginal intraepithelial neoplasia) is by definition a squamous intraepithelial lesion of the vagina, so this named term is restricted to the vagina, a proper subset of the code's 66-site ceiling.",
+  "source": "https://en.wikipedia.org/wiki/Vaginal_intraepithelial_neoplasia",
+  "source_name": "Wikipedia: Vaginal intraepithelial neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "Vulvar intraepithelial neoplasia, grade 2",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519"
+  ],
+  "site_subset_labels": [
+   "Labium majus",
+   "Labium minus",
+   "Clitoris",
+   "Overlapping lesion of vulva",
+   "Vulva, NOS"
+  ],
+  "rationale": "VIN (vulvar intraepithelial neoplasia) is by definition a squamous intraepithelial lesion of the vulva, restricting this named term to vulvar sites, a proper subset of the code's ceiling.",
+  "source": "https://en.wikipedia.org/wiki/Vulvar_intraepithelial_neoplasia",
+  "source_name": "Wikipedia: Vulvar intraepithelial neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "Vulvar intraepithelial neoplasia, grade III",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519"
+  ],
+  "site_subset_labels": [
+   "Labium majus",
+   "Labium minus",
+   "Clitoris",
+   "Overlapping lesion of vulva",
+   "Vulva, NOS"
+  ],
+  "rationale": "VIN (vulvar intraepithelial neoplasia) is by definition a squamous intraepithelial lesion of the vulva, restricting this named term to vulvar sites, a proper subset of the code's ceiling.",
+  "source": "https://en.wikipedia.org/wiki/Vulvar_intraepithelial_neoplasia",
+  "source_name": "Wikipedia: Vulvar intraepithelial neoplasia"
+ },
+ {
+  "code": "8077/2",
+  "term": "esophageal squamous dysplasia, high-grade",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C150",
+   "C151",
+   "C152",
+   "C153",
+   "C154",
+   "C155",
+   "C158",
+   "C159"
+  ],
+  "site_subset_labels": [
+   "Cervical esophagus",
+   "Thoracic esophagus",
+   "Abdominal esophagus",
+   "Upper third of esophagus",
+   "Middle third of esophagus",
+   "Lower third of esophagus",
+   "Overlapping lesion of esophagus",
+   "Esophagus, NOS"
+  ],
+  "rationale": "The term is explicitly named for the esophagus (esophageal squamous dysplasia / high-grade squamous intraepithelial neoplasia), restricting it to esophageal sites, a proper subset of the code's ceiling.",
+  "source": "https://www.iarc.who.int/",
+  "source_name": "WHO Blue Book Digestive System 5th ed (esophageal squamous dysplasia)"
+ },
+ {
+  "code": "8077/2",
+  "term": "esophageal squamous intraepithelial neoplasia, high-grade",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C150",
+   "C151",
+   "C152",
+   "C153",
+   "C154",
+   "C155",
+   "C158",
+   "C159"
+  ],
+  "site_subset_labels": [
+   "Cervical esophagus",
+   "Thoracic esophagus",
+   "Abdominal esophagus",
+   "Upper third of esophagus",
+   "Middle third of esophagus",
+   "Lower third of esophagus",
+   "Overlapping lesion of esophagus",
+   "Esophagus, NOS"
+  ],
+  "rationale": "The term is explicitly named for the esophagus (esophageal squamous dysplasia / high-grade squamous intraepithelial neoplasia), restricting it to esophageal sites, a proper subset of the code's ceiling.",
+  "source": "https://www.iarc.who.int/",
+  "source_name": "WHO Blue Book Digestive System 5th ed (esophageal squamous dysplasia)"
+ },
+ {
+  "code": "8082/3",
+  "term": "Lymphoepithelial carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "General morphologic term for lymphoepithelial (undifferentiated with lymphoid stroma) carcinoma; documented across many sites (nasopharynx, salivary gland, sinonasal, oral cavity, larynx, urinary bladder, etc.), not restricted to a subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5319522/",
+  "source_name": "PMC5319522 - Lymphoepithelial carcinoma (multi-site)"
+ },
+ {
+  "code": "8082/3",
+  "term": "Lymphoepithelial carcinoma of salivary gland",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C079",
+   "C080",
+   "C081",
+   "C088",
+   "C089"
+  ],
+  "site_subset_labels": [
+   "Parotid gland",
+   "Submandibular gland",
+   "Sublingual gland",
+   "Overlapping lesion of major salivary glands",
+   "Major salivary gland, NOS"
+  ],
+  "rationale": "Named specifically for salivary gland origin (parotid, submandibular, sublingual, minor glands); restricted to salivary gland sites, a proper subset of the code's broad ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5319522/",
+  "source_name": "PMC5319522 - Lymphoepithelial carcinoma of the salivary glands"
+ },
+ {
+  "code": "8082/3",
+  "term": "Lymphoepithelioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "General morphologic term for lymphoepithelial (undifferentiated with lymphoid stroma) carcinoma; documented across many sites (nasopharynx, salivary gland, sinonasal, oral cavity, larynx, urinary bladder, etc.), not restricted to a subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5319522/",
+  "source_name": "PMC5319522 - Lymphoepithelial carcinoma (multi-site)"
+ },
+ {
+  "code": "8082/3",
+  "term": "Lymphoepithelioma-like carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "General morphologic term for lymphoepithelial (undifferentiated with lymphoid stroma) carcinoma; documented across many sites (nasopharynx, salivary gland, sinonasal, oral cavity, larynx, urinary bladder, etc.), not restricted to a subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5319522/",
+  "source_name": "PMC5319522 - Lymphoepithelial carcinoma (multi-site)"
+ },
+ {
+  "code": "8082/3",
+  "term": "Lymphoepithelioma-like urothelial carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C659",
+   "C669",
+   "C670",
+   "C671",
+   "C672",
+   "C673",
+   "C674",
+   "C675",
+   "C676",
+   "C677",
+   "C678",
+   "C679",
+   "C680"
+  ],
+  "site_subset_labels": [
+   "Renal pelvis",
+   "Ureter",
+   "Trigone of bladder",
+   "Dome of bladder",
+   "Lateral wall of bladder",
+   "Anterior wall of bladder",
+   "Posterior wall of bladder",
+   "Bladder neck",
+   "Ureteric orifice",
+   "Urachus",
+   "Overlapping lesion of bladder",
+   "Bladder, NOS",
+   "Urethra"
+  ],
+  "rationale": "Lymphoepithelioma-like urothelial carcinoma is by definition a subtype of urothelial carcinoma arising in the urinary tract (bladder, ureter, renal pelvis, urethra), a proper subset of the code's ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12620938/",
+  "source_name": "Pathologica - Lymphoepithelioma-like carcinoma of urinary bladder"
+ },
+ {
+  "code": "8082/3",
+  "term": "Schmincke tumor",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "General morphologic term for lymphoepithelial (undifferentiated with lymphoid stroma) carcinoma; documented across many sites (nasopharynx, salivary gland, sinonasal, oral cavity, larynx, urinary bladder, etc.), not restricted to a subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5319522/",
+  "source_name": "PMC5319522 - Lymphoepithelial carcinoma (multi-site)"
+ },
+ {
+  "code": "8082/3",
+  "term": "Sinonasal lymphoepithelial carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319"
+  ],
+  "site_subset_labels": [
+   "Nasal cavity",
+   "Maxillary sinus",
+   "Ethmoid sinus",
+   "Frontal sinus",
+   "Sphenoid sinus",
+   "Overlapping lesion of accessory sinuses",
+   "Accessory sinus, NOS"
+  ],
+  "rationale": "Sinonasal lymphoepithelial carcinoma (ICD-O 8082/3) is defined by origin in the nasal cavity and paranasal sinuses, a proper subset of the code's ceiling.",
+  "source": "https://www.iccr-cancer.org/wp-content/uploads/2024/03/Draft-ICCR-Nasal-Cavity-PS-2nd-ed-v2.0.pdf",
+  "source_name": "ICCR Carcinomas of the Nasal Cavity and Paranasal Sinuses dataset"
+ },
+ {
+  "code": "8083/3",
+  "term": "Basaloid squamous cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Basaloid squamous cell carcinoma (and its papillary-basaloid synonym) is a broad SCC variant occurring across many mucosal sites (larynx, oropharynx, oral cavity, esophagus, anus, etc.); not anatomically restricted.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3394165/",
+  "source_name": "Head and Neck Pathology - basaloid SCC (multi-site)"
+ },
+ {
+  "code": "8083/3",
+  "term": "Papillary-basaloid carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Basaloid squamous cell carcinoma (and its papillary-basaloid synonym) is a broad SCC variant occurring across many mucosal sites (larynx, oropharynx, oral cavity, esophagus, anus, etc.); not anatomically restricted.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3394165/",
+  "source_name": "Head and Neck Pathology - basaloid SCC (multi-site)"
+ },
+ {
+  "code": "8085/2",
+  "term": "HPV-associated oral epithelial dysplasia, high grade",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "HPV-associated oral epithelial dysplasia / squamous CIS descriptor spans the code's oral-cavity ceiling; not restricted to a proper subset of it.",
+  "source": "https://www.sciencedirect.com/science/article/abs/pii/S0046817725002485",
+  "source_name": "Human Pathology - HPV-associated (in)epithelial dysplasia"
+ },
+ {
+  "code": "8085/2",
+  "term": "High-grade HPV-associated oral epithelial dysplasia",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "HPV-associated oral epithelial dysplasia / squamous CIS descriptor spans the code's oral-cavity ceiling; not restricted to a proper subset of it.",
+  "source": "https://www.sciencedirect.com/science/article/abs/pii/S0046817725002485",
+  "source_name": "Human Pathology - HPV-associated (in)epithelial dysplasia"
+ },
+ {
+  "code": "8085/2",
+  "term": "Squamous cell carcinoma in situ, HPV-associated",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "HPV-associated oral epithelial dysplasia / squamous CIS descriptor spans the code's oral-cavity ceiling; not restricted to a proper subset of it.",
+  "source": "https://www.sciencedirect.com/science/article/abs/pii/S0046817725002485",
+  "source_name": "Human Pathology - HPV-associated (in)epithelial dysplasia"
+ },
+ {
+  "code": "8085/3",
+  "term": "Adenosquamous carcinoma, HPV-associated",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad HPV-associated squamous cell carcinoma term/morphologic variant; HPV-associated SCC and its variants (basaloid, keratinizing, non-keratinizing, papillary, adenosquamous, spindle cell, lymphoepithelial, p16+) are documented across the code's multiple HPV-associated sites (oropharynx, sinonasal, cervix, vagina, vulva, penis, anus), not restricted to a proper subset.",
+  "source": "https://lesterthompsonmd.com/pdf/2024-ICCR_Carcinomas%20of%20the%20Oropharynx%20and%20Nasopharynx%20Histopathology%20Reporting%20Guide_2nd-ed.pdf",
+  "source_name": "ICCR/WHO Oropharynx reporting guide - HPV-associated SCC 8085/3"
+ },
+ {
+  "code": "8085/3",
+  "term": "Basaloid squamous cell carcinoma, HPV-associated",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad HPV-associated squamous cell carcinoma term/morphologic variant; HPV-associated SCC and its variants (basaloid, keratinizing, non-keratinizing, papillary, adenosquamous, spindle cell, lymphoepithelial, p16+) are documented across the code's multiple HPV-associated sites (oropharynx, sinonasal, cervix, vagina, vulva, penis, anus), not restricted to a proper subset.",
+  "source": "https://lesterthompsonmd.com/pdf/2024-ICCR_Carcinomas%20of%20the%20Oropharynx%20and%20Nasopharynx%20Histopathology%20Reporting%20Guide_2nd-ed.pdf",
+  "source_name": "ICCR/WHO Oropharynx reporting guide - HPV-associated SCC 8085/3"
+ },
+ {
+  "code": "8085/3",
+  "term": "Carcinoma, squamous cell, HPV-associated",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad HPV-associated squamous cell carcinoma term/morphologic variant; HPV-associated SCC and its variants (basaloid, keratinizing, non-keratinizing, papillary, adenosquamous, spindle cell, lymphoepithelial, p16+) are documented across the code's multiple HPV-associated sites (oropharynx, sinonasal, cervix, vagina, vulva, penis, anus), not restricted to a proper subset.",
+  "source": "https://lesterthompsonmd.com/pdf/2024-ICCR_Carcinomas%20of%20the%20Oropharynx%20and%20Nasopharynx%20Histopathology%20Reporting%20Guide_2nd-ed.pdf",
+  "source_name": "ICCR/WHO Oropharynx reporting guide - HPV-associated SCC 8085/3"
+ },
+ {
+  "code": "8085/3",
+  "term": "Ciliated adenosquamous carcinoma, HPV-associated",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C019",
+   "C024",
+   "C051",
+   "C052",
+   "C090",
+   "C091",
+   "C098",
+   "C099",
+   "C100",
+   "C101",
+   "C102",
+   "C103",
+   "C108",
+   "C109",
+   "C140",
+   "C142",
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319"
+  ],
+  "site_subset_labels": [
+   "Base of tongue",
+   "Tongue, NOS",
+   "Soft palate",
+   "Uvula",
+   "Tonsillar fossa",
+   "Tonsillar pillar",
+   "Overlapping lesion of tonsil",
+   "Tonsil, NOS",
+   "Vallecula",
+   "Anterior surface of epiglottis",
+   "Lateral wall of oropharynx",
+   "Posterior wall of oropharynx",
+   "Overlapping lesion of oropharynx",
+   "Oropharynx, NOS",
+   "Pharynx, NOS",
+   "Waldeyer ring",
+   "Nasal cavity",
+   "Maxillary sinus",
+   "Ethmoid sinus",
+   "Frontal sinus",
+   "Sphenoid sinus",
+   "Overlapping lesion of accessory sinuses",
+   "Accessory sinus, NOS"
+  ],
+  "rationale": "Ciliated adenosquamous carcinoma is a distinct HPV-associated subtype described exclusively in head and neck sites (palatine tonsil, base of tongue, oropharynx/neck); it is a CAP-recognized oropharyngeal HPV entity and does not occur at the anogenital/urinary sites in the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4838977/",
+  "source_name": "PMC4838977 - Ciliated Adenosquamous Carcinoma (head and neck)"
+ },
+ {
+  "code": "8085/3",
+  "term": "HPV-associated squamous cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad HPV-associated squamous cell carcinoma term/morphologic variant; HPV-associated SCC and its variants (basaloid, keratinizing, non-keratinizing, papillary, adenosquamous, spindle cell, lymphoepithelial, p16+) are documented across the code's multiple HPV-associated sites (oropharynx, sinonasal, cervix, vagina, vulva, penis, anus), not restricted to a proper subset.",
+  "source": "https://lesterthompsonmd.com/pdf/2024-ICCR_Carcinomas%20of%20the%20Oropharynx%20and%20Nasopharynx%20Histopathology%20Reporting%20Guide_2nd-ed.pdf",
+  "source_name": "ICCR/WHO Oropharynx reporting guide - HPV-associated SCC 8085/3"
+ },
+ {
+  "code": "8085/3",
+  "term": "Keratinizing squamous cell carcinoma, HPV-associated",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad HPV-associated squamous cell carcinoma term/morphologic variant; HPV-associated SCC and its variants (basaloid, keratinizing, non-keratinizing, papillary, adenosquamous, spindle cell, lymphoepithelial, p16+) are documented across the code's multiple HPV-associated sites (oropharynx, sinonasal, cervix, vagina, vulva, penis, anus), not restricted to a proper subset.",
+  "source": "https://lesterthompsonmd.com/pdf/2024-ICCR_Carcinomas%20of%20the%20Oropharynx%20and%20Nasopharynx%20Histopathology%20Reporting%20Guide_2nd-ed.pdf",
+  "source_name": "ICCR/WHO Oropharynx reporting guide - HPV-associated SCC 8085/3"
+ },
+ {
+  "code": "8085/3",
+  "term": "Lymphoepithelial carcinoma, HPV-associated",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad HPV-associated squamous cell carcinoma term/morphologic variant; HPV-associated SCC and its variants (basaloid, keratinizing, non-keratinizing, papillary, adenosquamous, spindle cell, lymphoepithelial, p16+) are documented across the code's multiple HPV-associated sites (oropharynx, sinonasal, cervix, vagina, vulva, penis, anus), not restricted to a proper subset.",
+  "source": "https://lesterthompsonmd.com/pdf/2024-ICCR_Carcinomas%20of%20the%20Oropharynx%20and%20Nasopharynx%20Histopathology%20Reporting%20Guide_2nd-ed.pdf",
+  "source_name": "ICCR/WHO Oropharynx reporting guide - HPV-associated SCC 8085/3"
+ },
+ {
+  "code": "8085/3",
+  "term": "Lymphoepithelioma-like carcinoma, HPV-associated",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad HPV-associated squamous cell carcinoma term/morphologic variant; HPV-associated SCC and its variants (basaloid, keratinizing, non-keratinizing, papillary, adenosquamous, spindle cell, lymphoepithelial, p16+) are documented across the code's multiple HPV-associated sites (oropharynx, sinonasal, cervix, vagina, vulva, penis, anus), not restricted to a proper subset.",
+  "source": "https://lesterthompsonmd.com/pdf/2024-ICCR_Carcinomas%20of%20the%20Oropharynx%20and%20Nasopharynx%20Histopathology%20Reporting%20Guide_2nd-ed.pdf",
+  "source_name": "ICCR/WHO Oropharynx reporting guide - HPV-associated SCC 8085/3"
+ },
+ {
+  "code": "8085/3",
+  "term": "Non-keratinizing squamous cell carcinoma, HPV-associated",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad HPV-associated squamous cell carcinoma term/morphologic variant; HPV-associated SCC and its variants (basaloid, keratinizing, non-keratinizing, papillary, adenosquamous, spindle cell, lymphoepithelial, p16+) are documented across the code's multiple HPV-associated sites (oropharynx, sinonasal, cervix, vagina, vulva, penis, anus), not restricted to a proper subset.",
+  "source": "https://lesterthompsonmd.com/pdf/2024-ICCR_Carcinomas%20of%20the%20Oropharynx%20and%20Nasopharynx%20Histopathology%20Reporting%20Guide_2nd-ed.pdf",
+  "source_name": "ICCR/WHO Oropharynx reporting guide - HPV-associated SCC 8085/3"
+ },
+ {
+  "code": "8085/3",
+  "term": "Papillary squamous cell carcinoma, HPV-associated",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad HPV-associated squamous cell carcinoma term/morphologic variant; HPV-associated SCC and its variants (basaloid, keratinizing, non-keratinizing, papillary, adenosquamous, spindle cell, lymphoepithelial, p16+) are documented across the code's multiple HPV-associated sites (oropharynx, sinonasal, cervix, vagina, vulva, penis, anus), not restricted to a proper subset.",
+  "source": "https://lesterthompsonmd.com/pdf/2024-ICCR_Carcinomas%20of%20the%20Oropharynx%20and%20Nasopharynx%20Histopathology%20Reporting%20Guide_2nd-ed.pdf",
+  "source_name": "ICCR/WHO Oropharynx reporting guide - HPV-associated SCC 8085/3"
+ },
+ {
+  "code": "8085/3",
+  "term": "Spindle cell / sarcomatoid squamous cell carcinoma, HPV-associated",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad HPV-associated squamous cell carcinoma term/morphologic variant; HPV-associated SCC and its variants (basaloid, keratinizing, non-keratinizing, papillary, adenosquamous, spindle cell, lymphoepithelial, p16+) are documented across the code's multiple HPV-associated sites (oropharynx, sinonasal, cervix, vagina, vulva, penis, anus), not restricted to a proper subset.",
+  "source": "https://lesterthompsonmd.com/pdf/2024-ICCR_Carcinomas%20of%20the%20Oropharynx%20and%20Nasopharynx%20Histopathology%20Reporting%20Guide_2nd-ed.pdf",
+  "source_name": "ICCR/WHO Oropharynx reporting guide - HPV-associated SCC 8085/3"
+ },
+ {
+  "code": "8085/3",
+  "term": "Squamous cell carcinoma, HPV positive",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad HPV-associated squamous cell carcinoma term/morphologic variant; HPV-associated SCC and its variants (basaloid, keratinizing, non-keratinizing, papillary, adenosquamous, spindle cell, lymphoepithelial, p16+) are documented across the code's multiple HPV-associated sites (oropharynx, sinonasal, cervix, vagina, vulva, penis, anus), not restricted to a proper subset.",
+  "source": "https://lesterthompsonmd.com/pdf/2024-ICCR_Carcinomas%20of%20the%20Oropharynx%20and%20Nasopharynx%20Histopathology%20Reporting%20Guide_2nd-ed.pdf",
+  "source_name": "ICCR/WHO Oropharynx reporting guide - HPV-associated SCC 8085/3"
+ },
+ {
+  "code": "8085/3",
+  "term": "Squamous cell carcinoma, HPV-associated",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad HPV-associated squamous cell carcinoma term/morphologic variant; HPV-associated SCC and its variants (basaloid, keratinizing, non-keratinizing, papillary, adenosquamous, spindle cell, lymphoepithelial, p16+) are documented across the code's multiple HPV-associated sites (oropharynx, sinonasal, cervix, vagina, vulva, penis, anus), not restricted to a proper subset.",
+  "source": "https://lesterthompsonmd.com/pdf/2024-ICCR_Carcinomas%20of%20the%20Oropharynx%20and%20Nasopharynx%20Histopathology%20Reporting%20Guide_2nd-ed.pdf",
+  "source_name": "ICCR/WHO Oropharynx reporting guide - HPV-associated SCC 8085/3"
+ },
+ {
+  "code": "8085/3",
+  "term": "Squamous cell carcinoma, HPV-related",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad HPV-associated squamous cell carcinoma term/morphologic variant; HPV-associated SCC and its variants (basaloid, keratinizing, non-keratinizing, papillary, adenosquamous, spindle cell, lymphoepithelial, p16+) are documented across the code's multiple HPV-associated sites (oropharynx, sinonasal, cervix, vagina, vulva, penis, anus), not restricted to a proper subset.",
+  "source": "https://lesterthompsonmd.com/pdf/2024-ICCR_Carcinomas%20of%20the%20Oropharynx%20and%20Nasopharynx%20Histopathology%20Reporting%20Guide_2nd-ed.pdf",
+  "source_name": "ICCR/WHO Oropharynx reporting guide - HPV-associated SCC 8085/3"
+ },
+ {
+  "code": "8085/3",
+  "term": "Squamous cell carcinoma, p16-positive",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad HPV-associated squamous cell carcinoma term/morphologic variant; HPV-associated SCC and its variants (basaloid, keratinizing, non-keratinizing, papillary, adenosquamous, spindle cell, lymphoepithelial, p16+) are documented across the code's multiple HPV-associated sites (oropharynx, sinonasal, cervix, vagina, vulva, penis, anus), not restricted to a proper subset.",
+  "source": "https://lesterthompsonmd.com/pdf/2024-ICCR_Carcinomas%20of%20the%20Oropharynx%20and%20Nasopharynx%20Histopathology%20Reporting%20Guide_2nd-ed.pdf",
+  "source_name": "ICCR/WHO Oropharynx reporting guide - HPV-associated SCC 8085/3"
+ },
+ {
+  "code": "8085/3",
+  "term": "Transitional cell carcinoma of head and neck, HPV-associated",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C019",
+   "C024",
+   "C051",
+   "C052",
+   "C090",
+   "C091",
+   "C098",
+   "C099",
+   "C100",
+   "C101",
+   "C102",
+   "C103",
+   "C108",
+   "C109",
+   "C140",
+   "C142",
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319"
+  ],
+  "site_subset_labels": [
+   "Base of tongue",
+   "Tongue, NOS",
+   "Soft palate",
+   "Uvula",
+   "Tonsillar fossa",
+   "Tonsillar pillar",
+   "Overlapping lesion of tonsil",
+   "Tonsil, NOS",
+   "Vallecula",
+   "Anterior surface of epiglottis",
+   "Lateral wall of oropharynx",
+   "Posterior wall of oropharynx",
+   "Overlapping lesion of oropharynx",
+   "Oropharynx, NOS",
+   "Pharynx, NOS",
+   "Waldeyer ring",
+   "Nasal cavity",
+   "Maxillary sinus",
+   "Ethmoid sinus",
+   "Frontal sinus",
+   "Sphenoid sinus",
+   "Overlapping lesion of accessory sinuses",
+   "Accessory sinus, NOS"
+  ],
+  "rationale": "Explicitly named 'of head and neck', restricting this HPV-associated entity to head and neck sites and excluding the anogenital (cervix, vagina, vulva, penis, anus) and urinary sites in the code's ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9610077/",
+  "source_name": "PMC9610077 - HPV-related carcinomas of head and neck / sinonasal tract"
+ },
+ {
+  "code": "8086/3",
+  "term": "Adenosquamous carcinoma, HPV-independent",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad HPV-independent squamous cell carcinoma term/morphologic variant; HPV-independent SCC and its variants occur across the code's multiple sites (oropharynx, sinonasal, cervix, vulva, vagina, penis, anus), not restricted to a proper subset.",
+  "source": "https://lesterthompsonmd.com/pdf/2024-ICCR_Carcinomas%20of%20the%20Oropharynx%20and%20Nasopharynx%20Histopathology%20Reporting%20Guide_2nd-ed.pdf",
+  "source_name": "ICCR/WHO Oropharynx reporting guide - HPV-independent SCC"
+ },
+ {
+  "code": "8086/3",
+  "term": "Basaloid squamous cell carcinoma, HPV-independent",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad HPV-independent squamous cell carcinoma term/morphologic variant; HPV-independent SCC and its variants occur across the code's multiple sites (oropharynx, sinonasal, cervix, vulva, vagina, penis, anus), not restricted to a proper subset.",
+  "source": "https://lesterthompsonmd.com/pdf/2024-ICCR_Carcinomas%20of%20the%20Oropharynx%20and%20Nasopharynx%20Histopathology%20Reporting%20Guide_2nd-ed.pdf",
+  "source_name": "ICCR/WHO Oropharynx reporting guide - HPV-independent SCC"
+ },
+ {
+  "code": "8086/3",
+  "term": "Carcinoma, squamous cell, HPV-independent",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Broad HPV-independent squamous cell carcinoma term/morphologic variant; HPV-independent SCC and its variants occur across the code's multiple sites (oropharynx, sinonasal, cervix, vulva, vagina, penis, anus), not restricted to a proper subset.",
+  "source": "https://lesterthompsonmd.com/pdf/2024-ICCR_Carcinomas%20of%20the%20Oropharynx%20and%20Nasopharynx%20Histopathology%20Reporting%20Guide_2nd-ed.pdf",
+  "source_name": "ICCR/WHO Oropharynx reporting guide - HPV-independent SCC"
+ }
+]

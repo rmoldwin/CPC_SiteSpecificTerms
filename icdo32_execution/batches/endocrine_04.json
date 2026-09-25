@@ -1,0 +1,355 @@
+[
+ {
+  "code": "9083/3",
+  "term": "Malignant teratoma, intermediate",
+  "ceiling_count": 19,
+  "ceiling_codes": [
+   "C481",
+   "C482",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C716",
+   "C740",
+   "C741",
+   "C749",
+   "C750",
+   "C751",
+   "C752",
+   "C753",
+   "C754",
+   "C755",
+   "C758",
+   "C759"
+  ]
+ },
+ {
+  "code": "9352/1",
+  "term": "Craniopharyngioma, papillary",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "9352/1",
+  "term": "Papillary craniopharyngioma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "9432/1",
+  "term": "Pituicytoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "9501/3",
+  "term": "Diktyoma, malignant",
+  "ceiling_count": 21,
+  "ceiling_codes": [
+   "C481",
+   "C482",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C740",
+   "C741",
+   "C749",
+   "C750",
+   "C751",
+   "C752",
+   "C753",
+   "C754",
+   "C755",
+   "C758",
+   "C759"
+  ]
+ },
+ {
+  "code": "9501/3",
+  "term": "Malignant non-teratoid medulloepithelioma",
+  "ceiling_count": 21,
+  "ceiling_codes": [
+   "C481",
+   "C482",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C740",
+   "C741",
+   "C749",
+   "C750",
+   "C751",
+   "C752",
+   "C753",
+   "C754",
+   "C755",
+   "C758",
+   "C759"
+  ]
+ },
+ {
+  "code": "9501/3",
+  "term": "Medulloepithelioma, NOS",
+  "ceiling_count": 21,
+  "ceiling_codes": [
+   "C481",
+   "C482",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C740",
+   "C741",
+   "C749",
+   "C750",
+   "C751",
+   "C752",
+   "C753",
+   "C754",
+   "C755",
+   "C758",
+   "C759"
+  ]
+ },
+ {
+  "code": "9501/3",
+  "term": "Medulloepithelioma, malignant",
+  "ceiling_count": 21,
+  "ceiling_codes": [
+   "C481",
+   "C482",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C740",
+   "C741",
+   "C749",
+   "C750",
+   "C751",
+   "C752",
+   "C753",
+   "C754",
+   "C755",
+   "C758",
+   "C759"
+  ]
+ },
+ {
+  "code": "9501/3",
+  "term": "Non-teratoid medulloepithelioma, malignant",
+  "ceiling_count": 21,
+  "ceiling_codes": [
+   "C481",
+   "C482",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C740",
+   "C741",
+   "C749",
+   "C750",
+   "C751",
+   "C752",
+   "C753",
+   "C754",
+   "C755",
+   "C758",
+   "C759"
+  ]
+ },
+ {
+  "code": "9502/3",
+  "term": "Malignant teratoid medulloepithelioma",
+  "ceiling_count": 16,
+  "ceiling_codes": [
+   "C481",
+   "C482",
+   "C715",
+   "C716",
+   "C717",
+   "C740",
+   "C741",
+   "C749",
+   "C750",
+   "C751",
+   "C752",
+   "C753",
+   "C754",
+   "C755",
+   "C758",
+   "C759"
+  ]
+ },
+ {
+  "code": "9502/3",
+  "term": "Teratoid medulloepithelioma, NOS",
+  "ceiling_count": 16,
+  "ceiling_codes": [
+   "C481",
+   "C482",
+   "C715",
+   "C716",
+   "C717",
+   "C740",
+   "C741",
+   "C749",
+   "C750",
+   "C751",
+   "C752",
+   "C753",
+   "C754",
+   "C755",
+   "C758",
+   "C759"
+  ]
+ },
+ {
+  "code": "9502/3",
+  "term": "Teratoid medulloepithelioma, malignant",
+  "ceiling_count": 16,
+  "ceiling_codes": [
+   "C481",
+   "C482",
+   "C715",
+   "C716",
+   "C717",
+   "C740",
+   "C741",
+   "C749",
+   "C750",
+   "C751",
+   "C752",
+   "C753",
+   "C754",
+   "C755",
+   "C758",
+   "C759"
+  ]
+ },
+ {
+  "code": "9503/3",
+  "term": "Neuroepithelioma, NOS",
+  "ceiling_count": 13,
+  "ceiling_codes": [
+   "C481",
+   "C482",
+   "C740",
+   "C741",
+   "C749",
+   "C750",
+   "C751",
+   "C752",
+   "C753",
+   "C754",
+   "C755",
+   "C758",
+   "C759"
+  ]
+ },
+ {
+  "code": "9504/3",
+  "term": "Spongioneuroblastoma",
+  "ceiling_count": 10,
+  "ceiling_codes": [
+   "C481",
+   "C482",
+   "C740",
+   "C741",
+   "C749",
+   "C750",
+   "C754",
+   "C755",
+   "C758",
+   "C759"
+  ]
+ },
+ {
+  "code": "9580/0",
+  "term": "Granular cell myoblastoma, NOS",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "9580/0",
+  "term": "Granular cell tumor, NOS",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "9582/0",
+  "term": "Granular cell pituicytoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "9582/0",
+  "term": "Granular cell tumor of sellar region",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "9582/0",
+  "term": "Granular cell tumor of the sellar region / granular cell pituicytoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ },
+ {
+  "code": "9582/0",
+  "term": "Pituicytoma with granular features",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C751",
+   "C752"
+  ]
+ }
+]

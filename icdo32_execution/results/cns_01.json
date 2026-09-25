@@ -1,0 +1,572 @@
+[
+ {
+  "code": "8000/0",
+  "term": "Neoplasm, benign",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-specific neoplasm/tumor descriptor applicable to any tumor type; not tied to any anatomic subsite and used across the entire code ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8000/0",
+  "term": "Tumor, benign",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-specific neoplasm/tumor descriptor applicable to any tumor type; not tied to any anatomic subsite and used across the entire code ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8000/0",
+  "term": "Unclassified tumor, benign",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-specific neoplasm/tumor descriptor applicable to any tumor type; not tied to any anatomic subsite and used across the entire code ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8000/1",
+  "term": "Neoplasm, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-specific neoplasm/tumor descriptor applicable to any tumor type; not tied to any anatomic subsite and used across the entire code ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8000/1",
+  "term": "Neoplasm, uncertain whether benign or malignant",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-specific neoplasm/tumor descriptor applicable to any tumor type; not tied to any anatomic subsite and used across the entire code ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8000/1",
+  "term": "Tumor, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-specific neoplasm/tumor descriptor applicable to any tumor type; not tied to any anatomic subsite and used across the entire code ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8000/1",
+  "term": "Unclassified tumor, borderline malignancy",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-specific neoplasm/tumor descriptor applicable to any tumor type; not tied to any anatomic subsite and used across the entire code ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8000/1",
+  "term": "Unclassified tumor, uncertain whether benign or malignant",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-specific neoplasm/tumor descriptor applicable to any tumor type; not tied to any anatomic subsite and used across the entire code ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8001/0",
+  "term": "Tumor cells, benign",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-specific neoplasm/tumor descriptor applicable to any tumor type; not tied to any anatomic subsite and used across the entire code ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8001/1",
+  "term": "Tumor cells, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-specific neoplasm/tumor descriptor applicable to any tumor type; not tied to any anatomic subsite and used across the entire code ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8001/1",
+  "term": "Tumor cells, uncertain whether benign or malignant",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-specific neoplasm/tumor descriptor applicable to any tumor type; not tied to any anatomic subsite and used across the entire code ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8728/0",
+  "term": "Diffuse melanocytosis",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C700",
+   "C701",
+   "C709"
+  ],
+  "site_subset_labels": [
+   "Cerebral meninges",
+   "Spinal meninges",
+   "Meninges, NOS"
+  ],
+  "rationale": "Primary diffuse leptomeningeal melanocytosis is a diffuse melanocytic proliferation arising from and confined to the leptomeninges (arachnoid/pia); restricted to the meningeal codes rather than the spinal-cord/cranial-nerve codes in the ceiling.",
+  "source": "https://www.por-journal.com/journals/pathology-and-oncology-research/articles/10.3389/pore.2023.1611482/full",
+  "source_name": "WHO CNS5 (2021) primary leptomeningeal melanocytic tumors / Pathol Oncol Res 2023"
+ },
+ {
+  "code": "8728/0",
+  "term": "Meningeal melanocytosis",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C700",
+   "C701",
+   "C709"
+  ],
+  "site_subset_labels": [
+   "Cerebral meninges",
+   "Spinal meninges",
+   "Meninges, NOS"
+  ],
+  "rationale": "Meningeal (leptomeningeal) melanocytosis is a diffuse neoplasm of leptomeningeal melanocytes confined to the meninges; a proper subset of the 9-code ceiling that also lists spinal cord and cranial nerves.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11274408/",
+  "source_name": "Cancers 2024, Primary Meningeal Melanocytic Tumors of the CNS (WHO CNS5)"
+ },
+ {
+  "code": "8728/1",
+  "term": "Meningeal melanocytoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C700",
+   "C701",
+   "C709"
+  ],
+  "site_subset_labels": [
+   "Cerebral meninges",
+   "Spinal meninges",
+   "Meninges, NOS"
+  ],
+  "rationale": "Meningeal (leptomeningeal) melanocytoma is a circumscribed neoplasm arising from leptomeningeal melanocytes and is defined as a meningeal tumor; restricted to the meningeal codes, a proper subset of the ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11274408/",
+  "source_name": "Cancers 2024, Primary Meningeal Melanocytic Tumors of the CNS (WHO CNS5)"
+ },
+ {
+  "code": "8728/3",
+  "term": "Meningeal melanomatosis",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Meningeal melanomatosis is a leptomeningeal entity, but this code's ceiling already consists solely of the three meningeal codes (C700/C701/C709); the term matches the entire ceiling, so no proper anatomic subset exists.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8800/0",
+  "term": "Soft tissue tumor, benign",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic benign soft-tissue (mesenchymal) descriptor with no anatomic restriction; applicable across the code's full CNS ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8815/1",
+  "term": "Fat-forming (lipomatous) solitary fibrous tumor",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C700",
+   "C701",
+   "C709"
+  ],
+  "site_subset_labels": [
+   "Cerebral meninges",
+   "Spinal meninges",
+   "Meninges, NOS"
+  ],
+  "rationale": "Within the CNS, solitary fibrous tumor / hemangiopericytoma is a dura-based, non-meningothelial mesenchymal MENINGEAL neoplasm arising from the meninges/dura; it is not an intraparenchymal brain tumor, so it is restricted to the meningeal codes (a proper subset of the 21-code ceiling).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8057625/",
+  "source_name": "Brain Pathology 2011 / WHO CNS classification - Solitary Fibrous Tumors and Hemangiopericytomas of the Meninges"
+ },
+ {
+  "code": "8815/1",
+  "term": "Giant cell–rich solitary fibrous tumor",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C700",
+   "C701",
+   "C709"
+  ],
+  "site_subset_labels": [
+   "Cerebral meninges",
+   "Spinal meninges",
+   "Meninges, NOS"
+  ],
+  "rationale": "Within the CNS, solitary fibrous tumor / hemangiopericytoma is a dura-based, non-meningothelial mesenchymal MENINGEAL neoplasm arising from the meninges/dura; it is not an intraparenchymal brain tumor, so it is restricted to the meningeal codes (a proper subset of the 21-code ceiling).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8057625/",
+  "source_name": "Brain Pathology 2011 / WHO CNS classification - Solitary Fibrous Tumors and Hemangiopericytomas of the Meninges"
+ },
+ {
+  "code": "8815/1",
+  "term": "Hemangiopericytic meningioma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C700",
+   "C701",
+   "C709"
+  ],
+  "site_subset_labels": [
+   "Cerebral meninges",
+   "Spinal meninges",
+   "Meninges, NOS"
+  ],
+  "rationale": "Within the CNS, solitary fibrous tumor / hemangiopericytoma is a dura-based, non-meningothelial mesenchymal MENINGEAL neoplasm arising from the meninges/dura; it is not an intraparenchymal brain tumor, so it is restricted to the meningeal codes (a proper subset of the 21-code ceiling).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8057625/",
+  "source_name": "Brain Pathology 2011 / WHO CNS classification - Solitary Fibrous Tumors and Hemangiopericytomas of the Meninges"
+ },
+ {
+  "code": "8815/1",
+  "term": "Hemangiopericytoma, NOS",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C700",
+   "C701",
+   "C709"
+  ],
+  "site_subset_labels": [
+   "Cerebral meninges",
+   "Spinal meninges",
+   "Meninges, NOS"
+  ],
+  "rationale": "Within the CNS, solitary fibrous tumor / hemangiopericytoma is a dura-based, non-meningothelial mesenchymal MENINGEAL neoplasm arising from the meninges/dura; it is not an intraparenchymal brain tumor, so it is restricted to the meningeal codes (a proper subset of the 21-code ceiling).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8057625/",
+  "source_name": "Brain Pathology 2011 / WHO CNS classification - Solitary Fibrous Tumors and Hemangiopericytomas of the Meninges"
+ },
+ {
+  "code": "8815/1",
+  "term": "Lipomatous solitary fibrous tumor",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C700",
+   "C701",
+   "C709"
+  ],
+  "site_subset_labels": [
+   "Cerebral meninges",
+   "Spinal meninges",
+   "Meninges, NOS"
+  ],
+  "rationale": "Within the CNS, solitary fibrous tumor / hemangiopericytoma is a dura-based, non-meningothelial mesenchymal MENINGEAL neoplasm arising from the meninges/dura; it is not an intraparenchymal brain tumor, so it is restricted to the meningeal codes (a proper subset of the 21-code ceiling).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8057625/",
+  "source_name": "Brain Pathology 2011 / WHO CNS classification - Solitary Fibrous Tumors and Hemangiopericytomas of the Meninges"
+ },
+ {
+  "code": "8815/1",
+  "term": "Localized fibrous tumor",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C700",
+   "C701",
+   "C709"
+  ],
+  "site_subset_labels": [
+   "Cerebral meninges",
+   "Spinal meninges",
+   "Meninges, NOS"
+  ],
+  "rationale": "Within the CNS, solitary fibrous tumor / hemangiopericytoma is a dura-based, non-meningothelial mesenchymal MENINGEAL neoplasm arising from the meninges/dura; it is not an intraparenchymal brain tumor, so it is restricted to the meningeal codes (a proper subset of the 21-code ceiling).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8057625/",
+  "source_name": "Brain Pathology 2011 / WHO CNS classification - Solitary Fibrous Tumors and Hemangiopericytomas of the Meninges"
+ },
+ {
+  "code": "8815/1",
+  "term": "Solitary fibrous tumor, NOS",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C700",
+   "C701",
+   "C709"
+  ],
+  "site_subset_labels": [
+   "Cerebral meninges",
+   "Spinal meninges",
+   "Meninges, NOS"
+  ],
+  "rationale": "Within the CNS, solitary fibrous tumor / hemangiopericytoma is a dura-based, non-meningothelial mesenchymal MENINGEAL neoplasm arising from the meninges/dura; it is not an intraparenchymal brain tumor, so it is restricted to the meningeal codes (a proper subset of the 21-code ceiling).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8057625/",
+  "source_name": "Brain Pathology 2011 / WHO CNS classification - Solitary Fibrous Tumors and Hemangiopericytomas of the Meninges"
+ },
+ {
+  "code": "8815/1",
+  "term": "Solitary fibrous tumor, fat-forming",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C700",
+   "C701",
+   "C709"
+  ],
+  "site_subset_labels": [
+   "Cerebral meninges",
+   "Spinal meninges",
+   "Meninges, NOS"
+  ],
+  "rationale": "Within the CNS, solitary fibrous tumor / hemangiopericytoma is a dura-based, non-meningothelial mesenchymal MENINGEAL neoplasm arising from the meninges/dura; it is not an intraparenchymal brain tumor, so it is restricted to the meningeal codes (a proper subset of the 21-code ceiling).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8057625/",
+  "source_name": "Brain Pathology 2011 / WHO CNS classification - Solitary Fibrous Tumors and Hemangiopericytomas of the Meninges"
+ },
+ {
+  "code": "8815/1",
+  "term": "Solitary fibrous tumor, giant cell-rich",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C700",
+   "C701",
+   "C709"
+  ],
+  "site_subset_labels": [
+   "Cerebral meninges",
+   "Spinal meninges",
+   "Meninges, NOS"
+  ],
+  "rationale": "Within the CNS, solitary fibrous tumor / hemangiopericytoma is a dura-based, non-meningothelial mesenchymal MENINGEAL neoplasm arising from the meninges/dura; it is not an intraparenchymal brain tumor, so it is restricted to the meningeal codes (a proper subset of the 21-code ceiling).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8057625/",
+  "source_name": "Brain Pathology 2011 / WHO CNS classification - Solitary Fibrous Tumors and Hemangiopericytomas of the Meninges"
+ },
+ {
+  "code": "8815/1",
+  "term": "Solitary fibrous tumor, grade 2",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C700",
+   "C701",
+   "C709"
+  ],
+  "site_subset_labels": [
+   "Cerebral meninges",
+   "Spinal meninges",
+   "Meninges, NOS"
+  ],
+  "rationale": "Within the CNS, solitary fibrous tumor / hemangiopericytoma is a dura-based, non-meningothelial mesenchymal MENINGEAL neoplasm arising from the meninges/dura; it is not an intraparenchymal brain tumor, so it is restricted to the meningeal codes (a proper subset of the 21-code ceiling).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8057625/",
+  "source_name": "Brain Pathology 2011 / WHO CNS classification - Solitary Fibrous Tumors and Hemangiopericytomas of the Meninges"
+ },
+ {
+  "code": "8815/1",
+  "term": "Solitary fibrous tumor, lipomatous",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C700",
+   "C701",
+   "C709"
+  ],
+  "site_subset_labels": [
+   "Cerebral meninges",
+   "Spinal meninges",
+   "Meninges, NOS"
+  ],
+  "rationale": "Within the CNS, solitary fibrous tumor / hemangiopericytoma is a dura-based, non-meningothelial mesenchymal MENINGEAL neoplasm arising from the meninges/dura; it is not an intraparenchymal brain tumor, so it is restricted to the meningeal codes (a proper subset of the 21-code ceiling).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8057625/",
+  "source_name": "Brain Pathology 2011 / WHO CNS classification - Solitary Fibrous Tumors and Hemangiopericytomas of the Meninges"
+ },
+ {
+  "code": "8815/1",
+  "term": "Solitary fibrous tumor/Hemangiopericytoma, grade 2",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C700",
+   "C701",
+   "C709"
+  ],
+  "site_subset_labels": [
+   "Cerebral meninges",
+   "Spinal meninges",
+   "Meninges, NOS"
+  ],
+  "rationale": "Within the CNS, solitary fibrous tumor / hemangiopericytoma is a dura-based, non-meningothelial mesenchymal MENINGEAL neoplasm arising from the meninges/dura; it is not an intraparenchymal brain tumor, so it is restricted to the meningeal codes (a proper subset of the 21-code ceiling).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8057625/",
+  "source_name": "Brain Pathology 2011 / WHO CNS classification - Solitary Fibrous Tumors and Hemangiopericytomas of the Meninges"
+ },
+ {
+  "code": "8850/0",
+  "term": "Lipoadenoma, oncocytic",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Oncocytic lipoadenoma is described in the literature as a salivary-gland (and parathyroid) lesion, i.e. outside this code's entirely CNS ceiling; no CNS anatomic subsite can be substantiated, so a valid subset within the ceiling cannot be asserted.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3714831/",
+  "source_name": "Dental Research Journal - Sialolipoma of salivary glands"
+ },
+ {
+  "code": "8850/0",
+  "term": "Lipoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic lipoma descriptor; intracranial and spinal lipomas occur across the meninges, brain and spinal cord, so the term is not restricted to a proper subset of the CNS ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8850/0",
+  "term": "Lipomatous hypertrophy of atrial septum",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Lipomatous hypertrophy of the atrial septum is a cardiac lesion, outside this code's CNS-only ceiling; no CNS anatomic subset can be substantiated.",
+  "source": "https://radiopaedia.org/articles/thymolipoma?lang=us",
+  "source_name": "Radiopaedia - lipomatous lesion terminology reference"
+ },
+ {
+  "code": "8850/0",
+  "term": "Oncocytic lipoadenoma",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Oncocytic lipoadenoma is a salivary-gland/parathyroid lesion in the literature, outside the code's CNS-only ceiling; no CNS subsite is supportable, so restriction to a proper subset of the ceiling cannot be established.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3714831/",
+  "source_name": "Dental Research Journal - Sialolipoma of salivary glands"
+ },
+ {
+  "code": "8850/0",
+  "term": "Sialolipoma",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Sialolipoma is a defined salivary-gland neoplasm (major/minor salivary glands), outside this code's CNS-only ceiling; no CNS subset can be substantiated from the literature.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3714831/",
+  "source_name": "Dental Research Journal - Sialolipoma of salivary glands"
+ },
+ {
+  "code": "8850/0",
+  "term": "Thymolipoma",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Thymolipoma is an anterior-mediastinal/thymic lipomatous tumor, outside this code's CNS-only ceiling; no CNS anatomic subset can be supported.",
+  "source": "https://radiopaedia.org/articles/thymolipoma?lang=us",
+  "source_name": "Radiopaedia - Thymolipoma (anterior mediastinum/thymus)"
+ },
+ {
+  "code": "8890/1",
+  "term": "Diffuse leiomyomatosis",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code ceiling comprises only two generic non-specific CNS codes (C728 overlapping lesion of brain/CNS, C729 nervous system NOS); no substantive pathology basis distinguishes one from the other, so no meaningful proper anatomic subset can be defined.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8890/1",
+  "term": "Disseminated peritoneal leiomyomatosis",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code ceiling comprises only two generic non-specific CNS codes (C728 overlapping lesion of brain/CNS, C729 nervous system NOS); no substantive pathology basis distinguishes one from the other, so no meaningful proper anatomic subset can be defined.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8890/1",
+  "term": "Intravascular leiomyomatosis",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code ceiling comprises only two generic non-specific CNS codes (C728 overlapping lesion of brain/CNS, C729 nervous system NOS); no substantive pathology basis distinguishes one from the other, so no meaningful proper anatomic subset can be defined.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8890/1",
+  "term": "Intravenous leiomyomatosis",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code ceiling comprises only two generic non-specific CNS codes (C728 overlapping lesion of brain/CNS, C729 nervous system NOS); no substantive pathology basis distinguishes one from the other, so no meaningful proper anatomic subset can be defined.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8890/1",
+  "term": "Leiomyomatosis peritonealis disseminata",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code ceiling comprises only two generic non-specific CNS codes (C728 overlapping lesion of brain/CNS, C729 nervous system NOS); no substantive pathology basis distinguishes one from the other, so no meaningful proper anatomic subset can be defined.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8890/1",
+  "term": "Leiomyomatosis, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code ceiling comprises only two generic non-specific CNS codes (C728 overlapping lesion of brain/CNS, C729 nervous system NOS); no substantive pathology basis distinguishes one from the other, so no meaningful proper anatomic subset can be defined.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8890/1",
+  "term": "Leiomyomatosis, diffuse",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The code ceiling comprises only two generic non-specific CNS codes (C728 overlapping lesion of brain/CNS, C729 nervous system NOS); no substantive pathology basis distinguishes one from the other, so no meaningful proper anatomic subset can be defined.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9080/0",
+  "term": "Adult cystic teratoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic mature-teratoma descriptor; intracranial germ-cell teratomas, though midline-predominant (pineal/suprasellar), also arise in brain parenchyma (basal ganglia, thalamus, ventricles, cerebrum) and spinal cord, spanning essentially all of the code's CNS ceiling, so no proper subset restriction is supported.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9080/0",
+  "term": "Adult teratoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic mature-teratoma descriptor; intracranial germ-cell teratomas, though midline-predominant (pineal/suprasellar), also arise in brain parenchyma (basal ganglia, thalamus, ventricles, cerebrum) and spinal cord, spanning essentially all of the code's CNS ceiling, so no proper subset restriction is supported.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9080/0",
+  "term": "Cystic teratoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic mature-teratoma descriptor; intracranial germ-cell teratomas, though midline-predominant (pineal/suprasellar), also arise in brain parenchyma (basal ganglia, thalamus, ventricles, cerebrum) and spinal cord, spanning essentially all of the code's CNS ceiling, so no proper subset restriction is supported.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "9080/0",
+  "term": "Mature cystic teratoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic mature-teratoma descriptor; intracranial germ-cell teratomas, though midline-predominant (pineal/suprasellar), also arise in brain parenchyma (basal ganglia, thalamus, ventricles, cerebrum) and spinal cord, spanning essentially all of the code's CNS ceiling, so no proper subset restriction is supported.",
+  "source": "",
+  "source_name": ""
+ }
+]

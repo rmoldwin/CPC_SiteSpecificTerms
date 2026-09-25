@@ -1,0 +1,211 @@
+[
+ {
+  "code": "9492/0",
+  "term": "Mixed gangliocytoma\u2013PitNET/adenoma",
+  "proposed_codes": ["C751"],
+  "proposed_labels": ["Pituitary gland"],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "WHO-recognized entity of the sellar region; pituitary gangliocytoma occurs almost always as a mixed gangliocytoma-PitNET/pituitary adenoma arising in the sella turcica/pituitary gland. Source: 'Mixed pituitary neuroendocrine tumors (pitNET)-gangliocytomas are extremely rare sellar region World Health Organisation (WHO) Grade-I tumors ... The most common location is sella turcica alone or the sella turcica with suprasellar extension.' Pituitary gland (C751) is NOT among this code's ceiling codes (which include C753 pineal but not C751).",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12789999/",
+  "source_ref": "Saeed H et al. A Case of Mixed pitNET-Gangliocytoma of the Sella Turcica. Pak J Med Sci."
+ },
+ {
+  "code": "9506/1",
+  "term": "Hypothalamic neurocytoma",
+  "proposed_codes": ["C751"],
+  "proposed_labels": ["Pituitary gland"],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Sellar/hypothalamic neurocytoma is an extraventricular neurocytoma arising from the hypothalamic-pituitary (sellar) region; sellar neurocytomas are believed to originate from small neurons located in and around the hypothalamus. The sellar/hypothalamic-pituitary region maps to C751 (pituitary gland), which is NOT among this code's ceiling codes (cerebral lobes, ventricle, cerebellum).",
+  "source_url": "https://academic.oup.com/jcem/article/110/3/e710/7646752",
+  "source_ref": "Liu Y et al. Clinicopathological and Molecular Profile of Sellar Neurocytoma. J Clin Endocrinol Metab. 2025 ('SNs are believed to originate from small neurons located in and around the hypothalamus')."
+ },
+ {
+  "code": "9506/1",
+  "term": "Neurocytoma of sellar region",
+  "proposed_codes": ["C751"],
+  "proposed_labels": ["Pituitary gland"],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Sellar/suprasellar neurocytoma is an extraventricular neurocytoma arising from the hypothalamic-pituitary (sellar) region; its neuroimaging features are indistinguishable from tumors of the pituitary gland. The sellar region maps to C751 (pituitary gland), which is NOT among this code's ceiling codes.",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9157436/",
+  "source_ref": "A Clinicopathological and Molecular Analysis of Sellar/Suprasellar Neurocytoma. Front Endocrinol. 2022 ('Sellar/suprasellar neurocytoma is an extraventricular neurocytoma arising from the hypothalamic-pituitary region')."
+ },
+ {
+  "code": "9506/1",
+  "term": "Sellar neurocytoma",
+  "proposed_codes": ["C751"],
+  "proposed_labels": ["Pituitary gland"],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Sellar neurocytoma is a rare sellar neuronal tumor considered a type of hypothalamic neuroendocrine tumor; it is believed to originate from small neurons in and around the hypothalamus (sellar/hypothalamic-pituitary region = C751). Not among this code's ceiling codes.",
+  "source_url": "https://academic.oup.com/jcem/article/110/3/e710/7646752",
+  "source_ref": "Liu Y et al. Clinicopathological and Molecular Profile of Sellar Neurocytoma. J Clin Endocrinol Metab. 2025."
+ },
+ {
+  "code": "8572/3",
+  "term": "Acinar adenocarcinoma, sarcomatoid variant",
+  "proposed_codes": ["C619"],
+  "proposed_labels": ["Prostate gland"],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "In the 2022 WHO 5th ed Classification of Tumours (Urinary and Male Genital), prostate sarcomatoid carcinoma is categorized as a subtype of acinar adenocarcinoma. 'Acinar adenocarcinoma' is the standard designation for prostatic adenocarcinoma; therefore the sarcomatoid variant of acinar adenocarcinoma arises in the prostate (C619). Prostate (C619) is NOT among this code's ceiling codes (anus/skin/breast/ovary/penis/scrotum).",
+  "source_url": "https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1456390/full",
+  "source_ref": "Dai Z et al. Two cases of prostate adenocarcinoma progressing to rare sarcomatoid carcinoma. Front Oncol. 2024 ('in the 2022 fifth edition of the WHO Classification of Tumors, prostate sarcomatoid carcinoma is categorized as a subtype of acinar adenocarcinoma')."
+ },
+ {
+  "code": "8572/3",
+  "term": "Sarcomatoid acinar adenocarcinoma",
+  "proposed_codes": ["C619"],
+  "proposed_labels": ["Prostate gland"],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Per WHO 2022 5th ed, prostate sarcomatoid carcinoma is a subtype of acinar adenocarcinoma; acinar adenocarcinoma denotes prostatic adenocarcinoma, so sarcomatoid acinar adenocarcinoma arises in the prostate (C619). Prostate is NOT among this code's ceiling codes.",
+  "source_url": "https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1456390/full",
+  "source_ref": "Dai Z et al. Front Oncol. 2024 ('prostate sarcomatoid carcinoma is categorized as a subtype of acinar adenocarcinoma')."
+ },
+ {
+  "code": "9082/3",
+  "term": "Malignant teratoma, anaplastic",
+  "proposed_codes": ["C629"],
+  "proposed_labels": ["Testis, NOS"],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "'Malignant teratoma' (with its subtypes) is a legacy British Testicular Tumour Panel and Registry (BTTPR) classification term for non-seminomatous germ cell tumours of the testis; malignant teratoma undifferentiated corresponds to embryonal carcinoma of the testis in the WHO scheme. These BTTPR 'malignant teratoma' terms are testicular germ cell tumours arising in the testis (C629). Testis is NOT among this code's ceiling codes (peritoneum/CNS/endocrine).",
+  "source_url": "https://assets.publishing.service.gov.uk/media/5a7ea711e5274a2e8ab47562/testicular_cancer.pdf",
+  "source_ref": "GOV.UK Cancer of the testis (BTTPR vs WHO classification of testicular germ-cell tumours: '... undifferentiated yolk-sac tumour and malignant trophoblastic teratoma (in the BTTPR classification)')."
+ },
+ {
+  "code": "9082/3",
+  "term": "Malignant teratoma, undifferentiated",
+  "proposed_codes": ["C629"],
+  "proposed_labels": ["Testis, NOS"],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Malignant teratoma undifferentiated (MTU) is a British Testicular Tumour Panel (BTTP/BTTPR) classification term equivalent to WHO embryonal carcinoma of the testis; it is a testicular germ cell tumour arising in the testis (C629). Testis is NOT among this code's ceiling codes.",
+  "source_url": "https://assets.publishing.service.gov.uk/media/5a7ea711e5274a2e8ab47562/testicular_cancer.pdf",
+  "source_ref": "GOV.UK Cancer of the testis (BTTPR classification of testicular non-seminomatous germ-cell tumours: 'differentiated teratoma, intermediate malignant teratoma, undifferentiated yolk-sac tumour ...')."
+ },
+ {
+  "code": "9504/3",
+  "term": "Spongioneuroblastoma",
+  "proposed_codes": [],
+  "proposed_labels": [],
+  "site_status": "outside_ceiling",
+  "resolution": "unresolved",
+  "rationale": "'Spongioneuroblastoma' is an archaic/obscure neuroectodermal term with essentially no dedicated modern literature fixing a specific anatomic site of origin. Historical usage (Russell 1954) grouped it with neuronal neuroectodermal tumors (ganglioneuroma, glioneuroma) as a CNS/neuroectodermal lesion, whereas the ICD-O 9504/3 family (neuroepithelioma/olfactory neuroblastoma group) and the code's ceiling point toward adrenal/paraganglionic sympathetic sites; these conflicting attributions could not be reconciled to a single site from a fetched authoritative source. Marked unresolved per accuracy-over-completeness rule rather than guessing between CNS and adrenal/sympathetic origin.",
+  "source_url": "https://academic.oup.com/milmed/article-abstract/99/4/273/4946985",
+  "source_ref": "Russell DS. Neuroectodermal Tumors Containing Neoplastic Neuronal Elements: Ganglioneuroma, Spongioneuroblastoma and Glioneuroma. Mil Med. 1954 (title only; no site-of-origin definition retrievable)."
+ },
+ {
+  "code": "8121/3",
+  "term": "Cylindrical cell carcinoma",
+  "proposed_codes": ["C300", "C319"],
+  "proposed_labels": ["Nasal cavity", "Accessory sinus, NOS"],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Cylindrical cell (oncocytic Schneiderian) neoplasia is a sinonasal-tract entity arising from the Schneiderian respiratory epithelium of the nose and paranasal sinuses. Cylindrical cell carcinoma is also used in WHO nomenclature as a synonym for sinonasal non-keratinizing SCC of the nasal cavity/paranasal sinuses. Sinonasal sites (C300 nasal cavity, C31x paranasal sinuses) are NOT among this code's ceiling codes (scrotum/eye/ill-defined).",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/6370825/",
+  "source_ref": "Barnes L, Bedetti C. Oncocytic Schneiderian papilloma: a reappraisal of cylindrical cell papilloma of the sinonasal tract. Hum Pathol ('Cylindrical cell papilloma (CCP) is the rarest of three morphologically distinct papillomas that occur in the nose and paranasal sinuses')."
+ },
+ {
+  "code": "8121/3",
+  "term": "Schneiderian carcinoma",
+  "proposed_codes": ["C300", "C319"],
+  "proposed_labels": ["Nasal cavity", "Accessory sinus, NOS"],
+  "site_status": "outside_ceiling",
+  "resolution": "resolved",
+  "rationale": "Schneiderian (sinonasal) carcinoma is a de novo sinonasal carcinoma derived from Schneiderian (respiratory) mucosa of the nasal cavity and paranasal sinuses. These sinonasal sites (C300 nasal cavity, C31x paranasal sinuses) are NOT among this code's ceiling codes (scrotum/eye/ill-defined).",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8633211/",
+  "source_ref": "Saab-Chalhoub MW et al. Low Grade Papillary Sinonasal (Schneiderian) Carcinoma. Head Neck Pathol. 2021 ('LGPSC is a distinct, de novo sinonasal carcinoma ...')."
+ },
+ {
+  "code": "8380/3",
+  "term": "Mismatch repair-deficient (MMRd) endometrioid carcinoma",
+  "proposed_codes": ["C541", "C569"],
+  "proposed_labels": ["Endometrium", "Ovary"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "The MMRd molecular subgroup is part of the endometrial cancer (TCGA/ProMisE) molecular taxonomy defined for endometrial carcinoma (endometrium, C541); the same taxonomy is validated for ovarian endometrioid carcinoma (ovary, C569). Both endometrium (C541) and ovary (C569) are IN this code's ceiling codes.",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/41425725/",
+  "source_ref": "Yoshida H, Kobayashi Kato M. Molecular Pathology of Ovarian Endometrioid Carcinoma: A Review ('the endometrial cancer molecular taxonomy (POLE-ultramutated, MMRd, p53-abnormal, NSMP) also applies to OEC')."
+ },
+ {
+  "code": "8380/3",
+  "term": "Mismatch repair\u2013deficient endometrioid carcinoma",
+  "proposed_codes": ["C541", "C569"],
+  "proposed_labels": ["Endometrium", "Ovary"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "MMRd is part of the endometrial molecular taxonomy (endometrium, C541) also validated in ovarian endometrioid carcinoma (ovary, C569). Both C541 and C569 are IN this code's ceiling codes.",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/41425725/",
+  "source_ref": "Yoshida H, Kobayashi Kato M. Molecular Pathology of Ovarian Endometrioid Carcinoma: A Review."
+ },
+ {
+  "code": "8380/3",
+  "term": "No specific molecular profile (NSMP) endometrioid carcinoma",
+  "proposed_codes": ["C541", "C569"],
+  "proposed_labels": ["Endometrium", "Ovary"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "NSMP is one of the four endometrial (TCGA/ProMisE) molecular subgroups for endometrioid carcinoma of the endometrium (C541); the taxonomy also applies to ovarian endometrioid carcinoma (C569). Both are IN this code's ceiling codes.",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/41425725/",
+  "source_ref": "Yoshida H, Kobayashi Kato M. Molecular Pathology of Ovarian Endometrioid Carcinoma: A Review."
+ },
+ {
+  "code": "8380/3",
+  "term": "POLE-ultramutated endometrioid carcinoma",
+  "proposed_codes": ["C541", "C569"],
+  "proposed_labels": ["Endometrium", "Ovary"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "POLE-ultramutated is one of the four endometrial molecular subgroups for endometrioid carcinoma of the endometrium (C541); it also applies to ovarian endometrioid carcinoma (C569). Both are IN this code's ceiling codes.",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/41425725/",
+  "source_ref": "Yoshida H, Kobayashi Kato M. Molecular Pathology of Ovarian Endometrioid Carcinoma: A Review ('POLE-ultramutated ... also applies to OEC')."
+ },
+ {
+  "code": "8380/3",
+  "term": "POLE-ultramutated endometrioid carcinoma (POLEmut)",
+  "proposed_codes": ["C541", "C569"],
+  "proposed_labels": ["Endometrium", "Ovary"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "POLEmut is part of the endometrial molecular taxonomy for endometrioid carcinoma of the endometrium (C541), also validated in ovarian endometrioid carcinoma (C569). Both are IN this code's ceiling codes.",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/41425725/",
+  "source_ref": "Yoshida H, Kobayashi Kato M. Molecular Pathology of Ovarian Endometrioid Carcinoma: A Review."
+ },
+ {
+  "code": "8380/3",
+  "term": "TP53-mutant endometrioid carcinoma",
+  "proposed_codes": ["C541", "C569"],
+  "proposed_labels": ["Endometrium", "Ovary"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "The TP53-mutant/p53-abnormal subgroup is part of the endometrial molecular taxonomy for endometrioid carcinoma of the endometrium (C541), also validated in ovarian endometrioid carcinoma (C569). Both are IN this code's ceiling codes.",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/41425725/",
+  "source_ref": "Yoshida H, Kobayashi Kato M. Molecular Pathology of Ovarian Endometrioid Carcinoma: A Review ('p53-abnormal ... also applies to OEC')."
+ },
+ {
+  "code": "8380/3",
+  "term": "p53-mutant endometrioid carcinoma",
+  "proposed_codes": ["C541", "C569"],
+  "proposed_labels": ["Endometrium", "Ovary"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "The p53abn molecular subgroup is part of the endometrial molecular taxonomy for endometrioid carcinoma of the endometrium (C541), also validated in ovarian endometrioid carcinoma (C569). Both are IN this code's ceiling codes.",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/41425725/",
+  "source_ref": "Yoshida H, Kobayashi Kato M. Molecular Pathology of Ovarian Endometrioid Carcinoma: A Review."
+ },
+ {
+  "code": "8380/3",
+  "term": "p53-mutant endometrioid carcinoma (p53abn)",
+  "proposed_codes": ["C541", "C569"],
+  "proposed_labels": ["Endometrium", "Ovary"],
+  "site_status": "in_ceiling",
+  "resolution": "resolved",
+  "rationale": "The p53abn molecular subgroup is part of the endometrial molecular taxonomy for endometrioid carcinoma of the endometrium (C541), also validated in ovarian endometrioid carcinoma (C569). Both are IN this code's ceiling codes.",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/41425725/",
+  "source_ref": "Yoshida H, Kobayashi Kato M. Molecular Pathology of Ovarian Endometrioid Carcinoma: A Review."
+ }
+]

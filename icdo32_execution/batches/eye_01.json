@@ -1,0 +1,299 @@
+[
+ {
+  "code": "8121/3",
+  "term": "Cylindrical cell carcinoma",
+  "ceiling_count": 10,
+  "ceiling_codes": [
+   "C632",
+   "C690",
+   "C691",
+   "C692",
+   "C693",
+   "C694",
+   "C695",
+   "C696",
+   "C698",
+   "C699"
+  ]
+ },
+ {
+  "code": "8121/3",
+  "term": "Schneiderian carcinoma",
+  "ceiling_count": 10,
+  "ceiling_codes": [
+   "C632",
+   "C690",
+   "C691",
+   "C692",
+   "C693",
+   "C694",
+   "C695",
+   "C696",
+   "C698",
+   "C699"
+  ]
+ },
+ {
+  "code": "8124/3",
+  "term": "Cloacogenic carcinoma",
+  "ceiling_count": 19,
+  "ceiling_codes": [
+   "C210",
+   "C211",
+   "C212",
+   "C218",
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C632",
+   "C690",
+   "C691",
+   "C692",
+   "C693",
+   "C694",
+   "C695",
+   "C696",
+   "C698",
+   "C699"
+  ]
+ },
+ {
+  "code": "8773/3",
+  "term": "Spindle cell melanoma, type A",
+  "ceiling_count": 7,
+  "ceiling_codes": [
+   "C690",
+   "C691",
+   "C693",
+   "C694",
+   "C695",
+   "C696",
+   "C698"
+  ]
+ },
+ {
+  "code": "8773/3",
+  "term": "Spindle cell uveal melanoma, type\u00a0A",
+  "ceiling_count": 7,
+  "ceiling_codes": [
+   "C690",
+   "C691",
+   "C693",
+   "C694",
+   "C695",
+   "C696",
+   "C698"
+  ]
+ },
+ {
+  "code": "8774/3",
+  "term": "Spindle cell melanoma, type B",
+  "ceiling_count": 7,
+  "ceiling_codes": [
+   "C690",
+   "C691",
+   "C693",
+   "C694",
+   "C695",
+   "C696",
+   "C698"
+  ]
+ },
+ {
+  "code": "8774/3",
+  "term": "Spindle cell uveal melanoma, type\u00a0B",
+  "ceiling_count": 7,
+  "ceiling_codes": [
+   "C690",
+   "C691",
+   "C693",
+   "C694",
+   "C695",
+   "C696",
+   "C698"
+  ]
+ },
+ {
+  "code": "8902/3",
+  "term": "Mixed embryonal rhabdomyosarcoma and alveolar rhabdomyosarcoma",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C481",
+   "C482",
+   "C632",
+   "C690",
+   "C691",
+   "C692",
+   "C693",
+   "C694",
+   "C695",
+   "C696",
+   "C698",
+   "C699"
+  ]
+ },
+ {
+  "code": "8902/3",
+  "term": "Mixed type rhabdomyosarcoma",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C481",
+   "C482",
+   "C632",
+   "C690",
+   "C691",
+   "C692",
+   "C693",
+   "C694",
+   "C695",
+   "C696",
+   "C698",
+   "C699"
+  ]
+ },
+ {
+  "code": "8991/3",
+  "term": "Embryonal sarcoma",
+  "ceiling_count": 13,
+  "ceiling_codes": [
+   "C220",
+   "C481",
+   "C482",
+   "C632",
+   "C690",
+   "C691",
+   "C692",
+   "C693",
+   "C694",
+   "C695",
+   "C696",
+   "C698",
+   "C699"
+  ]
+ },
+ {
+  "code": "8991/3",
+  "term": "Embryonal sarcoma of the liver",
+  "ceiling_count": 13,
+  "ceiling_codes": [
+   "C220",
+   "C481",
+   "C482",
+   "C632",
+   "C690",
+   "C691",
+   "C692",
+   "C693",
+   "C694",
+   "C695",
+   "C696",
+   "C698",
+   "C699"
+  ]
+ },
+ {
+  "code": "8991/3",
+  "term": "Embryonal sarcoma, undifferentiated",
+  "ceiling_count": 13,
+  "ceiling_codes": [
+   "C220",
+   "C481",
+   "C482",
+   "C632",
+   "C690",
+   "C691",
+   "C692",
+   "C693",
+   "C694",
+   "C695",
+   "C696",
+   "C698",
+   "C699"
+  ]
+ },
+ {
+  "code": "8991/3",
+  "term": "Undifferentiated sarcoma of liver",
+  "ceiling_count": 13,
+  "ceiling_codes": [
+   "C220",
+   "C481",
+   "C482",
+   "C632",
+   "C690",
+   "C691",
+   "C692",
+   "C693",
+   "C694",
+   "C695",
+   "C696",
+   "C698",
+   "C699"
+  ]
+ },
+ {
+  "code": "9510/3",
+  "term": "Bilateral retinoblastoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C692",
+   "C699"
+  ]
+ },
+ {
+  "code": "9510/3",
+  "term": "Retinoblastoma, NOS",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C692",
+   "C699"
+  ]
+ },
+ {
+  "code": "9510/3",
+  "term": "Trilateral retinoblastoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C692",
+   "C699"
+  ]
+ },
+ {
+  "code": "9510/3",
+  "term": "Unilateral retinoblastoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C692",
+   "C699"
+  ]
+ },
+ {
+  "code": "9511/3",
+  "term": "Retinoblastoma, differentiated",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C692",
+   "C699"
+  ]
+ },
+ {
+  "code": "9512/3",
+  "term": "Retinoblastoma, undifferentiated",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C692",
+   "C699"
+  ]
+ },
+ {
+  "code": "9513/3",
+  "term": "Retinoblastoma, diffuse",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C692",
+   "C699"
+  ]
+ }
+]

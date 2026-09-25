@@ -1,0 +1,612 @@
+[
+ {
+  "code": "8520/3",
+  "term": "Lobular carcinoma, pleomorphic",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8520/3",
+  "term": "Tubulo-lobular carcinoma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8520/3",
+  "term": "Tubulolobular carcinoma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8521/3",
+  "term": "Infiltrating ductular carcinoma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8522/2",
+  "term": "Intraductal carcinoma and lobular carcinoma in situ",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8522/3",
+  "term": "Infiltrating duct and lobular carcinoma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8522/3",
+  "term": "Infiltrating duct and lobular carcinoma in situ",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8522/3",
+  "term": "Infiltrating ductal carcinoma and lobular carcinoma in situ",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8522/3",
+  "term": "Infiltrating lobular carcinoma and ductal carcinoma in situ",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8522/3",
+  "term": "Intraductal and lobular carcinoma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8522/3",
+  "term": "Lobular and ductal carcinoma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8523/3",
+  "term": "Infiltrating duct and apocrine carcinoma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8523/3",
+  "term": "Infiltrating duct and colloid carcinoma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8523/3",
+  "term": "Infiltrating duct and cribriform carcinoma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8523/3",
+  "term": "Infiltrating duct and micropapillary carcinoma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8523/3",
+  "term": "Infiltrating duct and mucinous carcinoma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8523/3",
+  "term": "Infiltrating duct and tubular carcinoma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8523/3",
+  "term": "Infiltrating duct mixed with other types of carcinoma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8524/3",
+  "term": "Infiltrating lobular and apocrine carcinoma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8524/3",
+  "term": "Infiltrating lobular and cribriform carcinoma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8524/3",
+  "term": "Infiltrating lobular and micropapillary carcinoma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8524/3",
+  "term": "Infiltrating lobular and mucinous carcinoma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8524/3",
+  "term": "Infiltrating lobular mixed with other types of carcinoma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8540/3",
+  "term": "Mammary Paget disease",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8540/3",
+  "term": "Paget disease of breast",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8540/3",
+  "term": "Paget disease of the nipple",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8540/3",
+  "term": "Paget disease, mammary",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8541/3",
+  "term": "Paget disease and infiltrating duct carcinoma of breast",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8541/3",
+  "term": "Paget disease and infiltrating lobular carcinoma of breast",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8541/3",
+  "term": "Paget disease with infiltrating duct carcinoma and lobular carcinoma of breast",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8543/3",
+  "term": "Paget disease and intraductal carcinoma of breast",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8836/3",
+  "term": "Angiomatoid malignant fibrous histiocytoma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8983/3",
+  "term": "Adenomyoepithelioma with carcinoma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8983/3",
+  "term": "Malignant adenomyoepithelioma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "9020/3",
+  "term": "Cystosarcoma phyllodes, malignant",
+  "ceiling_count": 15,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509",
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C529"
+  ]
+ },
+ {
+  "code": "9020/3",
+  "term": "Periductal stromal tumor, low grade",
+  "ceiling_count": 15,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509",
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C529"
+  ]
+ },
+ {
+  "code": "9020/3",
+  "term": "Phyllodes tumor, malignant",
+  "ceiling_count": 15,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509",
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C529"
+  ]
+ }
+]

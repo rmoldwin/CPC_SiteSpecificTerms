@@ -1,0 +1,571 @@
+{"code": "8034/3", "term": "Polygonal cell carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8043/3", "term": "Small cell carcinoma, fusiform cell", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8080/2", "term": "Queyrat erythroplasia", "ceiling_count": 1, "ceiling_codes": ["C632"]}
+{"code": "8162/3", "term": "Klatskin tumor", "ceiling_count": 1, "ceiling_codes": ["C240"]}
+{"code": "8162/3", "term": "Perihilar cholangiocarcinoma", "ceiling_count": 1, "ceiling_codes": ["C240"]}
+{"code": "8170/3", "term": "Conventional hepatocellular carcinoma", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8170/3", "term": "Hepatocarcinoma", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8170/3", "term": "Hepatocellular carcinoma, chromophobe type", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8170/3", "term": "Hepatocellular carcinoma, conventional", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8170/3", "term": "Hepatocellular carcinoma, lymphocyte-rich", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8170/3", "term": "Hepatocellular carcinoma, macrotrabecular massive", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8170/3", "term": "Hepatocellular carcinoma, neutrophil-rich", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8170/3", "term": "Hepatocellular carcinoma, NOS", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8170/3", "term": "Hepatocellular carcinoma, steatohepatitic", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8170/3", "term": "Hepatoma, malignant", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8170/3", "term": "Hepatoma, NOS", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8170/3", "term": "Liver cell carcinoma", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8170/3", "term": "pediatric hepatocellular carcinoma", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8171/3", "term": "Carcinoma, fibrolamellar", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8171/3", "term": "Fibrolamellar variant of hepatocellular carcinoma", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8171/3", "term": "Hepatocellular carcinoma, fibrolamellar", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8172/3", "term": "Hepatocellular carcinoma, scirrhous", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8172/3", "term": "Sclerosing hepatic carcinoma", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8173/3", "term": "Hepatocellular carcinoma, sarcomatoid", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8173/3", "term": "Hepatocellular carcinoma, spindle cell variant", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8174/3", "term": "Clear cell hepatocellular carcinoma", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8174/3", "term": "Hepatocellular carcinoma, chromophobe", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8174/3", "term": "Hepatocellular carcinoma, clear cell type", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8174/3", "term": "Hepatocellular carcinoma, clear cell-type", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8174/3", "term": "Hepatocellular carcinoma, lymphocyte-rich", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8174/3", "term": "Hepatocellular carcinoma, macrotrabecular massive", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8174/3", "term": "Hepatocellular carcinoma, neutrophil-rich", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8174/3", "term": "Hepatocellular carcinoma, steatohepatic", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8175/3", "term": "Hepatocellular carcinoma, pleomorphic type", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8180/3", "term": "Combined hepatocellular carcinoma and cholangiocarcinoma", "ceiling_count": 1, "ceiling_codes": ["C221"]}
+{"code": "8180/3", "term": "Combined hepatocellular-cholangiocarcinoma", "ceiling_count": 1, "ceiling_codes": ["C221"]}
+{"code": "8180/3", "term": "Hepatocholangiocarcinoma", "ceiling_count": 1, "ceiling_codes": ["C221"]}
+{"code": "8180/3", "term": "Mixed hepatobiliary carcinoma", "ceiling_count": 1, "ceiling_codes": ["C221"]}
+{"code": "8180/3", "term": "Mixed hepatocellular and bile duct carcinoma", "ceiling_count": 1, "ceiling_codes": ["C221"]}
+{"code": "8180/3", "term": "Mixed hepatocellular-cholangiocarcinoma", "ceiling_count": 1, "ceiling_codes": ["C221"]}
+{"code": "8251/3", "term": "Alveolar adenocarcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8251/3", "term": "Alveolar carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8271/3", "term": "Densely granulated lactotroph tumor", "ceiling_count": 1, "ceiling_codes": ["C313"]}
+{"code": "8271/3", "term": "Lactotroph adenoma", "ceiling_count": 1, "ceiling_codes": ["C313"]}
+{"code": "8271/3", "term": "Lactotroph PitNET", "ceiling_count": 1, "ceiling_codes": ["C313"]}
+{"code": "8271/3", "term": "Lactotroph PitNET/adenoma", "ceiling_count": 1, "ceiling_codes": ["C313"]}
+{"code": "8271/3", "term": "Lactotroph PitNET/adenoma5", "ceiling_count": 1, "ceiling_codes": ["C313"]}
+{"code": "8271/3", "term": "Lactotroph tumor", "ceiling_count": 1, "ceiling_codes": ["C313"]}
+{"code": "8271/3", "term": "Prolactinoma", "ceiling_count": 1, "ceiling_codes": ["C313"]}
+{"code": "8271/3", "term": "Sparsely granulated lactotroph tumor", "ceiling_count": 1, "ceiling_codes": ["C313"]}
+{"code": "8311/3", "term": "ALK-rearranged renal cell carcinoma", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8311/3", "term": "ALK-rearranged renal cell carcinomas", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8311/3", "term": "ELOC (formerly TCEB1)-mutated renal cell carcinoma", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8311/3", "term": "Eosinophilic solid and cystic renal cell carcinoma", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8311/3", "term": "Fumarate hydratase-deficient renal cell carcinoma", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8311/3", "term": "Hereditary leiomyomatosis and renal cell carcinoma (HLRCC) syndrome-associated renal cell carcinoma", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8311/3", "term": "MiT family translocation carcinoma", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8311/3", "term": "MiT family translocation renal cell carcinoma", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8311/3", "term": "Renal cell carcinoma with MiT translocations", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8311/3", "term": "Succinate dehydrogenase\u2013deficient renal cell carcinoma", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8311/3", "term": "t(6;11) renal cell carcinoma", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8311/3", "term": "TFE3-rearranged renal cell carcinoma", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8311/3", "term": "TFE3-rearranged renal cell carcinoma (Xp11 translocation renal cell carcinoma)", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8311/3", "term": "TFE3-rearranged renal cell carcinomas", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8311/3", "term": "TFEB-altered renal cell carcinoma", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8311/3", "term": "TFEB-rearranged renal cell carcinoma", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8311/3", "term": "TFEB-rearranged renal cell carcinoma (t(6;11) renal cell carcinoma)", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8311/3", "term": "TFEB-rearranged renal cell carcinomas", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8311/3", "term": "Xp11 translocation renal cell carcinoma", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8312/3", "term": "Grawitz tumor", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8312/3", "term": "Hypernephroma", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8312/3", "term": "Renal cell adenocarcinoma", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8312/3", "term": "Renal cell carcinoma, NOS", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8312/3", "term": "Renal cell carcinoma, not elsewhere classified", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8312/3", "term": "Renal cell carcinoma, unclassified", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8313/3", "term": "Clear cell adenocarcinofibroma", "ceiling_count": 1, "ceiling_codes": ["C569"]}
+{"code": "8313/3", "term": "Clear cell cystadenocarcinofibroma", "ceiling_count": 1, "ceiling_codes": ["C569"]}
+{"code": "8316/3", "term": "Acquired cystic disease-associated renal cell carcinoma", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8316/3", "term": "Cyst-associated renal cell carcinoma", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8316/3", "term": "Tubulocystic renal cell carcinoma", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8317/3", "term": "Chromophobe carcinoma of kidney", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8317/3", "term": "Chromophobe cell renal carcinoma", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8317/3", "term": "Chromophobe renal cell carcinoma", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8317/3", "term": "Renal cell carcinoma, chromophobe type", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8318/3", "term": "Renal cell carcinoma, sarcomatoid", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8318/3", "term": "Renal cell carcinoma, spindle cell", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8319/3", "term": "Bellini duct carcinoma", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8319/3", "term": "Collecting duct carcinoma", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8319/3", "term": "Renal carcinoma, collecting duct type", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8322/3", "term": "Water-clear cell adenocarcinoma", "ceiling_count": 1, "ceiling_codes": ["C750"]}
+{"code": "8322/3", "term": "Water-clear cell carcinoma", "ceiling_count": 1, "ceiling_codes": ["C750"]}
+{"code": "8330/3", "term": "Follicular adenocarcinoma, NOS", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8330/3", "term": "Follicular carcinoma, NOS", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8330/3", "term": "Follicular carcinoma, widely invasive", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8330/3", "term": "Follicular thyroid carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8330/3", "term": "Widely invasive follicular thyroid carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8331/3", "term": "Follicular adenocarcinoma, well differentiated", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8331/3", "term": "Follicular carcinoma, well differentiated", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8332/3", "term": "Follicular adenocarcinoma, moderately differentiated", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8332/3", "term": "Follicular adenocarcinoma, trabecular", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8332/3", "term": "Follicular carcinoma, moderately differentiated", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8332/3", "term": "Follicular carcinoma, trabecular", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8335/3", "term": "Follicular carcinoma, minimally invasive", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8335/3", "term": "Minimally invasive follicular thyroid carcinoma (capsular invasion only)", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8337/3", "term": "Differentiated high-grade thyroid carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8337/3", "term": "Follicular thyroid carcinoma, high-grade", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8337/3", "term": "Follicular-derived carcinoma, non-anaplastic high-grade", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8337/3", "term": "High-grade differentiated thyroid carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8337/3", "term": "High-grade follicular cell-derived non-anaplastic carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8337/3", "term": "High-grade follicular cell\u2013derived non-anaplastic thyroid carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8337/3", "term": "Insular carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8337/3", "term": "Oncocytic follicular thyroid carcinoma, high-grade", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8337/3", "term": "Papillary thyroid carcinoma, high-grade", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8337/3", "term": "Poorly differentiated thyroid carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8339/3", "term": "Encapsulated angioinvasive follicular thyroid carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8339/3", "term": "Follicular carcinoma, encapsulated, angioinvasive", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8339/3", "term": "Follicular thyroid carcinoma, encapsulated, angioinvasive", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8340/3", "term": "Encapsulated angioinvasive follicular variant of papillary carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8340/3", "term": "Follicular variant of papillary thyroid carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8340/3", "term": "Infiltrative follicular subtype of papillary thyroid carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8340/3", "term": "Infiltrative follicular variant of papillary thyroid carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8340/3", "term": "Invasive encapsulated follicular subtype of papillary thyroid carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8340/3", "term": "Invasive encapsulated follicular variant of papillary carcinoma, NOS", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8340/3", "term": "Invasive encapsulated follicular variant of papillary thyroid carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8340/3", "term": "Minimally invasive encapsulated follicular variant of papillary carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8340/3", "term": "Minimally invasive encapsulated follicular variant of papillary carcinoma (capsular invasion only)", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8340/3", "term": "Papillary adenocarcinoma, follicular variant", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8340/3", "term": "Papillary and follicular adenocarcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8340/3", "term": "Papillary and follicular carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8340/3", "term": "Papillary carcinoma, follicular variant", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8340/3", "term": "Widely invasive follicular variant of papillary carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8341/3", "term": "Micropapillary carcinoma of thyroid", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8341/3", "term": "Papillary microcarcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8341/3", "term": "Papillary thyroid microcarcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8342/3", "term": "Oncocytic papillary thyroid carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8342/3", "term": "Papillary carcinoma, oncocytic", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8342/3", "term": "Papillary carcinoma, oncocytic variant", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8342/3", "term": "Papillary carcinoma, oxyphilic cell", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8343/3", "term": "Encapsulated classic papillary thyroid carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8343/3", "term": "Papillary carcinoma, encapsulated, of thyroid", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8344/3", "term": "Columnar cell papillary thyroid carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8344/3", "term": "Papillary carcinoma, columnar cell", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8344/3", "term": "Papillary carcinoma, tall cell", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8344/3", "term": "Tall cell papillary thyroid carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8345/3", "term": "C cell carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8345/3", "term": "Medullary carcinoma with amyloid stroma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8345/3", "term": "Medullary microcarcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8345/3", "term": "Medullary microcarcinoma of thyroid gland", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8345/3", "term": "Medullary thyroid carcinoma, NOS", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8345/3", "term": "Medullary thyroid microcarcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8345/3", "term": "Parafollicular cell carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8346/3", "term": "Mixed medullary and anaplastic carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8346/3", "term": "Mixed medullary and high-grade differentiated carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8346/3", "term": "Mixed medullary and oncocytic carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8346/3", "term": "Mixed medullary and poorly differentiated carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8346/3", "term": "Mixed medullary-follicular carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8347/3", "term": "Mixed medullary-papillary carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8350/3", "term": "Diffuse sclerosing papillary thyroid carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8350/3", "term": "Nonencapsulated sclerosing adenocarcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8350/3", "term": "Nonencapsulated sclerosing carcinoma", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8350/3", "term": "Nonencapsulated sclerosing tumor", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8350/3", "term": "Papillary carcinoma, diffuse sclerosing", "ceiling_count": 1, "ceiling_codes": ["C739"]}
+{"code": "8461/2", "term": "Serous tubal intraepithelial carcinoma", "ceiling_count": 1, "ceiling_codes": ["C570"]}
+{"code": "8474/3", "term": "Seromucinous carcinoma", "ceiling_count": 1, "ceiling_codes": ["C569"]}
+{"code": "8480/2", "term": "HAMN", "ceiling_count": 1, "ceiling_codes": ["C181"]}
+{"code": "8480/2", "term": "High-grade appendiceal mucinous neoplasm", "ceiling_count": 1, "ceiling_codes": ["C181"]}
+{"code": "8480/2", "term": "High-grade appendiceal mucinous neoplasm (HAMN)", "ceiling_count": 1, "ceiling_codes": ["C181"]}
+{"code": "8480/2", "term": "LAMN", "ceiling_count": 1, "ceiling_codes": ["C181"]}
+{"code": "8480/2", "term": "Low grade appendiceal mucinous neoplasm", "ceiling_count": 1, "ceiling_codes": ["C181"]}
+{"code": "8630/3", "term": "Androblastoma, malignant", "ceiling_count": 1, "ceiling_codes": ["C569"]}
+{"code": "8630/3", "term": "Arrhenoblastoma, malignant", "ceiling_count": 1, "ceiling_codes": ["C569"]}
+{"code": "8631/3", "term": "Sertoli-Leydig cell tumor, poorly differentiated", "ceiling_count": 1, "ceiling_codes": ["C569"]}
+{"code": "8631/3", "term": "Sertoli-Leydig cell tumor, sarcomatoid", "ceiling_count": 1, "ceiling_codes": ["C569"]}
+{"code": "8634/3", "term": "Sertoli-Leydig cell tumor, poorly differentiated, with heterologous elements", "ceiling_count": 1, "ceiling_codes": ["C569"]}
+{"code": "8670/3", "term": "Steroid cell tumor, malignant", "ceiling_count": 1, "ceiling_codes": ["C569"]}
+{"code": "8935/3", "term": "Stromal sarcoma, NOS", "ceiling_count": 1, "ceiling_codes": ["C619"]}
+{"code": "8960/3", "term": "Nephroblastoma, NOS", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8960/3", "term": "Nephroma, NOS", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8960/3", "term": "Wilms tumor", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8964/3", "term": "Clear cell sarcoma of kidney", "ceiling_count": 1, "ceiling_codes": ["C649"]}
+{"code": "8970/3", "term": "Cholangioblastic hepatoblastoma", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8970/3", "term": "Embryonal hepatoblastoma", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8970/3", "term": "Embryonal hepatoma", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8970/3", "term": "Epithelial macrotrabecular pattern of hepatoblastoma", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8970/3", "term": "Epithelial mixed hepatoblastoma", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8970/3", "term": "Fetal hepatoblastoma, mitotically active (crowded fetal hepatoblastoma)", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8970/3", "term": "Hepatoblastoma, epithelioid", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8970/3", "term": "Hepatoblastoma, mixed epithelial-mesenchymal", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8970/3", "term": "Hepatoblastoma, NOS", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8970/3", "term": "Mixed epithelial and mesenchymal hepatoblastoma with teratoid features", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8970/3", "term": "Mixed epithelial and mesenchymal hepatoblastoma without teratoid features", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8970/3", "term": "Pleomorphic hepatoblastoma, poorly differentiated", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8970/3", "term": "Pure fetal hepatoblastoma with low mitotic activity (well-differentiated fetal hepatoblastoma)", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8970/3", "term": "Small cell undifferentiated hepatoblastoma, SMARCB1 (INI1) lost (negative)", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8970/3", "term": "Small cell undifferentiated hepatoblastoma, SMARCB1 (INI1) retained (positive)", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "8970/3", "term": "Thyroblastoma", "ceiling_count": 1, "ceiling_codes": ["C220"]}
+{"code": "9000/3", "term": "Brenner tumor, malignant", "ceiling_count": 1, "ceiling_codes": ["C569"]}
+{"code": "9000/3", "term": "Malignant Brenner tumor", "ceiling_count": 1, "ceiling_codes": ["C569"]}
+{"code": "9015/3", "term": "Malignant mucinous adenofibroma", "ceiling_count": 1, "ceiling_codes": ["C569"]}
+{"code": "9015/3", "term": "Malignant mucinous cystadenofibroma", "ceiling_count": 1, "ceiling_codes": ["C569"]}
+{"code": "9015/3", "term": "Mucinous adenocarcinofibroma", "ceiling_count": 1, "ceiling_codes": ["C569"]}
+{"code": "9015/3", "term": "Mucinous cystadenocarcinofibroma", "ceiling_count": 1, "ceiling_codes": ["C569"]}
+{"code": "9090/3", "term": "Proliferative struma ovarii", "ceiling_count": 1, "ceiling_codes": ["C569"]}
+{"code": "9090/3", "term": "Struma ovarii, malignant", "ceiling_count": 1, "ceiling_codes": ["C569"]}
+{"code": "9090/3", "term": "Thyroid carcinoma arising in struma ovarii", "ceiling_count": 1, "ceiling_codes": ["C569"]}
+{"code": "9360/1", "term": "Pinealoma", "ceiling_count": 1, "ceiling_codes": ["C753"]}
+{"code": "9361/1", "term": "Pineocytoma", "ceiling_count": 1, "ceiling_codes": ["C753"]}
+{"code": "9395/3", "term": "Papillary tumor of pineal region", "ceiling_count": 1, "ceiling_codes": ["C753"]}
+{"code": "9472/3", "term": "Medullomyoblastoma", "ceiling_count": 1, "ceiling_codes": ["C716"]}
+{"code": "9480/3", "term": "Cerebellar sarcoma, NOS", "ceiling_count": 1, "ceiling_codes": ["C716"]}
+{"code": "9480/3", "term": "Primary intracranial sarcoma, DICER1-mutant", "ceiling_count": 1, "ceiling_codes": ["C716"]}
+{"code": "9493/0", "term": "Dysplastic cerebellar gangliocytoma (Lhermitte\u2013Duclos disease)", "ceiling_count": 1, "ceiling_codes": ["C716"]}
+{"code": "9493/0", "term": "Dysplastic gangliocytoma of cerebellum (Lhermitte-Duclos disease)", "ceiling_count": 1, "ceiling_codes": ["C716"]}
+{"code": "9493/0", "term": "Dysplastic gangliocytoma of cerebellum (Lhermitte-Duclos)", "ceiling_count": 1, "ceiling_codes": ["C716"]}
+{"code": "9689/3", "term": "Splenic lymphoma with villous lymphocytes", "ceiling_count": 1, "ceiling_codes": ["C422"]}
+{"code": "9689/3", "term": "Splenic marginal zone B-cell lymphoma", "ceiling_count": 1, "ceiling_codes": ["C422"]}
+{"code": "9689/3", "term": "Splenic marginal zone lymphoma, NOS", "ceiling_count": 1, "ceiling_codes": ["C422"]}
+{"code": "9716/3", "term": "Hepatosplenic gamma-delta cell lymphoma", "ceiling_count": 1, "ceiling_codes": ["C422"]}
+{"code": "9716/3", "term": "Hepatosplenic T-cell lymphoma", "ceiling_count": 1, "ceiling_codes": ["C422"]}
+{"code": "9732/3", "term": "Multiple myeloma", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9732/3", "term": "Myeloma, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9732/3", "term": "Myelomatosis", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9732/3", "term": "Non-secretory myeloma", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9732/3", "term": "Plasma cell myeloma", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9732/3", "term": "Smoldering (asymptomatic) myeloma", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9741/3", "term": "Aggressive systemic mastocytosis", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9741/3", "term": "Malignant mastocytosis", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9741/3", "term": "Systemic mastocytosis with AHNMD", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9741/3", "term": "Systemic mastocytosis with an associated clonal hematological non-mast cell lineage disease", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9741/3", "term": "Systemic mastocytosis with an associated hematological neoplasm", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9741/3", "term": "Systemic mastocytosis with associated hematological clonal non-mast cell disorder", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9741/3", "term": "Systemic tissue mast cell disease", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9742/3", "term": "Mast cell leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9749/1", "term": "Disseminated juvenile xanthogranuloma", "ceiling_count": 1, "ceiling_codes": ["C715"]}
+{"code": "9749/1", "term": "Juvenile xanthogranuloma", "ceiling_count": 1, "ceiling_codes": ["C715"]}
+{"code": "9761/3", "term": "IgM LPL/Waldenstrom Macroglobulinemia type", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9761/3", "term": "IgM LPL/Waldenstr\u00f6m Macroglobulinemia type", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9761/3", "term": "IgM-type lymphoplasmacytic lymphoma/Waldenstrom macroglobulinemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9761/3", "term": "IgM-type lymphoplasmacytic lymphoma/Waldenstr\u00f6m macroglobulinemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9761/3", "term": "Non-IgM LPL/Waldenstrom Macroglobulinemia type", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9761/3", "term": "Non-IgM LPL/Waldenstr\u00f6m macroglobulinemia type", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9761/3", "term": "Non-IgM-type lymphoplasmacytic lymphoma/Waldenstrom macroglobulinemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9761/3", "term": "Non-IgM-type lymphoplasmacytic lymphoma/Waldenstr\u00f6m macroglobulinemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9761/3", "term": "Waldenstrom macroglobulinemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9761/3", "term": "Waldenstr\u00f6m macroglobulinemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9800/3", "term": "Aleukemic leukemia, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9800/3", "term": "Chronic leukemia, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9800/3", "term": "Leukemia, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9800/3", "term": "Subacute leukemia, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9801/3", "term": "Acute leukemia, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9801/3", "term": "Acute undifferentiated leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9801/3", "term": "Blast cell leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9801/3", "term": "Stem cell leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9801/3", "term": "Undifferentiated leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9806/3", "term": "Mixed phenotype acute leukemia with t(9;22)(q34;q11.2); BCR-ABL1", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9806/3", "term": "Mixed-phenotype acute leukemia  with BCR::ABL1", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9806/3", "term": "Mixed-phenotype acute leukemia with BCR::ABL1 fusion", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9806/3", "term": "Mixed-phenotype acute leukemia with t(9;22)(q34;q11.2)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9807/3", "term": "Mixed phenotype acute leukemia with t(v;11q23); MLL rearranged", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9807/3", "term": "Mixed-phenotype acute leukemia with KMT2A rearrangement", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9808/3", "term": "Mixed phenotype acute leukemia, B/myeloid, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9809/3", "term": "Mixed phenotype acute leukemia, T/myeloid, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9820/3", "term": "Aleukemic lymphatic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9820/3", "term": "Aleukemic lymphocytic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9820/3", "term": "Aleukemic lymphoid leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9820/3", "term": "Lymphatic leukemia, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9820/3", "term": "Lymphocytic leukemia, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9820/3", "term": "Lymphoid leukemia, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9820/3", "term": "Lymphosarcoma cell leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9820/3", "term": "Subacute lymphatic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9820/3", "term": "Subacute lymphocytic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9820/3", "term": "Subacute lymphoid leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9831/3", "term": "Chronic lymphoproliferative disorder of NK cells", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9831/3", "term": "Chronic NK-large granular lymphocyte lymphoproliferative disorder", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9831/3", "term": "Large granular lymphocytosis, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9831/3", "term": "NK-cell large granular lymphocytic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9831/3", "term": "NK-large granular lymphocytic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9831/3", "term": "T-cell large granular lymphocytic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9831/3", "term": "T-cell large granular lymphocytosis", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9831/3", "term": "T-cell lymphoproliferative disease of granular lymphocytes", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9831/3", "term": "T-large granular lymphocytic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9832/3", "term": "Prolymphocytic leukemia, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9834/3", "term": "Prolymphocytic leukemia, T-cell type", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9834/3", "term": "T-cell prolymphocytic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9834/3", "term": "T-prolymphocytic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9840/3", "term": "Acute erythremia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9840/3", "term": "Acute erythremic myelosis", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9840/3", "term": "Acute erythroid leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9840/3", "term": "Acute myeloid leukemia, M6 type", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9840/3", "term": "AML M6", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9840/3", "term": "Di Guglielmo disease", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9840/3", "term": "Erythremic myelosis, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9840/3", "term": "Erythroleukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9840/3", "term": "FAB M6", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9840/3", "term": "M6A", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9840/3", "term": "M6B", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9840/3", "term": "Pure erythroid leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9860/3", "term": "Aleukemic granulocytic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9860/3", "term": "Aleukemic monocytic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9860/3", "term": "Aleukemic myelogenous leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9860/3", "term": "Aleukemic myeloid leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9860/3", "term": "Chronic monocytic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9860/3", "term": "Eosinophilic leukemia, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9860/3", "term": "Granulocytic leukemia, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9860/3", "term": "Monocytic leukemia, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9860/3", "term": "Myelocytic leukemia, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9860/3", "term": "Myelogenous leukemia, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9860/3", "term": "Myeloid leukemia, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9860/3", "term": "Myelomonocytic leukemia, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9860/3", "term": "Non-lymphocytic leukemia, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9860/3", "term": "Subacute granulocytic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9860/3", "term": "Subacute monocytic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9860/3", "term": "Subacute myelogenous leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9860/3", "term": "Subacute myeloid leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9861/3", "term": "Acute granulocytic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9861/3", "term": "Acute myelocytic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9861/3", "term": "Acute myelogenous leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9861/3", "term": "Acute myeloid leukemia (AML), NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9861/3", "term": "Acute myeloid leukemia with CBFA2T3::GLIS2 fusion", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9861/3", "term": "Acute myeloid leukemia with DEK::NUP214 fusion", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9861/3", "term": "Acute myeloid leukemia with FUS::ERG fusion", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9861/3", "term": "Acute myeloid leukemia with KAT6A::CREBBP fusion", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9861/3", "term": "Acute myeloid leukemia with MNX1::ETV6 fusion", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9861/3", "term": "Acute myeloid leukemia with NPM1::MLF1 fusion", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9861/3", "term": "Acute myeloid leukemia with NUP98 rearrangement", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9861/3", "term": "Acute myeloid leukemia with other defined genetic alterations", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9861/3", "term": "Acute myeloid leukemia with RUNX1T3(CBFA2T3)::GLIS2", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9861/3", "term": "Acute myeloid leukemia, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9861/3", "term": "Acute non-lymphocytic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9861/3", "term": "AML with CBFA2T3::GLIS2 fusion", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9861/3", "term": "AML with KAT6A::CREBBP fusion", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9861/3", "term": "AML with MNX1::ETV6 fusion", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9861/3", "term": "AML with NUP98 rearrangement", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9863/3", "term": "Chronic granulocytic leukemia, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9863/3", "term": "Chronic myelocytic leukemia, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9863/3", "term": "Chronic myelogenous leukemia, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9863/3", "term": "Chronic myeloid leukemia, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9865/3", "term": "Acute myeloid leukemia with DEK::NUP214 fusion", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9865/3", "term": "Acute myeloid leukemia with t(6;9)(p22.3;q34.1)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9865/3", "term": "Acute myeloid leukemia with t(6;9)(p23;q34); DEK-NUP214", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9865/3", "term": "AML with DEK::NUP214 fusion", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9866/3", "term": "Acute myeloid leukemia, PML/RAR-alpha", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9866/3", "term": "Acute myeloid leukemia, PML::RAR-alpha", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9866/3", "term": "Acute myeloid leukemia, t(15;17)(q22;q11-12)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9866/3", "term": "Acute promyelocytic leukemia with a variant RARA translocation", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9866/3", "term": "Acute promyelocytic leukemia with PML::RARA fusion", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9866/3", "term": "Acute promyelocytic leukemia with t(15;17)(q24.1;q21.2)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9866/3", "term": "Acute promyelocytic leukemia, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9866/3", "term": "Acute promyelocytic leukemia, PML/RAR-alpha", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9866/3", "term": "Acute promyelocytic leukemia, PML::RAR-alpha", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9866/3", "term": "Acute promyelocytic leukemia, t(15;17)(q22;q11-12)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9866/3", "term": "FAB M3", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9867/3", "term": "Acute myelomonocytic leukemia, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9867/3", "term": "FAB M4", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9869/3", "term": "Acute myeloid leukemia with EVI1 rearrangement", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9869/3", "term": "Acute myeloid leukemia with inv(3)(q21;q26.2) or t(3;3)(q21;q26.2); RPN1::EVI1", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9869/3", "term": "Acute myeloid leukemia with inv(3)(q21;q26.2) or t(3;3)(q21;q26.2); RPN1-EVI1", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9869/3", "term": "Acute myeloid leukemia with MECOM rearrangement", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9869/3", "term": "AML with MECOM rearrangement", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9870/3", "term": "Acute basophilic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9870/3", "term": "Acute basophilic leukemia with t(X;6)(p11;q23); MYB::GATA1", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9871/3", "term": "Acute myeloid leukemia with abnormal marrow eosinophils", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9871/3", "term": "Acute myeloid leukemia with CBFB rearrangement", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9871/3", "term": "Acute myeloid leukemia with CBFB::MYH11 fusion", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9871/3", "term": "Acute myeloid leukemia with inv(16)(p13.1;q22)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9871/3", "term": "Acute myeloid leukemia with t(16;16)(p13.1;q22)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9871/3", "term": "Acute myeloid leukemia, CBF-beta/MYH11", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9871/3", "term": "Acute myeloid leukemia, CBF-beta::MYH11", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9871/3", "term": "Acute myeloid leukemia, inv(16)(p13;1q22)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9871/3", "term": "Acute myeloid leukemia, inv(16)(p13;q22)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9871/3", "term": "Acute myeloid leukemia, t(16;16)(p13;q11)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9871/3", "term": "Acute myelomonocytic leukemia with abnormal eosinophils", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9871/3", "term": "AML with CBFB::MYH11 fusion", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9871/3", "term": "FAB M4Eo", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9872/3", "term": "Acute myeloblastic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9872/3", "term": "Acute myeloid leukemia with minimal differentiation", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9872/3", "term": "Acute myeloid leukemia, minimal differentiation", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9872/3", "term": "AML with minimal differentiation", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9872/3", "term": "FAB M0", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9873/3", "term": "Acute myeloid leukemia without maturation", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9873/3", "term": "AML without maturation", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9873/3", "term": "FAB M1", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9874/3", "term": "Acute myeloid leukemia with maturation", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9874/3", "term": "AML with maturation", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9874/3", "term": "FAB M2, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9875/3", "term": "Chronic granulocytic leukemia, BCR/ABL", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9875/3", "term": "Chronic granulocytic leukemia, BCR::ABL1", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9875/3", "term": "Chronic granulocytic leukemia, Philadelphia chromosome (Ph1) positive", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9875/3", "term": "Chronic granulocytic leukemia, t(9;22)(q34;q11)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9875/3", "term": "Chronic myelogenous leukemia, BCR/ABL positive", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9875/3", "term": "Chronic myelogenous leukemia, BCR::ABL1 positive", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9875/3", "term": "Chronic myelogenous leukemia, Philadelphia chromosome (Ph1) positive", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9875/3", "term": "Chronic myelogenous leukemia, t(9;22)(q34;q11)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9875/3", "term": "Chronic myeloid leukemia (CML), BCR::ABL1", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9875/3", "term": "Chronic myeloid leukemia, BCR::ABL1", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9875/3", "term": "Chronic myeloid leukemia, Philadelphia chromosome (Ph1) positive", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9875/3", "term": "Chronic myeloid leukemia, Philadelphia chromosome-positive (Ph+)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9875/3", "term": "Chronic myeloid leukemia, t(9;22)(q34;q11)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9876/3", "term": "Atypical chronic myeloid leukemia, BCR/ABL negative", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9876/3", "term": "Atypical chronic myeloid leukemia, BCR::ABL1 negative", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9876/3", "term": "Atypical chronic myeloid leukemia, Philadelphia chromosome (Ph1) negative", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9876/3", "term": "Myelodysplastic/myeloproliferative neoplasm with neutrophilia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9877/3", "term": "Acute myeloid leukemia with mutated NPM1", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9877/3", "term": "Acute myeloid leukemia with NPM1 mutation", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9877/3", "term": "AML with NPM1 mutation", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9878/3", "term": "Acute myeloid leukemia with biallelic mutation of CEBPA", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9878/3", "term": "Acute myeloid leukemia with CEBPA mutation", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9878/3", "term": "AML with CEBPA mutation", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9879/3", "term": "Acute myeloid leukemia with mutated RUNX1", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9891/3", "term": "Acute monoblastic and monocytic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9891/3", "term": "Acute monoblastic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9891/3", "term": "Acute monocytic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9891/3", "term": "FAB M5", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9891/3", "term": "Monoblastic leukemia, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9895/3", "term": "Acute myeloid leukemia post myelodysplastic neoplasm", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9895/3", "term": "Acute myeloid leukemia post myelodysplastic-myeloproliferative neoplasm", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9895/3", "term": "Acute myeloid leukemia with multilineage dysplasia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9895/3", "term": "Acute myeloid leukemia with myelodysplasia-related changes", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9895/3", "term": "Acute myeloid leukemia with prior myelodysplastic syndrome", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9895/3", "term": "Acute myeloid leukemia without prior myelodysplastic syndrome", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9895/3", "term": "Acute myeloid leukemia, myelodysplasia-related", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9896/3", "term": "Acute myeloid leukemia with RUNX1::RUNX1T1 fusion", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9896/3", "term": "Acute myeloid leukemia with t(8;21)(q22;q22.1)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9896/3", "term": "Acute myeloid leukemia, AML1(CBF-alpha)/ETO", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9896/3", "term": "Acute myeloid leukemia, AML1(CBF-alpha)::ETO", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9896/3", "term": "Acute myeloid leukemia, FLT3-TKD", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9896/3", "term": "Acute myeloid leukemia, t(8;21)(q22;q22)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9896/3", "term": "AML with RUNX1::RUNX1T1 fusion", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9896/3", "term": "FAB M2, AML1(CBF-alpha)/ETO", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9896/3", "term": "FAB M2, AML1(CBF-alpha)::ETO", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9896/3", "term": "FAB M2, t(8;21)(q22;q22)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9897/3", "term": "Acute myeloid leukemia with KMT2A rearrangement", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9897/3", "term": "Acute myeloid leukemia with KMT2A::MLLT3", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9897/3", "term": "Acute myeloid leukemia with KMT2A::MLLT3 or other exact fusion", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9897/3", "term": "Acute myeloid leukemia with t(9;11)(p21.3;q23.3) or other exact balanced translocation", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9897/3", "term": "Acute myeloid leukemia with t(9;11)(p22;q23) with KMT2A-MLLT3 or other exact fusion", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9897/3", "term": "Acute myeloid leukemia with t(9;11)(p22;q23); MLLT3::MLL", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9897/3", "term": "Acute myeloid leukemia, 11q23 abnormalities", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9897/3", "term": "Acute myeloid leukemia, MLL", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9897/3", "term": "AML with KMT2A rearrangement", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9898/3", "term": "Myeloid leukemia associated with Down Syndrome", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9910/3", "term": "Acute megakaryoblastic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9910/3", "term": "FAB M7", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9910/3", "term": "Megakaryocytic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9911/3", "term": "Acute megakaryoblastic leukemia with RBM15::MRTFA", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9911/3", "term": "Acute myeloid leukemia (megakaryoblastic) with t(1;22)(p13;q13); RBM15::MKL1", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9911/3", "term": "Acute myeloid leukemia (megakaryoblastic) with t(1;22)(p13;q13); RBM15-MKL1", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9911/3", "term": "Acute myeloid leukemia with RBM15::MRTFA fusion", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9911/3", "term": "AML with RBM15::MRTFA fusion", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9912/3", "term": "Acute myeloid leukemia with BCR::ABL1", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9912/3", "term": "Acute myeloid leukemia with BCR::ABL1 fusion", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9912/3", "term": "Acute myeloid leukemia with BCR-ABL1", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9912/3", "term": "Acute myeloid leukemia with t(9;22)(q34;q11.2)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9912/3", "term": "AML with BCR::ABL1 fusion", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9920/3", "term": "Acute myeloid leukemia post cytotoxic therapy", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9920/3", "term": "Myelodysplastic/myeloproliferative neoplasm post cytotoxic therapy", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9920/3", "term": "Myeloid neoplasm post cytotoxic therapy", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9920/3", "term": "Therapy-related acute myeloid leukemia, alkylating agent related", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9920/3", "term": "Therapy-related acute myeloid leukemia, epipodophyllotoxin-related", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9920/3", "term": "Therapy-related acute myeloid leukemia, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9920/3", "term": "Therapy-related myeloid neoplasm", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9931/3", "term": "Acute myelofibrosis", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9931/3", "term": "Acute myelosclerosis, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9931/3", "term": "Acute panmyelosis with myelofibrosis", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9931/3", "term": "Acute panmyelosis, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9931/3", "term": "Malignant myelosclerosis", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9940/3", "term": "Hairy cell leukemia, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9940/3", "term": "Leukemic reticuloendotheliosis", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9945/3", "term": "Chronic myelomonocytic leukemia in transformation", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9945/3", "term": "Chronic myelomonocytic leukemia, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9945/3", "term": "Chronic myelomonocytic leukemia, Type I", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9945/3", "term": "Chronic myelomonocytic leukemia, Type II", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9945/3", "term": "Myelodysplastic chronic myelomonocytic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9945/3", "term": "Myelodysplastic chronic myelomonocytic leukemia (MD-CMML)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9945/3", "term": "Myeloproliferative chronic myelomonocytic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9945/3", "term": "Myeloproliferative chronic myelomonocytic leukemia (MP-CMML)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9946/3", "term": "JMML in children with CBL syndrome", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9946/3", "term": "JMML in neurofibromatosis type 1 (NF1)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9946/3", "term": "JMML-like disorders in children with Noonan syndrome (NS)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9946/3", "term": "Juvenile chronic myelomonocytic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9946/3", "term": "Juvenile myelomonocytic leukemia (JMML)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9946/3", "term": "Juvenile myelomonocytic leukemia in children with CBL syndrome", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9946/3", "term": "Juvenile myelomonocytic leukemia in neurofibromatosis type 1 (NF1)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9946/3", "term": "Juvenile myelomonocytic leukemia, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9946/3", "term": "Juvenile myelomonocytic leukemia-like disorders in children with Noonan syndrome (NS)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9946/3", "term": "KRAS-mutated JMML", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9946/3", "term": "KRAS-mutated juvenile myelomonocytic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9946/3", "term": "NRAS-mutated JMML", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9946/3", "term": "NRAS-mutated juvenile myelomonocytic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9946/3", "term": "PTPN11-mutated JMML", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9946/3", "term": "PTPN11-mutated juvenile myelomonocytic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9948/3", "term": "Aggressive NK-cell leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9948/3", "term": "Aggressive NK-cell leukemia/lymphoma", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9950/3", "term": "Chronic erythremia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9950/3", "term": "Polycythemia rubra vera", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9950/3", "term": "Polycythemia vera", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9950/3", "term": "Proliferative polycythemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9961/3", "term": "Agnogenic myeloid metaplasia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9961/3", "term": "Chronic idiopathic myelofibrosis", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9961/3", "term": "Megakaryocytic myelosclerosis", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9961/3", "term": "Myelofibrosis as a result of myeloproliferative disease", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9961/3", "term": "Myelofibrosis with myeloid metaplasia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9961/3", "term": "Myelosclerosis with myeloid metaplasia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9961/3", "term": "Primary myelofibrosis, fibrotic", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9961/3", "term": "Primary myelofibrosis, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9961/3", "term": "Primary myelofibrosis, prefibrotic", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9962/3", "term": "Essential hemorrhagic thrombocythemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9962/3", "term": "Essential thrombocythemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9962/3", "term": "Idiopathic hemorrhagic thrombocythemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9962/3", "term": "Idiopathic thrombocythemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9963/3", "term": "Chronic neutrophilic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9964/3", "term": "Chronic eosinophilic leukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9964/3", "term": "Hypereosinophilic syndrome", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9965/3", "term": "Myeloid or lymphoid neoplasm with PDGFRA rearrangement", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9965/3", "term": "Myeloid/lymphoid neoplasm with PDGFRA rearrangement", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9966/3", "term": "Chronic myelomonocytic leukemia with eosinophilia associated with t(5;12)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9966/3", "term": "Myeloid neoplasm associated with PDGFRB rearrangement", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9966/3", "term": "Myeloid neoplasm with PDGFRB rearrangement", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9966/3", "term": "Myeloid neoplasms associated with PDGFRB rearrangement", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9966/3", "term": "Myeloid/lymphoid neoplasm with PDGFRB rearrangement", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9967/3", "term": "Myeloid or lymphoid neoplasm with FGFR1 abnormalities", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9967/3", "term": "Myeloid/lymphoid neoplasm with FGFR1 rearrangement", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9968/3", "term": "Myeloid or lymphoid neoplasm with PCM1-JAK2", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9968/3", "term": "Myeloid/lymphoid neoplasm with ETV6::ABL1 fusion", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9968/3", "term": "Myeloid/lymphoid neoplasm with FLT3 rearrangement", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9968/3", "term": "Myeloid/lymphoid neoplasm with JAK2 rearrangement", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9968/3", "term": "Myeloid/lymphoid neoplasm with other tyrosine kinase fusion genes", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9968/3", "term": "Myeloid/lymphoid neoplasm with PCM1::JAK2", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9975/3", "term": "Myelodysplastic/myeloproliferative neoplasm, NOS (unclassifiable)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9975/3", "term": "Myelodysplastic/myeloproliferative neoplasm, unclassifiable", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9975/3", "term": "Myeloproliferative disease, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9975/3", "term": "Myeloproliferative neoplasm, NOS (unclassifiable)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9975/3", "term": "Myeloproliferative neoplasm, unclassifiable", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9982/3", "term": "MDS with low blasts and ring sideroblasts", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9982/3", "term": "Myelodysplastic neoplasm with low blast count and SF3B1", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9982/3", "term": "Myelodysplastic neoplasm with low blasts and SF3B1 mutation", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9982/3", "term": "Myelodysplastic syndrome with ring sideroblasts and single lineage dysplasia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9982/3", "term": "Myelodysplastic syndrome with ring sideroblasts, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9982/3", "term": "Myelodysplastic/myeloproliferative neoplasm (MDS/MPN) with ring sideroblasts and thrombocytosis", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9982/3", "term": "Myelodysplastic/myeloproliferative neoplasm with SF3B1 mutation and thrombocytosis", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9982/3", "term": "RARS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9982/3", "term": "Refractory anemia with ring sideroblasts associated with marked thrombocytosis", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9982/3", "term": "Refractory anemia with ring sideroblasts, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9982/3", "term": "Refractory anemia with sideroblasts", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9983/3", "term": "Childhood myelodysplastic neoplasm with excess blasts", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9983/3", "term": "Childhood myelodysplastic neoplasm with increased blasts", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9983/3", "term": "MDS with excess blasts 1", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9983/3", "term": "MDS with excess blasts 2", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9983/3", "term": "MDS with increased blasts and fibrosis (MDS-F)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9983/3", "term": "MDS with increased blasts-1 (MDS-IB1)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9983/3", "term": "MDS with increased blasts-2 (MDS-IB2)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9983/3", "term": "Myelodysplastic neoplasm with increased blasts", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9983/3", "term": "Myelodysplastic neoplasm with increased blasts and fibrosis", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9983/3", "term": "Myelodysplastic syndrome with excess blasts", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9983/3", "term": "Myelodysplastic syndrome with excess blasts (childhood myelodysplastic neoplasm with increased blasts)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9983/3", "term": "Myelodysplastic syndrome with increased blasts", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9983/3", "term": "RAEB I", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9983/3", "term": "RAEB II", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9983/3", "term": "RAEB, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9983/3", "term": "Refractory anemia with excess blasts, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9986/3", "term": "Myelodysplastic neoplasm with low blasts and 5q deletion", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9986/3", "term": "Myelodysplastic syndrome with 5q deletion (5q-) syndrome", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9986/3", "term": "Myelodysplastic syndrome with del(5q)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9986/3", "term": "Myelodysplastic syndrome with isolated del (5q)", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9986/3", "term": "Myelodysplastic syndrome with low blasts and 5q deletion", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9989/3", "term": "Myelodysplastic neoplasm, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9989/3", "term": "Myelodysplastic syndrome, NOS", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9989/3", "term": "Myelodysplastic syndrome, unclassifiable", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9989/3", "term": "Preleukemia", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9989/3", "term": "Preleukemic syndrome", "ceiling_count": 1, "ceiling_codes": ["C421"]}
+{"code": "9993/3", "term": "Myelodysplastic syndrome with ring sideroblasts and multilineage dysplasia", "ceiling_count": 1, "ceiling_codes": ["C421"]}

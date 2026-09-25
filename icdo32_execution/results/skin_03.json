@@ -1,0 +1,638 @@
+[
+ {
+  "code": "8742/3",
+  "term": "Lentigo maligna melanoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "site_subset_labels": [
+   "Skin of lip NOS",
+   "Eyelid",
+   "External ear skin",
+   "Skin of face",
+   "Skin of scalp and neck",
+   "Skin of trunk",
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip",
+   "Overlapping lesion of skin",
+   "Skin NOS"
+  ],
+  "rationale": "Lentigo maligna melanoma (Hutchinson melanotic freckle) is by definition a melanoma of chronically sun-damaged CUTANEOUS skin, overwhelmingly on the head and neck; it does not arise on the lip mucosa or on the sun-shielded genital sites (vulva, penis, scrotum) that the code ceiling also spans, so it is restricted to the cutaneous (C44) subset.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK482163/",
+  "source_name": "StatPearls: Lentigo Maligna Melanoma - chronically sun-damaged skin, ~86% head and neck"
+ },
+ {
+  "code": "8742/3",
+  "term": "Malignant melanoma in Hutchinson melanotic freckle",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "site_subset_labels": [
+   "Skin of lip NOS",
+   "Eyelid",
+   "External ear skin",
+   "Skin of face",
+   "Skin of scalp and neck",
+   "Skin of trunk",
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip",
+   "Overlapping lesion of skin",
+   "Skin NOS"
+  ],
+  "rationale": "Lentigo maligna melanoma (Hutchinson melanotic freckle) is by definition a melanoma of chronically sun-damaged CUTANEOUS skin, overwhelmingly on the head and neck; it does not arise on the lip mucosa or on the sun-shielded genital sites (vulva, penis, scrotum) that the code ceiling also spans, so it is restricted to the cutaneous (C44) subset.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK482163/",
+  "source_name": "StatPearls: Lentigo Maligna Melanoma - chronically sun-damaged skin, ~86% head and neck"
+ },
+ {
+  "code": "8742/3",
+  "term": "Melanoma in Hutchinson melanotic freckle",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "site_subset_labels": [
+   "Skin of lip NOS",
+   "Eyelid",
+   "External ear skin",
+   "Skin of face",
+   "Skin of scalp and neck",
+   "Skin of trunk",
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip",
+   "Overlapping lesion of skin",
+   "Skin NOS"
+  ],
+  "rationale": "Lentigo maligna melanoma (Hutchinson melanotic freckle) is by definition a melanoma of chronically sun-damaged CUTANEOUS skin, overwhelmingly on the head and neck; it does not arise on the lip mucosa or on the sun-shielded genital sites (vulva, penis, scrotum) that the code ceiling also spans, so it is restricted to the cutaneous (C44) subset.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK482163/",
+  "source_name": "StatPearls: Lentigo Maligna Melanoma - chronically sun-damaged skin, ~86% head and neck"
+ },
+ {
+  "code": "8743/2",
+  "term": "Low cumulative sun damage melanoma in situ",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "site_subset_labels": [
+   "Skin of lip NOS",
+   "Eyelid",
+   "External ear skin",
+   "Skin of face",
+   "Skin of scalp and neck",
+   "Skin of trunk",
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip",
+   "Overlapping lesion of skin",
+   "Skin NOS"
+  ],
+  "rationale": "Low-CSD (superficial spreading) melanoma in situ is a CUTANEOUS melanoma of intermittently sun-exposed skin (trunk and extremities); it does not arise on the vaginal or female-genital-tract mucosa included in the code ceiling (those are mucosal lentiginous melanomas), so it is restricted to the cutaneous (C44) subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9292921/",
+  "source_name": "Br J Dermatol 2021 (PMC9292921) Melanoma Pathology 2.0 - low-CSD/superficial spreading melanoma arises on trunk and extremities"
+ },
+ {
+  "code": "8743/2",
+  "term": "Low-CSD melanoma in situ",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "site_subset_labels": [
+   "Skin of lip NOS",
+   "Eyelid",
+   "External ear skin",
+   "Skin of face",
+   "Skin of scalp and neck",
+   "Skin of trunk",
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip",
+   "Overlapping lesion of skin",
+   "Skin NOS"
+  ],
+  "rationale": "Low-CSD (superficial spreading) melanoma in situ is a CUTANEOUS melanoma of intermittently sun-exposed skin (trunk and extremities); it does not arise on the vaginal or female-genital-tract mucosa included in the code ceiling (those are mucosal lentiginous melanomas), so it is restricted to the cutaneous (C44) subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9292921/",
+  "source_name": "Br J Dermatol 2021 (PMC9292921) Melanoma Pathology 2.0 - low-CSD/superficial spreading melanoma arises on trunk and extremities"
+ },
+ {
+  "code": "8743/2",
+  "term": "Superficial spreading melanoma in situ",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C440",
+   "C441",
+   "C442",
+   "C443",
+   "C444",
+   "C445",
+   "C446",
+   "C447",
+   "C448",
+   "C449"
+  ],
+  "site_subset_labels": [
+   "Skin of lip NOS",
+   "Eyelid",
+   "External ear skin",
+   "Skin of face",
+   "Skin of scalp and neck",
+   "Skin of trunk",
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip",
+   "Overlapping lesion of skin",
+   "Skin NOS"
+  ],
+  "rationale": "Low-CSD (superficial spreading) melanoma in situ is a CUTANEOUS melanoma of intermittently sun-exposed skin (trunk and extremities); it does not arise on the vaginal or female-genital-tract mucosa included in the code ceiling (those are mucosal lentiginous melanomas), so it is restricted to the cutaneous (C44) subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9292921/",
+  "source_name": "Br J Dermatol 2021 (PMC9292921) Melanoma Pathology 2.0 - low-CSD/superficial spreading melanoma arises on trunk and extremities"
+ },
+ {
+  "code": "8744/3",
+  "term": "Acral lentiginous melanoma, NOS",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C446",
+   "C447"
+  ],
+  "site_subset_labels": [
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip"
+  ],
+  "rationale": "Acral (lentiginous/subungual/nail-apparatus) melanoma is defined by the WHO as melanoma of glabrous skin of the extremities - palms, soles and nail units of the hands and feet; it does not occur on lip, eyelid, ear, face, scalp/neck or trunk skin, so it is restricted to the skin of the upper limb/hand (C446) and lower limb/foot (C447).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8503895/",
+  "source_name": "J Pathol Clin Res 2021 (PMC8503895) - WHO defines acral melanoma as glabrous skin of the extremities: palms, soles, nail apparatus"
+ },
+ {
+  "code": "8744/3",
+  "term": "Acral lentiginous melanoma, malignant",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C446",
+   "C447"
+  ],
+  "site_subset_labels": [
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip"
+  ],
+  "rationale": "Acral (lentiginous/subungual/nail-apparatus) melanoma is defined by the WHO as melanoma of glabrous skin of the extremities - palms, soles and nail units of the hands and feet; it does not occur on lip, eyelid, ear, face, scalp/neck or trunk skin, so it is restricted to the skin of the upper limb/hand (C446) and lower limb/foot (C447).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8503895/",
+  "source_name": "J Pathol Clin Res 2021 (PMC8503895) - WHO defines acral melanoma as glabrous skin of the extremities: palms, soles, nail apparatus"
+ },
+ {
+  "code": "8744/3",
+  "term": "Acral melanoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C446",
+   "C447"
+  ],
+  "site_subset_labels": [
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip"
+  ],
+  "rationale": "Acral (lentiginous/subungual/nail-apparatus) melanoma is defined by the WHO as melanoma of glabrous skin of the extremities - palms, soles and nail units of the hands and feet; it does not occur on lip, eyelid, ear, face, scalp/neck or trunk skin, so it is restricted to the skin of the upper limb/hand (C446) and lower limb/foot (C447).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8503895/",
+  "source_name": "J Pathol Clin Res 2021 (PMC8503895) - WHO defines acral melanoma as glabrous skin of the extremities: palms, soles, nail apparatus"
+ },
+ {
+  "code": "8744/3",
+  "term": "Acral melanoma, desmoplastic",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C446",
+   "C447"
+  ],
+  "site_subset_labels": [
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip"
+  ],
+  "rationale": "Acral (lentiginous/subungual/nail-apparatus) melanoma is defined by the WHO as melanoma of glabrous skin of the extremities - palms, soles and nail units of the hands and feet; it does not occur on lip, eyelid, ear, face, scalp/neck or trunk skin, so it is restricted to the skin of the upper limb/hand (C446) and lower limb/foot (C447).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8503895/",
+  "source_name": "J Pathol Clin Res 2021 (PMC8503895) - WHO defines acral melanoma as glabrous skin of the extremities: palms, soles, nail apparatus"
+ },
+ {
+  "code": "8744/3",
+  "term": "Desmoplastic acral melanoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C446",
+   "C447"
+  ],
+  "site_subset_labels": [
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip"
+  ],
+  "rationale": "Acral (lentiginous/subungual/nail-apparatus) melanoma is defined by the WHO as melanoma of glabrous skin of the extremities - palms, soles and nail units of the hands and feet; it does not occur on lip, eyelid, ear, face, scalp/neck or trunk skin, so it is restricted to the skin of the upper limb/hand (C446) and lower limb/foot (C447).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8503895/",
+  "source_name": "J Pathol Clin Res 2021 (PMC8503895) - WHO defines acral melanoma as glabrous skin of the extremities: palms, soles, nail apparatus"
+ },
+ {
+  "code": "8744/3",
+  "term": "Melanoma, nail apparatus",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C446",
+   "C447"
+  ],
+  "site_subset_labels": [
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip"
+  ],
+  "rationale": "Acral (lentiginous/subungual/nail-apparatus) melanoma is defined by the WHO as melanoma of glabrous skin of the extremities - palms, soles and nail units of the hands and feet; it does not occur on lip, eyelid, ear, face, scalp/neck or trunk skin, so it is restricted to the skin of the upper limb/hand (C446) and lower limb/foot (C447).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8503895/",
+  "source_name": "J Pathol Clin Res 2021 (PMC8503895) - WHO defines acral melanoma as glabrous skin of the extremities: palms, soles, nail apparatus"
+ },
+ {
+  "code": "8744/3",
+  "term": "Melanoma, subungual",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C446",
+   "C447"
+  ],
+  "site_subset_labels": [
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip"
+  ],
+  "rationale": "Acral (lentiginous/subungual/nail-apparatus) melanoma is defined by the WHO as melanoma of glabrous skin of the extremities - palms, soles and nail units of the hands and feet; it does not occur on lip, eyelid, ear, face, scalp/neck or trunk skin, so it is restricted to the skin of the upper limb/hand (C446) and lower limb/foot (C447).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8503895/",
+  "source_name": "J Pathol Clin Res 2021 (PMC8503895) - WHO defines acral melanoma as glabrous skin of the extremities: palms, soles, nail apparatus"
+ },
+ {
+  "code": "8744/3",
+  "term": "Subungual melanoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C446",
+   "C447"
+  ],
+  "site_subset_labels": [
+   "Skin of upper limb and shoulder",
+   "Skin of lower limb and hip"
+  ],
+  "rationale": "Acral (lentiginous/subungual/nail-apparatus) melanoma is defined by the WHO as melanoma of glabrous skin of the extremities - palms, soles and nail units of the hands and feet; it does not occur on lip, eyelid, ear, face, scalp/neck or trunk skin, so it is restricted to the skin of the upper limb/hand (C446) and lower limb/foot (C447).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8503895/",
+  "source_name": "J Pathol Clin Res 2021 (PMC8503895) - WHO defines acral melanoma as glabrous skin of the extremities: palms, soles, nail apparatus"
+ },
+ {
+  "code": "8761/3",
+  "term": "Congenital nevus–associated melanoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Congenital-nevus-associated melanoma arises within congenital melanocytic nevi, which can occur on any skin surface (trunk predominant but head/neck, extremities and genital skin all involved); it is not restricted to a proper subset of the cutaneous ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8761/3",
+  "term": "Malignant melanoma arising in giant congenital nevus",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Congenital-nevus-associated melanoma arises within congenital melanocytic nevi, which can occur on any skin surface (trunk predominant but head/neck, extremities and genital skin all involved); it is not restricted to a proper subset of the cutaneous ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8761/3",
+  "term": "Malignant melanoma in congenital melanocytic nevus",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Congenital-nevus-associated melanoma arises within congenital melanocytic nevi, which can occur on any skin surface (trunk predominant but head/neck, extremities and genital skin all involved); it is not restricted to a proper subset of the cutaneous ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8761/3",
+  "term": "Malignant melanoma in giant pigmented nevus",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Congenital-nevus-associated melanoma arises within congenital melanocytic nevi, which can occur on any skin surface (trunk predominant but head/neck, extremities and genital skin all involved); it is not restricted to a proper subset of the cutaneous ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8761/3",
+  "term": "Melanoma arising in giant congenital nevus",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Congenital-nevus-associated melanoma arises within congenital melanocytic nevi, which can occur on any skin surface (trunk predominant but head/neck, extremities and genital skin all involved); it is not restricted to a proper subset of the cutaneous ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8761/3",
+  "term": "Melanoma in congenital melanocytic nevus",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Congenital-nevus-associated melanoma arises within congenital melanocytic nevi, which can occur on any skin surface (trunk predominant but head/neck, extremities and genital skin all involved); it is not restricted to a proper subset of the cutaneous ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8761/3",
+  "term": "Melanoma in giant pigmented nevus",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Congenital-nevus-associated melanoma arises within congenital melanocytic nevi, which can occur on any skin surface (trunk predominant but head/neck, extremities and genital skin all involved); it is not restricted to a proper subset of the cutaneous ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8761/3",
+  "term": "Melanoma in large, bathing-trunk, or garment-like congenital nevus",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Congenital-nevus-associated melanoma arises within congenital melanocytic nevi, which can occur on any skin surface (trunk predominant but head/neck, extremities and genital skin all involved); it is not restricted to a proper subset of the cutaneous ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8761/3",
+  "term": "Melanoma, congenital nevus-associated",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Congenital-nevus-associated melanoma arises within congenital melanocytic nevi, which can occur on any skin surface (trunk predominant but head/neck, extremities and genital skin all involved); it is not restricted to a proper subset of the cutaneous ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8770/3",
+  "term": "Malignant Spitz tumor",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Spitz melanoma (malignant Spitz tumour) is a cutaneous melanoma occurring across essentially all skin sites (lower extremities, trunk, upper extremities and head/neck); it is not restricted to a demonstrable proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8770/3",
+  "term": "Mixed epithelioid and spindle cell melanoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Spitz melanoma (malignant Spitz tumour) is a cutaneous melanoma occurring across essentially all skin sites (lower extremities, trunk, upper extremities and head/neck); it is not restricted to a demonstrable proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8770/3",
+  "term": "Mixed epithelioid and spindle cell uveal melanoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C693",
+   "C694"
+  ],
+  "site_subset_labels": [
+   "Choroid",
+   "Ciliary body"
+  ],
+  "rationale": "A uveal melanoma is by definition an intraocular melanoma of the uveal tract (choroid, ciliary body, iris) of the eye; it does not arise on lip, skin or scrotum, so it is restricted to the intraocular (choroid C693 / ciliary body C694) subset of the ceiling.",
+  "source": "https://www.cancer.gov/types/eye/patient/intraocular-melanoma-treatment-pdq",
+  "source_name": "NCI PDQ Intraocular (Uveal) Melanoma - uvea (iris, ciliary body, choroid) middle layer of the eye"
+ },
+ {
+  "code": "8770/3",
+  "term": "Spitz melanoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Spitz melanoma (malignant Spitz tumour) is a cutaneous melanoma occurring across essentially all skin sites (lower extremities, trunk, upper extremities and head/neck); it is not restricted to a demonstrable proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8770/3",
+  "term": "Spitz melanoma with ALK fusion",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Spitz melanoma (malignant Spitz tumour) is a cutaneous melanoma occurring across essentially all skin sites (lower extremities, trunk, upper extremities and head/neck); it is not restricted to a demonstrable proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8770/3",
+  "term": "Spitz melanoma with BRAF fusion",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Spitz melanoma (malignant Spitz tumour) is a cutaneous melanoma occurring across essentially all skin sites (lower extremities, trunk, upper extremities and head/neck); it is not restricted to a demonstrable proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8770/3",
+  "term": "Spitz melanoma with HRAS mutation",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Spitz melanoma (malignant Spitz tumour) is a cutaneous melanoma occurring across essentially all skin sites (lower extremities, trunk, upper extremities and head/neck); it is not restricted to a demonstrable proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8770/3",
+  "term": "Spitz melanoma with MAP3K8 fusion",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Spitz melanoma (malignant Spitz tumour) is a cutaneous melanoma occurring across essentially all skin sites (lower extremities, trunk, upper extremities and head/neck); it is not restricted to a demonstrable proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8770/3",
+  "term": "Spitz melanoma with NTRK1 fusion",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Spitz melanoma (malignant Spitz tumour) is a cutaneous melanoma occurring across essentially all skin sites (lower extremities, trunk, upper extremities and head/neck); it is not restricted to a demonstrable proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8770/3",
+  "term": "Spitz melanoma with NTRK3 fusion",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Spitz melanoma (malignant Spitz tumour) is a cutaneous melanoma occurring across essentially all skin sites (lower extremities, trunk, upper extremities and head/neck); it is not restricted to a demonstrable proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8770/3",
+  "term": "Spitz melanoma with PRKAR1A inactivation as a secondary event",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Spitz melanoma (malignant Spitz tumour) is a cutaneous melanoma occurring across essentially all skin sites (lower extremities, trunk, upper extremities and head/neck); it is not restricted to a demonstrable proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8770/3",
+  "term": "Spitz melanoma with RET fusion",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Spitz melanoma (malignant Spitz tumour) is a cutaneous melanoma occurring across essentially all skin sites (lower extremities, trunk, upper extremities and head/neck); it is not restricted to a demonstrable proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8770/3",
+  "term": "Spitz melanoma with ROS1 fusion",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Spitz melanoma (malignant Spitz tumour) is a cutaneous melanoma occurring across essentially all skin sites (lower extremities, trunk, upper extremities and head/neck); it is not restricted to a demonstrable proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8770/3",
+  "term": "Spitzoid melanoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Spitz melanoma (malignant Spitz tumour) is a cutaneous melanoma occurring across essentially all skin sites (lower extremities, trunk, upper extremities and head/neck); it is not restricted to a demonstrable proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8780/3",
+  "term": "Blue nevus, malignant",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Melanoma arising in blue nevus develops where blue nevi occur, which can be any anatomical/cutaneous area (scalp predilection but not exclusive); the literature does not establish restriction to a proper subset of the cutaneous ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8780/3",
+  "term": "Melanoma arising in blue nevus",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Melanoma arising in blue nevus develops where blue nevi occur, which can be any anatomical/cutaneous area (scalp predilection but not exclusive); the literature does not establish restriction to a proper subset of the cutaneous ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8813/3",
+  "term": "Fascial fibrosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Fascial fibrosarcoma is a deep soft-tissue fibrosarcoma without a literature-established restriction to a proper subset of the ceiling's soft-tissue/skin sites.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8832/3",
+  "term": "Dermatofibrosarcoma protuberans with fibrosarcomatous transformation",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Dermatofibrosarcoma protuberans (fibrosarcomatous) arises in the dermis across the body - trunk (50-60%), limbs (~35%) and head/neck (10-15%); it spans essentially all cutaneous sites and is not restricted to a proper subset.",
+  "source": "https://dermnetnz.org/topics/dermatofibrosarcoma-protuberans",
+  "source_name": "DermNet: Dermatofibrosarcoma protuberans - trunk 50-60%, limbs 35%, head/neck 10-15%"
+ },
+ {
+  "code": "8832/3",
+  "term": "Dermatofibrosarcoma protuberans, fibrosarcomatous",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Dermatofibrosarcoma protuberans (fibrosarcomatous) arises in the dermis across the body - trunk (50-60%), limbs (~35%) and head/neck (10-15%); it spans essentially all cutaneous sites and is not restricted to a proper subset.",
+  "source": "https://dermnetnz.org/topics/dermatofibrosarcoma-protuberans",
+  "source_name": "DermNet: Dermatofibrosarcoma protuberans - trunk 50-60%, limbs 35%, head/neck 10-15%"
+ },
+ {
+  "code": "8832/3",
+  "term": "Dermatofibrosarcoma, sarcomatous",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Dermatofibrosarcoma protuberans (fibrosarcomatous) arises in the dermis across the body - trunk (50-60%), limbs (~35%) and head/neck (10-15%); it spans essentially all cutaneous sites and is not restricted to a proper subset.",
+  "source": "https://dermnetnz.org/topics/dermatofibrosarcoma-protuberans",
+  "source_name": "DermNet: Dermatofibrosarcoma protuberans - trunk 50-60%, limbs 35%, head/neck 10-15%"
+ },
+ {
+  "code": "8853/3",
+  "term": "Round cell liposarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a liposarcoma subtype occurring in deep soft tissue at multiple body sites (extremities and retroperitoneum); it is a generic soft-tissue sarcoma descriptor and is not restricted to a literature-established proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8855/3",
+  "term": "Mixed liposarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a liposarcoma subtype occurring in deep soft tissue at multiple body sites (extremities and retroperitoneum); it is a generic soft-tissue sarcoma descriptor and is not restricted to a literature-established proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ }
+]

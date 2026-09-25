@@ -1,0 +1,796 @@
+[
+ {
+  "code": "8044/3",
+  "term": "SMARCA4-deficient carcinoma of ovary",
+  "ceiling_count": 16,
+  "ceiling_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319",
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390",
+   "C569"
+  ]
+ },
+ {
+  "code": "8044/3",
+  "term": "SMARCA4-deficient sinonasal carcinoma",
+  "ceiling_count": 16,
+  "ceiling_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319",
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390",
+   "C569"
+  ]
+ },
+ {
+  "code": "8044/3",
+  "term": "SMARCA4-deficient undifferentiated sinonasal carcinoma",
+  "ceiling_count": 16,
+  "ceiling_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319",
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390",
+   "C569"
+  ]
+ },
+ {
+  "code": "8044/3",
+  "term": "SMARCA4-deficient undifferentiated tumor",
+  "ceiling_count": 16,
+  "ceiling_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319",
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390",
+   "C569"
+  ]
+ },
+ {
+  "code": "8044/3",
+  "term": "SMARCB1-deficient sinonasal adenocarcinoma",
+  "ceiling_count": 16,
+  "ceiling_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319",
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390",
+   "C569"
+  ]
+ },
+ {
+  "code": "8044/3",
+  "term": "SMARCB1-deficient sinonasal carcinoma",
+  "ceiling_count": 16,
+  "ceiling_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319",
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390",
+   "C569"
+  ]
+ },
+ {
+  "code": "8044/3",
+  "term": "SMARCB1-deficient undifferentiated sinonasal carcinoma",
+  "ceiling_count": 16,
+  "ceiling_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319",
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390",
+   "C569"
+  ]
+ },
+ {
+  "code": "8044/3",
+  "term": "SWI/SNF complex-deficient sinonasal carcinoma",
+  "ceiling_count": 16,
+  "ceiling_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319",
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390",
+   "C569"
+  ]
+ },
+ {
+  "code": "8044/3",
+  "term": "Small cell carcinoma of the ovary, hypercalcemic type",
+  "ceiling_count": 16,
+  "ceiling_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319",
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390",
+   "C569"
+  ]
+ },
+ {
+  "code": "8044/3",
+  "term": "Small cell carcinoma of the ovary, hypercalcemic type, large cell subtype",
+  "ceiling_count": 16,
+  "ceiling_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319",
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390",
+   "C569"
+  ]
+ },
+ {
+  "code": "8044/3",
+  "term": "Small cell carcinoma, hypercalcemic type",
+  "ceiling_count": 16,
+  "ceiling_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319",
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390",
+   "C569"
+  ]
+ },
+ {
+  "code": "8044/3",
+  "term": "Small cell carcinoma, hypercalcemic type, large cell subtype",
+  "ceiling_count": 16,
+  "ceiling_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319",
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390",
+   "C569"
+  ]
+ },
+ {
+  "code": "8044/3",
+  "term": "Small cell carcinoma, intermediate cell",
+  "ceiling_count": 16,
+  "ceiling_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319",
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390",
+   "C569"
+  ]
+ },
+ {
+  "code": "8044/3",
+  "term": "Small cell carcinoma, large cell subtype",
+  "ceiling_count": 16,
+  "ceiling_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319",
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390",
+   "C569"
+  ]
+ },
+ {
+  "code": "8044/3",
+  "term": "Small cell carcinoma, large cell variant",
+  "ceiling_count": 16,
+  "ceiling_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319",
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390",
+   "C569"
+  ]
+ },
+ {
+  "code": "8044/3",
+  "term": "Thoracic SMARCA4-deficient undifferentiated tumor",
+  "ceiling_count": 16,
+  "ceiling_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319",
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390",
+   "C569"
+  ]
+ },
+ {
+  "code": "8046/3",
+  "term": "Non-small cell carcinoma",
+  "ceiling_count": 6,
+  "ceiling_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349"
+  ]
+ },
+ {
+  "code": "8250/2",
+  "term": "Adenocarcinoma in situ of lung, non-mucinous",
+  "ceiling_count": 6,
+  "ceiling_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349"
+  ]
+ },
+ {
+  "code": "8250/2",
+  "term": "Adenocarcinoma in situ, non-mucinous",
+  "ceiling_count": 6,
+  "ceiling_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349"
+  ]
+ },
+ {
+  "code": "8250/3",
+  "term": "Alveolar cell carcinoma",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390"
+  ]
+ },
+ {
+  "code": "8250/3",
+  "term": "Bronchiolar adenocarcinoma",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390"
+  ]
+ },
+ {
+  "code": "8250/3",
+  "term": "Bronchiolar carcinoma",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390"
+  ]
+ },
+ {
+  "code": "8250/3",
+  "term": "Bronchiolo-alveolar adenocarcinoma, NOS",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390"
+  ]
+ },
+ {
+  "code": "8250/3",
+  "term": "Bronchiolo-alveolar carcinoma, NOS",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390"
+  ]
+ },
+ {
+  "code": "8250/3",
+  "term": "Lepidic adenocarcinoma",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390"
+  ]
+ },
+ {
+  "code": "8253/2",
+  "term": "Adenocarcinoma in situ of lung, mucinous",
+  "ceiling_count": 6,
+  "ceiling_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349"
+  ]
+ },
+ {
+  "code": "8253/2",
+  "term": "Adenocarcinoma in situ, mucinous",
+  "ceiling_count": 6,
+  "ceiling_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349"
+  ]
+ },
+ {
+  "code": "8253/3",
+  "term": "Adenocarcinoma of lung, mucinous",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390"
+  ]
+ },
+ {
+  "code": "8253/3",
+  "term": "Bronchiolo-alveolar carcinoma, goblet cell type",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390"
+  ]
+ },
+ {
+  "code": "8253/3",
+  "term": "Bronchiolo-alveolar carcinoma, mucinous",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390"
+  ]
+ },
+ {
+  "code": "8253/3",
+  "term": "Invasive mucinous adenocarcinoma",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390"
+  ]
+ },
+ {
+  "code": "8253/3",
+  "term": "Mucinous carcinoma of lung",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390"
+  ]
+ },
+ {
+  "code": "8254/3",
+  "term": "Adenocarcinoma of lung, mixed mucinous and non-mucinous",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390"
+  ]
+ },
+ {
+  "code": "8254/3",
+  "term": "Bronchiolo-alveolar carcinoma, Clara cell and goblet cell type",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390"
+  ]
+ },
+ {
+  "code": "8254/3",
+  "term": "Bronchiolo-alveolar carcinoma, indeterminate type",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390"
+  ]
+ },
+ {
+  "code": "8254/3",
+  "term": "Bronchiolo-alveolar carcinoma, mixed mucinous and non-mucinous",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390"
+  ]
+ },
+ {
+  "code": "8254/3",
+  "term": "Bronchiolo-alveolar carcinoma, type II pneumocyte and goblet cell type",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390"
+  ]
+ },
+ {
+  "code": "8254/3",
+  "term": "Mixed invasive mucinous and non-mucinous adenocarcinoma",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390"
+  ]
+ },
+ {
+  "code": "8256/3",
+  "term": "Minimally invasive adenocarcinoma, non-mucinous",
+  "ceiling_count": 6,
+  "ceiling_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349"
+  ]
+ },
+ {
+  "code": "8257/3",
+  "term": "Minimally invasive adenocarcinoma, mucinous",
+  "ceiling_count": 6,
+  "ceiling_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349"
+  ]
+ },
+ {
+  "code": "8333/3",
+  "term": "Fetal adenocarcinoma",
+  "ceiling_count": 7,
+  "ceiling_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C739"
+  ]
+ },
+ {
+  "code": "8483/3",
+  "term": "Adenocarcinoma, HPV-associated",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319",
+   "C529",
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ]
+ },
+ {
+  "code": "8483/3",
+  "term": "HPV-associated multiphenotypic sinonasal carcinoma",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319",
+   "C529",
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ]
+ },
+ {
+  "code": "8483/3",
+  "term": "HPV-related multiphenotypic sinonasal carcinoma",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319",
+   "C529",
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ]
+ },
+ {
+  "code": "8580/3",
+  "term": "Intrapulmonary thymoma",
+  "ceiling_count": 2,
+  "ceiling_codes": [
+   "C379",
+   "C380"
+  ]
+ }
+]

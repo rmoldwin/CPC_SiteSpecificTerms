@@ -1,0 +1,779 @@
+[
+ {
+  "code": "8500/3",
+  "term": "Invasive ductal carcinoma",
+  "ceiling_count": 28,
+  "ceiling_codes": [
+   "C079",
+   "C080",
+   "C081",
+   "C088",
+   "C089",
+   "C250",
+   "C251",
+   "C252",
+   "C253",
+   "C254",
+   "C257",
+   "C258",
+   "C259",
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509",
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C619"
+  ]
+ },
+ {
+  "code": "8500/3",
+  "term": "Primary ductal adenocarcinoma of lacrimal gland",
+  "ceiling_count": 28,
+  "ceiling_codes": [
+   "C079",
+   "C080",
+   "C081",
+   "C088",
+   "C089",
+   "C250",
+   "C251",
+   "C252",
+   "C253",
+   "C254",
+   "C257",
+   "C258",
+   "C259",
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509",
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C619"
+  ]
+ },
+ {
+  "code": "8500/3",
+  "term": "Salivary duct carcinoma",
+  "ceiling_count": 28,
+  "ceiling_codes": [
+   "C079",
+   "C080",
+   "C081",
+   "C088",
+   "C089",
+   "C250",
+   "C251",
+   "C252",
+   "C253",
+   "C254",
+   "C257",
+   "C258",
+   "C259",
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509",
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C619"
+  ]
+ },
+ {
+  "code": "8501/2",
+  "term": "Comedocarcinoma, noninfiltrating",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8501/2",
+  "term": "DCIS, comedo type",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8501/2",
+  "term": "Ductal carcinoma in situ, comedo type",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8504/2",
+  "term": "Encapsulated papillary carcinoma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8504/2",
+  "term": "Encysted papillary carcinoma, NOS",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8504/2",
+  "term": "Intracystic carcinoma, NOS",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8504/2",
+  "term": "Intracystic papillary adenocarcinoma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8504/2",
+  "term": "Intracystic papillary carcinoma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8504/2",
+  "term": "Noninfiltrating intracystic carcinoma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8504/3",
+  "term": "Encapsulated papillary carcinoma with invasion",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8504/3",
+  "term": "Encysted papillary carcinoma with invasion",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8504/3",
+  "term": "Intracystic papillary carcinoma with invasion",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8507/2",
+  "term": "Ductal carcinoma in situ, micropapillary",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8507/2",
+  "term": "Intraductal carcinoma, clinging, high-grade",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8507/2",
+  "term": "Intraductal micropapillary carcinoma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8507/3",
+  "term": "Micropapillary carcinoma of breast",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8509/2",
+  "term": "Breast carcinoma in situ, neuroendocrine",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8509/2",
+  "term": "Ductal carcinoma in situ, endocrine",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8509/2",
+  "term": "Ductal carcinoma in situ, neuroendocrine",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8509/2",
+  "term": "Ductal carcinoma in situ, spindle cell",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8509/2",
+  "term": "Endocrine mucin-producing sweat gland carcinoma in situ",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8509/2",
+  "term": "Solid papillary carcinoma in situ",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8509/3",
+  "term": "Endocrine mucin-producing sweat gland carcinoma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8509/3",
+  "term": "Solid papillary carcinoma with invasion",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8509/3",
+  "term": "Tall cell carcinoma with reversed polarity",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8514/3",
+  "term": "Duct carcinoma, desmoplastic type",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8519/2",
+  "term": "LCIS, pleomorphic",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8519/2",
+  "term": "Lobular carcinoma in situ, pleomorphic",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8520/2",
+  "term": "Classic lobular carcinoma in situ",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8520/2",
+  "term": "Florid lobular carcinoma in situ",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8520/2",
+  "term": "Intraductal papilloma with lobular carcinoma in situ",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8520/2",
+  "term": "LCIS, NOS",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8520/2",
+  "term": "Lobular carcinoma in situ, NOS",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8520/2",
+  "term": "Lobular carcinoma in situ, classic",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8520/2",
+  "term": "Lobular carcinoma in situ, florid",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8520/2",
+  "term": "Lobular carcinoma, noninfiltrating",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8520/3",
+  "term": "Infiltrating lobular carcinoma, NOS",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8520/3",
+  "term": "Invasive lobular carcinoma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8520/3",
+  "term": "Invasive lobular carcinoma, alveolar type",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8520/3",
+  "term": "Invasive lobular carcinoma, solid type",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8520/3",
+  "term": "Lobular adenocarcinoma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ },
+ {
+  "code": "8520/3",
+  "term": "Lobular carcinoma, NOS",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ]
+ }
+]

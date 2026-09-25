@@ -1,0 +1,516 @@
+[
+ {
+  "code": "8005/0",
+  "term": "Clear cell tumor, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-specific morphologic descriptor ('clear cell tumor, NOS') with no literature evidence restricting it to a proper subset of its two-site endocrine ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8010/0",
+  "term": "Epithelial tumor, benign",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-specific descriptor for a benign epithelial neoplasm; no literature basis for restricting it to a proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8011/3",
+  "term": "Epithelioma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic synonym for carcinoma/epithelial malignancy used across many organs; not restricted to any proper subset of the 19-site ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8011/3",
+  "term": "Epithelioma, malignant",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic synonym for malignant epithelial neoplasm used across many organs; not restricted to any proper subset of the 19-site ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8015/3",
+  "term": "Glassy cell carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C529",
+   "C530",
+   "C531",
+   "C538",
+   "C539"
+  ],
+  "site_subset_labels": [
+   "Vagina",
+   "Endocervix",
+   "Exocervix",
+   "Overlapping lesion of cervix uteri",
+   "Cervix uteri, NOS"
+  ],
+  "rationale": "Glassy cell carcinoma is defined in the literature as a rare poorly-differentiated adenosquamous carcinoma of the female genital tract, overwhelmingly the uterine cervix (rarely endometrium/vagina). Within its broad 24-site ceiling only the female-genital codes apply, i.e. cervix and vagina, a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8799286/",
+  "source_name": "Glassy cell carcinoma of cervix, Translational Cancer Research (PMC8799286)"
+ },
+ {
+  "code": "8140/0",
+  "term": "Adenoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic descriptor 'adenoma, NOS'; no literature restricting it to a proper subset of the endocrine ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8140/0",
+  "term": "Bartholin gland adenoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Bartholin gland adenoma is a vulvar (Bartholin gland) lesion; its literature site (vulva) is not within the endocrine ceiling (C751/C752), so no supported restriction to a proper subset of the ceiling can be asserted.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8140/0",
+  "term": "Bronchiolar adenoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Bronchiolar adenoma is a peripheral lung tumour; its literature site (lung) is not within the endocrine ceiling, so no supported restriction to a proper subset of the ceiling can be asserted.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8140/0",
+  "term": "Bronchiolar adenoma/ciliated muconodular papillary tumor",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Bronchiolar adenoma / ciliated muconodular papillary tumour is a peripheral lung entity; its literature site (lung) is not within the endocrine ceiling, so no supported restriction to a proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8140/0",
+  "term": "Chief cell-predominant polyp, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Chief cell-predominant polyp is a gastric fundic/oxyntic-gland lesion; its literature site (stomach) is not within the endocrine ceiling, so no supported restriction to a proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8140/0",
+  "term": "Chief cell-predominant polyp, low-grade",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Chief cell-predominant polyp is a gastric fundic/oxyntic-gland lesion; its literature site (stomach) is not within the endocrine ceiling, so no supported restriction to a proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8140/0",
+  "term": "Ciliated muconodular papillary tumor",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Ciliated muconodular papillary tumour is a peripheral lung entity; its literature site (lung) is not within the endocrine ceiling, so no supported restriction to a proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8140/0",
+  "term": "Oxyntic gland adenoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Oxyntic gland adenoma is a gastric (fundus/body) neoplasm; its literature site (stomach) is not within the endocrine ceiling, so no supported restriction to a proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8140/0",
+  "term": "Oxyntic gland adenoma, low-grade",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Oxyntic gland adenoma is a gastric neoplasm; its literature site (stomach) is not within the endocrine ceiling, so no supported restriction to a proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8140/0",
+  "term": "Oxyntic gland polyp, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Oxyntic gland polyp is a gastric fundus/body lesion; its literature site (stomach) is not within the endocrine ceiling, so no supported restriction to a proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8140/0",
+  "term": "Oxyntic gland polyp, low-grade",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Oxyntic gland polyp is a gastric fundus/body lesion; its literature site (stomach) is not within the endocrine ceiling, so no supported restriction to a proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8140/0",
+  "term": "Parathyroid adenoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Parathyroid adenoma arises in the parathyroid gland (C750), which is not within this code's ceiling (C751/C752); no restriction to a proper subset of the ceiling itself can be supported.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8140/0",
+  "term": "Pyloric gland adenoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Pyloric gland adenoma is a gastrointestinal (gastric/duodenal/biliary) neoplasm; its literature sites are not within the endocrine ceiling, so no supported restriction to a proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8140/0",
+  "term": "Pyloric gland adenoma, low-grade",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Pyloric gland adenoma is a gastrointestinal neoplasm; its literature sites are not within the endocrine ceiling, so no supported restriction to a proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8140/0",
+  "term": "Pyloric gland intracystic papillary neoplasm, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Pyloric-gland intracystic papillary neoplasm is a pancreatobiliary/gastric entity; its literature sites are not within the endocrine ceiling, so no supported restriction to a proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8140/0",
+  "term": "Pyloric gland intracystic papillary neoplasm, low-grade",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Pyloric-gland intracystic papillary neoplasm is a pancreatobiliary/gastric entity; its literature sites are not within the endocrine ceiling, so no supported restriction to a proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8140/0",
+  "term": "Pyloric gland tubular adenoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Pyloric-gland tubular adenoma is a gastrointestinal neoplasm; its literature sites are not within the endocrine ceiling, so no supported restriction to a proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8140/0",
+  "term": "Pyloric gland tubular adenoma, low-grade",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Pyloric-gland tubular adenoma is a gastrointestinal neoplasm; its literature sites are not within the endocrine ceiling, so no supported restriction to a proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8140/0",
+  "term": "Pyloric gland-type adenoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Pyloric-gland-type adenoma is a gastrointestinal neoplasm; its literature sites are not within the endocrine ceiling, so no supported restriction to a proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8140/0",
+  "term": "Pyloric gland-type adenoma, low grade",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Pyloric-gland-type adenoma is a gastrointestinal neoplasm; its literature sites are not within the endocrine ceiling, so no supported restriction to a proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8140/0",
+  "term": "Sclerosing polycystic adenoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Sclerosing polycystic adenoma is a salivary-gland lesion; its literature site (salivary glands) is not within the endocrine ceiling, so no supported restriction to a proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8146/0",
+  "term": "Monomorphic adenoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Monomorphic adenoma is a salivary-gland adenoma category; its literature site (salivary glands) is not within the endocrine ceiling (C751/C752), so no restriction to a proper subset of the ceiling can be supported.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8260/0",
+  "term": "Glandular papilloma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Glandular papilloma is a bronchial/tracheobronchial papilloma; its literature site (lung/airway) is not within the endocrine ceiling, so no supported restriction to a proper subset of the ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8260/0",
+  "term": "Papillary adenoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic descriptor 'papillary adenoma, NOS'; no literature restricting it to a proper subset of the endocrine ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8260/0",
+  "term": "Renal papillary adenoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Renal papillary adenoma is a kidney tumour (C64); its literature site is not within the endocrine ceiling (C751/C752), so no restriction to a proper subset of the ceiling can be supported.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8260/0",
+  "term": "Renal tubulopapillary adenoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Renal tubulopapillary adenoma is a kidney tumour (C64); its literature site is not within the endocrine ceiling, so no restriction to a proper subset of the ceiling can be supported.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8260/0",
+  "term": "Tubulopapillary adenoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic/renal-associated 'tubulopapillary adenoma'; no literature restricting it to a proper subset of the endocrine ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8270/0",
+  "term": "Chromophobe adenoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C751"
+  ],
+  "site_subset_labels": [
+   "Pituitary gland"
+  ],
+  "rationale": "Chromophobe adenoma/carcinoma is a classic tinctorial category of anterior-pituitary (adenohypophyseal, C751) tumours; it is not a craniopharyngeal-duct (C752) lesion, so it is restricted to the pituitary gland within the ceiling.",
+  "source": "https://eyewiki.org/Pituitary_Adenoma",
+  "source_name": "Pituitary Adenoma, EyeWiki (AAO) - acidophil/basophil/chromophobe tinctorial classification"
+ },
+ {
+  "code": "8270/3",
+  "term": "Chromophobe adenocarcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C751"
+  ],
+  "site_subset_labels": [
+   "Pituitary gland"
+  ],
+  "rationale": "Chromophobe adenoma/carcinoma is a classic tinctorial category of anterior-pituitary (adenohypophyseal, C751) tumours; it is not a craniopharyngeal-duct (C752) lesion, so it is restricted to the pituitary gland within the ceiling.",
+  "source": "https://eyewiki.org/Pituitary_Adenoma",
+  "source_name": "Pituitary Adenoma, EyeWiki (AAO) - acidophil/basophil/chromophobe tinctorial classification"
+ },
+ {
+  "code": "8270/3",
+  "term": "Chromophobe adenoma of pituitary",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C751"
+  ],
+  "site_subset_labels": [
+   "Pituitary gland"
+  ],
+  "rationale": "Explicitly a chromophobe adenoma of the pituitary gland (adenohypophysis, C751); does not arise from the craniopharyngeal duct (C752), so it is restricted to the pituitary gland within the ceiling.",
+  "source": "https://whobluebooks.iarc.who.int/structures/endocrine-and-neuroendocrine-tumours/",
+  "source_name": "WHO Classification of Tumours 5th ed, Endocrine and Neuroendocrine Tumours (pituitary gland section)"
+ },
+ {
+  "code": "8270/3",
+  "term": "Chromophobe carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C751"
+  ],
+  "site_subset_labels": [
+   "Pituitary gland"
+  ],
+  "rationale": "Chromophobe adenoma/carcinoma is a classic tinctorial category of anterior-pituitary (adenohypophyseal, C751) tumours; it is not a craniopharyngeal-duct (C752) lesion, so it is restricted to the pituitary gland within the ceiling.",
+  "source": "https://eyewiki.org/Pituitary_Adenoma",
+  "source_name": "Pituitary Adenoma, EyeWiki (AAO) - acidophil/basophil/chromophobe tinctorial classification"
+ },
+ {
+  "code": "8271/0",
+  "term": "Prolactinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C751"
+  ],
+  "site_subset_labels": [
+   "Pituitary gland"
+  ],
+  "rationale": "Prolactinoma (lactotroph PitNET/adenoma) is a well-differentiated tumour of anterior-pituitary (adenohypophyseal, C751) cells; it does not arise from the craniopharyngeal duct (C752), so it is restricted to the pituitary gland within the ceiling.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/35291028/",
+  "source_name": "Overview of the 2022 WHO Classification of Pituitary Tumors, PubMed PMID 35291028"
+ },
+ {
+  "code": "8272/0",
+  "term": "Pituitary adenoma, NOS",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C751"
+  ],
+  "site_subset_labels": [
+   "Pituitary gland"
+  ],
+  "rationale": "Pituitary adenoma (PitNET) is by definition a neoplasm of the anterior pituitary gland (adenohypophysis, C751); it does not arise from the craniopharyngeal duct (C752), so it is restricted to the pituitary gland within the ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK554451/",
+  "source_name": "Pituitary Adenoma, StatPearls (NCBI Bookshelf)"
+ },
+ {
+  "code": "8273/3",
+  "term": "Pituitary blastoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C751"
+  ],
+  "site_subset_labels": [
+   "Pituitary gland"
+  ],
+  "rationale": "Pituitary blastoma is a rare early-childhood tumour of the pituitary gland (C751) associated with DICER1; it does not arise from the craniopharyngeal duct (C752), so it is restricted to the pituitary gland within the ceiling. 'Pituitary embryoma' is a synonym.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4129448/",
+  "source_name": "Pituitary blastoma: DICER1 syndrome, Acta Neuropathologica (PMC4129448)"
+ },
+ {
+  "code": "8273/3",
+  "term": "Pituitary embryoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C751"
+  ],
+  "site_subset_labels": [
+   "Pituitary gland"
+  ],
+  "rationale": "Pituitary blastoma is a rare early-childhood tumour of the pituitary gland (C751) associated with DICER1; it does not arise from the craniopharyngeal duct (C752), so it is restricted to the pituitary gland within the ceiling. 'Pituitary embryoma' is a synonym.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4129448/",
+  "source_name": "Pituitary blastoma: DICER1 syndrome, Acta Neuropathologica (PMC4129448)"
+ },
+ {
+  "code": "8280/0",
+  "term": "Acidophil adenoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C751"
+  ],
+  "site_subset_labels": [
+   "Pituitary gland"
+  ],
+  "rationale": "Acidophil/eosinophil adenoma is a classic tinctorial category of anterior-pituitary (adenohypophyseal, C751) adenomas (e.g. somatotroph/lactotroph tumours); it is not a craniopharyngeal-duct (C752) entity, so it is restricted to the pituitary gland within the ceiling.",
+  "source": "https://eyewiki.org/Pituitary_Adenoma",
+  "source_name": "Pituitary Adenoma, EyeWiki (AAO) - acidophil/basophil/chromophobe tinctorial classification"
+ },
+ {
+  "code": "8280/0",
+  "term": "Eosinophil adenoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C751"
+  ],
+  "site_subset_labels": [
+   "Pituitary gland"
+  ],
+  "rationale": "Acidophil/eosinophil adenoma is a classic tinctorial category of anterior-pituitary (adenohypophyseal, C751) adenomas (e.g. somatotroph/lactotroph tumours); it is not a craniopharyngeal-duct (C752) entity, so it is restricted to the pituitary gland within the ceiling.",
+  "source": "https://eyewiki.org/Pituitary_Adenoma",
+  "source_name": "Pituitary Adenoma, EyeWiki (AAO) - acidophil/basophil/chromophobe tinctorial classification"
+ },
+ {
+  "code": "8280/3",
+  "term": "Acidophil adenocarcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C751"
+  ],
+  "site_subset_labels": [
+   "Pituitary gland"
+  ],
+  "rationale": "Acidophil/eosinophil adenoma is a classic tinctorial category of anterior-pituitary (adenohypophyseal, C751) adenomas (e.g. somatotroph/lactotroph tumours); it is not a craniopharyngeal-duct (C752) entity, so it is restricted to the pituitary gland within the ceiling.",
+  "source": "https://eyewiki.org/Pituitary_Adenoma",
+  "source_name": "Pituitary Adenoma, EyeWiki (AAO) - acidophil/basophil/chromophobe tinctorial classification"
+ },
+ {
+  "code": "8280/3",
+  "term": "Acidophil adenoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C751"
+  ],
+  "site_subset_labels": [
+   "Pituitary gland"
+  ],
+  "rationale": "Acidophil/eosinophil adenoma is a classic tinctorial category of anterior-pituitary (adenohypophyseal, C751) adenomas (e.g. somatotroph/lactotroph tumours); it is not a craniopharyngeal-duct (C752) entity, so it is restricted to the pituitary gland within the ceiling.",
+  "source": "https://eyewiki.org/Pituitary_Adenoma",
+  "source_name": "Pituitary Adenoma, EyeWiki (AAO) - acidophil/basophil/chromophobe tinctorial classification"
+ },
+ {
+  "code": "8280/3",
+  "term": "Acidophil carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C751"
+  ],
+  "site_subset_labels": [
+   "Pituitary gland"
+  ],
+  "rationale": "Acidophil/eosinophil adenoma is a classic tinctorial category of anterior-pituitary (adenohypophyseal, C751) adenomas (e.g. somatotroph/lactotroph tumours); it is not a craniopharyngeal-duct (C752) entity, so it is restricted to the pituitary gland within the ceiling.",
+  "source": "https://eyewiki.org/Pituitary_Adenoma",
+  "source_name": "Pituitary Adenoma, EyeWiki (AAO) - acidophil/basophil/chromophobe tinctorial classification"
+ }
+]

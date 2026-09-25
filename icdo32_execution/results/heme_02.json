@@ -1,0 +1,362 @@
+[
+ {
+  "code": "9762/3",
+  "term": "Immunoproliferative small intestinal disease",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Heavy chain diseases (including IPSID/Mediterranean lymphoma and mu heavy chain disease) are systemic lymphoplasmacytic disorders involving blood and lymph nodes; literature shows involvement across blood and abdominal/peripheral lymph node compartments rather than a single code-mappable lymph node subset, so no strict proper-subset restriction of the ceiling is supported.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9762/3",
+  "term": "Mediterranean lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Heavy chain diseases (including IPSID/Mediterranean lymphoma and mu heavy chain disease) are systemic lymphoplasmacytic disorders involving blood and lymph nodes; literature shows involvement across blood and abdominal/peripheral lymph node compartments rather than a single code-mappable lymph node subset, so no strict proper-subset restriction of the ceiling is supported.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9762/3",
+  "term": "Mu heavy chain disease",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Heavy chain diseases (including IPSID/Mediterranean lymphoma and mu heavy chain disease) are systemic lymphoplasmacytic disorders involving blood and lymph nodes; literature shows involvement across blood and abdominal/peripheral lymph node compartments rather than a single code-mappable lymph node subset, so no strict proper-subset restriction of the ceiling is supported.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9805/3",
+  "term": "Acute leukemia of ambiguous lineage with BCL11B rearrangement",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9805/3",
+  "term": "Acute leukemia of ambiguous lineage with other defined genetic abnormalities",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9805/3",
+  "term": "Acute leukemia of ambiguous lineage with other defined genetic alterations",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9805/3",
+  "term": "Acute leukemia of ambiguous lineage, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9805/3",
+  "term": "Mixed-phenotype acute leukemia (MPAL) with ZNF384 rearrangement",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9805/3",
+  "term": "Mixed-phenotype acute leukemia B/T",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9805/3",
+  "term": "Mixed-phenotype acute leukemia B/T/Myeloid",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9805/3",
+  "term": "Mixed-phenotype acute leukemia with ZNF384 rearrangement",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9805/3",
+  "term": "Mixed-phenotype acute leukemia, B/T (MPAL-B/T)",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9805/3",
+  "term": "Mixed-phenotype acute leukemia, B/T/Myeloid (MPAL-B/T/M)",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9805/3",
+  "term": "Mixed-phenotype acute leukemia, T/Megakaryocytic (MPAL-T/Mk)",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9805/3",
+  "term": "Mixed-phenotype acute leukemia, T/megakaryocytic",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9980/3",
+  "term": "Myelodysplastic neoplasm with low blasts and single-lineage dysplasia",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9980/3",
+  "term": "Myelodysplastic syndrome with single lineage dysplasia",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9980/3",
+  "term": "Refractory anemia without sideroblasts",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9980/3",
+  "term": "Refractory anemia, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9980/3",
+  "term": "Refractory neutropenia",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9980/3",
+  "term": "Refractory thrombocytopenia",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9985/3",
+  "term": "Childhood myelodysplastic neoplasm with low blasts, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9985/3",
+  "term": "Childhood myelodysplastic neoplasm with low blasts, hypocellular",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9985/3",
+  "term": "Myelodysplastic neoplasm with biallelic TP53 inactivation",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9985/3",
+  "term": "Myelodysplastic neoplasm with low blasts and multilineage dysplasia",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9985/3",
+  "term": "Myelodysplastic neoplasm with low blasts, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9985/3",
+  "term": "Myelodysplastic neoplasm with multi-hit TP53 inactivation",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9985/3",
+  "term": "Myelodysplastic neoplasm with muti-hit TP53 inactivation",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9985/3",
+  "term": "Myelodysplastic neoplasm, hypoplastic",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9985/3",
+  "term": "Myelodysplastic syndrome with multilineage dysplasia",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9985/3",
+  "term": "Refractory cytopenia of childhood",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9985/3",
+  "term": "Refractory cytopenia of childhood (childhood myelodysplastic neoplasm with low blasts)",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9985/3",
+  "term": "Refractory cytopenia with multilineage dysplasia",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9987/3",
+  "term": "Myelodysplastic neoplasm post cytotoxic therapy",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9987/3",
+  "term": "Myelodysplastic neoplasm post cytotoxic therapy, alkylating agent related",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ },
+ {
+  "code": "9987/3",
+  "term": "Myelodysplastic neoplasm post cytotoxic therapy, epipodophyllotoxin-related",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This is a systemic myeloid/leukemic hematopoietic neoplasm diagnosed in bone marrow with peripheral blood involvement; its two ceiling sites (blood and bone marrow) are both intrinsic to the disease, so no proper-subset anatomic restriction applies.",
+  "source": "https://www.merckmanuals.com/professional/hematology-and-oncology/plasma-cell-disorders/heavy-chain-diseases",
+  "source_name": "Merck Manual Professional Edition - Heavy Chain Diseases"
+ }
+]

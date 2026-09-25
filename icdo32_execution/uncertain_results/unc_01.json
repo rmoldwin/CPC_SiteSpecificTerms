@@ -1,0 +1,211 @@
+[
+  {
+    "code": "8802/3",
+    "term": "Anaplastic sarcoma of the kidney",
+    "proposed_codes": ["C649"],
+    "proposed_labels": ["Kidney, NOS"],
+    "site_status": "outside_ceiling",
+    "resolution": "resolved",
+    "rationale": "Anaplastic sarcoma of the kidney (ASK) is a DICER1-related renal neoplasm that arises in the kidney; the source states 'ASK is a rare DICER1-related renal neoplasm.' Kidney = C649. C64 is not among the code's ceiling_codes, so this is outside_ceiling.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11590164/",
+    "source_ref": "Schoettler PJ et al. Anaplastic Sarcoma of the Kidney (DICER1-Sarcoma of the Kidney). PMC11590164 (2024)"
+  },
+  {
+    "code": "8802/3",
+    "term": "DICER1 sarcoma of kidney",
+    "proposed_codes": ["C649"],
+    "proposed_labels": ["Kidney, NOS"],
+    "site_status": "outside_ceiling",
+    "resolution": "resolved",
+    "rationale": "DICER1 sarcoma of the kidney is synonymous with anaplastic sarcoma of the kidney (ASK), described as 'a rare DICER1-related renal neoplasm' arising in the kidney. Kidney = C649. C64 is not in the code's ceiling_codes, so outside_ceiling.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11590164/",
+    "source_ref": "Schoettler PJ et al. Anaplastic Sarcoma of the Kidney (DICER1-Sarcoma of the Kidney). PMC11590164 (2024)"
+  },
+  {
+    "code": "8810/3",
+    "term": "Ovarian fibrosarcoma",
+    "proposed_codes": ["C569"],
+    "proposed_labels": ["Ovary"],
+    "site_status": "outside_ceiling",
+    "resolution": "resolved",
+    "rationale": "Ovarian fibrosarcoma arises from the ovary: 'ovarian fibrosarcoma may originate from stromal cells that surround the sex cord of ovarian follicles and the fibrous components of the ovarian phylum, or from the malignant transformation of a benign ovarian fibroma.' It is an ovarian sex cord-stromal tumor confined to the ovary (C569). C56 is not in the code's ceiling_codes, so outside_ceiling.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7724700/",
+    "source_ref": "Sun TT et al. Ovarian fibrosarcoma: A single-institution experience and a review of the literature. PMC7724700 (2020)"
+  },
+  {
+    "code": "8814/3",
+    "term": "Cellular congenital mesoblastic nephroma",
+    "proposed_codes": ["C649"],
+    "proposed_labels": ["Kidney, NOS"],
+    "site_status": "outside_ceiling",
+    "resolution": "resolved",
+    "rationale": "Congenital mesoblastic nephroma (including the cellular variant) is a mesenchymal renal tumor of infancy: 'Congenital mesoblastic nephroma (CMN) is a mesenchymal renal tumor' and 'the most frequent type of renal tumor in the neonatal and early infantile period.' Kidney = C649. C64 is not in the code's ceiling_codes, so outside_ceiling.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4186628/",
+    "source_ref": "Wang ZP et al. Congenital mesoblastic nephroma: Clinical analysis of eight cases. PMC4186628 (2014)"
+  },
+  {
+    "code": "8814/3",
+    "term": "Cellular mesoblastic nephroma",
+    "proposed_codes": ["C649"],
+    "proposed_labels": ["Kidney, NOS"],
+    "site_status": "outside_ceiling",
+    "resolution": "resolved",
+    "rationale": "Cellular mesoblastic nephroma is a cellular variant of congenital mesoblastic nephroma, 'a mesenchymal renal tumor' that is 'the most frequent type of renal tumor in the neonatal and early infantile period,' arising in the kidney (C649). C64 is not in the code's ceiling_codes, so outside_ceiling.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4186628/",
+    "source_ref": "Wang ZP et al. Congenital mesoblastic nephroma: Clinical analysis of eight cases. PMC4186628 (2014)"
+  },
+  {
+    "code": "8842/3",
+    "term": "Primary pulmonary myxoid sarcoma",
+    "proposed_codes": ["C343", "C341", "C342", "C349"],
+    "proposed_labels": ["Lower lobe, lung", "Middle lobe, lung", "Upper lobe, lung", "Lung, NOS"],
+    "site_status": "outside_ceiling",
+    "resolution": "resolved",
+    "rationale": "Primary pulmonary myxoid sarcoma is a lung-specific mesenchymal malignancy that 'predominantly arises within the bronchial tree and pulmonary parenchyma' (endobronchial/parenchymal lung locations). Lung topography = C340-C349; C349 (Lung, NOS) covers the parenchyma when no single lobe is specified. No lung C34 code is in the code's ceiling_codes (only C49*), so outside_ceiling.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12885817/",
+    "source_ref": "Lin M et al. Primary pulmonary myxoid sarcoma with detected EWSR1 gene rearrangement. PMC12885817 (2026)"
+  },
+  {
+    "code": "8842/3",
+    "term": "Pulmonary myxoid sarcoma with EWSR1-CREB1 fusion",
+    "proposed_codes": ["C343", "C341", "C342", "C349"],
+    "proposed_labels": ["Lower lobe, lung", "Middle lobe, lung", "Upper lobe, lung", "Lung, NOS"],
+    "site_status": "outside_ceiling",
+    "resolution": "resolved",
+    "rationale": "Pulmonary myxoid sarcoma with EWSR1::CREB1 fusion is the same lung-specific entity as primary pulmonary myxoid sarcoma; it 'predominantly arises within the bronchial tree and pulmonary parenchyma.' Lung topography = C340-C349 (C349 Lung, NOS). No lung code is in the code's ceiling_codes (only C49*), so outside_ceiling.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12885817/",
+    "source_ref": "Lin M et al. Primary pulmonary myxoid sarcoma with detected EWSR1 gene rearrangement. PMC12885817 (2026)"
+  },
+  {
+    "code": "8842/3",
+    "term": "Pulmonary myxoid sarcoma with EWSR1-CREB1 translocation",
+    "proposed_codes": ["C343", "C341", "C342", "C349"],
+    "proposed_labels": ["Lower lobe, lung", "Middle lobe, lung", "Upper lobe, lung", "Lung, NOS"],
+    "site_status": "outside_ceiling",
+    "resolution": "resolved",
+    "rationale": "Pulmonary myxoid sarcoma with EWSR1-CREB1 translocation is the same lung-specific entity as primary pulmonary myxoid sarcoma; it 'predominantly arises within the bronchial tree and pulmonary parenchyma.' Lung topography = C340-C349 (C349 Lung, NOS). No lung code is in the code's ceiling_codes (only C49*), so outside_ceiling.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12885817/",
+    "source_ref": "Lin M et al. Primary pulmonary myxoid sarcoma with detected EWSR1 gene rearrangement. PMC12885817 (2026)"
+  },
+  {
+    "code": "8842/3",
+    "term": "Pulmonary myxoid sarcoma with EWSR1::CREB1 fusion",
+    "proposed_codes": ["C343", "C341", "C342", "C349"],
+    "proposed_labels": ["Lower lobe, lung", "Middle lobe, lung", "Upper lobe, lung", "Lung, NOS"],
+    "site_status": "outside_ceiling",
+    "resolution": "resolved",
+    "rationale": "Pulmonary myxoid sarcoma with EWSR1::CREB1 fusion is the same lung-specific entity as primary pulmonary myxoid sarcoma; it 'predominantly arises within the bronchial tree and pulmonary parenchyma.' Lung topography = C340-C349 (C349 Lung, NOS). No lung code is in the code's ceiling_codes (only C49*), so outside_ceiling.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12885817/",
+    "source_ref": "Lin M et al. Primary pulmonary myxoid sarcoma with detected EWSR1 gene rearrangement. PMC12885817 (2026)"
+  },
+  {
+    "code": "8842/3",
+    "term": "Pulmonary myxoid sarcoma with EWSR1::CREB1 translocation",
+    "proposed_codes": ["C343", "C341", "C342", "C349"],
+    "proposed_labels": ["Lower lobe, lung", "Middle lobe, lung", "Upper lobe, lung", "Lung, NOS"],
+    "site_status": "outside_ceiling",
+    "resolution": "resolved",
+    "rationale": "Pulmonary myxoid sarcoma with EWSR1::CREB1 translocation is the same lung-specific entity as primary pulmonary myxoid sarcoma; it 'predominantly arises within the bronchial tree and pulmonary parenchyma.' Lung topography = C340-C349 (C349 Lung, NOS). No lung code is in the code's ceiling_codes (only C49*), so outside_ceiling.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12885817/",
+    "source_ref": "Lin M et al. Primary pulmonary myxoid sarcoma with detected EWSR1 gene rearrangement. PMC12885817 (2026)"
+  },
+  {
+    "code": "9044/3",
+    "term": "CRTC1::TRIM11\u00a0cutaneous tumor",
+    "proposed_codes": ["C449", "C447", "C446", "C444", "C445"],
+    "proposed_labels": ["Skin, NOS", "Skin of lower limb and hip", "Skin of upper limb and shoulder", "Skin of scalp and neck", "Skin of trunk"],
+    "site_status": "outside_ceiling",
+    "resolution": "resolved",
+    "rationale": "Cutaneous melanocytic tumor with CRTC1::TRIM11 fusion is a skin (dermal/subcutaneous) neoplasm: it 'most commonly presents as a well-circumscribed dermal (or dermal and subcutaneous) nodular or multilobulated tumor,' arising most often on the extremities, then head/neck and trunk. Skin topography = C44*. Skin (C44) is not among the code's ceiling_codes (C48/C49/C809), so outside_ceiling.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8698518/",
+    "source_ref": "Parra O, Linos K. Cutaneous Melanocytic Tumor with CRTC1::TRIM11 Fusion. PMC8698518 (2021)"
+  },
+  {
+    "code": "9044/3",
+    "term": "Dermal clear cell sarcoma",
+    "proposed_codes": ["C449", "C447", "C446", "C444", "C445"],
+    "proposed_labels": ["Skin, NOS", "Skin of lower limb and hip", "Skin of upper limb and shoulder", "Skin of scalp and neck", "Skin of trunk"],
+    "site_status": "outside_ceiling",
+    "resolution": "resolved",
+    "rationale": "Dermal clear-cell sarcoma is a cutaneous (dermis-localized) variant: 'Dermis-localized clear-cell sarcoma is rare' and 'Lesions arising in the skin are recognized in the literature.' Skin topography = C44*. Skin (C44) is not among the code's ceiling_codes (C48/C49/C809), so outside_ceiling.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9798674/",
+    "source_ref": "Tahiri Elousrouti L et al. Clear-Cell Sarcoma With an Unusual Presentation. PMC9798674 (2022)"
+  },
+  {
+    "code": "9044/3",
+    "term": "Gastrointestinal clear cell sarcoma / malignant gastrointestinal neuroectodermal tumor",
+    "proposed_codes": ["C179", "C169", "C189"],
+    "proposed_labels": ["Small intestine, NOS", "Stomach, NOS", "Colon, NOS"],
+    "site_status": "outside_ceiling",
+    "resolution": "resolved",
+    "rationale": "Malignant gastrointestinal neuroectodermal tumor (GNET) / GI clear cell sarcoma arises 'in the wall of the gastrointestinal tract'; in the defining series tumors arose in the small bowel (10/16, 62.5%), stomach (4/16, 25%), and colon (2/16, 12.5%). Small intestine = C179, stomach = C169, colon = C189. No GI-tract code is among the code's ceiling_codes (C48/C49/C809), so outside_ceiling.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7479544/",
+    "source_ref": "Stockman DL et al. Malignant Gastrointestinal Neuroectodermal Tumor. PMC7479544 (2012)"
+  },
+  {
+    "code": "9044/3",
+    "term": "Malignant gastrointestinal neuroectodermal tumor",
+    "proposed_codes": ["C179", "C169", "C189"],
+    "proposed_labels": ["Small intestine, NOS", "Stomach, NOS", "Colon, NOS"],
+    "site_status": "outside_ceiling",
+    "resolution": "resolved",
+    "rationale": "Malignant gastrointestinal neuroectodermal tumor (GNET) arises 'in the wall of the gastrointestinal tract'; in the defining series tumors arose in the small bowel (10/16, 62.5%), stomach (4/16, 25%), and colon (2/16, 12.5%). Small intestine = C179, stomach = C169, colon = C189. No GI-tract code is among the code's ceiling_codes (C48/C49/C809), so outside_ceiling.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7479544/",
+    "source_ref": "Stockman DL et al. Malignant Gastrointestinal Neuroectodermal Tumor. PMC7479544 (2012)"
+  },
+  {
+    "code": "9050/2",
+    "term": "Mesothelioma in situ",
+    "proposed_codes": ["C384", "C482", "C481", "C380"],
+    "proposed_labels": ["Pleura, NOS", "Peritoneum, NOS", "Specified parts of peritoneum", "Heart"],
+    "site_status": "in_ceiling",
+    "resolution": "resolved",
+    "rationale": "The 2021 WHO Classification 'recognizes mesothelioma in situ in the pleura, peritoneum, and pericardium'; it was introduced as a preinvasive pleural lesion and is also recognized peritoneally and pericardially. Pleura = C384, peritoneum = C481/C482, pericardium is coded to heart C380. All proposed codes (C380, C384, C481, C482) are present in the code's ceiling_codes, so in_ceiling.",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/35026477/",
+    "source_ref": "Sauter JL et al. The 2021 WHO Classification of Tumors of the Pleura. PMID 35026477 (2022)"
+  },
+  {
+    "code": "9367/3",
+    "term": "CIC::NUTM1 sarcoma",
+    "proposed_codes": ["C499", "C412"],
+    "proposed_labels": ["Connective, subcutaneous and other soft tissues, NOS", "Vertebral column"],
+    "site_status": "in_ceiling",
+    "resolution": "resolved",
+    "rationale": "CIC-rearranged sarcomas most often arise in soft tissue ('Most tumors have a predilection to occur in the soft tissue (87%)', limb > trunk > head and neck), with rare bone/visceral/CNS primaries; the ultra-rare CIC-NUTM1 variant 'seems to have distinct anatomic tropism for the axial skeleton' (reported CIC-NUTM1 sarcomas affecting the spine). Soft tissue = C49* (C499 NOS) and axial skeleton/vertebral column = C412. Both C499 and C412 are present in the code's ceiling_codes, so in_ceiling.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9657047/",
+    "source_ref": "Mancarella C et al. CIC-Rearranged Sarcomas: An Intriguing Entity. PMC9657047 (2022)"
+  },
+  {
+    "code": "8500/2",
+    "term": "Apocrine intraductal carcinoma",
+    "proposed_codes": ["C089", "C079", "C509"],
+    "proposed_labels": ["Major salivary gland, NOS", "Parotid gland", "Breast, NOS"],
+    "site_status": "in_ceiling",
+    "resolution": "resolved",
+    "rationale": "Apocrine intraductal carcinoma (IDC) is described in the WHO 5th ed head/neck classification as a salivary gland malignancy ('Intraductal carcinoma (IDC) is a salivary gland malignancy'; 'the second pattern is an apocrine IDC which is androgen receptor positive'), most often parotid; apocrine ductal carcinoma in situ is also well described in the breast (the WHO text draws the direct DCIS analogy). Major salivary gland = C089 (parotid C079), breast = C509. C089, C079 and C509 are all present in the code's ceiling_codes, so in_ceiling.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10293154/",
+    "source_ref": "Skalova A, Hyrcza MD. Classification of Salivary Gland Tumors: Remaining Controversies. PMC10293154 (2023)"
+  },
+  {
+    "code": "8500/2",
+    "term": "Intraductal carcinoma, apocrine",
+    "proposed_codes": ["C089", "C079", "C509"],
+    "proposed_labels": ["Major salivary gland, NOS", "Parotid gland", "Breast, NOS"],
+    "site_status": "in_ceiling",
+    "resolution": "resolved",
+    "rationale": "Intraductal carcinoma, apocrine is the same entity as apocrine intraductal carcinoma: a salivary gland malignancy ('Intraductal carcinoma (IDC) is a salivary gland malignancy'; 'the second pattern is an apocrine IDC'), most often parotid, with apocrine DCIS also well described in the breast. Major salivary gland = C089 (parotid C079), breast = C509. C089, C079 and C509 are all present in the code's ceiling_codes, so in_ceiling.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10293154/",
+    "source_ref": "Skalova A, Hyrcza MD. Classification of Salivary Gland Tumors: Remaining Controversies. PMC10293154 (2023)"
+  },
+  {
+    "code": "8500/3",
+    "term": "Primary ductal adenocarcinoma of lacrimal gland",
+    "proposed_codes": ["C695"],
+    "proposed_labels": ["Lacrimal gland"],
+    "site_status": "outside_ceiling",
+    "resolution": "resolved",
+    "rationale": "Primary ductal adenocarcinoma (PDA) is defined exclusively in the lacrimal gland: 'Primary ductal adenocarcinoma (PDA) is a rare epithelial tumor of the lacrimal gland.' Lacrimal gland = C695. C695 is not among the code's ceiling_codes, so outside_ceiling.",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7215120/",
+    "source_ref": "See TRO et al. Primary ductal adenocarcinoma of the lacrimal gland. PMC7215120 (2019)"
+  }
+]

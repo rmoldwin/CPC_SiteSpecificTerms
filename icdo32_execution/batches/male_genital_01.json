@@ -1,0 +1,752 @@
+[
+ {
+  "code": "8054/3",
+  "term": "Condylomatous carcinoma",
+  "ceiling_count": 5,
+  "ceiling_codes": [
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609"
+  ]
+ },
+ {
+  "code": "8054/3",
+  "term": "Warty carcinoma",
+  "ceiling_count": 5,
+  "ceiling_codes": [
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609"
+  ]
+ },
+ {
+  "code": "8054/3",
+  "term": "Warty carcinoma, HPV-associated",
+  "ceiling_count": 5,
+  "ceiling_codes": [
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609"
+  ]
+ },
+ {
+  "code": "8054/3",
+  "term": "Warty-basaloid carcinoma",
+  "ceiling_count": 5,
+  "ceiling_codes": [
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609"
+  ]
+ },
+ {
+  "code": "8083/2",
+  "term": "Basaloid squamous cell carcinoma, in situ",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C210",
+   "C211",
+   "C212",
+   "C218",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C638",
+   "C639"
+  ]
+ },
+ {
+  "code": "8090/3",
+  "term": "Basal cell carcinoma with adnexal differentiation",
+  "ceiling_count": 15,
+  "ceiling_codes": [
+   "C210",
+   "C211",
+   "C212",
+   "C218",
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C632"
+  ]
+ },
+ {
+  "code": "8090/3",
+  "term": "Basal cell carcinoma, NOS",
+  "ceiling_count": 15,
+  "ceiling_codes": [
+   "C210",
+   "C211",
+   "C212",
+   "C218",
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C632"
+  ]
+ },
+ {
+  "code": "8090/3",
+  "term": "Basal cell epithelioma",
+  "ceiling_count": 15,
+  "ceiling_codes": [
+   "C210",
+   "C211",
+   "C212",
+   "C218",
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C632"
+  ]
+ },
+ {
+  "code": "8090/3",
+  "term": "Pigmented basal cell carcinoma",
+  "ceiling_count": 15,
+  "ceiling_codes": [
+   "C210",
+   "C211",
+   "C212",
+   "C218",
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C632"
+  ]
+ },
+ {
+  "code": "8090/3",
+  "term": "Rodent ulcer",
+  "ceiling_count": 15,
+  "ceiling_codes": [
+   "C210",
+   "C211",
+   "C212",
+   "C218",
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C632"
+  ]
+ },
+ {
+  "code": "8091/3",
+  "term": "Multicentric basal cell carcinoma",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C632"
+  ]
+ },
+ {
+  "code": "8091/3",
+  "term": "Multifocal superficial basal cell carcinoma",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C632"
+  ]
+ },
+ {
+  "code": "8091/3",
+  "term": "Superficial basal cell carcinoma",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C632"
+  ]
+ },
+ {
+  "code": "8092/3",
+  "term": "Basal cell carcinoma with sarcomatoid differentiation",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C632"
+  ]
+ },
+ {
+  "code": "8092/3",
+  "term": "Basal cell carcinoma, desmoplastic type",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C632"
+  ]
+ },
+ {
+  "code": "8092/3",
+  "term": "Basal cell carcinoma, morpheic",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C632"
+  ]
+ },
+ {
+  "code": "8092/3",
+  "term": "Basal cell carcinoma, morphoeic",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C632"
+  ]
+ },
+ {
+  "code": "8092/3",
+  "term": "Basal cell carcinoma, sarcomatoid",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C632"
+  ]
+ },
+ {
+  "code": "8092/3",
+  "term": "Basal cell carcinoma, sclerosing/morphoeic",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C632"
+  ]
+ },
+ {
+  "code": "8092/3",
+  "term": "Infiltrating basal cell carcinoma, NOS",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C632"
+  ]
+ },
+ {
+  "code": "8092/3",
+  "term": "Infiltrating basal cell carcinoma, non-sclerosing",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C632"
+  ]
+ },
+ {
+  "code": "8092/3",
+  "term": "Infiltrating basal cell carcinoma, sclerosing",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C632"
+  ]
+ },
+ {
+  "code": "8092/3",
+  "term": "Sclerosing/morphoeic basal cell carcinoma",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C632"
+  ]
+ },
+ {
+  "code": "8093/3",
+  "term": "Basal cell carcinoma, fibroepithelial",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C632"
+  ]
+ },
+ {
+  "code": "8093/3",
+  "term": "Fibroepithelial basal cell carcinoma",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C632"
+  ]
+ },
+ {
+  "code": "8093/3",
+  "term": "Fibroepithelial basal cell carcinoma, Pinkus type",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C632"
+  ]
+ },
+ {
+  "code": "8093/3",
+  "term": "Fibroepithelioma of Pinkus type",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C632"
+  ]
+ },
+ {
+  "code": "8093/3",
+  "term": "Fibroepithelioma, NOS",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C632"
+  ]
+ },
+ {
+  "code": "8093/3",
+  "term": "Pinkus tumor",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C632"
+  ]
+ },
+ {
+  "code": "8094/3",
+  "term": "Basosquamous carcinoma",
+  "ceiling_count": 15,
+  "ceiling_codes": [
+   "C210",
+   "C211",
+   "C212",
+   "C218",
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C632"
+  ]
+ },
+ {
+  "code": "8094/3",
+  "term": "Mixed basal-squamous cell carcinoma",
+  "ceiling_count": 15,
+  "ceiling_codes": [
+   "C210",
+   "C211",
+   "C212",
+   "C218",
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C632"
+  ]
+ },
+ {
+  "code": "8095/3",
+  "term": "Metatypical carcinoma",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C632"
+  ]
+ },
+ {
+  "code": "8097/3",
+  "term": "Basal cell carcinoma, micronodular",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C632"
+  ]
+ },
+ {
+  "code": "8097/3",
+  "term": "Basal cell carcinoma, nodular",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C632"
+  ]
+ },
+ {
+  "code": "8097/3",
+  "term": "Micronodular basal cell carcinoma",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C632"
+  ]
+ },
+ {
+  "code": "8097/3",
+  "term": "Nodular basal cell carcinoma",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519",
+   "C600",
+   "C601",
+   "C602",
+   "C608",
+   "C609",
+   "C632"
+  ]
+ },
+ {
+  "code": "8620/3",
+  "term": "Adult granulosa cell tumor",
+  "ceiling_count": 4,
+  "ceiling_codes": [
+   "C569",
+   "C620",
+   "C621",
+   "C629"
+  ]
+ },
+ {
+  "code": "8620/3",
+  "term": "Adult granulosa cell tumor of adrenal gland",
+  "ceiling_count": 4,
+  "ceiling_codes": [
+   "C569",
+   "C620",
+   "C621",
+   "C629"
+  ]
+ },
+ {
+  "code": "8620/3",
+  "term": "Adult granulosa cell tumor of ovary",
+  "ceiling_count": 4,
+  "ceiling_codes": [
+   "C569",
+   "C620",
+   "C621",
+   "C629"
+  ]
+ },
+ {
+  "code": "8620/3",
+  "term": "Granulosa cell carcinoma",
+  "ceiling_count": 4,
+  "ceiling_codes": [
+   "C569",
+   "C620",
+   "C621",
+   "C629"
+  ]
+ },
+ {
+  "code": "8620/3",
+  "term": "Granulosa cell tumor",
+  "ceiling_count": 4,
+  "ceiling_codes": [
+   "C569",
+   "C620",
+   "C621",
+   "C629"
+  ]
+ },
+ {
+  "code": "8620/3",
+  "term": "Granulosa cell tumor of ovary, NOS",
+  "ceiling_count": 4,
+  "ceiling_codes": [
+   "C569",
+   "C620",
+   "C621",
+   "C629"
+  ]
+ },
+ {
+  "code": "8620/3",
+  "term": "Granulosa cell tumor, adult type",
+  "ceiling_count": 4,
+  "ceiling_codes": [
+   "C569",
+   "C620",
+   "C621",
+   "C629"
+  ]
+ },
+ {
+  "code": "8620/3",
+  "term": "Granulosa cell tumor, sarcomatoid",
+  "ceiling_count": 4,
+  "ceiling_codes": [
+   "C569",
+   "C620",
+   "C621",
+   "C629"
+  ]
+ },
+ {
+  "code": "8640/3",
+  "term": "Malignant Sertoli cell tumor",
+  "ceiling_count": 3,
+  "ceiling_codes": [
+   "C620",
+   "C621",
+   "C629"
+  ]
+ }
+]

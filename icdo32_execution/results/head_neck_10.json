@@ -1,0 +1,550 @@
+[
+ {
+  "code": "9591/3",
+  "term": "Reticulosarcoma, diffuse",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Obsolete synonym for diffuse large B-cell lymphoma, a generic aggressive B-cell lymphoma arising across nodal and virtually all extranodal sites; not anatomically restricted.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (2022) Lymphoid Neoplasms, Leukemia 2022 (Alaggio et al.)"
+ },
+ {
+  "code": "9591/3",
+  "term": "Reticulum cell sarcoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Obsolete synonym for diffuse large B-cell lymphoma, a generic aggressive B-cell lymphoma arising across nodal and virtually all extranodal sites; not anatomically restricted.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (2022) Lymphoid Neoplasms, Leukemia 2022 (Alaggio et al.)"
+ },
+ {
+  "code": "9591/3",
+  "term": "Reticulum cell sarcoma, diffuse",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Obsolete synonym for diffuse large B-cell lymphoma, a generic aggressive B-cell lymphoma arising across nodal and virtually all extranodal sites; not anatomically restricted.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (2022) Lymphoid Neoplasms, Leukemia 2022 (Alaggio et al.)"
+ },
+ {
+  "code": "9591/3",
+  "term": "Splenic B-cell lymphoma/Leukemia with prominent nucleoli",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C421",
+   "C422"
+  ],
+  "site_subset_labels": [
+   "Bone marrow",
+   "Spleen"
+  ],
+  "rationale": "WHO-HAEM5 splenic B-cell lymphoma/leukaemia entities (SBLPN and the unclassifiable category) are primary splenic neoplasms involving spleen, bone marrow and blood; restricted to a proper subset of the ceiling.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (2022) Lymphoid Neoplasms, Leukemia 2022 (Alaggio et al.)"
+ },
+ {
+  "code": "9591/3",
+  "term": "Splenic B-cell lymphoma/leukemia with prominent nuclei",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C421",
+   "C422"
+  ],
+  "site_subset_labels": [
+   "Bone marrow",
+   "Spleen"
+  ],
+  "rationale": "WHO-HAEM5 splenic B-cell lymphoma/leukaemia entities (SBLPN and the unclassifiable category) are primary splenic neoplasms involving spleen, bone marrow and blood; restricted to a proper subset of the ceiling.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (2022) Lymphoid Neoplasms, Leukemia 2022 (Alaggio et al.)"
+ },
+ {
+  "code": "9591/3",
+  "term": "Splenic B-cell lymphoma/leukemia, unclassifiable",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C421",
+   "C422"
+  ],
+  "site_subset_labels": [
+   "Bone marrow",
+   "Spleen"
+  ],
+  "rationale": "WHO-HAEM5 splenic B-cell lymphoma/leukaemia entities (SBLPN and the unclassifiable category) are primary splenic neoplasms involving spleen, bone marrow and blood; restricted to a proper subset of the ceiling.",
+  "source": "https://www.nature.com/articles/s41375-022-01620-2",
+  "source_name": "WHO-HAEM5 (2022) Lymphoid Neoplasms, Leukemia 2022 (Alaggio et al.)"
+ },
+ {
+  "code": "9591/3",
+  "term": "Splenic diffuse red pulp small B-cell lymphoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C421",
+   "C422"
+  ],
+  "site_subset_labels": [
+   "Bone marrow",
+   "Spleen"
+  ],
+  "rationale": "Splenic diffuse red pulp small B-cell lymphoma is defined by diffuse infiltration of the splenic red pulp with bone marrow and peripheral blood involvement; a spleen/marrow-based entity forming a proper subset of the code ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12205484/",
+  "source_name": "Cureus 2025 review of splenic diffuse red pulp small B-cell lymphoma"
+ },
+ {
+  "code": "9596/3",
+  "term": "B-cell lymphoma, unclassifiable, with features intermediate between diffuse large B-cell lymphoma and classic Hodgkin lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The generic B-cell lymphoma unclassifiable (DLBCL/CHL) and composite Hodgkin/non-Hodgkin lymphoma occur across lymph node groups and other sites (per SEER/WHO), so not restricted to a proper subset.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5333/",
+  "source_name": "SEER Hematopoietic Project (B-cell lymphoma unclassifiable, DLBCL/CHL)"
+ },
+ {
+  "code": "9596/3",
+  "term": "Composite Hodgkin and non-Hodgkin lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "The generic B-cell lymphoma unclassifiable (DLBCL/CHL) and composite Hodgkin/non-Hodgkin lymphoma occur across lymph node groups and other sites (per SEER/WHO), so not restricted to a proper subset.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5333/",
+  "source_name": "SEER Hematopoietic Project (B-cell lymphoma unclassifiable, DLBCL/CHL)"
+ },
+ {
+  "code": "9596/3",
+  "term": "Mediastinal gray zone lymphoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C379",
+   "C381",
+   "C382",
+   "C383",
+   "C388"
+  ],
+  "site_subset_labels": [
+   "Thymus",
+   "Anterior mediastinum",
+   "Posterior mediastinum",
+   "Mediastinum, NOS",
+   "Overlapping lesion of heart, mediastinum and pleura"
+  ],
+  "rationale": "WHO-HAEM5 (2022) restricts the diagnosis of mediastinal gray zone lymphoma to EBV-negative lymphomas arising in the mediastinum from thymic B cells, explicitly excluding extramediastinal cases.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12821469/",
+  "source_name": "Hematology Reports 2025 (Zorlu et al.); WHO-HAEM5 2022"
+ },
+ {
+  "code": "9671/3",
+  "term": "Immunocytoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Lymphoplasmacytic lymphoma/immunocytoma is a systemic small B-cell neoplasm that, although marrow-predominant, also involves lymph nodes, spleen and other tissues and is coded wherever biopsied; not restricted to a proper subset.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/23544948/",
+  "source_name": "PubMed PMID 23544948 (lymphoplasmacytic lymphoma / Waldenstrom macroglobulinemia)"
+ },
+ {
+  "code": "9671/3",
+  "term": "Lymphoplasmacytic lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Lymphoplasmacytic lymphoma/immunocytoma is a systemic small B-cell neoplasm that, although marrow-predominant, also involves lymph nodes, spleen and other tissues and is coded wherever biopsied; not restricted to a proper subset.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/23544948/",
+  "source_name": "PubMed PMID 23544948 (lymphoplasmacytic lymphoma / Waldenstrom macroglobulinemia)"
+ },
+ {
+  "code": "9671/3",
+  "term": "Malignant lymphoma, lymphoplasmacytoid type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Lymphoplasmacytic lymphoma/immunocytoma is a systemic small B-cell neoplasm that, although marrow-predominant, also involves lymph nodes, spleen and other tissues and is coded wherever biopsied; not restricted to a proper subset.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/23544948/",
+  "source_name": "PubMed PMID 23544948 (lymphoplasmacytic lymphoma / Waldenstrom macroglobulinemia)"
+ },
+ {
+  "code": "9671/3",
+  "term": "Malignant lymphoma, plasmacytoid",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Lymphoplasmacytic lymphoma/immunocytoma is a systemic small B-cell neoplasm that, although marrow-predominant, also involves lymph nodes, spleen and other tissues and is coded wherever biopsied; not restricted to a proper subset.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/23544948/",
+  "source_name": "PubMed PMID 23544948 (lymphoplasmacytic lymphoma / Waldenstrom macroglobulinemia)"
+ },
+ {
+  "code": "9671/3",
+  "term": "Plasmacytic lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Lymphoplasmacytic lymphoma/immunocytoma is a systemic small B-cell neoplasm that, although marrow-predominant, also involves lymph nodes, spleen and other tissues and is coded wherever biopsied; not restricted to a proper subset.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/23544948/",
+  "source_name": "PubMed PMID 23544948 (lymphoplasmacytic lymphoma / Waldenstrom macroglobulinemia)"
+ },
+ {
+  "code": "9673/3",
+  "term": "Conventional mantle cell lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mantle cell lymphoma and its cyclin D1 / centrocytic / mantle-zone synonyms form a disseminated neoplasm involving lymph nodes, bone marrow, blood, spleen, Waldeyer ring and GI tract; not restricted to a proper subset.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5357/",
+  "source_name": "SEER Hematopoietic Project (mantle cell lymphoma)"
+ },
+ {
+  "code": "9673/3",
+  "term": "Cyclin D1-negative MCL",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mantle cell lymphoma and its cyclin D1 / centrocytic / mantle-zone synonyms form a disseminated neoplasm involving lymph nodes, bone marrow, blood, spleen, Waldeyer ring and GI tract; not restricted to a proper subset.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5357/",
+  "source_name": "SEER Hematopoietic Project (mantle cell lymphoma)"
+ },
+ {
+  "code": "9673/3",
+  "term": "Cyclin D1-positive MCL",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mantle cell lymphoma and its cyclin D1 / centrocytic / mantle-zone synonyms form a disseminated neoplasm involving lymph nodes, bone marrow, blood, spleen, Waldeyer ring and GI tract; not restricted to a proper subset.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5357/",
+  "source_name": "SEER Hematopoietic Project (mantle cell lymphoma)"
+ },
+ {
+  "code": "9673/3",
+  "term": "Cyclin D1\u2013negative mantle cell lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mantle cell lymphoma and its cyclin D1 / centrocytic / mantle-zone synonyms form a disseminated neoplasm involving lymph nodes, bone marrow, blood, spleen, Waldeyer ring and GI tract; not restricted to a proper subset.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5357/",
+  "source_name": "SEER Hematopoietic Project (mantle cell lymphoma)"
+ },
+ {
+  "code": "9673/3",
+  "term": "Cyclin D1\u2013positive mantle cell lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mantle cell lymphoma and its cyclin D1 / centrocytic / mantle-zone synonyms form a disseminated neoplasm involving lymph nodes, bone marrow, blood, spleen, Waldeyer ring and GI tract; not restricted to a proper subset.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5357/",
+  "source_name": "SEER Hematopoietic Project (mantle cell lymphoma)"
+ },
+ {
+  "code": "9673/3",
+  "term": "Leukemic non-nodal mantle cell lymphoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C421",
+   "C422"
+  ],
+  "site_subset_labels": [
+   "Bone marrow",
+   "Spleen"
+  ],
+  "rationale": "Leukemic non-nodal MCL is defined by peripheral blood, bone marrow and sometimes splenic involvement without significant adenopathy; restricted to a non-nodal marrow/spleen subset.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5357/",
+  "source_name": "SEER Hematopoietic Project / WHO definition of leukemic non-nodal MCL"
+ },
+ {
+  "code": "9673/3",
+  "term": "Malignant lymphoma, centrocytic",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mantle cell lymphoma and its cyclin D1 / centrocytic / mantle-zone synonyms form a disseminated neoplasm involving lymph nodes, bone marrow, blood, spleen, Waldeyer ring and GI tract; not restricted to a proper subset.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5357/",
+  "source_name": "SEER Hematopoietic Project (mantle cell lymphoma)"
+ },
+ {
+  "code": "9673/3",
+  "term": "Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mantle cell lymphoma and its cyclin D1 / centrocytic / mantle-zone synonyms form a disseminated neoplasm involving lymph nodes, bone marrow, blood, spleen, Waldeyer ring and GI tract; not restricted to a proper subset.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5357/",
+  "source_name": "SEER Hematopoietic Project (mantle cell lymphoma)"
+ },
+ {
+  "code": "9673/3",
+  "term": "Malignant lymphomatous polyposis",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C160",
+   "C161",
+   "C162",
+   "C163",
+   "C164",
+   "C165",
+   "C166",
+   "C168",
+   "C169",
+   "C170",
+   "C171",
+   "C172",
+   "C173",
+   "C178",
+   "C179",
+   "C180",
+   "C181",
+   "C182",
+   "C183",
+   "C184",
+   "C185",
+   "C186",
+   "C187",
+   "C188",
+   "C189",
+   "C199",
+   "C209"
+  ],
+  "site_subset_labels": [
+   "Stomach, cardia",
+   "Stomach, fundus",
+   "Stomach, body",
+   "Stomach, antrum",
+   "Stomach, pylorus",
+   "Stomach, lesser curvature",
+   "Stomach, greater curvature",
+   "Stomach, overlapping",
+   "Stomach, NOS",
+   "Duodenum",
+   "Jejunum",
+   "Ileum",
+   "Meckel diverticulum",
+   "Small intestine, overlapping",
+   "Small intestine, NOS",
+   "Cecum",
+   "Appendix",
+   "Ascending colon",
+   "Hepatic flexure",
+   "Transverse colon",
+   "Splenic flexure",
+   "Descending colon",
+   "Sigmoid colon",
+   "Colon, overlapping",
+   "Colon, NOS",
+   "Rectosigmoid junction",
+   "Rectum, NOS"
+  ],
+  "rationale": "Multiple/malignant lymphomatous polyposis is the gastrointestinal-tract manifestation of mantle cell lymphoma, presenting as polypoid lesions along the digestive tract (stomach, small intestine, colon, rectum).",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/20206107/",
+  "source_name": "PubMed PMID 20206107 (primary GI MCL as multiple lymphomatous polyposis)"
+ },
+ {
+  "code": "9673/3",
+  "term": "Mantle cell lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mantle cell lymphoma and its cyclin D1 / centrocytic / mantle-zone synonyms form a disseminated neoplasm involving lymph nodes, bone marrow, blood, spleen, Waldeyer ring and GI tract; not restricted to a proper subset.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5357/",
+  "source_name": "SEER Hematopoietic Project (mantle cell lymphoma)"
+ },
+ {
+  "code": "9673/3",
+  "term": "Mantle cell lymphoma, Cyclin D1-negative",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mantle cell lymphoma and its cyclin D1 / centrocytic / mantle-zone synonyms form a disseminated neoplasm involving lymph nodes, bone marrow, blood, spleen, Waldeyer ring and GI tract; not restricted to a proper subset.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5357/",
+  "source_name": "SEER Hematopoietic Project (mantle cell lymphoma)"
+ },
+ {
+  "code": "9673/3",
+  "term": "Mantle cell lymphoma, Cyclin D1-positive",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mantle cell lymphoma and its cyclin D1 / centrocytic / mantle-zone synonyms form a disseminated neoplasm involving lymph nodes, bone marrow, blood, spleen, Waldeyer ring and GI tract; not restricted to a proper subset.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5357/",
+  "source_name": "SEER Hematopoietic Project (mantle cell lymphoma)"
+ },
+ {
+  "code": "9673/3",
+  "term": "Mantle cell lymphoma, conventional",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mantle cell lymphoma and its cyclin D1 / centrocytic / mantle-zone synonyms form a disseminated neoplasm involving lymph nodes, bone marrow, blood, spleen, Waldeyer ring and GI tract; not restricted to a proper subset.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5357/",
+  "source_name": "SEER Hematopoietic Project (mantle cell lymphoma)"
+ },
+ {
+  "code": "9673/3",
+  "term": "Mantle zone lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mantle cell lymphoma and its cyclin D1 / centrocytic / mantle-zone synonyms form a disseminated neoplasm involving lymph nodes, bone marrow, blood, spleen, Waldeyer ring and GI tract; not restricted to a proper subset.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5357/",
+  "source_name": "SEER Hematopoietic Project (mantle cell lymphoma)"
+ },
+ {
+  "code": "9687/3",
+  "term": "Acute leukemia, Burkitt type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Burkitt lymphoma (all clinical/molecular variants and synonyms) arises across many sites - jaw/facial bones, abdomen (ileocecum), ovaries, kidneys, breast, lymph nodes, bone marrow and CNS - so not anatomically restricted to a proper subset of the code ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5324/",
+  "source_name": "SEER Hematopoietic Project (Burkitt lymphoma, NOS)"
+ },
+ {
+  "code": "9687/3",
+  "term": "Acute lymphoblastic leukemia, mature B-cell type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Burkitt lymphoma (all clinical/molecular variants and synonyms) arises across many sites - jaw/facial bones, abdomen (ileocecum), ovaries, kidneys, breast, lymph nodes, bone marrow and CNS - so not anatomically restricted to a proper subset of the code ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5324/",
+  "source_name": "SEER Hematopoietic Project (Burkitt lymphoma, NOS)"
+ },
+ {
+  "code": "9687/3",
+  "term": "B-ALL",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Burkitt lymphoma (all clinical/molecular variants and synonyms) arises across many sites - jaw/facial bones, abdomen (ileocecum), ovaries, kidneys, breast, lymph nodes, bone marrow and CNS - so not anatomically restricted to a proper subset of the code ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5324/",
+  "source_name": "SEER Hematopoietic Project (Burkitt lymphoma, NOS)"
+ },
+ {
+  "code": "9687/3",
+  "term": "Burkitt cell leukemia",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Burkitt lymphoma (all clinical/molecular variants and synonyms) arises across many sites - jaw/facial bones, abdomen (ileocecum), ovaries, kidneys, breast, lymph nodes, bone marrow and CNS - so not anatomically restricted to a proper subset of the code ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5324/",
+  "source_name": "SEER Hematopoietic Project (Burkitt lymphoma, NOS)"
+ },
+ {
+  "code": "9687/3",
+  "term": "Burkitt lymphoma, EBV-associated",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Burkitt lymphoma (all clinical/molecular variants and synonyms) arises across many sites - jaw/facial bones, abdomen (ileocecum), ovaries, kidneys, breast, lymph nodes, bone marrow and CNS - so not anatomically restricted to a proper subset of the code ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5324/",
+  "source_name": "SEER Hematopoietic Project (Burkitt lymphoma, NOS)"
+ },
+ {
+  "code": "9687/3",
+  "term": "Burkitt lymphoma, EBV-negative",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Burkitt lymphoma (all clinical/molecular variants and synonyms) arises across many sites - jaw/facial bones, abdomen (ileocecum), ovaries, kidneys, breast, lymph nodes, bone marrow and CNS - so not anatomically restricted to a proper subset of the code ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5324/",
+  "source_name": "SEER Hematopoietic Project (Burkitt lymphoma, NOS)"
+ },
+ {
+  "code": "9687/3",
+  "term": "Burkitt lymphoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Burkitt lymphoma (all clinical/molecular variants and synonyms) arises across many sites - jaw/facial bones, abdomen (ileocecum), ovaries, kidneys, breast, lymph nodes, bone marrow and CNS - so not anatomically restricted to a proper subset of the code ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5324/",
+  "source_name": "SEER Hematopoietic Project (Burkitt lymphoma, NOS)"
+ },
+ {
+  "code": "9687/3",
+  "term": "Burkitt lymphoma, endemic",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Burkitt lymphoma (all clinical/molecular variants and synonyms) arises across many sites - jaw/facial bones, abdomen (ileocecum), ovaries, kidneys, breast, lymph nodes, bone marrow and CNS - so not anatomically restricted to a proper subset of the code ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5324/",
+  "source_name": "SEER Hematopoietic Project (Burkitt lymphoma, NOS)"
+ },
+ {
+  "code": "9687/3",
+  "term": "Burkitt lymphoma, immunodeficiency-associated",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Burkitt lymphoma (all clinical/molecular variants and synonyms) arises across many sites - jaw/facial bones, abdomen (ileocecum), ovaries, kidneys, breast, lymph nodes, bone marrow and CNS - so not anatomically restricted to a proper subset of the code ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5324/",
+  "source_name": "SEER Hematopoietic Project (Burkitt lymphoma, NOS)"
+ },
+ {
+  "code": "9687/3",
+  "term": "Burkitt lymphoma, sporadic",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Burkitt lymphoma (all clinical/molecular variants and synonyms) arises across many sites - jaw/facial bones, abdomen (ileocecum), ovaries, kidneys, breast, lymph nodes, bone marrow and CNS - so not anatomically restricted to a proper subset of the code ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5324/",
+  "source_name": "SEER Hematopoietic Project (Burkitt lymphoma, NOS)"
+ },
+ {
+  "code": "9687/3",
+  "term": "Burkitt tumor",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Burkitt lymphoma (all clinical/molecular variants and synonyms) arises across many sites - jaw/facial bones, abdomen (ileocecum), ovaries, kidneys, breast, lymph nodes, bone marrow and CNS - so not anatomically restricted to a proper subset of the code ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5324/",
+  "source_name": "SEER Hematopoietic Project (Burkitt lymphoma, NOS)"
+ },
+ {
+  "code": "9687/3",
+  "term": "Burkitt-like lymphoma with 11q aberration",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Burkitt lymphoma (all clinical/molecular variants and synonyms) arises across many sites - jaw/facial bones, abdomen (ileocecum), ovaries, kidneys, breast, lymph nodes, bone marrow and CNS - so not anatomically restricted to a proper subset of the code ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5324/",
+  "source_name": "SEER Hematopoietic Project (Burkitt lymphoma, NOS)"
+ },
+ {
+  "code": "9687/3",
+  "term": "Burkitt-like lymphoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Burkitt lymphoma (all clinical/molecular variants and synonyms) arises across many sites - jaw/facial bones, abdomen (ileocecum), ovaries, kidneys, breast, lymph nodes, bone marrow and CNS - so not anatomically restricted to a proper subset of the code ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5324/",
+  "source_name": "SEER Hematopoietic Project (Burkitt lymphoma, NOS)"
+ },
+ {
+  "code": "9687/3",
+  "term": "Endemic Burkitt lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Burkitt lymphoma (all clinical/molecular variants and synonyms) arises across many sites - jaw/facial bones, abdomen (ileocecum), ovaries, kidneys, breast, lymph nodes, bone marrow and CNS - so not anatomically restricted to a proper subset of the code ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5324/",
+  "source_name": "SEER Hematopoietic Project (Burkitt lymphoma, NOS)"
+ },
+ {
+  "code": "9687/3",
+  "term": "FAB L3",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Burkitt lymphoma (all clinical/molecular variants and synonyms) arises across many sites - jaw/facial bones, abdomen (ileocecum), ovaries, kidneys, breast, lymph nodes, bone marrow and CNS - so not anatomically restricted to a proper subset of the code ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5324/",
+  "source_name": "SEER Hematopoietic Project (Burkitt lymphoma, NOS)"
+ },
+ {
+  "code": "9687/3",
+  "term": "High-grade B-cell lymphoma with 11q aberration",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Burkitt lymphoma (all clinical/molecular variants and synonyms) arises across many sites - jaw/facial bones, abdomen (ileocecum), ovaries, kidneys, breast, lymph nodes, bone marrow and CNS - so not anatomically restricted to a proper subset of the code ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5324/",
+  "source_name": "SEER Hematopoietic Project (Burkitt lymphoma, NOS)"
+ }
+]

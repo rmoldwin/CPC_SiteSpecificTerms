@@ -1,0 +1,407 @@
+{
+  "total": 3012,
+  "by_decision": {
+    "Yes": 608,
+    "No": 2309,
+    "Uncertain": 95
+  },
+  "auto_no_merged": 518,
+  "violations_fixed": 0,
+  "duplicates_collapsed": 19,
+  "dedup_events": [
+    {
+      "code": "8991/3",
+      "term": "Embryonal sarcoma of the liver",
+      "kept_decision": "Yes",
+      "kept_subset": [
+        "C220"
+      ],
+      "kept_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7642548/",
+      "dropped_decision": "Yes",
+      "dropped_subset": [
+        "C220"
+      ],
+      "dropped_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7806539/"
+    },
+    {
+      "code": "8991/3",
+      "term": "Undifferentiated sarcoma of liver",
+      "kept_decision": "Yes",
+      "kept_subset": [
+        "C220"
+      ],
+      "kept_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4313983/",
+      "dropped_decision": "Yes",
+      "dropped_subset": [
+        "C220"
+      ],
+      "dropped_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7806539/"
+    },
+    {
+      "code": "8000/3",
+      "term": "Hepatoblastoma, hepatocellular neoplasm NOS subtype",
+      "kept_decision": "Yes",
+      "kept_subset": [
+        "C220"
+      ],
+      "kept_source": "https://whobluebooks.iarc.who.int/structures/digestive-system-tumours/",
+      "dropped_decision": "Yes",
+      "dropped_subset": [
+        "C220",
+        "C221"
+      ],
+      "dropped_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10035708/"
+    },
+    {
+      "code": "8000/3",
+      "term": "Hepatocellular neoplasm, NOS",
+      "kept_decision": "Yes",
+      "kept_subset": [
+        "C220"
+      ],
+      "kept_source": "https://whobluebooks.iarc.who.int/structures/digestive-system-tumours/",
+      "dropped_decision": "Yes",
+      "dropped_subset": [
+        "C220",
+        "C221"
+      ],
+      "dropped_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10035708/"
+    },
+    {
+      "code": "8020/3",
+      "term": "Undifferentiated primary liver carcinoma",
+      "kept_decision": "Yes",
+      "kept_subset": [
+        "C220"
+      ],
+      "kept_source": "https://pubmed.ncbi.nlm.nih.gov/40202295/",
+      "dropped_decision": "Yes",
+      "dropped_subset": [
+        "C220",
+        "C221"
+      ],
+      "dropped_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10035708/"
+    },
+    {
+      "code": "8077/2",
+      "term": "Anal intraepithelial neoplasia, grade 2",
+      "kept_decision": "Yes",
+      "kept_subset": [
+        "C210",
+        "C211",
+        "C212",
+        "C218"
+      ],
+      "kept_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6214808/",
+      "dropped_decision": "Yes",
+      "dropped_subset": [
+        "C210",
+        "C211",
+        "C212",
+        "C218"
+      ],
+      "dropped_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6214808/"
+    },
+    {
+      "code": "8077/2",
+      "term": "Anal intraepithelial neoplasia, grade III",
+      "kept_decision": "Yes",
+      "kept_subset": [
+        "C210",
+        "C211",
+        "C212",
+        "C218"
+      ],
+      "kept_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6214808/",
+      "dropped_decision": "Yes",
+      "dropped_subset": [
+        "C210",
+        "C211",
+        "C212",
+        "C218"
+      ],
+      "dropped_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6214808/"
+    },
+    {
+      "code": "8077/2",
+      "term": "Anal intraepithelial neoplasia, high-grade",
+      "kept_decision": "Yes",
+      "kept_subset": [
+        "C210",
+        "C211",
+        "C212",
+        "C218"
+      ],
+      "kept_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6214808/",
+      "dropped_decision": "Yes",
+      "dropped_subset": [
+        "C210",
+        "C211",
+        "C212",
+        "C218"
+      ],
+      "dropped_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6214808/"
+    },
+    {
+      "code": "8077/2",
+      "term": "esophageal squamous dysplasia, high-grade",
+      "kept_decision": "Yes",
+      "kept_subset": [
+        "C150",
+        "C151",
+        "C152",
+        "C153",
+        "C154",
+        "C155",
+        "C158",
+        "C159"
+      ],
+      "kept_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4316110/",
+      "dropped_decision": "Yes",
+      "dropped_subset": [
+        "C150",
+        "C151",
+        "C152",
+        "C153",
+        "C154",
+        "C155",
+        "C158",
+        "C159"
+      ],
+      "dropped_source": "https://www.iarc.who.int/"
+    },
+    {
+      "code": "8077/2",
+      "term": "esophageal squamous intraepithelial neoplasia, high-grade",
+      "kept_decision": "Yes",
+      "kept_subset": [
+        "C150",
+        "C151",
+        "C152",
+        "C153",
+        "C154",
+        "C155",
+        "C158",
+        "C159"
+      ],
+      "kept_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4316110/",
+      "dropped_decision": "Yes",
+      "dropped_subset": [
+        "C150",
+        "C151",
+        "C152",
+        "C153",
+        "C154",
+        "C155",
+        "C158",
+        "C159"
+      ],
+      "dropped_source": "https://www.iarc.who.int/"
+    },
+    {
+      "code": "8550/3",
+      "term": "Acinar carcinoma",
+      "kept_decision": "No",
+      "kept_subset": [],
+      "kept_source": "https://rarediseases.org/rare-diseases/polymorphous-low-grade-adenocarcinoma/",
+      "dropped_decision": "No",
+      "dropped_subset": [],
+      "dropped_source": ""
+    },
+    {
+      "code": "8550/3",
+      "term": "Acinar cell carcinoma",
+      "kept_decision": "No",
+      "kept_subset": [],
+      "kept_source": "https://rarediseases.org/rare-diseases/polymorphous-low-grade-adenocarcinoma/",
+      "dropped_decision": "No",
+      "dropped_subset": [],
+      "dropped_source": ""
+    },
+    {
+      "code": "8550/3",
+      "term": "Pancreatic acinar cell carcinoma",
+      "kept_decision": "Yes",
+      "kept_subset": [
+        "C250",
+        "C251",
+        "C252",
+        "C253",
+        "C254",
+        "C257",
+        "C258",
+        "C259"
+      ],
+      "kept_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6407075/",
+      "dropped_decision": "Yes",
+      "dropped_subset": [
+        "C250",
+        "C251",
+        "C252",
+        "C253",
+        "C254",
+        "C257",
+        "C258",
+        "C259"
+      ],
+      "dropped_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9639656/"
+    },
+    {
+      "code": "9695/3",
+      "term": "Duodenal-type follicular lymphoma",
+      "kept_decision": "Yes",
+      "kept_subset": [
+        "C170",
+        "C171",
+        "C172",
+        "C178",
+        "C179"
+      ],
+      "kept_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11307786/",
+      "dropped_decision": "Yes",
+      "dropped_subset": [
+        "C160",
+        "C170",
+        "C171",
+        "C172",
+        "C173",
+        "C178",
+        "C179",
+        "C180",
+        "C181",
+        "C182",
+        "C183",
+        "C184",
+        "C185",
+        "C186",
+        "C187",
+        "C188",
+        "C189"
+      ],
+      "dropped_source": "https://pubmed.ncbi.nlm.nih.gov/29565210/"
+    },
+    {
+      "code": "9695/3",
+      "term": "Follicular lymphoma, duodenal type",
+      "kept_decision": "Yes",
+      "kept_subset": [
+        "C170",
+        "C171",
+        "C172",
+        "C178",
+        "C179"
+      ],
+      "kept_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11307786/",
+      "dropped_decision": "Yes",
+      "dropped_subset": [
+        "C160",
+        "C170",
+        "C171",
+        "C172",
+        "C173",
+        "C178",
+        "C179",
+        "C180",
+        "C181",
+        "C182",
+        "C183",
+        "C184",
+        "C185",
+        "C186",
+        "C187",
+        "C188",
+        "C189"
+      ],
+      "dropped_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9913816/"
+    },
+    {
+      "code": "9695/3",
+      "term": "Follicular lymphoma, duodenal-type",
+      "kept_decision": "Yes",
+      "kept_subset": [
+        "C170",
+        "C171",
+        "C172",
+        "C178",
+        "C179"
+      ],
+      "kept_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11307786/",
+      "dropped_decision": "Yes",
+      "dropped_subset": [
+        "C160",
+        "C170",
+        "C171",
+        "C172",
+        "C173",
+        "C178",
+        "C179",
+        "C180",
+        "C181",
+        "C182",
+        "C183",
+        "C184",
+        "C185",
+        "C186",
+        "C187",
+        "C188",
+        "C189"
+      ],
+      "dropped_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9913816/"
+    },
+    {
+      "code": "9695/3",
+      "term": "Primary intestinal follicular lymphoma",
+      "kept_decision": "Yes",
+      "kept_subset": [
+        "C170",
+        "C171",
+        "C172",
+        "C178",
+        "C179"
+      ],
+      "kept_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1851133/",
+      "dropped_decision": "Yes",
+      "dropped_subset": [
+        "C160",
+        "C170",
+        "C171",
+        "C172",
+        "C173",
+        "C178",
+        "C179",
+        "C180",
+        "C181",
+        "C182",
+        "C183",
+        "C184",
+        "C185",
+        "C186",
+        "C187",
+        "C188",
+        "C189"
+      ],
+      "dropped_source": "https://en.wikipedia.org/wiki/Duodenal-type_follicular_lymphoma"
+    },
+    {
+      "code": "8572/3",
+      "term": "Acinar adenocarcinoma, sarcomatoid variant",
+      "kept_decision": "Uncertain",
+      "kept_subset": [],
+      "kept_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7640663/",
+      "dropped_decision": "No",
+      "dropped_subset": [],
+      "dropped_source": ""
+    },
+    {
+      "code": "8572/3",
+      "term": "Sarcomatoid acinar adenocarcinoma",
+      "kept_decision": "Uncertain",
+      "kept_subset": [],
+      "kept_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7640663/",
+      "dropped_decision": "No",
+      "dropped_subset": [],
+      "dropped_source": ""
+    }
+  ],
+  "violations": []
+}

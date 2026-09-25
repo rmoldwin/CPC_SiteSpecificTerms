@@ -1,0 +1,467 @@
+[
+ {
+  "code": "8700/3",
+  "term": "Pheochromocytoma, NOS",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C381",
+   "C382",
+   "C383",
+   "C388",
+   "C398",
+   "C740",
+   "C741",
+   "C749"
+  ]
+ },
+ {
+  "code": "8700/3",
+  "term": "Pheochromocytoma, malignant",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C381",
+   "C382",
+   "C383",
+   "C388",
+   "C398",
+   "C740",
+   "C741",
+   "C749"
+  ]
+ },
+ {
+  "code": "8972/3",
+  "term": "Pneumoblastoma",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390"
+  ]
+ },
+ {
+  "code": "8972/3",
+  "term": "Pulmonary blastoma",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C339",
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C390"
+  ]
+ },
+ {
+  "code": "8973/3",
+  "term": "Pleuropulmonary blastoma",
+  "ceiling_count": 6,
+  "ceiling_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349"
+  ]
+ },
+ {
+  "code": "8973/3",
+  "term": "Pleuropulmonary blastoma, type I",
+  "ceiling_count": 6,
+  "ceiling_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349"
+  ]
+ },
+ {
+  "code": "8973/3",
+  "term": "Pleuropulmonary blastoma, type II",
+  "ceiling_count": 6,
+  "ceiling_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349"
+  ]
+ },
+ {
+  "code": "8973/3",
+  "term": "Pleuropulmonary blastoma, type III",
+  "ceiling_count": 6,
+  "ceiling_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349"
+  ]
+ },
+ {
+  "code": "8973/3",
+  "term": "Pleuropulmonary blastoma, type Ir",
+  "ceiling_count": 6,
+  "ceiling_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349"
+  ]
+ },
+ {
+  "code": "8973/3",
+  "term": "Pleuropulmonary blastoma, type Ir (type I regressed)",
+  "ceiling_count": 6,
+  "ceiling_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349"
+  ]
+ },
+ {
+  "code": "9042/3",
+  "term": "Synovial sarcoma, epithelioid cell",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C381",
+   "C382",
+   "C383",
+   "C619",
+   "C649"
+  ]
+ },
+ {
+  "code": "9086/3",
+  "term": "Germ cell tumor with associated hematological malignancy",
+  "ceiling_count": 4,
+  "ceiling_codes": [
+   "C379",
+   "C381",
+   "C382",
+   "C383"
+  ]
+ },
+ {
+  "code": "9174/3",
+  "term": "Lymphangioleiomyomatosis",
+  "ceiling_count": 6,
+  "ceiling_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349"
+  ]
+ },
+ {
+  "code": "9174/3",
+  "term": "Lymphangiomyomatosis",
+  "ceiling_count": 6,
+  "ceiling_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349"
+  ]
+ },
+ {
+  "code": "9522/3",
+  "term": "Esthesioneuroblastoma",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319",
+   "C722",
+   "C723",
+   "C724",
+   "C725"
+  ]
+ },
+ {
+  "code": "9522/3",
+  "term": "Olfactory neuroblastoma",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C300",
+   "C310",
+   "C311",
+   "C312",
+   "C313",
+   "C318",
+   "C319",
+   "C722",
+   "C723",
+   "C724",
+   "C725"
+  ]
+ },
+ {
+  "code": "9678/3",
+  "term": "Extracavitary primary effusion lymphoma",
+  "ceiling_count": 22,
+  "ceiling_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C380",
+   "C381",
+   "C382",
+   "C383",
+   "C384",
+   "C388",
+   "C421",
+   "C422",
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9678/3",
+  "term": "Fibrin-associated diffuse large B-cell lymphoma",
+  "ceiling_count": 22,
+  "ceiling_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C380",
+   "C381",
+   "C382",
+   "C383",
+   "C384",
+   "C388",
+   "C421",
+   "C422",
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9678/3",
+  "term": "Fibrin-associated large B-cell lymphoma",
+  "ceiling_count": 22,
+  "ceiling_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C380",
+   "C381",
+   "C382",
+   "C383",
+   "C384",
+   "C388",
+   "C421",
+   "C422",
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9678/3",
+  "term": "Fluid overload-associated large B-cell lymphoma",
+  "ceiling_count": 22,
+  "ceiling_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C380",
+   "C381",
+   "C382",
+   "C383",
+   "C384",
+   "C388",
+   "C421",
+   "C422",
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9678/3",
+  "term": "Fluid-overload effusion lymphoma",
+  "ceiling_count": 22,
+  "ceiling_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C380",
+   "C381",
+   "C382",
+   "C383",
+   "C384",
+   "C388",
+   "C421",
+   "C422",
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9678/3",
+  "term": "KSHV/HHV8-negative effusion-based lymphoma",
+  "ceiling_count": 22,
+  "ceiling_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C380",
+   "C381",
+   "C382",
+   "C383",
+   "C384",
+   "C388",
+   "C421",
+   "C422",
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9678/3",
+  "term": "Primary effusion lymphoma",
+  "ceiling_count": 22,
+  "ceiling_codes": [
+   "C340",
+   "C341",
+   "C342",
+   "C343",
+   "C348",
+   "C349",
+   "C380",
+   "C381",
+   "C382",
+   "C383",
+   "C384",
+   "C388",
+   "C421",
+   "C422",
+   "C770",
+   "C771",
+   "C772",
+   "C773",
+   "C774",
+   "C775",
+   "C778",
+   "C779"
+  ]
+ },
+ {
+  "code": "9679/3",
+  "term": "Mediastinal large B-cell lymphoma",
+  "ceiling_count": 4,
+  "ceiling_codes": [
+   "C379",
+   "C381",
+   "C382",
+   "C383"
+  ]
+ },
+ {
+  "code": "9679/3",
+  "term": "Primary mediastinal large B-cell lymphoma",
+  "ceiling_count": 4,
+  "ceiling_codes": [
+   "C379",
+   "C381",
+   "C382",
+   "C383"
+  ]
+ },
+ {
+  "code": "9679/3",
+  "term": "Thymic large B-cell lymphoma",
+  "ceiling_count": 4,
+  "ceiling_codes": [
+   "C379",
+   "C381",
+   "C382",
+   "C383"
+  ]
+ }
+]

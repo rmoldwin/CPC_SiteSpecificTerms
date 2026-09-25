@@ -1,0 +1,800 @@
+[
+ {
+  "code": "8314/3",
+  "term": "Lipid-rich carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Code 8314/3 is SMVL-valid only at breast subsites (C500-C509); lipid-rich carcinoma is a breast IBC-NST morphologic variant occurring across the whole breast, so it is not restricted to a proper subset of its ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9119809/",
+  "source_name": "Muller et al., J Pathol Transl Med 2022, WHO Breast 5th ed (PMC9119809)"
+ },
+ {
+  "code": "8315/3",
+  "term": "Glycogen-rich carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Code 8315/3 is SMVL-valid only at breast subsites (C500-C509); glycogen-rich (clear cell) carcinoma is a breast IBC-NST morphologic variant used across all breast subsites, so no proper subset restriction applies within its ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9119809/",
+  "source_name": "Muller et al., J Pathol Transl Med 2022, WHO Breast 5th ed (PMC9119809)"
+ },
+ {
+  "code": "8315/3",
+  "term": "Glycogen-rich clear cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Code 8315/3 is SMVL-valid only at breast subsites (C500-C509); glycogen-rich (clear cell) carcinoma is a breast IBC-NST morphologic variant used across all breast subsites, so no proper subset restriction applies within its ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9119809/",
+  "source_name": "Muller et al., J Pathol Transl Med 2022, WHO Breast 5th ed (PMC9119809)"
+ },
+ {
+  "code": "8500/2",
+  "term": "Apocrine intraductal carcinoma",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Apocrine intraductal carcinoma is a named salivary IDC subtype, but apocrine ductal carcinoma in situ is equally well described in the breast; evidence does not clearly restrict the term to a proper subset of its salivary+breast+prostate ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10293154/",
+  "source_name": "WHO Head and Neck Tumours 5th ed / Skalova & Hyrcza, Head Neck Pathol 2023 (PMC10293154)"
+ },
+ {
+  "code": "8500/2",
+  "term": "Carcinoma in situ of male breast",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ],
+  "site_subset_labels": [
+   "Nipple",
+   "Central portion of breast",
+   "Upper-inner quadrant",
+   "Lower-inner quadrant",
+   "Upper-outer quadrant",
+   "Lower-outer quadrant",
+   "Axillary tail of breast",
+   "Overlapping lesion of breast",
+   "Breast, NOS"
+  ],
+  "rationale": "Carcinoma in situ of the male breast is a breast entity localized to breast subsites (C50); male breast tissue is still coded to C50.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9581867/",
+  "source_name": "Breast Cancer Res Treat 2022, DCIS of the male breast (PMC9581867)"
+ },
+ {
+  "code": "8500/2",
+  "term": "Cystic hypersecretory carcinoma, intraductal",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ],
+  "site_subset_labels": [
+   "Nipple",
+   "Central portion of breast",
+   "Upper-inner quadrant",
+   "Lower-inner quadrant",
+   "Upper-outer quadrant",
+   "Lower-outer quadrant",
+   "Axillary tail of breast",
+   "Overlapping lesion of breast",
+   "Breast, NOS"
+  ],
+  "rationale": "Cystic hypersecretory carcinoma is a WHO/literature-recognized variant of ductal carcinoma in situ of the breast, not described in salivary gland or prostate.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/24121179/",
+  "source_name": "D'Alfonso et al., PubMed PMID 24121179 (cystic hypersecretory carcinoma = breast DCIS variant)"
+ },
+ {
+  "code": "8500/2",
+  "term": "DCIS of high nuclear grade",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ],
+  "site_subset_labels": [
+   "Nipple",
+   "Central portion of breast",
+   "Upper-inner quadrant",
+   "Lower-inner quadrant",
+   "Upper-outer quadrant",
+   "Lower-outer quadrant",
+   "Axillary tail of breast",
+   "Overlapping lesion of breast",
+   "Breast, NOS"
+  ],
+  "rationale": "Ductal carcinoma in situ (DCIS) graded by nuclear grade is a breast-specific in situ carcinoma classification.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/24121179/",
+  "source_name": "D'Alfonso et al., PubMed PMID 24121179 (cystic hypersecretory carcinoma = breast DCIS variant)"
+ },
+ {
+  "code": "8500/2",
+  "term": "DCIS of intermediate nuclear grade",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ],
+  "site_subset_labels": [
+   "Nipple",
+   "Central portion of breast",
+   "Upper-inner quadrant",
+   "Lower-inner quadrant",
+   "Upper-outer quadrant",
+   "Lower-outer quadrant",
+   "Axillary tail of breast",
+   "Overlapping lesion of breast",
+   "Breast, NOS"
+  ],
+  "rationale": "Ductal carcinoma in situ (DCIS) graded by nuclear grade is a breast-specific in situ carcinoma classification.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/24121179/",
+  "source_name": "D'Alfonso et al., PubMed PMID 24121179 (cystic hypersecretory carcinoma = breast DCIS variant)"
+ },
+ {
+  "code": "8500/2",
+  "term": "DCIS of low nuclear grade",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ],
+  "site_subset_labels": [
+   "Nipple",
+   "Central portion of breast",
+   "Upper-inner quadrant",
+   "Lower-inner quadrant",
+   "Upper-outer quadrant",
+   "Lower-outer quadrant",
+   "Axillary tail of breast",
+   "Overlapping lesion of breast",
+   "Breast, NOS"
+  ],
+  "rationale": "Ductal carcinoma in situ (DCIS) graded by nuclear grade is a breast-specific in situ carcinoma classification.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/24121179/",
+  "source_name": "D'Alfonso et al., PubMed PMID 24121179 (cystic hypersecretory carcinoma = breast DCIS variant)"
+ },
+ {
+  "code": "8500/2",
+  "term": "DCIS, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-infiltrating/intraductal carcinoma descriptor applied across all sites of the 8500/2 ceiling (salivary, breast, prostate); not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10293154/",
+  "source_name": "WHO classifications; term is a generic multi-site intraductal descriptor (PMC10293154)"
+ },
+ {
+  "code": "8500/2",
+  "term": "DIN 3",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ],
+  "site_subset_labels": [
+   "Nipple",
+   "Central portion of breast",
+   "Upper-inner quadrant",
+   "Lower-inner quadrant",
+   "Upper-outer quadrant",
+   "Lower-outer quadrant",
+   "Axillary tail of breast",
+   "Overlapping lesion of breast",
+   "Breast, NOS"
+  ],
+  "rationale": "Ductal intraepithelial neoplasia grade 3 (DIN 3) is a breast-specific grading synonym for high-grade DCIS.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/24121179/",
+  "source_name": "D'Alfonso et al., PubMed PMID 24121179 (cystic hypersecretory carcinoma = breast DCIS variant)"
+ },
+ {
+  "code": "8500/2",
+  "term": "Ductal carcinoma in situ, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-infiltrating/intraductal carcinoma descriptor applied across all sites of the 8500/2 ceiling (salivary, breast, prostate); not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10293154/",
+  "source_name": "WHO classifications; term is a generic multi-site intraductal descriptor (PMC10293154)"
+ },
+ {
+  "code": "8500/2",
+  "term": "Ductal intraepithelial neoplasia 3",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ],
+  "site_subset_labels": [
+   "Nipple",
+   "Central portion of breast",
+   "Upper-inner quadrant",
+   "Lower-inner quadrant",
+   "Upper-outer quadrant",
+   "Lower-outer quadrant",
+   "Axillary tail of breast",
+   "Overlapping lesion of breast",
+   "Breast, NOS"
+  ],
+  "rationale": "Ductal intraepithelial neoplasia grade 3 is a breast-specific grading synonym for high-grade DCIS.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/24121179/",
+  "source_name": "D'Alfonso et al., PubMed PMID 24121179 (cystic hypersecretory carcinoma = breast DCIS variant)"
+ },
+ {
+  "code": "8500/2",
+  "term": "Intercalated duct carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C079",
+   "C080",
+   "C081",
+   "C088",
+   "C089"
+  ],
+  "site_subset_labels": [
+   "Parotid gland",
+   "Submandibular gland",
+   "Sublingual gland",
+   "Overlapping lesion of major salivary glands",
+   "Major salivary gland, NOS"
+  ],
+  "rationale": "The intercalated duct type of salivary gland intraductal carcinoma is a WHO-defined salivary gland entity; within the 8500/2 ceiling (salivary + breast + prostate) it is restricted to the major salivary glands.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10293154/",
+  "source_name": "WHO Head and Neck Tumours 5th ed / Skalova & Hyrcza, Head Neck Pathol 2023 (PMC10293154)"
+ },
+ {
+  "code": "8500/2",
+  "term": "Intercalated duct intraductal carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C079",
+   "C080",
+   "C081",
+   "C088",
+   "C089"
+  ],
+  "site_subset_labels": [
+   "Parotid gland",
+   "Submandibular gland",
+   "Sublingual gland",
+   "Overlapping lesion of major salivary glands",
+   "Major salivary gland, NOS"
+  ],
+  "rationale": "The intercalated duct subtype of salivary intraductal carcinoma is a WHO-defined salivary gland entity; within the 8500/2 ceiling (salivary + breast + prostate) it is restricted to the major salivary glands.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10293154/",
+  "source_name": "WHO Head and Neck Tumours 5th ed / Skalova & Hyrcza, Head Neck Pathol 2023 (PMC10293154)"
+ },
+ {
+  "code": "8500/2",
+  "term": "Intraductal adenocarcinoma, noninfiltrating, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-infiltrating/intraductal carcinoma descriptor applied across all sites of the 8500/2 ceiling (salivary, breast, prostate); not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10293154/",
+  "source_name": "WHO classifications; term is a generic multi-site intraductal descriptor (PMC10293154)"
+ },
+ {
+  "code": "8500/2",
+  "term": "Intraductal carcinoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-infiltrating/intraductal carcinoma descriptor applied across all sites of the 8500/2 ceiling (salivary, breast, prostate); not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10293154/",
+  "source_name": "WHO classifications; term is a generic multi-site intraductal descriptor (PMC10293154)"
+ },
+ {
+  "code": "8500/2",
+  "term": "Intraductal carcinoma, apocrine",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Apocrine intraductal carcinoma is a named salivary IDC subtype, but apocrine ductal carcinoma in situ is equally well described in the breast; evidence does not clearly restrict the term to a proper subset of its salivary+breast+prostate ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10293154/",
+  "source_name": "WHO Head and Neck Tumours 5th ed / Skalova & Hyrcza, Head Neck Pathol 2023 (PMC10293154)"
+ },
+ {
+  "code": "8500/2",
+  "term": "Intraductal carcinoma, intercalated duct",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C079",
+   "C080",
+   "C081",
+   "C088",
+   "C089"
+  ],
+  "site_subset_labels": [
+   "Parotid gland",
+   "Submandibular gland",
+   "Sublingual gland",
+   "Overlapping lesion of major salivary glands",
+   "Major salivary gland, NOS"
+  ],
+  "rationale": "The intercalated duct subtype of salivary intraductal carcinoma is a WHO-defined salivary gland entity; within the 8500/2 ceiling (salivary + breast + prostate) it is restricted to the major salivary glands.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10293154/",
+  "source_name": "WHO Head and Neck Tumours 5th ed / Skalova & Hyrcza, Head Neck Pathol 2023 (PMC10293154)"
+ },
+ {
+  "code": "8500/2",
+  "term": "Intraductal carcinoma, mixed",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-infiltrating/intraductal carcinoma descriptor applied across all sites of the 8500/2 ceiling (salivary, breast, prostate); not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10293154/",
+  "source_name": "WHO classifications; term is a generic multi-site intraductal descriptor (PMC10293154)"
+ },
+ {
+  "code": "8500/2",
+  "term": "Intraductal carcinoma, noninfiltrating, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-infiltrating/intraductal carcinoma descriptor applied across all sites of the 8500/2 ceiling (salivary, breast, prostate); not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10293154/",
+  "source_name": "WHO classifications; term is a generic multi-site intraductal descriptor (PMC10293154)"
+ },
+ {
+  "code": "8500/2",
+  "term": "Intraductal carcinoma, oncocytic",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C079",
+   "C080",
+   "C081",
+   "C088",
+   "C089"
+  ],
+  "site_subset_labels": [
+   "Parotid gland",
+   "Submandibular gland",
+   "Sublingual gland",
+   "Overlapping lesion of major salivary glands",
+   "Major salivary gland, NOS"
+  ],
+  "rationale": "The oncocytic subtype of salivary gland intraductal carcinoma is a WHO-defined salivary gland entity; within the 8500/2 ceiling (salivary + breast + prostate) it is restricted to the major salivary glands.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10293154/",
+  "source_name": "WHO Head and Neck Tumours 5th ed / Skalova & Hyrcza, Head Neck Pathol 2023 (PMC10293154)"
+ },
+ {
+  "code": "8500/2",
+  "term": "Low grade cribriform cystadenocarcinoma (LGCCC)",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C079",
+   "C080",
+   "C081",
+   "C088",
+   "C089"
+  ],
+  "site_subset_labels": [
+   "Parotid gland",
+   "Submandibular gland",
+   "Sublingual gland",
+   "Overlapping lesion of major salivary glands",
+   "Major salivary gland, NOS"
+  ],
+  "rationale": "The salivary gland intraductal carcinoma (historically low-grade cribriform cystadenocarcinoma) is a WHO-defined salivary gland entity; within the 8500/2 ceiling (salivary + breast + prostate) it is restricted to the major salivary glands.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10293154/",
+  "source_name": "WHO Head and Neck Tumours 5th ed / Skalova & Hyrcza, Head Neck Pathol 2023 (PMC10293154)"
+ },
+ {
+  "code": "8500/2",
+  "term": "Mammary carcinoma, in situ",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ],
+  "site_subset_labels": [
+   "Nipple",
+   "Central portion of breast",
+   "Upper-inner quadrant",
+   "Lower-inner quadrant",
+   "Upper-outer quadrant",
+   "Lower-outer quadrant",
+   "Axillary tail of breast",
+   "Overlapping lesion of breast",
+   "Breast, NOS"
+  ],
+  "rationale": "In situ mammary (breast) carcinoma is by definition a breast entity.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/24121179/",
+  "source_name": "D'Alfonso et al., PubMed PMID 24121179 (cystic hypersecretory carcinoma = breast DCIS variant)"
+ },
+ {
+  "code": "8500/2",
+  "term": "Mixed intraductal carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic non-infiltrating/intraductal carcinoma descriptor applied across all sites of the 8500/2 ceiling (salivary, breast, prostate); not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10293154/",
+  "source_name": "WHO classifications; term is a generic multi-site intraductal descriptor (PMC10293154)"
+ },
+ {
+  "code": "8500/2",
+  "term": "Non-invasive mammary carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ],
+  "site_subset_labels": [
+   "Nipple",
+   "Central portion of breast",
+   "Upper-inner quadrant",
+   "Lower-inner quadrant",
+   "Upper-outer quadrant",
+   "Lower-outer quadrant",
+   "Axillary tail of breast",
+   "Overlapping lesion of breast",
+   "Breast, NOS"
+  ],
+  "rationale": "Non-invasive mammary (breast) carcinoma is by definition a breast entity.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/24121179/",
+  "source_name": "D'Alfonso et al., PubMed PMID 24121179 (cystic hypersecretory carcinoma = breast DCIS variant)"
+ },
+ {
+  "code": "8500/2",
+  "term": "Oncocytic intraductal carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C079",
+   "C080",
+   "C081",
+   "C088",
+   "C089"
+  ],
+  "site_subset_labels": [
+   "Parotid gland",
+   "Submandibular gland",
+   "Sublingual gland",
+   "Overlapping lesion of major salivary glands",
+   "Major salivary gland, NOS"
+  ],
+  "rationale": "The oncocytic subtype of salivary gland intraductal carcinoma is a WHO-defined salivary gland entity; within the 8500/2 ceiling (salivary + breast + prostate) it is restricted to the major salivary glands.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10293154/",
+  "source_name": "WHO Head and Neck Tumours 5th ed / Skalova & Hyrcza, Head Neck Pathol 2023 (PMC10293154)"
+ },
+ {
+  "code": "8500/3",
+  "term": "Adenocarcinoma of anogenital mammary-like glands",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519"
+  ],
+  "site_subset_labels": [
+   "Labium majus",
+   "Labium minus",
+   "Clitoris",
+   "Overlapping lesion of vulva",
+   "Vulva, NOS"
+  ],
+  "rationale": "Adenocarcinoma of anogenital mammary-like glands arises in the vulva/anogenital region from anogenital mammary-like glands; within the 8500/3 ceiling it maps to the vulvar subsites.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/38711196/",
+  "source_name": "Adenocarcinoma of anogenital mammary gland type, vulvar tumor, PubMed PMID 38711196"
+ },
+ {
+  "code": "8500/3",
+  "term": "Adenocarcinoma of mammary gland type",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C510",
+   "C511",
+   "C512",
+   "C518",
+   "C519"
+  ],
+  "site_subset_labels": [
+   "Labium majus",
+   "Labium minus",
+   "Clitoris",
+   "Overlapping lesion of vulva",
+   "Vulva, NOS"
+  ],
+  "rationale": "Adenocarcinoma of mammary gland type is the vulvar (anogenital mammary-like gland) carcinoma showing breast-type morphology; within the 8500/3 ceiling it is restricted to the vulvar subsites.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11831014/",
+  "source_name": "Primary Vulvar Adenocarcinoma of Mammary Gland Type, Int J Womens Health 2025 (PMC11831014)"
+ },
+ {
+  "code": "8500/3",
+  "term": "Basal-like carcinoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic ductal/invasive adenocarcinoma descriptor used across the multiple organs in the 8500/3 ceiling (salivary, pancreas, breast, vulva, prostate); not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3683948/",
+  "source_name": "WHO classifications; generic multi-site duct/invasive carcinoma descriptor (PMC3683948)"
+ },
+ {
+  "code": "8500/3",
+  "term": "Basal-like salivary duct carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C079",
+   "C080",
+   "C081",
+   "C088",
+   "C089"
+  ],
+  "site_subset_labels": [
+   "Parotid gland",
+   "Submandibular gland",
+   "Sublingual gland",
+   "Overlapping lesion of major salivary glands",
+   "Major salivary gland, NOS"
+  ],
+  "rationale": "Salivary duct carcinoma (including its basal-like variant) is a WHO-defined salivary gland malignancy resembling high-grade breast ductal carcinoma; within the 8500/3 ceiling it is restricted to the major salivary glands.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7541685/",
+  "source_name": "Nakaguro et al., Cancer Cytopathol 2020, salivary duct carcinoma variants (PMC7541685)"
+ },
+ {
+  "code": "8500/3",
+  "term": "Duct adenocarcinoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic ductal/invasive adenocarcinoma descriptor used across the multiple organs in the 8500/3 ceiling (salivary, pancreas, breast, vulva, prostate); not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3683948/",
+  "source_name": "WHO classifications; generic multi-site duct/invasive carcinoma descriptor (PMC3683948)"
+ },
+ {
+  "code": "8500/3",
+  "term": "Duct carcinoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic ductal/invasive adenocarcinoma descriptor used across the multiple organs in the 8500/3 ceiling (salivary, pancreas, breast, vulva, prostate); not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3683948/",
+  "source_name": "WHO classifications; generic multi-site duct/invasive carcinoma descriptor (PMC3683948)"
+ },
+ {
+  "code": "8500/3",
+  "term": "Duct cell adenocarcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic ductal/invasive adenocarcinoma descriptor used across the multiple organs in the 8500/3 ceiling (salivary, pancreas, breast, vulva, prostate); not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3683948/",
+  "source_name": "WHO classifications; generic multi-site duct/invasive carcinoma descriptor (PMC3683948)"
+ },
+ {
+  "code": "8500/3",
+  "term": "Duct cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic ductal/invasive adenocarcinoma descriptor used across the multiple organs in the 8500/3 ceiling (salivary, pancreas, breast, vulva, prostate); not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3683948/",
+  "source_name": "WHO classifications; generic multi-site duct/invasive carcinoma descriptor (PMC3683948)"
+ },
+ {
+  "code": "8500/3",
+  "term": "Ductal adenocarcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic ductal/invasive adenocarcinoma descriptor used across the multiple organs in the 8500/3 ceiling (salivary, pancreas, breast, vulva, prostate); not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3683948/",
+  "source_name": "WHO classifications; generic multi-site duct/invasive carcinoma descriptor (PMC3683948)"
+ },
+ {
+  "code": "8500/3",
+  "term": "Ductal carcinoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic ductal/invasive adenocarcinoma descriptor used across the multiple organs in the 8500/3 ceiling (salivary, pancreas, breast, vulva, prostate); not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3683948/",
+  "source_name": "WHO classifications; generic multi-site duct/invasive carcinoma descriptor (PMC3683948)"
+ },
+ {
+  "code": "8500/3",
+  "term": "Infiltrating duct adenocarcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic ductal/invasive adenocarcinoma descriptor used across the multiple organs in the 8500/3 ceiling (salivary, pancreas, breast, vulva, prostate); not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3683948/",
+  "source_name": "WHO classifications; generic multi-site duct/invasive carcinoma descriptor (PMC3683948)"
+ },
+ {
+  "code": "8500/3",
+  "term": "Infiltrating duct carcinoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic ductal/invasive adenocarcinoma descriptor used across the multiple organs in the 8500/3 ceiling (salivary, pancreas, breast, vulva, prostate); not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3683948/",
+  "source_name": "WHO classifications; generic multi-site duct/invasive carcinoma descriptor (PMC3683948)"
+ },
+ {
+  "code": "8500/3",
+  "term": "Infiltrating ductal carcinoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic ductal/invasive adenocarcinoma descriptor used across the multiple organs in the 8500/3 ceiling (salivary, pancreas, breast, vulva, prostate); not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3683948/",
+  "source_name": "WHO classifications; generic multi-site duct/invasive carcinoma descriptor (PMC3683948)"
+ },
+ {
+  "code": "8500/3",
+  "term": "Invasive breast carcinoma of no special type",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ],
+  "site_subset_labels": [
+   "Nipple",
+   "Central portion of breast",
+   "Upper-inner quadrant",
+   "Lower-inner quadrant",
+   "Upper-outer quadrant",
+   "Lower-outer quadrant",
+   "Axillary tail of breast",
+   "Overlapping lesion of breast",
+   "Breast, NOS"
+  ],
+  "rationale": "Invasive breast carcinoma of no special type is by name a breast entity; within the multi-organ 8500/3 ceiling it is restricted to the breast subsites.",
+  "source": "https://en.wikipedia.org/wiki/Invasive_carcinoma_of_no_special_type",
+  "source_name": "WHO Breast 5th ed terminology; invasive breast carcinoma NST is breast-specific"
+ },
+ {
+  "code": "8500/3",
+  "term": "Invasive breast carcinoma, NOS",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ],
+  "site_subset_labels": [
+   "Nipple",
+   "Central portion of breast",
+   "Upper-inner quadrant",
+   "Lower-inner quadrant",
+   "Upper-outer quadrant",
+   "Lower-outer quadrant",
+   "Axillary tail of breast",
+   "Overlapping lesion of breast",
+   "Breast, NOS"
+  ],
+  "rationale": "Invasive breast carcinoma, NOS is by name a breast entity; within the multi-organ 8500/3 ceiling it is restricted to the breast subsites.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3683948/",
+  "source_name": "WHO Breast classification; invasive breast carcinoma NST/NOS is breast-specific (PMC3683948)"
+ },
+ {
+  "code": "8500/3",
+  "term": "Invasive carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic ductal/invasive adenocarcinoma descriptor used across the multiple organs in the 8500/3 ceiling (salivary, pancreas, breast, vulva, prostate); not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3683948/",
+  "source_name": "WHO classifications; generic multi-site duct/invasive carcinoma descriptor (PMC3683948)"
+ },
+ {
+  "code": "8500/3",
+  "term": "Invasive carcinoma of male breast",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C500",
+   "C501",
+   "C502",
+   "C503",
+   "C504",
+   "C505",
+   "C506",
+   "C508",
+   "C509"
+  ],
+  "site_subset_labels": [
+   "Nipple",
+   "Central portion of breast",
+   "Upper-inner quadrant",
+   "Lower-inner quadrant",
+   "Upper-outer quadrant",
+   "Lower-outer quadrant",
+   "Axillary tail of breast",
+   "Overlapping lesion of breast",
+   "Breast, NOS"
+  ],
+  "rationale": "Invasive carcinoma of the male breast is a breast entity localized to breast subsites (C50); male breast tissue is coded to C50.",
+  "source": "https://www.cancer.org/cancer/types/breast-cancer-in-men.html",
+  "source_name": "American Cancer Society, breast cancer in men (invasive ductal carcinoma of the breast)"
+ },
+ {
+  "code": "8500/3",
+  "term": "Invasive carcinoma of no special type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Generic ductal/invasive adenocarcinoma descriptor used across the multiple organs in the 8500/3 ceiling (salivary, pancreas, breast, vulva, prostate); not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3683948/",
+  "source_name": "WHO classifications; generic multi-site duct/invasive carcinoma descriptor (PMC3683948)"
+ }
+]

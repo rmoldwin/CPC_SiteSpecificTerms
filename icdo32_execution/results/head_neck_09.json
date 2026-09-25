@@ -1,0 +1,598 @@
+[
+ {
+  "code": "8941/3",
+  "term": "Carcinoma in pleomorphic adenoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Carcinoma ex pleomorphic adenoma is a salivary gland malignancy that arises wherever pleomorphic adenoma/salivary tissue occurs (major and minor glands across the head and neck), matching the code's salivary-bearing ceiling; it is not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3712089/",
+  "source_name": "Head and Neck Pathology - Carcinoma Ex Pleomorphic Adenoma (WHO)"
+ },
+ {
+  "code": "8941/3",
+  "term": "Carcinosarcoma ex pleomorphic adenoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "A carcinosarcoma arising ex pleomorphic adenoma is a salivary malignant mixed tumor occurring across major and minor salivary sites of the head/neck represented in the ceiling; no proper-subset restriction is established.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3712089/",
+  "source_name": "Head and Neck Pathology - Carcinoma Ex Pleomorphic Adenoma (WHO)"
+ },
+ {
+  "code": "8941/3",
+  "term": "Epithelial-myoepithelial carcinoma ex pleomorphic adenoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Epithelial-myoepithelial carcinoma ex PA is one of the histologic subtypes of carcinoma ex pleomorphic adenoma and occurs across the salivary-gland distribution covered by the code ceiling; not restricted to a subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3712089/",
+  "source_name": "Head and Neck Pathology - Carcinoma Ex Pleomorphic Adenoma (WHO)"
+ },
+ {
+  "code": "8941/3",
+  "term": "Mucoepidermoid carcinoma ex pleomorphic adenoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Mucoepidermoid carcinoma ex PA is a recognized luminal-differentiation subtype of carcinoma ex pleomorphic adenoma arising across major/minor salivary sites in the ceiling; not restricted to a proper subset.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3712089/",
+  "source_name": "Head and Neck Pathology - Carcinoma Ex Pleomorphic Adenoma (WHO)"
+ },
+ {
+  "code": "8941/3",
+  "term": "Myoepithelial carcinoma ex pleomorphic adenoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Myoepithelial carcinoma ex PA is a non-luminal subtype of carcinoma ex pleomorphic adenoma occurring across the salivary distribution of the code ceiling; no anatomic proper-subset restriction is documented.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3712089/",
+  "source_name": "Head and Neck Pathology - Carcinoma Ex Pleomorphic Adenoma (WHO)"
+ },
+ {
+  "code": "8941/3",
+  "term": "Salivary duct carcinoma ex pleomorphic adenoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Salivary duct carcinoma ex PA is the most common luminal subtype of carcinoma ex pleomorphic adenoma; it arises in major (esp. parotid) and minor salivary glands across the head/neck sites in the ceiling, not a proper subset.",
+  "source": "https://pubmed.ncbi.nlm.nih.gov/25579019/",
+  "source_name": "PubMed PMID25579019 - Salivary duct carcinoma ex PA of the palate (minor and major glands)"
+ },
+ {
+  "code": "8980/3",
+  "term": "Carcinosarcoma of salivary gland",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C019",
+   "C020",
+   "C021",
+   "C022",
+   "C023",
+   "C024",
+   "C028",
+   "C029",
+   "C030",
+   "C031",
+   "C039",
+   "C040",
+   "C041",
+   "C048",
+   "C049",
+   "C050",
+   "C051",
+   "C052",
+   "C058",
+   "C059",
+   "C060",
+   "C061",
+   "C062",
+   "C068",
+   "C069",
+   "C079",
+   "C080",
+   "C081",
+   "C088",
+   "C089",
+   "C090",
+   "C091",
+   "C098",
+   "C099",
+   "C100",
+   "C101",
+   "C102",
+   "C103",
+   "C108",
+   "C109",
+   "C110",
+   "C111",
+   "C112",
+   "C113",
+   "C118",
+   "C119",
+   "C140",
+   "C142"
+  ],
+  "site_subset_labels": [
+   "Tongue NOS",
+   "Dorsal tongue",
+   "Tongue border",
+   "Ventral tongue",
+   "Anterior tongue",
+   "Lingual tonsil",
+   "Tongue overlapping",
+   "Tongue NOS",
+   "Upper gum",
+   "Lower gum",
+   "Gum NOS",
+   "Anterior floor of mouth",
+   "Lateral floor of mouth",
+   "Floor of mouth overlapping",
+   "Floor of mouth NOS",
+   "Hard palate",
+   "Soft palate",
+   "Uvula",
+   "Palate overlapping",
+   "Palate NOS",
+   "Cheek mucosa",
+   "Vestibule of mouth",
+   "Retromolar area",
+   "Mouth overlapping",
+   "Mouth NOS",
+   "Parotid gland",
+   "Submandibular gland",
+   "Sublingual gland",
+   "Major salivary glands overlapping",
+   "Major salivary gland NOS",
+   "Tonsillar fossa",
+   "Tonsillar pillar",
+   "Tonsil overlapping",
+   "Tonsil NOS",
+   "Vallecula",
+   "Anterior epiglottis",
+   "Lateral oropharynx",
+   "Posterior oropharyngeal wall",
+   "Oropharynx overlapping",
+   "Oropharynx NOS",
+   "Superior nasopharynx",
+   "Posterior nasopharynx",
+   "Lateral nasopharynx",
+   "Anterior nasopharynx",
+   "Nasopharynx overlapping",
+   "Nasopharynx NOS",
+   "Pharynx NOS",
+   "Waldeyer ring"
+  ],
+  "rationale": "The term specifically names the salivary gland; salivary carcinosarcoma (true malignant mixed tumor) is a salivary gland neoplasm and does not occur at the many non-salivary sites (esophagus, stomach, colon, lung, uterus, thyroid, etc.) included in this code's broad ceiling, so it is restricted to the salivary-bearing head/neck subset.",
+  "source": "https://academic.oup.com/dmfr/article/50/7/20200485/7261207?searchresult=1",
+  "source_name": "Dentomaxillofacial Radiology / WHO salivary gland tumours - carcinosarcoma (true malignant mixed tumor) of salivary gland"
+ },
+ {
+  "code": "8980/3",
+  "term": "Carcinosarcoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Carcinosarcoma, NOS is a generic biphasic malignancy descriptor applied across many organ systems (the code ceiling spans GI, GU, lung, uterus, head/neck, etc.); it is not anatomically restricted.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK572116/",
+  "source_name": "StatPearls / general - carcinosarcoma NOS is a multi-site descriptor"
+ },
+ {
+  "code": "9270/3",
+  "term": "Ameloblastic carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Ameloblastic carcinoma arises predominantly intraosseously in the jaws but well-documented peripheral (gingival/extraosseous) variants exist, so it spans both the gingival mucosa and jawbone codes of the ceiling; not a proper subset.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK572116/",
+  "source_name": "StatPearls - Odontogenic Tumors of the Jaws (WHO classification)"
+ },
+ {
+  "code": "9270/3",
+  "term": "Central intraosseous mucoepidermoid carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C410",
+   "C411"
+  ],
+  "site_subset_labels": [
+   "Mandible (bone)",
+   "Maxilla (bone)"
+  ],
+  "rationale": "'Central intraosseous' by definition denotes a carcinoma arising within the jawbone (mandible/maxilla) with no connection to the surface mucosa, excluding the gingival mucosal codes of the ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3329686/",
+  "source_name": "PMC - Primary intraosseous carcinoma; central intraosseous mucoepidermoid carcinoma of the jawbone"
+ },
+ {
+  "code": "9270/3",
+  "term": "Central intraosseous mucoepidermoid tumor",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C410",
+   "C411"
+  ],
+  "site_subset_labels": [
+   "Mandible (bone)",
+   "Maxilla (bone)"
+  ],
+  "rationale": "A central intraosseous mucoepidermoid tumor arises within the mandible/maxilla bone by definition (central = intraosseous), so it is restricted to the jawbone codes rather than the gingival mucosa.",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3329686/",
+  "source_name": "PMC - central intraosseous mucoepidermoid carcinoma of the jawbone"
+ },
+ {
+  "code": "9270/3",
+  "term": "Odontogenic carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Odontogenic carcinoma is a generic category of malignant odontogenic tumors of the tooth-bearing jaw region, encompassing both intraosseous and gingival/peripheral lesions; it is not restricted to a proper subset of the small jaw ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK572116/",
+  "source_name": "StatPearls - Odontogenic Tumors of the Jaws (WHO classification)"
+ },
+ {
+  "code": "9270/3",
+  "term": "Odontogenic sarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Odontogenic sarcoma (e.g., ameloblastic fibrosarcoma) is a malignant odontogenic tumor of the jaw region; as a generic entity it is not clearly restricted to bone-only versus gingival codes within the small jaw ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK572116/",
+  "source_name": "StatPearls - Odontogenic Tumors of the Jaws (WHO classification)"
+ },
+ {
+  "code": "9270/3",
+  "term": "Odontogenic tumor, malignant",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "'Odontogenic tumor, malignant' is a generic descriptor for malignant tumors of the odontogenic (tooth-bearing jaw) apparatus and is not restricted to a proper subset of the jaw ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK572116/",
+  "source_name": "StatPearls - Odontogenic Tumors of the Jaws (WHO classification)"
+ },
+ {
+  "code": "9270/3",
+  "term": "Primary intraosseous carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C410",
+   "C411"
+  ],
+  "site_subset_labels": [
+   "Mandible (bone)",
+   "Maxilla (bone)"
+  ],
+  "rationale": "Primary intraosseous carcinoma (PIOC) is defined by WHO as a carcinoma arising WITHIN the jawbone with no initial connection to the oral mucosa; it therefore involves the mandible/maxilla bone, not the gingival mucosal codes.",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3329686/",
+  "source_name": "PMC - Primary intraosseous carcinoma of the mandible (WHO definition: within jawbone, no mucosal connection)"
+ },
+ {
+  "code": "9270/3",
+  "term": "Primary intraosseous squamous cell carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C410",
+   "C411"
+  ],
+  "site_subset_labels": [
+   "Mandible (bone)",
+   "Maxilla (bone)"
+  ],
+  "rationale": "PIOSCC is defined by WHO as a central jaw squamous cell carcinoma arising within the jawbone from odontogenic epithelial remnants, with no initial connection to the oral mucosa; restricted to mandible/maxilla bone.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3860240/",
+  "source_name": "Annali di Stomatologia / WHO - Primary intraosseous squamous cell carcinoma arising within the jawbones"
+ },
+ {
+  "code": "9270/3",
+  "term": "Sclerosing odontogenic carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C410",
+   "C411"
+  ],
+  "site_subset_labels": [
+   "Mandible (bone)",
+   "Maxilla (bone)"
+  ],
+  "rationale": "WHO 5th ed defines sclerosing odontogenic carcinoma as a rare PRIMARY INTRAOSSEOUS carcinoma of the jaws (mandible > maxilla); it arises within jawbone, excluding the gingival mucosal codes.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11799462/",
+  "source_name": "Head and Neck Pathology / WHO - Sclerosing odontogenic carcinoma is a primary intraosseous carcinoma of the jaws"
+ },
+ {
+  "code": "9302/3",
+  "term": "Ghost cell odontogenic carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C410",
+   "C411"
+  ],
+  "site_subset_labels": [
+   "Mandible (bone)",
+   "Maxilla (bone)"
+  ],
+  "rationale": "Ghost cell odontogenic carcinoma is characterized as an intraosseous malignant odontogenic tumor of the maxilla/mandible bone; despite exceedingly rare peripheral reports it is defined by intraosseous (central) location, restricting it to the jawbone codes.",
+  "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8219455/",
+  "source_name": "PMC - Ghost cell odontogenic carcinoma characterized by intra-osseous location (maxilla/mandible)"
+ },
+ {
+  "code": "9341/3",
+  "term": "Clear cell odontogenic carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C410",
+   "C411"
+  ],
+  "site_subset_labels": [
+   "Mandible (bone)",
+   "Maxilla (bone)"
+  ],
+  "rationale": "Clear cell odontogenic carcinoma is consistently described as a rare INTRAOSSEOUS carcinoma of the jaw, arising centrally within the mandible (predominantly) or maxilla; restricted to the jawbone codes, not gingival mucosa.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4582711/",
+  "source_name": "World Journal of Surgical Oncology - Clear cell odontogenic carcinoma is a rare intraosseous carcinoma of the jaw"
+ },
+ {
+  "code": "9341/3",
+  "term": "Clear cell odontogenic tumor",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C410",
+   "C411"
+  ],
+  "site_subset_labels": [
+   "Mandible (bone)",
+   "Maxilla (bone)"
+  ],
+  "rationale": "Clear cell odontogenic tumor (synonym of clear cell odontogenic carcinoma) is a rare intraosseous jaw neoplasm arising centrally within the mandible/maxilla bone; restricted to the jawbone codes.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4582711/",
+  "source_name": "World Journal of Surgical Oncology - clear cell odontogenic carcinoma/tumor, intraosseous jaw"
+ },
+ {
+  "code": "9342/3",
+  "term": "Odontogenic carcinosarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Odontogenic carcinosarcoma is an exceedingly rare malignant odontogenic tumor of the jaw region; as a distinct but broadly-defined odontogenic entity it is not established as restricted to a proper subset of the small jaw ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK572116/",
+  "source_name": "StatPearls - Odontogenic Tumors of the Jaws (WHO classification)"
+ },
+ {
+  "code": "9363/3",
+  "term": "Melanotic neuroectodermal tumor of infancy, malignant",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "MNTI is a craniofacial neural-crest tumor that predominates in the maxilla/anterior alveolus but also arises in the oral cavity, gingiva, palate, mandible and nasal region represented in the ceiling; it is not confined to a single clean anatomic subset of these craniofacial mucosal sites.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK560596/",
+  "source_name": "StatPearls - Melanotic Neuroectodermal Tumor of Infancy"
+ },
+ {
+  "code": "9363/3",
+  "term": "Melanotic neuroectodermal tumor, malignant",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Melanotic neuroectodermal tumor, malignant occurs across the craniofacial mucosal/nasal sites (maxilla-predominant but also palate, gingiva, oral cavity, nasal) that make up the code ceiling; no proper-subset restriction is established.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK560596/",
+  "source_name": "StatPearls - Melanotic Neuroectodermal Tumor of Infancy"
+ },
+ {
+  "code": "9581/3",
+  "term": "Alveolar soft part sarcoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Alveolar soft part sarcoma is a soft-tissue sarcoma arising in deep soft tissues (including head/neck sites such as tongue and orbit in children and extremity/trunk soft tissue in adults) matching the soft-tissue sites of the ceiling; it is not restricted to a proper subset.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK572116/",
+  "source_name": "General pathology reference - alveolar soft part sarcoma is a broadly-distributed soft-tissue sarcoma"
+ },
+ {
+  "code": "9590/3",
+  "term": "Lymphoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Lymphoma, NOS is a generic hematolymphoid descriptor; lymphomas arise at nodal and extranodal sites throughout the body, matching the broad ceiling; not site-specific.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK559328/",
+  "source_name": "StatPearls - Non-Hodgkin Lymphoma (systemic, arises at nodal and extranodal sites throughout the body)"
+ },
+ {
+  "code": "9590/3",
+  "term": "Malignant lymphoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Malignant lymphoma, NOS is a generic descriptor for lymphoid malignancy occurring at essentially any nodal/extranodal site in the ceiling; not restricted to a subset.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK559328/",
+  "source_name": "StatPearls - Non-Hodgkin Lymphoma (systemic, arises at nodal and extranodal sites throughout the body)"
+ },
+ {
+  "code": "9590/3",
+  "term": "Microglioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "'Microglioma' is an obsolete synonym coded under lymphoma NOS; as a lymphoma descriptor it is not confined to a proper subset of the broad ceiling.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK559328/",
+  "source_name": "StatPearls - Non-Hodgkin Lymphoma (systemic, arises at nodal and extranodal sites throughout the body)"
+ },
+ {
+  "code": "9591/3",
+  "term": "B-cell lymphoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "B-cell lymphoma, NOS is a generic B-cell lymphoma category arising at nodal and extranodal sites throughout the body; not site-specific.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK559328/",
+  "source_name": "StatPearls - Non-Hodgkin Lymphoma (systemic, arises at nodal and extranodal sites throughout the body)"
+ },
+ {
+  "code": "9591/3",
+  "term": "B-cell lymphoma, low-grade",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "B-cell lymphoma, low-grade is a generic grade descriptor for B-cell lymphomas occurring at many nodal/extranodal sites; not restricted to a proper subset.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK559328/",
+  "source_name": "StatPearls - Non-Hodgkin Lymphoma (systemic, arises at nodal and extranodal sites throughout the body)"
+ },
+ {
+  "code": "9591/3",
+  "term": "Hairy cell leukemia variant",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hairy cell leukemia variant is a splenic/marrow/blood B-cell lymphoproliferative disorder, but as coded here (9591/3, B-cell lymphoma NOS) it is treated as a systemic hematolymphoid entity; a clean anatomic proper-subset within the broad ICD-O site ceiling is not established.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK559328/",
+  "source_name": "StatPearls - Non-Hodgkin Lymphoma (systemic, arises at nodal and extranodal sites throughout the body)"
+ },
+ {
+  "code": "9591/3",
+  "term": "Lymphosarcoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Lymphosarcoma, NOS is an archaic synonym for non-Hodgkin lymphoma, a systemic disease of nodal/extranodal sites; not site-specific.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK559328/",
+  "source_name": "StatPearls - Non-Hodgkin Lymphoma (systemic, arises at nodal and extranodal sites throughout the body)"
+ },
+ {
+  "code": "9591/3",
+  "term": "Lymphosarcoma, diffuse",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Lymphosarcoma, diffuse is an archaic diffuse lymphoma descriptor occurring at nodal/extranodal sites throughout the body; not restricted to a subset.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK559328/",
+  "source_name": "StatPearls - Non-Hodgkin Lymphoma (systemic, arises at nodal and extranodal sites throughout the body)"
+ },
+ {
+  "code": "9591/3",
+  "term": "Malignant lymphoma, cleaved cell, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Malignant lymphoma, cleaved cell, NOS is a morphologic lymphoma descriptor occurring at many nodal/extranodal sites; not site-specific.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK559328/",
+  "source_name": "StatPearls - Non-Hodgkin Lymphoma (systemic, arises at nodal and extranodal sites throughout the body)"
+ },
+ {
+  "code": "9591/3",
+  "term": "Malignant lymphoma, diffuse, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Malignant lymphoma, diffuse, NOS is a generic architectural descriptor for lymphoma at multiple nodal/extranodal sites; not restricted to a subset.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK559328/",
+  "source_name": "StatPearls - Non-Hodgkin Lymphoma (systemic, arises at nodal and extranodal sites throughout the body)"
+ },
+ {
+  "code": "9591/3",
+  "term": "Malignant lymphoma, lymphocytic, intermediate differentiation, nodular",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Malignant lymphoma, lymphocytic, intermediate differentiation, nodular is an obsolete lymphoma descriptor (mantle-cell type) arising at nodal and extranodal sites broadly; not site-specific.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK559328/",
+  "source_name": "StatPearls - Non-Hodgkin Lymphoma (systemic, arises at nodal and extranodal sites throughout the body)"
+ },
+ {
+  "code": "9591/3",
+  "term": "Malignant lymphoma, lymphocytic, poorly differentiated, diffuse",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Malignant lymphoma, lymphocytic, poorly differentiated, diffuse is an archaic descriptor for diffuse lymphoma occurring across nodal/extranodal sites; not restricted to a subset.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK559328/",
+  "source_name": "StatPearls - Non-Hodgkin Lymphoma (systemic, arises at nodal and extranodal sites throughout the body)"
+ },
+ {
+  "code": "9591/3",
+  "term": "Malignant lymphoma, non-Hodgkin, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Malignant lymphoma, non-Hodgkin, NOS is the generic NHL descriptor; NHL arises at nodal and extranodal sites throughout the body; not site-specific.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK559328/",
+  "source_name": "StatPearls - Non-Hodgkin Lymphoma (systemic, arises at nodal and extranodal sites throughout the body)"
+ },
+ {
+  "code": "9591/3",
+  "term": "Malignant lymphoma, non-cleaved cell, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Malignant lymphoma, non-cleaved cell, NOS is a morphologic lymphoma descriptor occurring at many nodal/extranodal sites; not restricted to a subset.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK559328/",
+  "source_name": "StatPearls - Non-Hodgkin Lymphoma (systemic, arises at nodal and extranodal sites throughout the body)"
+ },
+ {
+  "code": "9591/3",
+  "term": "Malignant lymphoma, small cell, noncleaved, diffuse",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Malignant lymphoma, small cell, noncleaved, diffuse is an archaic Burkitt-type descriptor; such lymphomas arise at multiple nodal/extranodal sites; not site-specific.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK559328/",
+  "source_name": "StatPearls - Non-Hodgkin Lymphoma (systemic, arises at nodal and extranodal sites throughout the body)"
+ },
+ {
+  "code": "9591/3",
+  "term": "Malignant lymphoma, small cleaved cell, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Malignant lymphoma, small cleaved cell, NOS is a morphologic lymphoma descriptor occurring broadly at nodal/extranodal sites; not restricted to a subset.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK559328/",
+  "source_name": "StatPearls - Non-Hodgkin Lymphoma (systemic, arises at nodal and extranodal sites throughout the body)"
+ },
+ {
+  "code": "9591/3",
+  "term": "Malignant lymphoma, small cleaved cell, diffuse",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Malignant lymphoma, small cleaved cell, diffuse is a morphologic/architectural lymphoma descriptor arising at many sites; not site-specific.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK559328/",
+  "source_name": "StatPearls - Non-Hodgkin Lymphoma (systemic, arises at nodal and extranodal sites throughout the body)"
+ },
+ {
+  "code": "9591/3",
+  "term": "Malignant lymphoma, undifferentiated cell type, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Malignant lymphoma, undifferentiated cell type, NOS is a generic lymphoma descriptor occurring at multiple nodal/extranodal sites; not restricted to a subset.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK559328/",
+  "source_name": "StatPearls - Non-Hodgkin Lymphoma (systemic, arises at nodal and extranodal sites throughout the body)"
+ },
+ {
+  "code": "9591/3",
+  "term": "Malignant lymphoma, undifferentiated cell, non-Burkitt",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Malignant lymphoma, undifferentiated cell, non-Burkitt is an archaic descriptor for high-grade lymphoma arising at various nodal/extranodal sites; not site-specific.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK559328/",
+  "source_name": "StatPearls - Non-Hodgkin Lymphoma (systemic, arises at nodal and extranodal sites throughout the body)"
+ },
+ {
+  "code": "9591/3",
+  "term": "Non-Hodgkin lymphoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Non-Hodgkin lymphoma, NOS is the generic NHL descriptor; NHL is a systemic disease arising at nodal and extranodal sites throughout the body; not site-specific.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK559328/",
+  "source_name": "StatPearls - Non-Hodgkin Lymphoma (systemic, arises at nodal and extranodal sites throughout the body)"
+ },
+ {
+  "code": "9591/3",
+  "term": "Reticulosarcoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Reticulosarcoma, NOS is an archaic synonym for (diffuse large B-cell) non-Hodgkin lymphoma, a systemic multi-site disease; not restricted to a proper subset.",
+  "source": "https://www.ncbi.nlm.nih.gov/books/NBK559328/",
+  "source_name": "StatPearls - Non-Hodgkin Lymphoma (systemic, arises at nodal and extranodal sites throughout the body)"
+ }
+]

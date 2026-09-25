@@ -1,0 +1,460 @@
+[
+ {
+  "code": "8054/3",
+  "term": "Condylomatous carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Warty/condylomatous carcinoma's ceiling here is penis-only (C600-C609); it is not restricted to a proper subset of penile subsites in the literature, so it is not site-specific relative to its ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8054/3",
+  "term": "Warty carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Warty/condylomatous carcinoma's ceiling here is penis-only (C600-C609); it is not restricted to a proper subset of penile subsites in the literature, so it is not site-specific relative to its ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8054/3",
+  "term": "Warty carcinoma, HPV-associated",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Warty/condylomatous carcinoma's ceiling here is penis-only (C600-C609); it is not restricted to a proper subset of penile subsites in the literature, so it is not site-specific relative to its ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8054/3",
+  "term": "Warty-basaloid carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Warty/condylomatous carcinoma's ceiling here is penis-only (C600-C609); it is not restricted to a proper subset of penile subsites in the literature, so it is not site-specific relative to its ceiling.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8083/2",
+  "term": "Basaloid squamous cell carcinoma, in situ",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Basaloid squamous cell carcinoma in situ is a generic HPV-associated squamous entity arising across anal, penile and other lower-genital/male-genital squamous sites in the ceiling; it is not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8090/3",
+  "term": "Basal cell carcinoma with adnexal differentiation",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This basal cell carcinoma descriptor is a generic morphologic/architectural variant of a skin tumour that can arise at any hair-bearing squamous site in the ceiling (anal margin, vulva, penis, scrotum); it is not anatomically restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8090/3",
+  "term": "Basal cell carcinoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This basal cell carcinoma descriptor is a generic morphologic/architectural variant of a skin tumour that can arise at any hair-bearing squamous site in the ceiling (anal margin, vulva, penis, scrotum); it is not anatomically restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8090/3",
+  "term": "Basal cell epithelioma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This basal cell carcinoma descriptor is a generic morphologic/architectural variant of a skin tumour that can arise at any hair-bearing squamous site in the ceiling (anal margin, vulva, penis, scrotum); it is not anatomically restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8090/3",
+  "term": "Pigmented basal cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This basal cell carcinoma descriptor is a generic morphologic/architectural variant of a skin tumour that can arise at any hair-bearing squamous site in the ceiling (anal margin, vulva, penis, scrotum); it is not anatomically restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8090/3",
+  "term": "Rodent ulcer",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This basal cell carcinoma descriptor is a generic morphologic/architectural variant of a skin tumour that can arise at any hair-bearing squamous site in the ceiling (anal margin, vulva, penis, scrotum); it is not anatomically restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8091/3",
+  "term": "Multicentric basal cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This basal cell carcinoma descriptor is a generic morphologic/architectural variant of a skin tumour that can arise at any hair-bearing squamous site in the ceiling (anal margin, vulva, penis, scrotum); it is not anatomically restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8091/3",
+  "term": "Multifocal superficial basal cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This basal cell carcinoma descriptor is a generic morphologic/architectural variant of a skin tumour that can arise at any hair-bearing squamous site in the ceiling (anal margin, vulva, penis, scrotum); it is not anatomically restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8091/3",
+  "term": "Superficial basal cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This basal cell carcinoma descriptor is a generic morphologic/architectural variant of a skin tumour that can arise at any hair-bearing squamous site in the ceiling (anal margin, vulva, penis, scrotum); it is not anatomically restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8092/3",
+  "term": "Basal cell carcinoma with sarcomatoid differentiation",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This basal cell carcinoma descriptor is a generic morphologic/architectural variant of a skin tumour that can arise at any hair-bearing squamous site in the ceiling (anal margin, vulva, penis, scrotum); it is not anatomically restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8092/3",
+  "term": "Basal cell carcinoma, desmoplastic type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This basal cell carcinoma descriptor is a generic morphologic/architectural variant of a skin tumour that can arise at any hair-bearing squamous site in the ceiling (anal margin, vulva, penis, scrotum); it is not anatomically restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8092/3",
+  "term": "Basal cell carcinoma, morpheic",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This basal cell carcinoma descriptor is a generic morphologic/architectural variant of a skin tumour that can arise at any hair-bearing squamous site in the ceiling (anal margin, vulva, penis, scrotum); it is not anatomically restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8092/3",
+  "term": "Basal cell carcinoma, morphoeic",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This basal cell carcinoma descriptor is a generic morphologic/architectural variant of a skin tumour that can arise at any hair-bearing squamous site in the ceiling (anal margin, vulva, penis, scrotum); it is not anatomically restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8092/3",
+  "term": "Basal cell carcinoma, sarcomatoid",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This basal cell carcinoma descriptor is a generic morphologic/architectural variant of a skin tumour that can arise at any hair-bearing squamous site in the ceiling (anal margin, vulva, penis, scrotum); it is not anatomically restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8092/3",
+  "term": "Basal cell carcinoma, sclerosing/morphoeic",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This basal cell carcinoma descriptor is a generic morphologic/architectural variant of a skin tumour that can arise at any hair-bearing squamous site in the ceiling (anal margin, vulva, penis, scrotum); it is not anatomically restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8092/3",
+  "term": "Infiltrating basal cell carcinoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This basal cell carcinoma descriptor is a generic morphologic/architectural variant of a skin tumour that can arise at any hair-bearing squamous site in the ceiling (anal margin, vulva, penis, scrotum); it is not anatomically restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8092/3",
+  "term": "Infiltrating basal cell carcinoma, non-sclerosing",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This basal cell carcinoma descriptor is a generic morphologic/architectural variant of a skin tumour that can arise at any hair-bearing squamous site in the ceiling (anal margin, vulva, penis, scrotum); it is not anatomically restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8092/3",
+  "term": "Infiltrating basal cell carcinoma, sclerosing",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This basal cell carcinoma descriptor is a generic morphologic/architectural variant of a skin tumour that can arise at any hair-bearing squamous site in the ceiling (anal margin, vulva, penis, scrotum); it is not anatomically restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8092/3",
+  "term": "Sclerosing/morphoeic basal cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This basal cell carcinoma descriptor is a generic morphologic/architectural variant of a skin tumour that can arise at any hair-bearing squamous site in the ceiling (anal margin, vulva, penis, scrotum); it is not anatomically restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8093/3",
+  "term": "Basal cell carcinoma, fibroepithelial",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This basal cell carcinoma descriptor is a generic morphologic/architectural variant of a skin tumour that can arise at any hair-bearing squamous site in the ceiling (anal margin, vulva, penis, scrotum); it is not anatomically restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8093/3",
+  "term": "Fibroepithelial basal cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This basal cell carcinoma descriptor is a generic morphologic/architectural variant of a skin tumour that can arise at any hair-bearing squamous site in the ceiling (anal margin, vulva, penis, scrotum); it is not anatomically restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8093/3",
+  "term": "Fibroepithelial basal cell carcinoma, Pinkus type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This basal cell carcinoma descriptor is a generic morphologic/architectural variant of a skin tumour that can arise at any hair-bearing squamous site in the ceiling (anal margin, vulva, penis, scrotum); it is not anatomically restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8093/3",
+  "term": "Fibroepithelioma of Pinkus type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This basal cell carcinoma descriptor is a generic morphologic/architectural variant of a skin tumour that can arise at any hair-bearing squamous site in the ceiling (anal margin, vulva, penis, scrotum); it is not anatomically restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8093/3",
+  "term": "Fibroepithelioma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This basal cell carcinoma descriptor is a generic morphologic/architectural variant of a skin tumour that can arise at any hair-bearing squamous site in the ceiling (anal margin, vulva, penis, scrotum); it is not anatomically restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8093/3",
+  "term": "Pinkus tumor",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This basal cell carcinoma descriptor is a generic morphologic/architectural variant of a skin tumour that can arise at any hair-bearing squamous site in the ceiling (anal margin, vulva, penis, scrotum); it is not anatomically restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8094/3",
+  "term": "Basosquamous carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This basal cell carcinoma descriptor is a generic morphologic/architectural variant of a skin tumour that can arise at any hair-bearing squamous site in the ceiling (anal margin, vulva, penis, scrotum); it is not anatomically restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8094/3",
+  "term": "Mixed basal-squamous cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This basal cell carcinoma descriptor is a generic morphologic/architectural variant of a skin tumour that can arise at any hair-bearing squamous site in the ceiling (anal margin, vulva, penis, scrotum); it is not anatomically restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8095/3",
+  "term": "Metatypical carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This basal cell carcinoma descriptor is a generic morphologic/architectural variant of a skin tumour that can arise at any hair-bearing squamous site in the ceiling (anal margin, vulva, penis, scrotum); it is not anatomically restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8097/3",
+  "term": "Basal cell carcinoma, micronodular",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This basal cell carcinoma descriptor is a generic morphologic/architectural variant of a skin tumour that can arise at any hair-bearing squamous site in the ceiling (anal margin, vulva, penis, scrotum); it is not anatomically restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8097/3",
+  "term": "Basal cell carcinoma, nodular",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This basal cell carcinoma descriptor is a generic morphologic/architectural variant of a skin tumour that can arise at any hair-bearing squamous site in the ceiling (anal margin, vulva, penis, scrotum); it is not anatomically restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8097/3",
+  "term": "Micronodular basal cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This basal cell carcinoma descriptor is a generic morphologic/architectural variant of a skin tumour that can arise at any hair-bearing squamous site in the ceiling (anal margin, vulva, penis, scrotum); it is not anatomically restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8097/3",
+  "term": "Nodular basal cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "This basal cell carcinoma descriptor is a generic morphologic/architectural variant of a skin tumour that can arise at any hair-bearing squamous site in the ceiling (anal margin, vulva, penis, scrotum); it is not anatomically restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8620/3",
+  "term": "Adult granulosa cell tumor",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Granulosa cell tumour (this generic/adult-type/sarcomatoid/carcinoma variant) occurs in both the ovary and the testis, spanning essentially the full ovary+testis ceiling of this code, so it is not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8620/3",
+  "term": "Adult granulosa cell tumor of adrenal gland",
+  "site_specific": "Uncertain",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Primary granulosa cell tumour of the adrenal gland is a rare documented extraovarian variant, but the adrenal gland (C74) is not among this code's ceiling codes (ovary C569, testis C620/C621/C629). Its literature-defined site does not intersect the ceiling, so it cannot be mapped to a proper subset of the allowed sites.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10212836/",
+  "source_name": "El Fadli et al., Int Cancer Conf J 2023 (PMC10212836) - extraovarian/adrenal GCT"
+ },
+ {
+  "code": "8620/3",
+  "term": "Adult granulosa cell tumor of ovary",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C569"
+  ],
+  "site_subset_labels": [
+   "Ovary"
+  ],
+  "rationale": "'Adult granulosa cell tumor of ovary' names the ovarian entity specifically; the literature treats ovarian AGCT (FOXL2 p.Cys134Trp-driven, most common ovarian sex cord-stromal tumour) as distinct from the testicular counterpart in the code's ceiling, restricting this named term to the ovary (a proper subset of ovary+testis).",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12891927/",
+  "source_name": "Ricci et al., Histopathology 2025 (PMC12891927), WHO 5th ed male genital tumours"
+ },
+ {
+  "code": "8620/3",
+  "term": "Granulosa cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Granulosa cell tumour (this generic/adult-type/sarcomatoid/carcinoma variant) occurs in both the ovary and the testis, spanning essentially the full ovary+testis ceiling of this code, so it is not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8620/3",
+  "term": "Granulosa cell tumor",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Granulosa cell tumour (this generic/adult-type/sarcomatoid/carcinoma variant) occurs in both the ovary and the testis, spanning essentially the full ovary+testis ceiling of this code, so it is not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8620/3",
+  "term": "Granulosa cell tumor of ovary, NOS",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C569"
+  ],
+  "site_subset_labels": [
+   "Ovary"
+  ],
+  "rationale": "The qualifier 'of ovary' anatomically restricts this term to the ovary; ovarian granulosa cell tumour is a distinct entity separate from the testicular counterpart, so the term maps to a proper subset (ovary) of the code's ovary+testis ceiling.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12891927/",
+  "source_name": "Ricci et al., Histopathology 2025 (PMC12891927), WHO 5th ed male genital tumours"
+ },
+ {
+  "code": "8620/3",
+  "term": "Granulosa cell tumor, adult type",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Granulosa cell tumour (this generic/adult-type/sarcomatoid/carcinoma variant) occurs in both the ovary and the testis, spanning essentially the full ovary+testis ceiling of this code, so it is not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8620/3",
+  "term": "Granulosa cell tumor, sarcomatoid",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Granulosa cell tumour (this generic/adult-type/sarcomatoid/carcinoma variant) occurs in both the ovary and the testis, spanning essentially the full ovary+testis ceiling of this code, so it is not restricted to a proper subset.",
+  "source": "",
+  "source_name": ""
+ },
+ {
+  "code": "8640/3",
+  "term": "Malignant Sertoli cell tumor",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Malignant Sertoli cell tumour's ceiling here is testis-only (C620/C621/C629, a single organ); there is no literature-supported anatomic subset within testicular subsites, so it is not site-specific relative to its ceiling.",
+  "source": "",
+  "source_name": ""
+ }
+]

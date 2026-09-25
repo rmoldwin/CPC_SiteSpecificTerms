@@ -1,0 +1,452 @@
+[
+ {
+  "code": "9650/3",
+  "term": "Classic Hodgkin lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9650/3",
+  "term": "Classical Hodgkin lymphoma post-transplant lymphoproliferative disease",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9650/3",
+  "term": "Hodgkin disease, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9650/3",
+  "term": "Hodgkin lymphoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9650/3",
+  "term": "Malignant lymphoma, Hodgkin",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9651/3",
+  "term": "Classic Hodgkin lymphoma, lymphocyte-rich",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9651/3",
+  "term": "Classical Hodgkin lymphoma, lymphocyte-rich",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9651/3",
+  "term": "Hodgkin disease, lymphocyte predominance, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9651/3",
+  "term": "Hodgkin disease, lymphocyte predominance, diffuse",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9651/3",
+  "term": "Hodgkin disease, lymphocytic-histiocytic predominance",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9651/3",
+  "term": "Hodgkin lymphoma, lymphocyte-rich",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9651/3",
+  "term": "Lymphocyte-rich CHL",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9652/3",
+  "term": "Classic Hodgkin lymphoma, mixed cellularity",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9652/3",
+  "term": "Classical Hodgkin lymphoma, mixed cellularity, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9652/3",
+  "term": "Hodgkin lymphoma, mixed cellularity, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9652/3",
+  "term": "Mixed-cellularity CHL",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9653/3",
+  "term": "Classic Hodgkin lymphoma, lymphocyte depletion",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9653/3",
+  "term": "Classic Hodgkin lymphoma, lymphocyte-depleted",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9653/3",
+  "term": "Classical Hodgkin lymphoma, lymphocyte depletion, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9653/3",
+  "term": "Hodgkin lymphoma, lymphocyte depletion, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9653/3",
+  "term": "Lymphocyte-depleted CHL",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9655/3",
+  "term": "Classical Hodgkin lymphoma, lymphocyte depletion, reticular",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9655/3",
+  "term": "Hodgkin lymphoma, lymphocyte depletion, reticular",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9659/3",
+  "term": "Hodgkin lymphoma, nodular lymphocyte predominant",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9659/3",
+  "term": "Hodgkin paragranuloma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9659/3",
+  "term": "Hodgkin paragranuloma, nodular",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9659/3",
+  "term": "Nodular lymphocyte predominant B-cell lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9659/3",
+  "term": "Nodular lymphocyte-predominant Hodgkin lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9663/3",
+  "term": "Classic Hodgkin lymphoma, nodular sclerosis",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9663/3",
+  "term": "Classical Hodgkin lymphoma, nodular sclerosis, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9663/3",
+  "term": "Hodgkin disease, nodular sclerosis, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9663/3",
+  "term": "Hodgkin lymphoma, nodular sclerosis, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9663/3",
+  "term": "Nodular sclerosis CHL",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Hodgkin lymphoma subtypes are nodal-family neoplasms; SEER Hematopoietic rules assign the full lymph node region range C770-C779 as primary sites. Anatomic preferences (e.g. mediastinal/cervical for nodular sclerosis) are tendencies, not exclusions, so the term is not restricted to a proper subset of its lymph-node-region ceiling.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf57e3e27c3994bd5372/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Nodular sclerosis CHL entry) / WHO Classification of Tumours 5th ed (Haematolymphoid)"
+ },
+ {
+  "code": "9688/3",
+  "term": "Diffuse large B-cell lymphoma associated with chronic inflammation",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "T-cell/histiocyte-rich large B-cell lymphoma and related large B-cell entities under this code are nodal-family lymphomas with the full lymph node region range (C770-C779) as their ceiling; the literature does not restrict them to a proper subset of specific nodal regions.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9214472/",
+  "source_name": "WHO Classification of Tumours 5th ed, Haematolymphoid (Leukemia 2022 overview) / SEER Hematopoietic database"
+ },
+ {
+  "code": "9688/3",
+  "term": "Histiocyte-rich large B-cell lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "T-cell/histiocyte-rich large B-cell lymphoma and related large B-cell entities under this code are nodal-family lymphomas with the full lymph node region range (C770-C779) as their ceiling; the literature does not restrict them to a proper subset of specific nodal regions.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9214472/",
+  "source_name": "WHO Classification of Tumours 5th ed, Haematolymphoid (Leukemia 2022 overview) / SEER Hematopoietic database"
+ },
+ {
+  "code": "9688/3",
+  "term": "T-cell histiocyte-rich large B-cell lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "T-cell/histiocyte-rich large B-cell lymphoma and related large B-cell entities under this code are nodal-family lymphomas with the full lymph node region range (C770-C779) as their ceiling; the literature does not restrict them to a proper subset of specific nodal regions.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9214472/",
+  "source_name": "WHO Classification of Tumours 5th ed, Haematolymphoid (Leukemia 2022 overview) / SEER Hematopoietic database"
+ },
+ {
+  "code": "9688/3",
+  "term": "T-cell rich large B-cell lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "T-cell/histiocyte-rich large B-cell lymphoma and related large B-cell entities under this code are nodal-family lymphomas with the full lymph node region range (C770-C779) as their ceiling; the literature does not restrict them to a proper subset of specific nodal regions.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9214472/",
+  "source_name": "WHO Classification of Tumours 5th ed, Haematolymphoid (Leukemia 2022 overview) / SEER Hematopoietic database"
+ },
+ {
+  "code": "9688/3",
+  "term": "T-cell/histiocyte rich large B-cell lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "T-cell/histiocyte-rich large B-cell lymphoma and related large B-cell entities under this code are nodal-family lymphomas with the full lymph node region range (C770-C779) as their ceiling; the literature does not restrict them to a proper subset of specific nodal regions.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9214472/",
+  "source_name": "WHO Classification of Tumours 5th ed, Haematolymphoid (Leukemia 2022 overview) / SEER Hematopoietic database"
+ },
+ {
+  "code": "9688/3",
+  "term": "T-cell/histiocyte-rich large B-cell lymphoma progressed from nodular lymphocyte-predominant Hodgkin lymphoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "T-cell/histiocyte-rich large B-cell lymphoma and related large B-cell entities under this code are nodal-family lymphomas with the full lymph node region range (C770-C779) as their ceiling; the literature does not restrict them to a proper subset of specific nodal regions.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9214472/",
+  "source_name": "WHO Classification of Tumours 5th ed, Haematolymphoid (Leukemia 2022 overview) / SEER Hematopoietic database"
+ },
+ {
+  "code": "9688/3",
+  "term": "T-cell/histiocyte-rich large B-cell lymphoma, de novo",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "T-cell/histiocyte-rich large B-cell lymphoma and related large B-cell entities under this code are nodal-family lymphomas with the full lymph node region range (C770-C779) as their ceiling; the literature does not restrict them to a proper subset of specific nodal regions.",
+  "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9214472/",
+  "source_name": "WHO Classification of Tumours 5th ed, Haematolymphoid (Leukemia 2022 overview) / SEER Hematopoietic database"
+ },
+ {
+  "code": "9762/3",
+  "term": "Alpha heavy chain disease",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Heavy chain diseases are systemic plasma-cell/lymphoplasmacytic processes; per SEER, gamma (Franklin) HCD is disseminated across lymph nodes, Waldeyer ring, marrow, liver and spleen, while alpha HCD is centered on the GI tract/small intestine (sites not in this code's ceiling). Within the code's bone-marrow-plus-nodal ceiling, no literature restricts the term to a demonstrable proper subset, so it is not site-specific.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf59e3e27c3994bd5486/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Heavy chain diseases entry)"
+ },
+ {
+  "code": "9762/3",
+  "term": "Franklin disease",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Heavy chain diseases are systemic plasma-cell/lymphoplasmacytic processes; per SEER, gamma (Franklin) HCD is disseminated across lymph nodes, Waldeyer ring, marrow, liver and spleen, while alpha HCD is centered on the GI tract/small intestine (sites not in this code's ceiling). Within the code's bone-marrow-plus-nodal ceiling, no literature restricts the term to a demonstrable proper subset, so it is not site-specific.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf59e3e27c3994bd5486/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Heavy chain diseases entry)"
+ },
+ {
+  "code": "9762/3",
+  "term": "Gamma heavy chain disease",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Heavy chain diseases are systemic plasma-cell/lymphoplasmacytic processes; per SEER, gamma (Franklin) HCD is disseminated across lymph nodes, Waldeyer ring, marrow, liver and spleen, while alpha HCD is centered on the GI tract/small intestine (sites not in this code's ceiling). Within the code's bone-marrow-plus-nodal ceiling, no literature restricts the term to a demonstrable proper subset, so it is not site-specific.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf59e3e27c3994bd5486/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Heavy chain diseases entry)"
+ },
+ {
+  "code": "9762/3",
+  "term": "Heavy chain deposition disease, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Heavy chain diseases are systemic plasma-cell/lymphoplasmacytic processes; per SEER, gamma (Franklin) HCD is disseminated across lymph nodes, Waldeyer ring, marrow, liver and spleen, while alpha HCD is centered on the GI tract/small intestine (sites not in this code's ceiling). Within the code's bone-marrow-plus-nodal ceiling, no literature restricts the term to a demonstrable proper subset, so it is not site-specific.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf59e3e27c3994bd5486/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Heavy chain diseases entry)"
+ },
+ {
+  "code": "9762/3",
+  "term": "Heavy chain disease, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Heavy chain diseases are systemic plasma-cell/lymphoplasmacytic processes; per SEER, gamma (Franklin) HCD is disseminated across lymph nodes, Waldeyer ring, marrow, liver and spleen, while alpha HCD is centered on the GI tract/small intestine (sites not in this code's ceiling). Within the code's bone-marrow-plus-nodal ceiling, no literature restricts the term to a demonstrable proper subset, so it is not site-specific.",
+  "source": "https://seer.cancer.gov/seertools/hemelymph/51f6cf59e3e27c3994bd5486/",
+  "source_name": "SEER Hematopoietic ICD-O-3 database (Heavy chain diseases entry)"
+ }
+]

@@ -1,0 +1,476 @@
+[
+ {
+  "code": "8030/3",
+  "term": "Giant cell and spindle cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Giant cell and spindle cell (sarcomatoid/pleomorphic) carcinoma is a generic dedifferentiated morphology reported across many organs (lung, pancreas, biliary, urinary tract, thyroid, breast); it is not anatomically restricted to a proper subset of its broad ceiling.",
+  "source": "https://journals.sagepub.com/doi/10.3233/BLC-220106",
+  "source_name": "WHO 5th ed bladder classification review (Guo et al 2022, Bladder Cancer journal)"
+ },
+ {
+  "code": "8120/2",
+  "term": "Transitional cell carcinoma in situ",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8120/2",
+  "term": "Urothelial carcinoma in situ",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8120/3",
+  "term": "Clear cell (glycogen-rich) urothelial carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8120/3",
+  "term": "Conventional urothelial carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8120/3",
+  "term": "Diverticular carcinoma",
+  "site_specific": "Yes",
+  "site_subset_codes": [
+   "C670",
+   "C671",
+   "C672",
+   "C673",
+   "C674",
+   "C675",
+   "C676",
+   "C677",
+   "C678",
+   "C679",
+   "C680"
+  ],
+  "site_subset_labels": [
+   "Bladder",
+   "Bladder",
+   "Bladder",
+   "Bladder",
+   "Bladder",
+   "Bladder",
+   "Bladder",
+   "Bladder",
+   "Bladder",
+   "Bladder",
+   "Urethra"
+  ],
+  "rationale": "Diverticular carcinoma arises within diverticula, which in the urinary tract occur as bladder diverticula and urethral diverticula; WHO 5th ed treats diverticular tumors as a separate site-specific entity. It does not arise in renal pelvis, ureter, or the female genital sites also in the code ceiling.",
+  "source": "https://pdfs.semanticscholar.org/5a07/ba58687288b3d581a784c392141a6fb596f8.pdf",
+  "source_name": "WHO 2022 bladder tumor classification news (diverticular tumors in specific section)"
+ },
+ {
+  "code": "8120/3",
+  "term": "Invasive urothelial carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8120/3",
+  "term": "Large nested urothelial carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8120/3",
+  "term": "Lipid-rich urothelial carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8120/3",
+  "term": "Microcystic urothelial carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8120/3",
+  "term": "Nested urothelial carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8120/3",
+  "term": "Squamotransitional carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8120/3",
+  "term": "Squamotransitional cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8120/3",
+  "term": "Transitional carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8120/3",
+  "term": "Transitional cell carcinoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8120/3",
+  "term": "Tubular and microcystic urothelial carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8120/3",
+  "term": "Urothelial carcinoma with divergent differentiation",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8120/3",
+  "term": "Urothelial carcinoma with glandular differentiation",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8120/3",
+  "term": "Urothelial carcinoma with squamous differentiation",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8120/3",
+  "term": "Urothelial carcinoma with trophoblastic differentiation",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8120/3",
+  "term": "Urothelial carcinoma, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8120/3",
+  "term": "Urothelial carcinoma, clear cell (glycogen rich)",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8120/3",
+  "term": "Urothelial carcinoma, large nested",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8120/3",
+  "term": "Urothelial carcinoma, lipid-rich",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8120/3",
+  "term": "Urothelial carcinoma, nested, NOS",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8120/3",
+  "term": "Urothelial carcinoma, tubular and microcystic",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8122/3",
+  "term": "Plasmacytoid / signet-ring cell / diffuse sarcomatoid urothelial carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8122/3",
+  "term": "Plasmacytoid urothelial carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8122/3",
+  "term": "Transitional cell carcinoma, sarcomatoid",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8122/3",
+  "term": "Transitional cell carcinoma, spindle cell",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8122/3",
+  "term": "Urothelial carcinoma, plasmacytoid",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8122/3",
+  "term": "Urothelial carcinoma, sarcomatoid",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8122/3",
+  "term": "Urothelial carcinoma, spindle cell",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8130/2",
+  "term": "Low-grade papillary urothelial carcinoma with an inverted growth pattern",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8130/2",
+  "term": "Non-invasive high-grade papillary urothelial carcinoma with an inverted growth pattern",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8130/2",
+  "term": "Non-invasive papillary urothelial carcinoma with an inverted growth pattern, high-grade",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8130/2",
+  "term": "Non-invasive papillary urothelial carcinoma with an inverted growth pattern, low-grade",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8130/2",
+  "term": "Non-invasive papillary urothelial carcinoma, high-grade",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8130/2",
+  "term": "Non-invasive papillary urothelial carcinoma, low-grade",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8130/2",
+  "term": "Papillary transitional cell carcinoma, non-invasive",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8130/2",
+  "term": "Papillary urothelial carcinoma, non-invasive",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8130/3",
+  "term": "Papillary transitional cell carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8130/3",
+  "term": "Papillary urothelial carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8131/3",
+  "term": "Micropapillary urothelial carcinoma",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ },
+ {
+  "code": "8131/3",
+  "term": "Transitional cell carcinoma, micropapillary",
+  "site_specific": "No",
+  "site_subset_codes": [],
+  "site_subset_labels": [],
+  "rationale": "Urothelial/transitional carcinoma and its subtypes and differentiation patterns arise throughout the urothelium (renal pelvis, ureter, bladder, urethra); the full spectrum of bladder urothelial carcinoma variants also occurs in the upper tract, so this term is not restricted to a proper subset of its ceiling.",
+  "source": "https://documents.cap.org/protocols/cp-ureter-renalpelvis-17protocol-2100.pdf",
+  "source_name": "CAP Cancer Protocol Ureter/Renal Pelvis (states full spectrum of urothelial carcinoma variants found in bladder also occur in upper tract)"
+ }
+]

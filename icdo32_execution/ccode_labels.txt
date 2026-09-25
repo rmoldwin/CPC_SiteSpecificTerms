@@ -1,0 +1,19 @@
+C221 liver
+C240 extrahepatic bile duct
+C248 overlapping biliary
+C249 biliary tract NOS
+C250-C259 pancreas
+C340-C349 lung/bronchus
+C510-C519 vulva
+C529 vagina
+C530-C539 cervix uteri
+C569 ovary
+C600-C609 penis
+C619 prostate
+C632 scrotum
+C659 renal pelvis
+C669 ureter
+C670-C680 bladder / urethra (C670-C679 bladder, C680 urethra)
+C688-C689 other urinary organs
+C690-C699 eye/orbit (NO - wait, C69 is eye)
+C739 thyroid

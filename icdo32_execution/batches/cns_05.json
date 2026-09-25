@@ -1,0 +1,864 @@
+[
+ {
+  "code": "9384/1",
+  "term": "Giant cell astrocytoma of retina",
+  "ceiling_count": 6,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715"
+  ]
+ },
+ {
+  "code": "9384/1",
+  "term": "Retinal astrocytic hamartoma",
+  "ceiling_count": 6,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715"
+  ]
+ },
+ {
+  "code": "9384/1",
+  "term": "Subependymal giant cell astrocytoma",
+  "ceiling_count": 6,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715"
+  ]
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse hemispheric glioma, H3 G34-mutant",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse intrinsic pontine glioma, H3 K27M-mutant",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse intrinsic pontine glioma, NOS",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse midline glioma, EGFR-mutant",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse midline glioma, H3 K27-altered",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse midline glioma, H3 K27M-mutant",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse midline glioma, H3-wildtype with EZHIP overexpression",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse midline glioma, H3.1 or H3.2 K27\u2013mutant",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse midline glioma, H3.3 K27\u2013mutant",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse midline glioma, NOS",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse pediatric-type high-grade glioma MYCN",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse pediatric-type high-grade glioma RTK1",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse pediatric-type high-grade glioma RTK2",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9385/3",
+  "term": "Diffuse pediatric-type high-grade glioma, H3-wildtype and IDH-wildtype",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9385/3",
+  "term": "Infant-type hemispheric glioma",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9385/3",
+  "term": "Infant-type hemispheric glioma, ALK-altered",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9385/3",
+  "term": "Infant-type hemispheric glioma, MET-altered",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9385/3",
+  "term": "Infant-type hemispheric glioma, NTRK-altered",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9385/3",
+  "term": "Infant-type hemispheric glioma, ROS1-altered",
+  "ceiling_count": 12,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9390/0",
+  "term": "Choroid plexus papilloma, NOS",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C719"
+  ]
+ },
+ {
+  "code": "9390/1",
+  "term": "Atypical choroid plexus papilloma",
+  "ceiling_count": 9,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C719"
+  ]
+ },
+ {
+  "code": "9390/3",
+  "term": "Choroid plexus carcinoma",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C717",
+   "C719"
+  ]
+ },
+ {
+  "code": "9390/3",
+  "term": "Choroid plexus papilloma, anaplastic",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C717",
+   "C719"
+  ]
+ },
+ {
+  "code": "9390/3",
+  "term": "Choroid plexus papilloma, malignant",
+  "ceiling_count": 8,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C717",
+   "C719"
+  ]
+ },
+ {
+  "code": "9391/3",
+  "term": "Cellular ependymoma",
+  "ceiling_count": 18,
+  "ceiling_codes": [
+   "C569",
+   "C571",
+   "C572",
+   "C573",
+   "C574",
+   "C577",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C719",
+   "C720",
+   "C721",
+   "C729"
+  ]
+ },
+ {
+  "code": "9391/3",
+  "term": "Clear cell ependymoma",
+  "ceiling_count": 18,
+  "ceiling_codes": [
+   "C569",
+   "C571",
+   "C572",
+   "C573",
+   "C574",
+   "C577",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C719",
+   "C720",
+   "C721",
+   "C729"
+  ]
+ },
+ {
+  "code": "9391/3",
+  "term": "Ependymoma, NOS",
+  "ceiling_count": 18,
+  "ceiling_codes": [
+   "C569",
+   "C571",
+   "C572",
+   "C573",
+   "C574",
+   "C577",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C719",
+   "C720",
+   "C721",
+   "C729"
+  ]
+ },
+ {
+  "code": "9391/3",
+  "term": "Ependymoma, posterior fossa",
+  "ceiling_count": 18,
+  "ceiling_codes": [
+   "C569",
+   "C571",
+   "C572",
+   "C573",
+   "C574",
+   "C577",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C719",
+   "C720",
+   "C721",
+   "C729"
+  ]
+ },
+ {
+  "code": "9391/3",
+  "term": "Ependymoma, spinal",
+  "ceiling_count": 18,
+  "ceiling_codes": [
+   "C569",
+   "C571",
+   "C572",
+   "C573",
+   "C574",
+   "C577",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C719",
+   "C720",
+   "C721",
+   "C729"
+  ]
+ },
+ {
+  "code": "9391/3",
+  "term": "Ependymoma, supratentorial",
+  "ceiling_count": 18,
+  "ceiling_codes": [
+   "C569",
+   "C571",
+   "C572",
+   "C573",
+   "C574",
+   "C577",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C719",
+   "C720",
+   "C721",
+   "C729"
+  ]
+ },
+ {
+  "code": "9391/3",
+  "term": "Epithelial ependymoma",
+  "ceiling_count": 18,
+  "ceiling_codes": [
+   "C569",
+   "C571",
+   "C572",
+   "C573",
+   "C574",
+   "C577",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C719",
+   "C720",
+   "C721",
+   "C729"
+  ]
+ },
+ {
+  "code": "9391/3",
+  "term": "Posterior fossa ependymoma, NOS",
+  "ceiling_count": 18,
+  "ceiling_codes": [
+   "C569",
+   "C571",
+   "C572",
+   "C573",
+   "C574",
+   "C577",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C719",
+   "C720",
+   "C721",
+   "C729"
+  ]
+ },
+ {
+  "code": "9391/3",
+  "term": "Sellar ependymoma",
+  "ceiling_count": 18,
+  "ceiling_codes": [
+   "C569",
+   "C571",
+   "C572",
+   "C573",
+   "C574",
+   "C577",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C719",
+   "C720",
+   "C721",
+   "C729"
+  ]
+ },
+ {
+  "code": "9391/3",
+  "term": "Spinal ependymoma, NOS",
+  "ceiling_count": 18,
+  "ceiling_codes": [
+   "C569",
+   "C571",
+   "C572",
+   "C573",
+   "C574",
+   "C577",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C719",
+   "C720",
+   "C721",
+   "C729"
+  ]
+ },
+ {
+  "code": "9391/3",
+  "term": "Supratentorial ependymoma, NOS",
+  "ceiling_count": 18,
+  "ceiling_codes": [
+   "C569",
+   "C571",
+   "C572",
+   "C573",
+   "C574",
+   "C577",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C719",
+   "C720",
+   "C721",
+   "C729"
+  ]
+ },
+ {
+  "code": "9391/3",
+  "term": "Tanycytic ependymoma",
+  "ceiling_count": 18,
+  "ceiling_codes": [
+   "C569",
+   "C571",
+   "C572",
+   "C573",
+   "C574",
+   "C577",
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C716",
+   "C717",
+   "C719",
+   "C720",
+   "C721",
+   "C729"
+  ]
+ },
+ {
+  "code": "9392/3",
+  "term": "Ependymoblastoma",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9392/3",
+  "term": "Ependymoma, anaplastic",
+  "ceiling_count": 11,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715",
+   "C717",
+   "C718",
+   "C719",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9393/3",
+  "term": "Papillary ependymoma",
+  "ceiling_count": 4,
+  "ceiling_codes": [
+   "C715",
+   "C717",
+   "C720",
+   "C721"
+  ]
+ },
+ {
+  "code": "9394/1",
+  "term": "Myxopapillary ependymoma",
+  "ceiling_count": 5,
+  "ceiling_codes": [
+   "C717",
+   "C719",
+   "C720",
+   "C721",
+   "C729"
+  ]
+ },
+ {
+  "code": "9396/3",
+  "term": "Ependymoma, RELA fusion positive",
+  "ceiling_count": 6,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715"
+  ]
+ },
+ {
+  "code": "9396/3",
+  "term": "Posterior fossa group A (PFA) ependymoma",
+  "ceiling_count": 6,
+  "ceiling_codes": [
+   "C710",
+   "C711",
+   "C712",
+   "C713",
+   "C714",
+   "C715"
+  ]
+ }
+]

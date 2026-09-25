@@ -1,0 +1,8 @@
+{
+  "smvl_file": "smvl.csv",
+  "status_col": "CPC2026A",
+  "rule": "status==1 (Valid) only; Unlikely(2)+Impossible(3) excluded",
+  "n_codes_with_valid_sites": 816,
+  "n_multi_site_codes": 686,
+  "n_single_site_codes": 130
+}
